@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"> <!-- Ciotti also uses a xml:id="DTH01" -->
+    <teiHeader>
+        <fileDesc> 
+            <titleStmt>
+                <title>Manhattan Transfer</title>
+                <author>John Roderigo Dos Passos</author>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name>Alessandra Failla</name> <!-- non so se due editors si possono scrivere così o dobbiamo creare una lista -->
+                    <name>Laura Travaglini</name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <measure unit="words">?</measure>
+                <!-- size of the text, in pages and words -->
+            </extent>
+            <publicationStmt>
+                <publisher>DHDK Course "Digital Text in the Humanities</publisher>
+                <distributor>DHDK Course "Digital Text in the Humanities</distributor>
+                <date>2022</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <!-- standard text about status as part of ELTeC -->
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="printSource"> <!-- change? -->
+                    <author>John Roderigo Dos Passos</author>
+                    <title>Manhattan Transfer</title>
+                    <date>1925</date>
+                    <publisher>Harper & Brothers Publishers</publisher>
+                    <!-- bibliographic description of the printed source -->
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc n="eltec-1">
+            <p><p/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+
+            <textClass>
+                <keywords>
+                    <term>Modernist English Narrative</term>
+                    <term>Jazz Era</term>
+                </keywords>
+
+            </textClass>
+            <textDesc>
+                <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+                <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+                <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+            </textDesc>
+            <!-- additional descriptive information, selection criteria, etc. -->
+        </profileDesc>
+        <revisionDesc>
+            <!-- revision information -->
+            <change when="2022-02-05">Initial TEI/XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                 <titlePart>Manhattan Transfer</titlePart>
+                </docTitle>
+                <docAuthor>John Roderigo Dos Passos</docAuthor>
+                1925   <!-- ??? -->
+            </titlePage>
+
+
+
+
+Manhattan Transfer
+
+
+
+            <div type="authorSWorks"> <!-- nome type provvisorio --> 
+                <head>By John Dos Passos</head>
+                <list>
+                    <item>One Man's Initiation</item>
+                    <item>Three Soldiers</item>
+                    <item>Rosinante to the Road Again</item>
+                    <item>A Pushcart at the Curb</item>
+                    <item>Manhattan Transfer</item>
+                    <item>Streets of Night</item>
+                </list>
+            </div>
+
+
+
+* * *
+
+
+
+
+
+Manhattan Transfer
+
+
+
+By
+
+John Dos Passos
+
+
+
+
+
+* * *
+
+
+
+Harper & Brothers Publishers
+
+New York and London
+
+
+
+
+
+* * *
+
+
+
+
+
+MANHATTAN TRANSFER
+
+COPYRIGHT, 1925, BY JOHN DOS PASSOS
+
+PRINTED IN THE U. S. A.
+
+TENTH PRINTING
+
+C-G
+
+            <div type="contents">
+                <head>Contents</head>
+                <head>First Section</head> <!-- non sono certa di questo doppio head -->
+                <list>
+                    <item>I Ferryslip ⁠3</item>
+                    <item>II Metropolis⁠ 12</item>
+                    <item>III Dollars⁠ 49</item>
+                    <item>IV Tracks ⁠78</item>
+                    <item>V Streamroller⁠ 112</item>
+                </list>
+                <head>Second Section</head>
+                <list>
+                    <item>I Great Lady on a White Horse ⁠129</item>
+                    <item>II Longlegged Jack of the Isthmus ⁠144</item>
+                    <item>III Nine Days' Wonder ⁠169</item>
+                    <item>IV Fire Engine ⁠202</item>
+                    <item>V Went to the Animals' Fair⁠ 217</item>
+                    <item>VI Five Statutory Questions ⁠237</item>
+                    <item>VII Rollercoaster⁠ 249</item>
+                    <item>VIII One More River to Jordan ⁠255</item>
+                </list>
+                <head>Third Section</head>
+                <list>
+                    <item>I Rejoicing City That Dwelt Carelessly ⁠271</item>
+                    <item>II Nickelodeon ⁠291</item>
+                    <item>III Revolving Doors ⁠305</item>
+                    <item>IV Skyscraper ⁠351</item>
+                    <item>V The Burthen of Nineveh⁠ 371</item>
+                </list>
+            
+            </div>
+            
+        </front>
+
+        <group> <!-- First Section-->
+        <text>
+        <body>
+            <div type="chapter">
+                <p><p/>
+            </div>
+        </body>
+        </text>
+        </group>
+
+        <group> <!-- Second Section-->
+        <text>
+        <body>
+            <div type="chapter">
+                <p><p/>
+                </div>
+        </body>
+        </text>
+        </group>
+
+        <group> <!-- Third Section-->
+            <text>
+            <body>
+                <div type="chapter">
+                    <p><p/>
+                    </div>
+            </body>
+            </text>
+            </group>
+      
+    </text>
+</TEI>
