@@ -120,11 +120,28 @@ John Dos Passos
 
 
 
-Harper & Brothers Publishers
+<docImprint>
+ <publisher>
+    <name>Harper & Brothers Publishers</name>
+  </publisher>
+  <pubPlace>
+    <name>New York and London</name> <!-- dividere? -->
+  </pubPlace>
+</docImprint>
 
-New York and London
 
-
+<titlePage>
+    <docTitle>
+  <titlePart type=‘main’> Lives of the Queens of England, from the Norman Conquest; </titlePart>
+   </docTitle>
+     <docEdition>New edition, with corrections and
+     additions</docEdition>
+     <byline>By
+       <docAuthor>Agnes Strickland</docAuthor>
+     </byline>
+    <docImprint>Philadelphia: Blanchard and Lea</docImprint>
+    <docDate>1860.</docDate>
+  </titlePage>
 
 
 
@@ -175,8 +192,21 @@ C-G
                 </list>
             
             </div>
+
+            This work is in the public domain in the United States because it was published before January 1, 1927.
+
+
+
+            * * *
+            
+            
+            
+            The author died in 1970, so this work is also in the public domain in countries and areas where the copyright term is the author's life plus 50 years or less. This work may also be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+                        
             
         </front>
+
+    <!-- "real" text -->
 
         <group> <!-- First Section-->
         <text>
