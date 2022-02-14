@@ -1,0 +1,66 @@
+PEOPLE
+
+    JIMMY HERF
+    <persName>
+        <forename>Jimmy</forename>
+        <surname>Herf</surname>
+    <persName>
+
+    <persName>
+        <addName type="nickname">Herfy</addName>
+    <persName>
+
+
+    CAPTAIN JAMES MERIVALE
+    <persName>
+        <roleName>Captain<roleName>
+        <forename>James</forename>
+        <surname>Merivale</surname>
+    <persName>
+
+    ELLEN
+    <persName>
+        <forename type="given">Ellen</forename>
+        <surname type="birth">Thatcher</surname>
+?       <surname type="married">Oglethorpe</surname>
+?       <surname type="married">Herf</surname>
+    </persName>
+
+
+    + key or ref?
+
+PLACES
+
+    place/placeName
+    address
+
+OBJECTS
+
+DATES
+
+    date/time
+
+NUMBERS & MEASURES
+
+    <num>
+    <measure>
+
+LANGUAGE
+
+    foreign
+    informal english: <orig>/<reg> to encode variant forms of non-standard spelling + regular version 
+        <p xmlns="http://www.tei-c.org/ns/1.0">It was titled 'While <orig>thou</orig> <orig>art</orig> here', by Sir Edmund Peckwood.</p>
+
+        <p xmlns="http://www.tei-c.org/ns/1.0">It was titled 'While <reg>you</reg> <reg>are</reg> here', by Sir Edmund Peckwood.</p>
+
+    speech: possibility: <q type="spoken">; also: <q type="spoken" who="JH1"> (e.g. key JH1 = Jimmy Herf)
+    abbreviations: <abbr> (e.g. <abbr type="title">Dr</abbr>, <abbr>Mr.</abbr>, <abbr>Mrs.</abbr>, also type="acronym")
+    expansion: <abbr type="title">Dr</abbr>
+               <expan>Doctor</expan>
+
+MORE
+
+    Floating text
+
+
+
