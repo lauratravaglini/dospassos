@@ -1,0 +1,205 @@
+Jimmy Herf:
+    Jimmy Herf Jim Herf James Herf Jim Jimmy Jimmee Jimps Mr. Herf Herfy Herf - NOT: Jiminy
+
+    REGEX
+    Jim(my|ps|mee)?(?!iny)(\sHerf)?|(James\s)?(Mr\.\s)?(?<!Mrs\.\s|Lily\s|Josiah\s|Georgiah\s)Herfy?|(Mr\.|Meester|monsieur)?'Erf
+
+Ellen Thatcher
+    Helena Oglethorpe Elaine Oglethorpe Elaine Thatcher Helena Herf Mrs. Oglethorpe Mrs. Herf (NOT: line 1719) Miss Oglethorpe Mrs. Oglethorpe Ellen Ellie Elaine Helena Helenah
+
+    REGEX
+    (?<!\w)(He|El)+(len|lie|aine|ah|a)+(?!\w)(\sOglethorpe|\sHerf|\sThatcher)?|(Mrs\.|Miss)+(\sOglethorpe|\sHerf)
+    
+    --> First two results "Mrs. Thatcher"=Susie Thatcher
+
+Martin Herf (son of Ellen & Jimmy)
+    REGEX
+    Martin2
+
+Martin Emery
+    REGEX
+    Martin1
+
+Martin Schiff
+    REGEX
+    Martin3
+
+Stanwood Emery
+    Stanwood, Stan, Stanwood Emery, Stan Emery, Mr. Emery, Emery (NOT Emery & Emery or Emery and Emery)
+    
+    REGEX
+    (Stan(wood)?)+(?!\w)(\sEmery)?|(Mr\.\s)?(?<!&\s)Emery(?!\s&)
+
+Ed Thatcher
+    Ed Thatcher ("Ed", "Ed Thatcher", "Mr. Thatcher", "Edward C. Thatcher", "Thatcher") --> NOT: "ed" appears in "splashing red lead on the girder ed thighs of the five bridge"
+    REGEX
+    Ed(ward\sC.)?(?!\w)(\sThatcher)?|(Mr\.\s)?(?<!Susie\s|Elaine\s|Mrs\.\s)Thatcher
+
+Susie Thatcher
+    "Susie Thatcher", "Susie", "Mrs. Thatcher"
+    REGEX
+    Susie(\sThatcher)?|Mrs\.(\sThatcher)
+
+George Baldwin
+    "George", "George Baldwin", "Mr. Baldwin"
+    REGEX
+    George(\sBaldwin)?|(Mr\.)?(\sBaldwin)+
+
+Gus McNeil
+    "Gus McNiel", "Gus", "Mr. McNiel", "Augustus McNiel", "August", "Auguste"
+    REGEX
+    (Gus|August(e|us)?)(\sMcNiel)?|(Mr\.\s)?(?<!Nellie\s)McNiel
+
+Nellie McNeil
+    "Nellie McNiel", "Mrs. McNiel", "Nellie Linihan McNiel"
+    REGEX
+    Nellie(\sLinihan)?(\sMcNiel)?|(Mrs\.\s)McNiel
+
+Phil Sandbourne
+    "Phil", "Phil Sandbourne", "Sandbourne", "Mr. Sandbourne"
+    REGEX
+    Phil(?!\w)(\sSandbourne)?|(Mr\.\s)?Sandbourne
+
+Joe Harland
+    "Joe Harland", "Harland", "Mr./Meester Harland", "Joseph Harland", "Joe", "Joe [*Harland*]
+    REGEX
+    (Joe|Joseph)(?!\w)(\sHarland)?(#Harland#)?|(Mr\.\s|Meester\s)?Harland
+
+Jeff Merivale
+    "Jeff", "Jefferson T. Merivale"
+    REGEX
+    Jeff(erson)?(\sT\.)?(\sMerivale)?
+
+Emily Merivale
+    Emily Merivale, Emily, Mrs. Merivale
+    REGEX
+    (Aunt\s)?Emily
+
+Maisie Merivale
+    REGEX
+    Maisie(\sMerivale)?|(Mrs\.)?Merivale
+
+James Merivale
+    REGEX
+    James(\sMerivale)?(?!\sHerf)|(Mr\.\s)?(?<!Maisie\s|#Emily#\s|Mrs\.\s|T\.\s)Merivale
+
+Jack Cunningham
+    "Jack Cunningham", "Jack", "Mr. Cunningham", "Cunningham", NOT:Jack Hinkley/Jack Rose(s)/whole lot of jack/enough jack can git/Takes jack to go)
+    REGEX
+    Jack(?!\w)(\sCunningham)?|(Mr\.\s)?(?!Mrs\.\s)Cunningham
+
+Joe O'Keefe
+    REGEX
+    Joe(?!\w)(\sO'Keefe|#O'Keefe#)+|(Mr\.\s)?O'Keefe
+
+Dutch Robertson
+    "Dutch Robertson", "Dutch", "Robertson", "NOT: Dutch girl/Dutch Cleanser"
+    REGEX  
+    Dutch(?!\w)(\sRobertson)?|(?<!Forbes\s)Robertson
+
+Francie
+    REGEX
+    Francie
+
+Anna Cohen
+    REGEX
+    Anna(\sCohen)?|Ann-ee|Annie|(Mrs\.\s)Cohen
+    
+Elmer
+    REGEX
+    Elmer
+    
+Cecily
+    REGEX
+    Cecily(\sMrs\. Baldwin)
+
+Ruth Prynne
+    REGEX
+    Ruth(\sPrynne)?|(Miss\s)?Prynne
+
+Cassandra Wilkins
+    "Cassandra Wilkins", "Cassandra", "Cassahndrah", "Cassah-ndrah", "Cassie"
+    REGEX
+    Cass\w(\sWilkins)?
+
+Phineas Blackhead
+    "Phineas Blackhead", "Phineas P. Blackhead", "Blackhead"
+    REGEX
+    Phineas(\sP\.)?(\sBlackhead)?|Blackhead
+
+Densch Mr
+    REGEX
+    (Mrs\.\s)?(?<!Mr\.\s)Densch
+
+Densch Mrs
+    REGEX
+    Mrs\.\sDensch
+
+Bud Korpenning
+    REGEX
+    Bud(\sKorpenning)?
+
+Gladys
+    REGEX
+    Gladys
+
+Emile
+    REGEX
+    Emile
+
+Congo Jake
+    REGEX
+    Congo(\sJake)?
+
+Nevada Jones
+    "Nevada Jones", "Nevada", "Miss Nevada"
+    REGEX
+    Nevada(\sJones)?|Miss\sJones
+
+Tony Hunter
+    REGEX
+    Tony(\sHunter)?|Hunter
+
+Rigaud Madame
+    REGEX
+    (Emile\s)?Rigaud
+
+Pearline
+    REGEX
+    Pearline
+
+John Oglethorpe
+    REGEX
+    John(ny)?(?!\w|\sB\.)(\sOglethorpe)?
+
+Harry Goldweiser
+    REGEX
+    Harry(\sGoldweiser)?|(Mr\.\s)?Goldweiser
+
+Rachel Goldweiser
+    REGEX
+    Miss\sGoldweiser|Rachel
+
+Lily Herf
+    REGEX
+    Lily(\sHerf)?
+
+Florence
+    REGEX
+    Florence
+
+Frances Hildebrand
+    REGEX
+    Frances(\sHildebrand)?
+
+Bob Hildebrand
+    REGEX
+    (Bob\s)?(?<!Frances\s)Hildebrand
+
+Jake Silverman
+    REGEX
+    (?<!Congo\s)Jake(\sSilverman)?
+
+Rosie Silverman
+    REGEX
+    Rosie
