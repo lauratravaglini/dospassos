@@ -80,7 +80,9 @@
 
 
 
-Manhattan Transfer
+            <div type="gen">
+                <title>Manhattan Transfer<title>
+            </div>
 
 
 
@@ -96,70 +98,68 @@ Manhattan Transfer
                 </list>
             </div>
 
+            <figure xml:id="fig1">
+                <graphic url=""/>
+            </figure>
+
+            * * *
 
 
-* * *
+            <titlePage>
+                <docTitle>
+                    <titlePart>Manhattan Transfer</titlePart>
+                </docTitle>
+                <byline>By <docAuthor>John Dos Passos</docAuthor></byline>
+                <date when="1925">1925</date>
 
+                <figure xml:id="fig2">
+                    <graphic url=""/>
+                </figure>
 
-
-
-
-Manhattan Transfer
-
-
-
-By
-
-John Dos Passos
-
-
-
-
-
-* * *
-
-
-
-<docImprint>
- <publisher>
-    <name>Harper & Brothers Publishers</name>
-  </publisher>
-  <pubPlace>
-    <name>New York and London</name> <!-- dividere? -->
-  </pubPlace>
-</docImprint>
-
-
-<titlePage>
-    <docTitle>
-  <titlePart type=‘main’> Lives of the Queens of England, from the Norman Conquest; </titlePart>
-   </docTitle>
-     <docEdition>New edition, with corrections and
-     additions</docEdition>
-     <byline>By
-       <docAuthor>Agnes Strickland</docAuthor>
-     </byline>
-    <docImprint>Philadelphia: Blanchard and Lea</docImprint>
-    <docDate>1860.</docDate>
-  </titlePage>
+            * * *
 
 
 
-* * *
+                <docImprint>
+                    <publisher>
+                        <name>Harper & Brothers Publishers</name>
+                    </publisher>
+                    <pubPlace>
+                        <p><placeName>New York</placeName>
+                        and 
+                        <placeName>London</placeName></p>
+                    </pubPlace>
+                </docImprint>
+            </titlePage>
+
+            * * *
 
 
 
 
 
-MANHATTAN TRANSFER
+<biblStruct>
+    <editionStmt>
+        <title>MANHATTAN TRANSFER</title>
+        <availability>COPYRIGHT, <date when="1925">1925</date>, 
+        <byline>BY 
+            <author xml:id="JohnDosPassos">
+                <persName>
+                    <forename>JOHN</forename>
+                    <surname>DOS PASSOS</surname>
+                </persName> 
+            </author>
+        </byline>
+        </availability>
+        <imprint>
+            <p>PRINTED IN THE <pubPlace key="USA">U. S. A.</pubPlace></p>
 
-COPYRIGHT, 1925, BY JOHN DOS PASSOS
+            <p><edition>TENTH PRINTING</edition></p>
+            <p>C-G</p>
+        </imprint>
+    </editionStmt>
+</biblStruct>
 
-PRINTED IN THE U. S. A.
-
-TENTH PRINTING
-
-C-G
 
             <div type="contents">
                 <head>Contents</head>
@@ -192,16 +192,22 @@ C-G
                 </list>
             
             </div>
-
-            This work is in the public domain in the United States because it was published before January 1, 1927.
+            <availability status="free">
+                <p>This work is in the public domain in the 
+                <place>
+                    <country key="USA">United States</country>
+                </place>
+                because it was published before <date when="1927-01-01">January 1, 1927</date>.<p>
+            </availability>
 
 
 
             * * *
             
             
-            
-            The author died in 1970, so this work is also in the public domain in countries and areas where the copyright term is the author's life plus 50 years or less. This work may also be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works. <!-- parte del front o del text? -->
+            <availability status="free">
+                <p>The author died in <date when="1970">1970</date>, so this work is also in the public domain in countries and areas where the copyright term is the author's life plus 50 years or less. This work may also be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.</p>
+            </availability
                         
             
         </front>
@@ -212,11 +218,12 @@ C-G
         <text>
         <body>
             
-            <div n="1" type="part">
+            <div n="1" type="section">
                 <head>First Section</head> <!-- Ale -->
 
 
                 <div n="1" type="chapter">
+                    <ptr target="#Chapter1"/>
                     <head>I. Ferryslip</head> 
 
                     <p>Three gulls wheel above the broken boxes, orangerinds, spoiled cabbage heads that heave between the splintered plank walls, the green waves spume under the round bow as the ferry, skidding on the tide, crashes, gulps the broken water, slides, settles slowly into the slip. Handwinches whirl with jingle of chains. Gates fold upwards, feet step out across the crack, men and women press through the manuresmelling wooden tunnel of the ferry-house, crushed and jostling like apples fed down a chute into a press.</p>
@@ -273,7 +280,7 @@ C-G
 
                     <p>"But please, miss, is everything all right?"</p>
 
-                    <p>"The nurse on the floor will know anything about the case. Stairs to the left, third floor, maternity ward."</p>
+                    <p><said who="" aloud="true" direct="true">"The nurse on the floor will know anything about the case. Stairs to the left, third floor, maternity ward."</said></p>
 
                     <p>Ed Thatcher held a bunch of flowers wrapped in green waxed paper. The broad stairs swayed as he stumbled up, his toes kicking against the brass rods that held the fiber matting down. The closing of a door cut off a strangled shriek. He stopped a nurse.</p>
 
@@ -6358,7 +6365,7 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
         <group> <!-- Third Section-->
         <text>
         <body>
-            <div n="3" type="part">
+            <div n="3" type="section">
                 <head>Third Section<head>
 
 
