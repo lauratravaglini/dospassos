@@ -6687,7 +6687,12 @@
                     <p>The old man with the hempen beard who sleeps where nobody knows sits in the midst of it like Jonah under his gourd.</p>
                     
 
-                    <p>JIMMY HERF walked up four creaky flights and knocked at a white door fingermarked above the knob where the name Sunderland appeared in old English characters on a card neatly held in place by brass thumbtacks. He waited a long while beside a milkbottle, two creambottles, and a copy of the Sunday Times. There was a rustle behind the door and the creak of a step, then no more sound. He pushed a white button in the doorjamb.</p>
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>JIMMY</forename>
+                            <surname>HERF</surname>
+                        </persName>
+                    </person> walked up four creaky flights and knocked at a white door fingermarked above the knob where the name Sunderland appeared in old English characters on a card neatly held in place by brass thumbtacks. He waited a long while beside a milkbottle, two creambottles, and a copy of the Sunday Times. There was a rustle behind the door and the creak of a step, then no more sound. He pushed a white button in the doorjamb.</p>
                     
                     <p>"An he said, Margie I've got a crush on you so bad, an she said. Come in outa the rain, you're all wet. . . ." Voices coming down the stairs, a man's feet in button shoes, a girl's feet in sandals, pink silk legs; the girl in a fluffy dress and a Spring Maid hat; the young man had white edging on his vest and a green, blue, and purple striped necktie.</p>
                     
@@ -6697,7 +6702,12 @@
                     
                     <p>The voices trailed out down the stairs.</p>
                     
-                    <p>Jimmy Herf gave the bell another jab.</p>
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                            <surname>Herf</surname>
+                        </persName>
+                    </person> gave the bell another jab.</p>
 
                     <p>"Who is it?" came a lisping female voice through a crack in the door.</p>
 
@@ -6715,19 +6725,33 @@
 
                     <p>The bathroom door opened; a stream of sunlight reflected out of a pierglass cut the murky hall in half, out of it came a head of hair like copper wire, bluedark eyes in a brittlewhite eggshaped face. Then the hair was brown down the hall above a slim back in a tangerine-colored slip, nonchalant pink heels standing up out of the bathslippers at every step.</p>
 
-                    <p>"Ou-ou, Jimmee. . ." Ruth was yodling at him from behind her door. "But you mustn't look at me or at my room." A head in curlpapers stuck out like a turtle's.</p>
+                    <p>"Ou-ou, <person key="JimmyHerf">
+                                <persName>
+                                    <forename>Jimmee</forename>
+                                </persName>
+                                </person>. . ." Ruth was yodling at him from behind her door. "But you mustn't look at me or at my room." A head in curlpapers stuck out like a turtle's.</p>
 
                     <p>"Hullo Ruth."</p>
 
 
 
-                    <p>"You can come in if you promise not to look. . . . I'm a sight and my room's a pigeon. . . . I've just got to do my hair. Then I'll be ready." The little gray room was stuffed with clothes and photographs of stage people. Jimmy stood with his back to the door, some sort of silky stuff that dangled from the hook tickling his ears.</p>
+                    <p>"You can come in if you promise not to look. . . . I'm a sight and my room's a pigeon. . . . I've just got to do my hair. Then I'll be ready." The little gray room was stuffed with clothes and photographs of stage people. 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> stood with his back to the door, some sort of silky stuff that dangled from the hook tickling his ears.</p>
 
                     <p>"Well how's the cub reporter?"</p>
 
                     <p>"I'm on Hell's Kitchen. . . . It's swell. Got a job yet Ruth?"</p>
 
-                    <p>"Um-um. . . . A couple of things may materialize during the week. But they wont. Oh Jimmy I'm getting desperate." She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. "This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</p>
+                    <p>"Um-um. . . . A couple of things may materialize during the week. But they wont. Oh 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> I'm getting desperate." She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. "This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</p>
 
                     <p>"Poor old Ruth."</p>
 
@@ -6735,11 +6759,21 @@
 
                     <p>"That's a nice thing to do after all the trouble I took to make myself look respectable. . . . Darn your hide Ruth. And the smell of the carbona not off me yet."</p>
 
-                    <p>Ruth threw back her head with a shrieking laugh. "Oh you're so comical Jimmy. Try the whisk-broom."</p>
+                    <p>Ruth threw back her head with a shrieking laugh. "Oh you're so comical 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>. Try the whisk-broom."</p>
 
                     <p>Blushing he blew down his chin at his tie. "Who's the funnylooking girl opened the halldoor?"</p>
 
-                    <p>"Shush you can hear everything through the partition. . . . That's Cassie," she whispered giggling. "Cassah-ndrah Wilkins . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her." She let out a whoop of laughter. "You nut Jimmy," She got to her feet and punched him in the muscle of the arm. "You always make me act like I was crazy."</p>
+                    <p>"Shush you can hear everything through the partition. . . . That's Cassie," she whispered giggling. "Cassah-ndrah Wilkins . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her." She let out a whoop of laughter. "You nut 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>," She got to her feet and punched him in the muscle of the arm. "You always make me act like I was crazy."</p>
 
 
 
@@ -6749,7 +6783,11 @@
 
                     <p>"It's after one."</p>
 
-                    <p>"Oh Jimmy I dont know what to do about time. . . . Like this hat? . . . Oh I forgot to tell you. I went to see Al Harrison yesterday. It was simply dreadful. . . . If I hadnt got to the phone in time and threatened to call the police. . . ."</p>
+                    <p>"Oh <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> I dont know what to do about time. . . . Like this hat? . . . Oh I forgot to tell you. I went to see Al Harrison yesterday. It was simply dreadful. . . . If I hadnt got to the phone in time and threatened to call the police. . . ."</p>
 
                     <p>"Look at that funny woman opposite. She's got a face exactly like a llama."</p>
 
@@ -6757,13 +6795,27 @@
 
                     <p>"Why?"</p>
 
-                    <p>"Oh you're much too young to know. You'd be shocked Jimmy." Ruth was leaning close to the mirror running a stick of rouge between her lips.</p>
+                    <p>"Oh you're much too young to know. You'd be shocked 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>." Ruth was leaning close to the mirror running a stick of rouge between her lips.</p>
 
                     <p>"So many things shock me, I dont see that it matters much. . . . But come along let's get out of here. The sun's shining outside and people are coming out of church and going home to overeat and read at their Sunday papers among the rubberplants . . ."</p>
 
-                    <p>"Oh Jimmy you're a shriek . . . Just one minute. Look out you're hooked onto my best shimmy."</p>
+                    <p>"Oh <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> you're a shriek . . . Just one minute. Look out you're hooked onto my best shimmy."</p>
 
-                    <p>A girl with short black hair in a yellow jumper was folding the sheets off the cot in the hall. For a second under the ambercolored powder and the rouge Jimmy did not recognize the face he had seen through the crack in the door.</p>
+                    <p>A girl with short black hair in a yellow jumper was folding the sheets off the cot in the hall. For a second under the ambercolored powder and the rouge 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> did not recognize the face he had seen through the crack in the door.</p>
 
                     <p>"Hello Cassie, this is . . . Beg pardon, Miss Wilkins this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
 
@@ -6775,11 +6827,20 @@
 
 
 
-                    <p>The door across the hall opened and Jimmy found himself looking in the white face of a crookednosed man whose red hair rode in two unequal mounds on either side of a straight part. He wore a green satin bathrobe and red morocco slippers.</p>
+                    <p>The door across the hall opened and 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> found himself looking in the white face of a crookednosed man whose red hair rode in two unequal mounds on either side of a straight part. He wore a green satin bathrobe and red morocco slippers.</p>
 
                     <p>"What heow Cassahndrah?" he said in a careful Oxford drawl. "What prophecies today?"</p>
 
-                    <p>"Nothing except a wire from Mrs. Fitzsimmons Green. She wants me to go to see her at Scarsdale tomorrow to talk about the Gweenery Theater. . . . Excuse me this is Mr. Herf, Mr. Oglethorpe." The redhaired man raised one eyebrow and lowered the other and put a limp hand in Jimmy's.</p>
+                    <p>"Nothing except a wire from Mrs. Fitzsimmons Green. She wants me to go to see her at Scarsdale tomorrow to talk about the Gweenery Theater. . . . Excuse me this is Mr. Herf, Mr. Oglethorpe." The redhaired man raised one eyebrow and lowered the other and put a limp hand in <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>'s.</p>
 
                     <p>"Herf, Herf. . . . Let me see, it's not a Georgiah Herf? In Atlahnta there's an old family of Herfs. . . ."</p>
 
@@ -6801,11 +6862,26 @@
 
                     <p>"Yes my deah. . . ."</p>
 
-                    <p>Through the leaden drowse that cramped him the girl's voice set Jimmy tingling. He stood beside Cassie constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. Ruth came up behind them.</p>
+                    <p>Through the leaden drowse that cramped him the girl's voice set 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> tingling. He stood beside Cassie constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. Ruth came up behind them.</p>
 
-                    <p>"All right Jimmy I'm ready. . . . I wonder if I've forgotten anything."</p>
+                    <p>"All right 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> I'm ready. . . . I wonder if I've forgotten anything."</p>
 
-                    <p>"I dont care whether you have or not, I'm starving." Jimmy took hold of her shoulders and pushed her gently towards the door. "It's two o'clock."</p>
+                    <p>"I dont care whether you have or not, I'm starving." 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> took hold of her shoulders and pushed her gently towards the door. "It's two o'clock."</p>
 
                     <p>"Well goodby Cassie dear, I'll call you up at about six."</p>
 
@@ -6813,7 +6889,12 @@
 
                     <p>"Wow, Ruth that place gives me the infernal jimjams.'</p>
 
-                    <p>"Now Jimmy dont get peevish because you need food."</p>
+                    <p>"Now 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> dont get peevish because you need food."</p>
 
                     <p>"But tell me Ruth, what the hell is Mr. Oglethorpe? He beats anything I ever saw."</p>
 
@@ -6829,11 +6910,21 @@
 
                     <p>"Beauty and the beast."</p>
 
-                    <p>"You'd better look out if he sets his lamps on you Jimmy."</p>
+                    <p>"You'd better look out if he sets his lamps on you 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>."</p>
 
                     <p>"Why?"?</p>
 
-                    <p>"Strange fish, Jimmy, strange fish."</p>
+                    <p>"Strange fish, 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>, strange fish."</p>
 
                     <p>An Elevated train shattered the barred sunlight overhead. He could see Ruth's mouth forming words.</p>
 
@@ -6841,7 +6932,12 @@
 
 
 
-                    <p>"You nut Jimmy what's brunch?"</p>
+                    <p>"You nut 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> what's brunch?"</p>
 
                     <p>"You'll eat breakfast and I'll eat lunch."</p>
 
@@ -6857,9 +6953,18 @@
 
                     <p>"Oh yes I got a glimpse of her going into the bathroom—an old lady in a wadded dressing gown with a pink boudoir cap on."</p>
 
-                    <p>"Jimmy you shock me. . . . She keeps losing her false teeth," began Ruth; an L train drowned out the rest. The restaurant door closing behind them choked off the roar of wheels on rails.</p>
+                    <p>"<person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> you shock me. . . . She keeps losing her false teeth," began Ruth; an L train drowned out the rest. The restaurant door closing behind them choked off the roar of wheels on rails.</p>
 
-                    <p>An orchestra was playing When It's Appleblossom Time in Normandee. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious French Style Steamed Mussles (Recommended by the Department of Agriculture). They sat down under a redlettered placard Beefsteak Parties Upstairs and Ruth made a pass at him with a breadstick. "Jimmy do you think it'd be immoral to eat scallops for breakfast? But first I've got to have coffee coffee coffee . . ."</p>
+                    <p>An orchestra was playing When It's Appleblossom Time in Normandee. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious French Style Steamed Mussles (Recommended by the Department of Agriculture). They sat down under a redlettered placard Beefsteak Parties Upstairs and Ruth made a pass at him with a breadstick. "
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> do you think it'd be immoral to eat scallops for breakfast? But first I've got to have coffee coffee coffee . . ."</p>
 
                     <p>"I'm going to eat a small steak and onions."</p>
 
@@ -6871,7 +6976,12 @@
 
 
 
-                    <p>"What . . . on the Palisades?" Ruth's giggle broke into a whoop of laughter. Jimmy blushed crimson. "I never axed you maam, he say-ed."</p>
+                    <p>"What . . . on the Palisades?" Ruth's giggle broke into a whoop of laughter. 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> blushed crimson. "I never axed you maam, he say-ed."</p>
 
                     <p>Sunlight dripped in her face through the little holes in the brim of her straw hat. She was walking with brisk steps too short on account of her narrow skirt; through the thin china silk the sunlight tingled like a hand stroking her back. In the heavy heat streets, stores, people in Sunday clothes, strawhats, sunshades, surfacecars, taxis, broke and crinkled brightly about her grazing her with sharp cutting glints as if she were walking through piles of metalshavings. She was groping continually through a tangle of gritty sawedged brittle noise.</p>
 
@@ -7209,7 +7319,12 @@
 
                     <p>Once out on Broadway again she felt very merry. She stood in the middle of the street waiting for the uptown car. An occasional taxi whizzed by her. From the river on the warm wind came the long moan of a steamboat whistle. In the pit inside her thousands of gnomes were building tall brittle glittering towers. The car swooped ringing along the rails, stopped. As she climbed in she remembered swooningly the smell of Stan's body sweating in her arms. She let herself drop into a seat, biting her lips to keep from crying out. God it's terrible to be in love. Opposite two men with chinless bluefish faces were talking hilariously, slapping fat knees.</p>
 
-                    <p>"I'll tell yer Jim it's Irene Castle that makes the hit wid me. . . . To see her dance the onestep juss makes me hear angels hummin."</p>
+                    <p>"I'll tell yer 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jim</forename>
+                        </persName>
+                        </person>it's Irene Castle that makes the hit wid me. . . . To see her dance the onestep juss makes me hear angels hummin."</p>
 
                     <p>"Naw she's too skinny."</p>
 
@@ -7219,7 +7334,11 @@
 
                     <p>She was walking up the scaling white stairs. Before the door marked Sunderland a feeling of sick disgust suddenly choked her. She stood a long time her heart pounding with the key poised before the lock. Then with a jerk she pushed the key in the lock and opened the door.</p>
 
-                    <p>"Strange fish, Jimmy, strange fish." Herf and Ruth Prynne sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. "All the ham actors in the world seem to eat here."</p>
+                    <p>"Strange fish, <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>, strange fish." Herf and Ruth Prynne sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. "All the ham actors in the world seem to eat here."</p>
 
                     <p>"All the ham actors in the world live up at Mrs. Sunderland's."</p>
 
@@ -7227,7 +7346,12 @@
 
                     <p>"Balkans is right. . ."</p>
 
-                    <p>Beyond Ruth's black straw hat with red poppies round the crown Jimmy looked at the packed tables where faces decomposed into a graygreen blur. Two sallow hawkfaced waiters elbowed their way through the seesawing chatter of talk. Ruth was looking at him with dilated laughing eyes while she bit at a stalk of celery.</p>
+                    <p>Beyond Ruth's black straw hat with red poppies round the crown 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> looked at the packed tables where faces decomposed into a graygreen blur. Two sallow hawkfaced waiters elbowed their way through the seesawing chatter of talk. Ruth was looking at him with dilated laughing eyes while she bit at a stalk of celery.</p>
 
                     <p>"Whee I feel so drunk," she was spluttering. "It went straight to my head. . . . Isnt it terrible?"</p>
 
@@ -7237,15 +7361,38 @@
 
                     <p>"Who's he?"</p>
 
-                    <p>"Just a juvenile. . . . But Jimmy I must have told you about Tony Hunter. Peculiar poissons Jimmy, peculiar poissons."</p>
+                    <p>"Just a juvenile. . . . But <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> I must have told you about Tony Hunter. Peculiar poissons 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>, peculiar poissons."</p>
 
-                    <p>Jimmy felt himself blushing, he bent over his plate. "Oh is that's what's his trouble?" he said stiffly.</p>
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> felt himself blushing, he bent over his plate. "Oh is that's what's his trouble?" he said stiffly.</p>
 
-                    <p>"Now you're shocked, Jimmy; admit that you're shocked."</p>
+                    <p>"Now you're shocked, 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>; admit that you're shocked."</p>
 
                     <p>"No I'm not; go ahead, spill the dirt."</p>
 
-                    <p>"Oh Jimmy you're such a shriek. . . . Well Cassie was sobbing and the little dog was barking, and the invisible Costello was yelling Police and fainting into the arms of an unknown man in a dress suit. And Jojo was brandishing a revolver, a little nickel one, may have been a waterpistol for all I know. . . . The only person who looked in their right senses was Elaine Olgethorpe. . . . You know the titianhaired vision that so impressed your infant mind."</p>
+                    <p>"Oh 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> you're such a shriek. . . . Well Cassie was sobbing and the little dog was barking, and the invisible Costello was yelling Police and fainting into the arms of an unknown man in a dress suit. And Jojo was brandishing a revolver, a little nickel one, may have been a waterpistol for all I know. . . . The only person who looked in their right senses was Elaine Olgethorpe. . . . You know the titianhaired vision that so impressed your infant mind."</p>
 
                     <p>"Honestly Ruth my infant mind wasnt as impressed as all that."</p>
 
@@ -7263,7 +7410,16 @@
 
                     <p>"Ruth honestly I think you've got the whole thing sized up wrong."</p>
 
-                    <p>"Jimmy you're too innocent to live. But let me finish the tragic tale. . . . After those two had disappeared and locked the door behind them the most awful powwow you've ever imagined went on in the hall. Of course Cassie had been having hysterics all along just to add to the excitement. When I came back from getting her some sweet spirits of ammonia in the bathroom I found the court in session. It was a shriek. Miss Costello wanted the Oglethorpes thrown out at dawn and said she'd leave if they didn't and Mrs. Sunderland kept moaning that in thirty years of theatrical experience she'd never seen a scene like that, and the man in the dress suit who was Benjamin Arden . . . you know he played a character part in Honeysuckle Jim . . . said he thought people like Tony Hunter ought to be in jail. When I went to bed it was still going on. Do you wonder that I slept late after all that and kept you waiting, poor child, an hour in the Times Drug Store?"</p>
+                    <p>"<person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> you're too innocent to live. But let me finish the tragic tale. . . . After those two had disappeared and locked the door behind them the most awful powwow you've ever imagined went on in the hall. Of course Cassie had been having hysterics all along just to add to the excitement. When I came back from getting her some sweet spirits of ammonia in the bathroom I found the court in session. It was a shriek. Miss Costello wanted the Oglethorpes thrown out at dawn and said she'd leave if they didn't and Mrs. Sunderland kept moaning that in thirty years of theatrical experience she'd never seen a scene like that, and the man in the dress suit who was Benjamin Arden . . . you know he played a character part in Honeysuckle 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <forename>Jim</forename>
+                            </persName>
+                            </person>. . . said he thought people like Tony Hunter ought to be in jail. When I went to bed it was still going on. Do you wonder that I slept late after all that and kept you waiting, poor child, an hour in the Times Drug Store?"</p>
 
                     <p>Joe Harland stood in his hall bedroom with his hands in his pockets staring at the picture of The Stag at Bay that hung crooked in the middle of the verdegris wall that hemmed in the shaky iron bed. His clawcold fingers moved restlessly in the bottoms of his trousers pockets. He was talking aloud in a low even voice: "Oh, it's all luck you know, but that's the last time I try the Merivales. Emily'd have given it to me if it hadn't been for that damned old tightwad. Got a soft spot in her heart Emily has. But none of em seem to realize that these things aren't always a man's own fault. It's luck that's all it is, and Lord knows they used to eat out of my hand in the old days." His rising voice grated on his ears. He pressed his lips together. You're getting batty old man. He stepped back and forth in the narrow space between the bed and the wall. Three steps. Three steps. He went to the washstand and drank out of the pitcher. The water tasted of rank wood and sloppails. He spat the last mouthful back. I need a good tenderloin steak not water. He pounded his clenched fists together. I got to do something. I got to do something.</p>
 
@@ -7586,9 +7742,19 @@
 
                     <p>As they crossed Fifth Avenue Phil caught sight of a girl in a taxicab. From under the black brim of a little hat with a red cockade in it two gray eyes flash green black into his. He swallowed his breath. The traffic roars dwindled into distance. She shant take her eyes away. Two steps and open the door and sit beside her, beside her slenderness perched like a bird on the seat. Driver drive to beat hell. Her lips are pouting towards him, her eyes flutter gray caught birds. "Hay look out. . ." A pouncing iron rumble crashes down on him from behind. Fifth Avenue spins in red blue purple spirals. O Kerist. "That's all right, let me be. I'll get up myself in a minute." "Move along there. Git back there." Braying voices, blue pillars of policemen. His back, his legs are all warm gummy with blood. Fifth Avenue throbs with loudening pain. A little bell jingle-jangling nearer. As they lift hi minto the ambulance Fifth Avenue shrieks to throttling agony and bursts. He cranes his neck to see her, weakly, like a terrapin on its back; didnt my eyes snap steel traps on her? He finds himself whimpering. She might have stayed to see if I was killed. The jingle jangling bell dwindles fainter, fainter into the night.</p>
 
-                    <p>The burglaralarm across the street had rung on steadily. Jimmy's sleep had been strung on it in hard knobs like beads on a string. Knocking woke him. He sat up in bed with a lurch and found Stan Emery, his face gray with dust, his hands in the pockets of a red leather coat, standing at the foot of the bed. He was laughing swaying back and forth on the balls of his feet.</p>
+                    <p>The burglaralarm across the street had rung on steadily. 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>'s sleep had been strung on it in hard knobs like beads on a string. Knocking woke him. He sat up in bed with a lurch and found Stan Emery, his face gray with dust, his hands in the pockets of a red leather coat, standing at the foot of the bed. He was laughing swaying back and forth on the balls of his feet.</p>
 
-                    <p>"Gosh what time is it?" Jimmy sat up in bed digging his knuckles into his eyes. He yawned and looked about with bitter dislike, at the wallpaper the dead green of Poland Water bottles, at the split green shade that let in a long trickle of sunlight, at the marble fireplace blocked up by an enameled tin plate painted with scaly roses, at the frayed blue bathrobe on the foot of the bed, at the mashed cigarette-butts in the mauve glass ashtray.</p>
+                    <p>"Gosh what time is it?" 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> sat up in bed digging his knuckles into his eyes. He yawned and looked about with bitter dislike, at the wallpaper the dead green of Poland Water bottles, at the split green shade that let in a long trickle of sunlight, at the marble fireplace blocked up by an enameled tin plate painted with scaly roses, at the frayed blue bathrobe on the foot of the bed, at the mashed cigarette-butts in the mauve glass ashtray.</p>
 
                     <p>Stan's face was red and brown and laughing under the chalky mask of dust. "Eleven thirty," he was saying.</p>
 
@@ -7602,9 +7768,19 @@
 
                     <p>"What you need's a job on a newspaper to keep you busy Herfy."</p>
 
-                    <p>"What's going to happen to you Stan . . ." Jimmy twisted himself round so that he was sitting on the edge of the bed ". . . is that you're going to wake up one morning and find yourself on a marble slab at the morgue."</p>
+                    <p>"What's going to happen to you Stan . . ." 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> twisted himself round so that he was sitting on the edge of the bed ". . . is that you're going to wake up one morning and find yourself on a marble slab at the morgue."</p>
 
-                    <p>The bathroom smelled of other people's toothpaste and of chloride disinfectant. The bathmat was wet and Jimmy folded it into a small square before he stepped gingerly out of his slippers. The cold water set the blood jolting through him. He ducked his head under and jumped out and stood shaking himself like a dog, the water streaming into his eyes and ears. Then he put on his bathrobe and lathered his face.</p>
+                    <p>The bathroom smelled of other people's toothpaste and of chloride disinfectant. The bathmat was wet and 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> folded it into a small square before he stepped gingerly out of his slippers. The cold water set the blood jolting through him. He ducked his head under and jumped out and stood shaking himself like a dog, the water streaming into his eyes and ears. Then he put on his bathrobe and lathered his face.</p>
 
                     <p>Flow river flow</p>
 
@@ -7664,11 +7840,21 @@
 
                     <p>"Didnt I graduate from Columbia you big cheese, that's more than you could do?"</p>
 
-                    <p>The sunlight swooped tingling in Jimmy's face when he opened the door.</p>
+                    <p>The sunlight swooped tingling in 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>'s face when he opened the door.</p>
 
                     <p>"That doesnt count."</p>
 
-                    <p>"God I like sun," cried Jimmy, I wish it'd been real Colombia. . . ."</p>
+                    <p>"God I like sun," cried 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>, I wish it'd been real Colombia. . . ."</p>
 
                     <p>"Do you mean Hail Columbia?"</p>
 
@@ -7694,13 +7880,22 @@
 
                     <p>They drove west along Twenty-third Street that shone with sheets of reflected light off windows, oblong glints off delivery wagons, figureeight-shaped flash of nickel fittings.</p>
 
-                    <p>"How's Ruth, Jimmy?"</p>
+                    <p>"How's Ruth, 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>?"</p>
 
                     <p>"She's all right. She hasnt got a job yet."</p>
 
                     <p>"Look there's a Daimlier."</p>
 
-                    <p>Jimmy grunted vaguely. As they turned up Sixth Avenue a policeman stopped them.</p>
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> grunted vaguely. As they turned up Sixth Avenue a policeman stopped them.</p>
 
                     <p>"Your cut out," he yelled.</p>
 
@@ -7708,7 +7903,12 @@
 
                     <p>"Better had. . . . Get a ticket another time."</p>
 
-                    <p>"Gee you get away with murder Stan ... in everything," said Jimmy. "I never can get away with a thing even if I am three years older than you."</p>
+                    <p>"Gee you get away with murder Stan ... in everything," said 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>. "I never can get away with a thing even if I am three years older than you."</p>
 
                     <p>"It's a gift."</p>
 
@@ -7764,7 +7964,11 @@
 
                     <p>"Baa baa." Stan put down his napkin and leaned back laughing in his throat.</p>
 
-                    <p>The smell of absinthe sicklytingling grew up like the magician's rosebush out of Jimmy's glass. He sipped it wrinkling his nose. "As a moralist I protest," he said. "Whee it's amazing."</p>
+                    <p>The smell of absinthe sicklytingling grew up like the magician's rosebush out of <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person>'s glass. He sipped it wrinkling his nose. "As a moralist I protest," he said. "Whee it's amazing."</p>
 
                     <p>"What I need is a whiskey and soda to settle those cocktails."</p>
 
@@ -7786,7 +7990,12 @@
 
                     <p>"Then I know where she'll be."</p>
 
-                    <p>"I'm going to light out of it all," said Jimmy somberly, "and go to Mexico and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</p>
+                    <p>"I'm going to light out of it all," said 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> somberly, "and go to Mexico and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</p>
 
                     <p>"How'll you make your fortune?"</p>
 
@@ -7798,13 +8007,22 @@
 
                     <p>"Let's get the hell out of here and take Dingo to have her muffler fastened."</p>
 
-                    <p>Jimmy stood waiting in the door of the reeking garage. The dusty afternoon sunlight squirmed in bright worms of heat on his face and hands. Brownstone, redbrick, asphalt flickering with red and green letters of signs, with bits of paper in the gutter rotated in a slow haze about him. Two carwashers talking behind him:</p>
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> stood waiting in the door of the reeking garage. The dusty afternoon sunlight squirmed in bright worms of heat on his face and hands. Brownstone, redbrick, asphalt flickering with red and green letters of signs, with bits of paper in the gutter rotated in a slow haze about him. Two carwashers talking behind him:</p>
 
                     <p>"Yep I was making good money until I went after that lousy broad."</p>
 
                     <p>"I'll say she's a goodlooker, Charley. I should worry. . . . Dont make no difference after the first week."</p>
 
-                    <p>Stan came up behind him and ran him along the street by the shoulders. "Car wont be fixed until five o'clock. Let's taxi. . . . Hotel Lafayette," he shouted at the driver and slapped Jimmy on the knee. "Well Herfy old fossil, you know what the Governor of North Carolina said to the Governor of South Carolina."</p>
+                    <p>Stan came up behind him and ran him along the street by the shoulders. "Car wont be fixed until five o'clock. Let's taxi. . . . Hotel Lafayette," he shouted at the driver and slapped 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> on the knee. "Well Herfy old fossil, you know what the Governor of North Carolina said to the Governor of South Carolina."</p>
 
                     <p>"No."</p>
 
@@ -7826,7 +8044,12 @@
 
                     <p>Stan got stiffly to his feet and walked out.</p>
 
-                    <p>The three of them sat without speaking. Jimmy tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
+                    <p>The three of them sat without speaking. 
+                        <person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
 
                     <p>"Has Ruth got a job yet, Mr. Herf?" she asked.</p>
 
@@ -7840,7 +8063,11 @@
 
                     <p>"The nawstiest, my deah."</p>
 
-                    <p>Jimmy couldn't keep his eyes off her; her small squarely shaped hands, her neck molded with a gold sheen between the great coil of coppery hair and the bright blue dress.
+                    <p><person key="JimmyHerf">
+                        <persName>
+                            <forename>Jimmy</forename>
+                        </persName>
+                        </person> couldn't keep his eyes off her; her small squarely shaped hands, her neck molded with a gold sheen between the great coil of coppery hair and the bright blue dress.
 
                     <p>"Well my deah . . ." Oglethorpe got to his feet.</p>
 
