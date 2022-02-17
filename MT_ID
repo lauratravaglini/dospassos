@@ -1,0 +1,138 @@
+PLACES:
+key="USA"
+key="NewYork"
+? <geogName><name>Canal</name></geogName>
+? <placeName>Onteora<placeName>
+? <address>Broadway</address>
+
+?<name>King C. Gillette<name>
+
+PEOPLE:
+xml:id="JohnDosPassos" --> or key??
+key="BudKorpenning"
+key="EdThatcher"
+key="SusieThatcher"
+key="EdThatcher"
+key="EllenThatcher"
+key="JimmyHerf"
+key="MarcusAntoniusZucher" (forse solo nel primo capitolo del libro)
+key="EmilyMerivale"
+key="JamesMerivale"
+key="CongoJake"
+key="EmileLoustec"
+key="NellieMcNeil"
+key="GeorgeBaldwin"
+key="EmileRigaud"
+key="JeffMerivale"
+key="PhilSandbourne"
+key="StanwoodEmery"
+key="EmilyMerivale"
+key="MaisieMerivale"
+key="PhineasBlackhead"
+key="JoeHarland"
+key=""
+key=""
+key=""
+key=""
+
+Unknown characters (a man, a woman, the nurse...)
+key="gen-man(woman)-01(02,03,04...) - generic man (anonymous) ALTERNATIVA: no key/who
+Example: <person key="gen-man-01"> - <said who="gen-man-01"...>
+
+
+Ex.
+                    <person key="BudKorpenning">
+                        <persName>
+                            <forename>Bud</forename> 
+                            <surname>Korpenning</surname>
+                        </persName>
+                    </person> 
+
+Secondo nome: @sort
+                    <person key="EdThatcher">
+                        <persName>
+                            <forename>Edward</forename>
+                            <forename full="abb" sort="2">C.</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                    </person> 
+
+Surname: birth/married
+                    <person key="EllenThatcher">
+                        <persName>
+                            <addName type="nickname">Elaine</addName>
+                            <surname type="birth">Thatcher</surname>
+                            <surname type="married">Oglethorpe</surname>
+                        </persName>
+                    </person>
+
+Nickname:
+                    <person key="EllenThatcher">
+                        <persName>
+                            <addName type="nickname">Ellie</addName>
+                        </persName>
+                    </person>
+
+Forename Jimmy vs. James: birth
+                    <person key="JimmyHerf">
+                        <persName>
+                            <addName type="birth">James</addName>
+                        </persName>
+                    </person>
+                
+Honorifics:
+                    <person key="EllenThatcher">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mrs.</roleName> 
+                            <surname type="birth">Thatcher</surname> 
+                        </persName>
+                    </person>
+
+foreign:
+<foreign xml:lang="fr">#</foreign>  
+
+Honorific + foreign:
+                    <person key="EmileRigaud">
+                        <persName>
+                            <roleName type="honorific" full="abb"><foreign xml:lang="fr">Mme.</foreign></roleName> 
+                            <surname>Rigaud</surname>
+                        </persName>
+                    </person>
+
+                    <person key="EmileLoustec">
+                        <persName>
+                            <roleName type="honorific"><foreign xml:lang="fr">Monsieur</foreign></roleName> 
+                            <surname>Loustec</surname> 
+                        </persName>
+                    </person>             
+
+Dialoghi:                    
+<said who="#" aloud="true" direct="true">
+
+Thought:
+                    <said who="#EdThatcher" aloud="false" direct="false">Well poor little 
+                    <person key="SusieThatcher">
+                        <persName>
+                            <forename>Susie</forename> 
+                        </persName>
+                    </person>                    
+                    wouldn't like me to be here. . . . Everything for her and the bonny wee bairn.</said>
+
+Floating Text:
+                    <floatingText>
+                        <head>
+                            <p><name>MORTON</name> SIGNS THE GREATER <place key="NewYork"><placeName><settlement>NEW YORK</settlement></placeName></place> BILL</p>
+                        </head>
+
+                        <body>
+                            <p>Completes the Act Making <place key="NewYork"><placeName><settlement>New York</settlement></placeName></place> World's <num type="ordinal" value="2">Second</num> Metropolis</p>
+                        </body>
+                    </floatingText>
+
+
+Come definiamo le parti in slang?
+Es.
+<orig type="informal">feller</orig>?
+
+Poi: ho usato "german-accent" qui perché non sapevo come fare
+<orig type="german-accent">Congradulade</orig> me, <orig type="german-accent">Congradulade</orig> me; <orig type="german-accent">mein vife</orig> has <orig type="german-accent">giben</orig> birth to a <orig type="german-accent">poy</orig>
