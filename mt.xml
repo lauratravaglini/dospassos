@@ -6887,9 +6887,20 @@
                         <persName>
                             <addName type="nickname">Cassie</addName>
                         </persName>
-                    </person>, this is . . . Beg pardon, Miss Wilkins this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
+                    </person>, this is . . . Beg pardon, 
+                    <person key="CassandraWilkins">
+                        <persName>
+                            <roleName type="honorific">Miss</roleName>
+                            <surname>Wilkins</surname>
+                        </persName>
+                    </person> this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
 
-                    <p>Cassandra Wilkins lisped and pouted, "Isn't she dweadful Mr. Herf. . . . She says the dweadfullest things."</p>
+                    <p><person key="CassandraWilkins">
+                            <persName>
+                                <forename>Cassandra</forename>
+                                <surname>Wilkins</surname>
+                            </persName>
+                        </person> lisped and pouted, "Isn't she dweadful Mr. Herf. . . . She says the dweadfullest things."</p>
 
                     <p>"She merely does it to annoy."</p>
 
@@ -8519,7 +8530,13 @@
 
                     <p>"You are sure I'm not intwuding?"</p>
 
-                    <p>"Of course not." Ellen leaned to give her a little pecking kiss. Cassandra Wilkins was very pale and there was a nervous quiver about her eyelids. "You can give me some advice. I'm just getting my curtains up. . . . Look do you think that purple goes all right with the gray wall? It looks kind of funny to me."</p>
+                    <p>"Of course not." Ellen leaned to give her a little pecking kiss. 
+                        <person key="CassandraWilkins">
+                        <persName>
+                            <forename>Cassandra</forename>
+                            <surname>Wilkins</surname>
+                        </persName>
+                    </person> was very pale and there was a nervous quiver about her eyelids. "You can give me some advice. I'm just getting my curtains up. . . . Look do you think that purple goes all right with the gray wall? It looks kind of funny to me."</p>
 
                     <p>"I think it's beautiful. What a beautiful woom. How happy you're going to be here."</p>
 
@@ -10563,7 +10580,13 @@ The buzzer burrs at the same time. Ellen presses the button to click the latch. 
         <forename>Ruth</forename>
         <surname>Prynne</surname>
     </persName>
-</person> and Cassandra Wilkins come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . 
+</person> and 
+<person key="CassandraWilkins">
+    <persName>
+        <forename>Cassandra</forename>
+        <surname>Wilkins</surname>
+    </persName>
+</person> come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . 
 <person key="CassandraWilkins">
     <persName>
         <addName type="nickname">Cassie</addName>
@@ -12744,7 +12767,13 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"Oh but it must be wonderful though."</p>
 
-                    <p>They rang a bell under a small brass placque that read: Hester Voorhees Interpretation of the Dance. They went up three flights of creaky freshvarnished stairs. At the door open into a room full of people they met Cassandra Wilkins in a Greek tunic with a wreath of satin rosebuds round her head and a gilt wooden panpipe in her hand.</p>
+                    <p>They rang a bell under a small brass placque that read: Hester Voorhees Interpretation of the Dance. They went up three flights of creaky freshvarnished stairs. At the door open into a room full of people they met 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <forename>Cassandra</forename>
+                                <surname>Wilkins</surname>
+                            </persName>
+                        </person> in a Greek tunic with a wreath of satin rosebuds round her head and a gilt wooden panpipe in her hand.</p>
 
                     <p>"Oh you darlings," she cried and threw her arms round them both at once. "Hester said you wouldnt come but I just knew you would. . . . Come wight in and take off your things, we're beginning with a few classic wythms." They followed her through a long candlelit incensesmelling room full of men and women in dangly costumes.</p>
 
