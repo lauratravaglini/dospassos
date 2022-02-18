@@ -6678,13 +6678,13 @@
 
                     <head>I. Great Lady on a White Horse</head>
                     
-                    <p>Morning clatters with the first L train down Allen Street. Daylight rattles through the windows, shaking the old brick houses, splatters the girders of the L structure with bright confetti.</p>
+                    <p>Morning clatters with the first L train down <address>Allen Street</address>. Daylight rattles through the windows, shaking the old brick houses, splatters the girders of the L structure with bright confetti.</p>
                     
                     <p>The cats are leaving the garbage cans, the chinches are going back into the walls, leaving sweaty limbs, leaving the grimetender necks of little children asleep. Men and women stir under blankets and bedquilts on mattresses in the corners of rooms, clots of kids begin to untangle to scream and kick.</p>
                     
-                    <p>At the corner of Riverton the old man with the hempen beard who sleeps where nobody knows is putting out his picklestand. Tubs of gherkins, pimentos, melonrind, piccalilli give out twining vines and cold tendrils of dank pepperyfragrance that grow like a marshgarden out of the musky bedsmells and the rancid clangor of the cobbled awakening street.</p>
+                    <p>At the corner of <address>Riverton</address> <!-- ricontrollare --> the old man with the hempen beard who sleeps where nobody knows is putting out his picklestand. Tubs of gherkins, pimentos, melonrind, piccalilli give out twining vines and cold tendrils of dank pepperyfragrance that grow like a marshgarden out of the musky bedsmells and the rancid clangor of the cobbled awakening street.</p>
                     
-                    <p>The old man with the hempen beard who sleeps where nobody knows sits in the midst of it like Jonah under his gourd.</p>
+                    <p>The old man with the hempen beard who sleeps where nobody knows sits in the midst of it like Jonah <!-- ricontrollare --> under his gourd.</p>
                     
 
                     <p><person key="JimmyHerf">
@@ -6694,7 +6694,7 @@
                         </persName>
                     </person> walked up four creaky flights and knocked at a white door fingermarked above the knob where the name Sunderland appeared in old English characters on a card neatly held in place by brass thumbtacks. He waited a long while beside a milkbottle, two creambottles, and a copy of the Sunday Times. There was a rustle behind the door and the creak of a step, then no more sound. He pushed a white button in the doorjamb.</p>
                     
-                    <p>"An he said, Margie I've got a crush on you so bad, an she said. Come in outa the rain, you're all wet. . . ." Voices coming down the stairs, a man's feet in button shoes, a girl's feet in sandals, pink silk legs; the girl in a fluffy dress and a Spring Maid hat; the young man had white edging on his vest and a green, blue, and purple striped necktie.</p>
+                    <p>"An he said, Margie<!-- ricontrollare --> I've got a crush on you so bad, an she said. Come in outa the rain, you're all wet. . . ." Voices coming down the stairs, a man's feet in button shoes, a girl's feet in sandals, pink silk legs; the girl in a fluffy dress and a Spring Maid hat; the young man had white edging on his vest and a green, blue, and purple striped necktie.</p>
                     
                     <p>"But you're not that kind of a girl."</p>
                     
@@ -6711,7 +6711,13 @@
 
                     <p>"Who is it?" came a lisping female voice through a crack in the door.</p>
 
-                    <p>"I want to see Miss Prynne please."</p>
+                    <p>"I want to see 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <roleName type="honorific">Miss</roleName> 
+                                <surname type="birth">Prynne</surname> 
+                            </persName>
+                        </person> please."</p>
 
                     <p>Glimpse of a blue kimono held up to the chin of a fluffy face. "Oh I don't know if she's up yet."</p>
 
