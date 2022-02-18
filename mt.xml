@@ -6715,7 +6715,7 @@
                         <person key="RuthPrynne">
                             <persName>
                                 <roleName type="honorific">Miss</roleName> 
-                                <surname type="birth">Prynne</surname> 
+                                <surname>Prynne</surname> 
                             </persName>
                         </person> please."</p>
 
@@ -6723,11 +6723,27 @@
 
                     <p>"She said she would be."</p>
 
-                    <p>"Look will you please wait a second to let me make my get-away," she tittered behind the door. "And then come in. Excuse us but Mrs. Sunderland thought you were the rent collector. They sometimes come on Sunday just to fool you." A smile coyly bridged the crack in the door.</p>
+                    <p>"Look will you please wait a second to let me make my get-away," she tittered behind the door. "And then come in. Excuse us but 
+                        <person key="x"> <!-- ricontrollare -->
+                        <persName>
+                            <roleName type="honorific">Mrs.</roleName> 
+                            <surname type="birth">Sunderland</surname> 
+                        </persName>
+                    </person> thought you were the rent collector. They sometimes come on Sunday just to fool you." A smile coyly bridged the crack in the door.</p>
 
                     <p>"Shall I bring in the milk?"</p>
 
-                    <p>"Oh do and sit down in the hall and I'll call Ruth." The hall was very dark; smelled of sleep and toothpaste and massagecream; across one corner a cot still bore the imprint of a body on its rumpled sheets. Straw hats, silk eveningwraps, and a couple of men's dress overcoats hung in a jostling tangle from the staghorns of the hatrack. Jimmy picked a corsetcover off a rockingchair and sat down. Women's voices, a subdued rustling of people dressing, Sunday newspaper noises seeped out through the partitions of the different rooms.</p>
+                    <p>"Oh do and sit down in the hall and I'll call 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                        </person>." The hall was very dark; smelled of sleep and toothpaste and massagecream; across one corner a cot still bore the imprint of a body on its rumpled sheets. Straw hats, silk eveningwraps, and a couple of men's dress overcoats hung in a jostling tangle from the staghorns of the hatrack. 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <forname>Jimmy</forename>
+                            </persName>
+                        </person> picked a corsetcover off a rockingchair and sat down. Women's voices, a subdued rustling of people dressing, Sunday newspaper noises seeped out through the partitions of the different rooms.</p>
 
                     <p>The bathroom door opened; a stream of sunlight reflected out of a pierglass cut the murky hall in half, out of it came a head of hair like copper wire, bluedark eyes in a brittlewhite eggshaped face. Then the hair was brown down the hall above a slim back in a tangerine-colored slip, nonchalant pink heels standing up out of the bathslippers at every step.</p>
 
@@ -6735,9 +6751,19 @@
                                 <persName>
                                     <forename>Jimmee</forename>
                                 </persName>
-                                </person>. . ." Ruth was yodling at him from behind her door. "But you mustn't look at me or at my room." A head in curlpapers stuck out like a turtle's.</p>
+                                </person>. . ." 
+                                <person key="RuthPrynne">
+                                    <persName>
+                                        <forename>Ruth</forename> 
+                                    </persName>
+                                </person> was yodling at him from behind her door. "But you mustn't look at me or at my room." A head in curlpapers stuck out like a turtle's.</p>
 
-                    <p>"Hullo Ruth."</p>
+                    <p>"Hullo 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                        </person>Ruth."</p>
 
 
 
@@ -6750,7 +6776,11 @@
 
                     <p>"Well how's the cub reporter?"</p>
 
-                    <p>"I'm on Hell's Kitchen. . . . It's swell. Got a job yet Ruth?"</p>
+                    <p>"I'm on Hell's Kitchen. . . . It's swell. Got a job yet <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person>?"</p>
 
                     <p>"Um-um. . . . A couple of things may materialize during the week. But they wont. Oh 
                         <person key="JimmyHerf">
@@ -6759,17 +6789,31 @@
                         </persName>
                         </person> I'm getting desperate." She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. "This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</p>
 
-                    <p>"Poor old Ruth."</p>
+                    <p>"Poor old 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>."</p>
 
                     <p>She threw a powderpuff at him that covered his necktie and the lapels of his blue serge suit with powder. "Dont you poor old me you little rat."</p>
 
-                    <p>"That's a nice thing to do after all the trouble I took to make myself look respectable. . . . Darn your hide Ruth. And the smell of the carbona not off me yet."</p>
+                    <p>"That's a nice thing to do after all the trouble I took to make myself look respectable. . . . Darn your hide 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>. And the smell of the carbona not off me yet."</p>
 
-                    <p>Ruth threw back her head with a shrieking laugh. "Oh you're so comical 
+                    <p><person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> threw back her head with a shrieking laugh. "Oh you're so comical 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimmy</forename>
-                        </persName>
+                            <persName>
+                                <forename>Jimmy</forename>
+                            </persName>
                         </person>. Try the whisk-broom."</p>
 
                     <p>Blushing he blew down his chin at his tie. "Who's the funnylooking girl opened the halldoor?"</p>
@@ -6806,7 +6850,12 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person>." Ruth was leaning close to the mirror running a stick of rouge between her lips.</p>
+                        </person>." 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> was leaning close to the mirror running a stick of rouge between her lips.</p>
 
                     <p>"So many things shock me, I dont see that it matters much. . . . But come along let's get out of here. The sun's shining outside and people are coming out of church and going home to overeat and read at their Sunday papers among the rubberplants . . ."</p>
 
@@ -6829,9 +6878,12 @@
 
                     <p>"She merely does it to annoy."</p>
 
-                    <p>"Oh Mr. Herf I'm so pleased to meet you at last, Ruth does nothing but talk about you. . . . Oh I'm afwaid I was indiscweet to say that. . . . I'm dweadfully indiscweet."</p>
-
-
+                    <p>"Oh Mr. Herf I'm so pleased to meet you at last, 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> does nothing but talk about you. . . . Oh I'm afwaid I was indiscweet to say that. . . . I'm dweadfully indiscweet."</p>
 
                     <p>The door across the hall opened and 
                         <person key="JimmyHerf">
@@ -6873,7 +6925,12 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> tingling. He stood beside Cassie constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. Ruth came up behind them.</p>
+                        </person> tingling. He stood beside Cassie constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> came up behind them.</p>
 
                     <p>"All right 
                         <person key="JimmyHerf">
@@ -6893,7 +6950,12 @@
 
                     <p>"All wight Wuthy . . . So pleased to have met you Mr. Herf." The door closed on Cassie's tittering lisp.</p>
 
-                    <p>"Wow, Ruth that place gives me the infernal jimjams.'</p>
+                    <p>"Wow, 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> that place gives me the infernal jimjams.'</p>
 
                     <p>"Now 
                         <person key="JimmyHerf">
@@ -6902,9 +6964,19 @@
                         </persName>
                         </person> dont get peevish because you need food."</p>
 
-                    <p>"But tell me Ruth, what the hell is Mr. Oglethorpe? He beats anything I ever saw."</p>
+                    <p>"But tell me 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>, what the hell is Mr. Oglethorpe? He beats anything I ever saw."</p>
 
-                    <p>"Oh did the Ogle come out of his lair?" Ruth let out a whoop of laughter. They came out into grimy sunlight. "Did he tell you he was of the main brawnch, dontcher know, of the Oglethorpes of Georgiah?"</p>
+                    <p>"Oh did the Ogle come out of his lair?" 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> let out a whoop of laughter. They came out into grimy sunlight. "Did he tell you he was of the main brawnch, dontcher know, of the Oglethorpes of Georgiah?"</p>
 
                     <p>"Is that lovely girl with copper hair his wife?"</p>
 
@@ -6932,7 +7004,12 @@
                         </persName>
                         </person>, strange fish."</p>
 
-                    <p>An Elevated train shattered the barred sunlight overhead. He could see Ruth's mouth forming words.</p>
+                    <p>An Elevated train shattered the barred sunlight overhead. He could see 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>'s mouth forming words.</p>
 
                     <p>"Look," he shouted above the diminishing clatter. "Let's go have brunch at the Campus and then go for a walk on the Palisades."</p>
 
@@ -6951,7 +7028,12 @@
 
                     <p>"And what about Cassie, the mysterious Cassandra?"</p>
 
-                    <p>"You mustn't laugh at her, she's a peach. . . . If only she wouldn't keep that horrid little white poodle. She keeps it in her room and it never gets any exercise and it smells something terrible. She has that little room next to mine. . . . Then she's got a steady . . ." Ruth giggled. "He's worse than the poodle. They're engaged and he borrows all her money away from her. For Heaven's sake dont tell anybody."</p>
+                    <p>"You mustn't laugh at her, she's a peach. . . . If only she wouldn't keep that horrid little white poodle. She keeps it in her room and it never gets any exercise and it smells something terrible. She has that little room next to mine. . . . Then she's got a steady . . ." 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person> giggled. "He's worse than the poodle. They're engaged and he borrows all her money away from her. For Heaven's sake dont tell anybody."</p>
 
                     <p>"I dont know anybody to tell."</p>
 
@@ -6963,9 +7045,19 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> you shock me. . . . She keeps losing her false teeth," began Ruth; an L train drowned out the rest. The restaurant door closing behind them choked off the roar of wheels on rails.</p>
+                        </person> you shock me. . . . She keeps losing her false teeth," began 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>; an L train drowned out the rest. The restaurant door closing behind them choked off the roar of wheels on rails.</p>
 
-                    <p>An orchestra was playing When It's Appleblossom Time in Normandee. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious French Style Steamed Mussles (Recommended by the Department of Agriculture). They sat down under a redlettered placard Beefsteak Parties Upstairs and Ruth made a pass at him with a breadstick. "
+                    <p>An orchestra was playing When It's Appleblossom Time in Normandee. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious French Style Steamed Mussles (Recommended by the Department of Agriculture). They sat down under a redlettered placard Beefsteak Parties Upstairs and 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> made a pass at him with a breadstick. "
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
@@ -6976,13 +7068,23 @@
 
                     <p>"Not if you're intending to spend the afternoon with me. Mr. Herf."</p>
 
-                    <p>"Oh all right. Ruth I lay my onions at your feet."</p>
+                    <p>"Oh all right. 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> I lay my onions at your feet."</p>
 
                     <p>"That doesn't mean I'm going to let you kiss me."</p>
 
 
 
-                    <p>"What . . . on the Palisades?" Ruth's giggle broke into a whoop of laughter. 
+                    <p>"What . . . on the Palisades?" 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person>'s giggle broke into a whoop of laughter. 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
@@ -7344,7 +7446,13 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person>, strange fish." Herf and Ruth Prynne sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. "All the ham actors in the world seem to eat here."</p>
+                        </person>, strange fish." Herf and 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                                <surname>Prynne</surname>
+                            </persName>
+                        </person> sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. "All the ham actors in the world seem to eat here."</p>
 
                     <p>"All the ham actors in the world live up at Mrs. Sunderland's."</p>
 
@@ -7352,12 +7460,22 @@
 
                     <p>"Balkans is right. . ."</p>
 
-                    <p>Beyond Ruth's black straw hat with red poppies round the crown 
+                    <p>Beyond 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>'s black straw hat with red poppies round the crown 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> looked at the packed tables where faces decomposed into a graygreen blur. Two sallow hawkfaced waiters elbowed their way through the seesawing chatter of talk. Ruth was looking at him with dilated laughing eyes while she bit at a stalk of celery.</p>
+                        </person> looked at the packed tables where faces decomposed into a graygreen blur. Two sallow hawkfaced waiters elbowed their way through the seesawing chatter of talk. 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> was looking at him with dilated laughing eyes while she bit at a stalk of celery.</p>
 
                     <p>"Whee I feel so drunk," she was spluttering. "It went straight to my head. . . . Isnt it terrible?"</p>
 
@@ -7400,21 +7518,39 @@
                         </persName>
                         </person> you're such a shriek. . . . Well Cassie was sobbing and the little dog was barking, and the invisible Costello was yelling Police and fainting into the arms of an unknown man in a dress suit. And Jojo was brandishing a revolver, a little nickel one, may have been a waterpistol for all I know. . . . The only person who looked in their right senses was Elaine Olgethorpe. . . . You know the titianhaired vision that so impressed your infant mind."</p>
 
-                    <p>"Honestly Ruth my infant mind wasnt as impressed as all that."</p>
+                    <p>"Honestly 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> my infant mind wasnt as impressed as all that."</p>
 
 
 
-                    <p>"Well at last the Ogle got tired of his big scene and cried out in ringing tones, Disarm me or I shall kill this woman. And Tony Hunter grabbed the pistol and took it into his room. Then Elaine Oglethorpe made a little bow as if she were taking a curtaincall, said Well goodnight everybody, and ducked into her room cool as a cucumber. . . . Can you picture it?" Ruth suddenly lowered her voice, "But everybody in the restaurant is listening to us. . . . And really I think its very disgusting. But the worst is yet to come. After the Ogle had banged on the door a couple of times and not gotten any answer he went up to Tony and rolling his eyes like Forbes Robertson in Hamlet put his arm round him and said Tony can a broken man crave asylum in your room for the right. . . . Honestly I was just so shocked."</p>
+                    <p>"Well at last the Ogle got tired of his big scene and cried out in ringing tones, Disarm me or I shall kill this woman. And Tony Hunter grabbed the pistol and took it into his room. Then Elaine Oglethorpe made a little bow as if she were taking a curtaincall, said Well goodnight everybody, and ducked into her room cool as a cucumber. . . . Can you picture it?" 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> suddenly lowered her voice, "But everybody in the restaurant is listening to us. . . . And really I think its very disgusting. But the worst is yet to come. After the Ogle had banged on the door a couple of times and not gotten any answer he went up to Tony and rolling his eyes like Forbes Robertson in Hamlet put his arm round him and said Tony can a broken man crave asylum in your room for the right. . . . Honestly I was just so shocked."</p>
 
                     <p>"Is Oglethorpe that way too?"</p>
 
-                    <p>Ruth nodded several times.</p>
+                    <p><person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> nodded several times.</p>
 
                     <p>"Then why did she marry him?"</p>
 
                     <p>"Why that girl'd marry a trolleycar if she thought she could get anything by it."</p>
 
-                    <p>"Ruth honestly I think you've got the whole thing sized up wrong."</p>
+                    <p>"<person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> honestly I think you've got the whole thing sized up wrong."</p>
 
                     <p>"<person key="JimmyHerf">
                         <persName>
@@ -7886,7 +8022,12 @@
 
                     <p>They drove west along Twenty-third Street that shone with sheets of reflected light off windows, oblong glints off delivery wagons, figureeight-shaped flash of nickel fittings.</p>
 
-                    <p>"How's Ruth, 
+                    <p>"How's 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>, 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
@@ -7920,11 +8061,20 @@
 
                     <p>The restaurant smelled merrily of fried potatoes and cocktails and cigars and cocktails. It was hot and full of talking and sweaty faces.</p>
 
-                    <p>"But Stan dont roll your eyes romantically when you ask about Ruth and me. . . . We're just very good friends."</p>
+                    <p>"But Stan dont roll your eyes romantically when you ask about 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person> and me. . . . We're just very good friends."</p>
 
                     <p>"Honestly I didnt mean anything, but I'm sorry to hear it all the same. I think it's terrible."</p>
 
-                    <p>"Ruth doesn't care about anything but her acting. She's so crazy to succeed, she cuts out everything else."</p>
+                    <p>"<person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> doesn't care about anything but her acting. She's so crazy to succeed, she cuts out everything else."</p>
 
                     <p>"Why the hell does everybody want to succeed? I'd like to meet somebody who wanted to fail. That's the only sublime thing."</p>
 
@@ -8057,7 +8207,12 @@
                         </persName>
                         </person> tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
 
-                    <p>"Has Ruth got a job yet, Mr. Herf?" she asked.</p>
+                    <p>"Has 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> got a job yet, Mr. Herf?" she asked.</p>
 
                     <p>"No she hasnt."</p>
 
@@ -8471,7 +8626,17 @@
                             <persName>
                                 <forename>Jimmy</forename>
                             </persName>
-                            </person> with wide drunken eyes. "So here's the cub reporter, the yellow journalist is it, looking as if butter wouldnt melt in his mouth is it? Do you know what my opinion of you is, would you like to know what my opinion of you is? Oh I've heard about you from Ruth and all that. I know you think you're one of the dynamiters and aloof from all that. . . . How do you like being a paid prostitute of the public press? How d'you like your yellow ticket? The brass check, that's the kind of thing. . . . You think that as an actor, an artiste, I dont know about those things. I've heard from Ruth your opinion of actors and all that."</p>
+                            </person> with wide drunken eyes. "So here's the cub reporter, the yellow journalist is it, looking as if butter wouldnt melt in his mouth is it? Do you know what my opinion of you is, would you like to know what my opinion of you is? Oh I've heard about you from 
+                            <person key="RuthPrynne">
+                                <persName>
+                                    <forename>Ruth</forename> 
+                                </persName>
+                            </person> and all that. I know you think you're one of the dynamiters and aloof from all that. . . . How do you like being a paid prostitute of the public press? How d'you like your yellow ticket? The brass check, that's the kind of thing. . . . You think that as an actor, an artiste, I dont know about those things. I've heard from 
+                            <person key="RuthPrynne">
+                                <persName>
+                                    <forename>Ruth</forename> 
+                                </persName>
+                            </person> your opinion of actors and all that."</p>
 
                     <p>"Why Mr. Oglethorpe I am sure you are mistaken."</p>
 
@@ -9196,7 +9361,12 @@ Bullock turned and nudged him in the ribs. "Say
     </persName>
     </person> who the hell are those two guys came out with us?"
 
-"They are friends of Ruth's. I dont know them particularly well. Framingham's an interior decorator I think."
+"They are friends of 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person>'s. I dont know them particularly well. Framingham's an interior decorator I think."
 
 At the bar under a picture of the Lusitania stood a dark man in a white coat distended by a deep gorilla chest. He was vibrating a shaker between his very hairy hands. A waiter stood in front of the bar with a tray of cocktail glasses. The cocktail foamed into them greenishwhite.
 
@@ -9528,7 +9698,12 @@ Herf slowed his pace. "Why I dont know you very well. You seem to me a very plea
 
 "What's eating you anyway?"
 
-"I'm going crazy that's all, everything's so horrible. When I first met you with Ruth one evening I thought we were going to be friends, Herf. You seemed so sympathetic and understanding. . . . I thought you were like me, but now you're getting so callous."
+"I'm going crazy that's all, everything's so horrible. When I first met you with 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person> one evening I thought we were going to be friends, Herf. You seemed so sympathetic and understanding. . . . I thought you were like me, but now you're getting so callous."
 
 "I guess it's the Times. . . . I'll get fired soon, don't worry."
 
@@ -10162,21 +10337,51 @@ Whose sails were never to the tempest given
 
 
 
-Gosh it's six o'clock already. She starts walking up and down the room again. I am borne darkly fearfully afar. . . . The phone rings. "Hello. . . . Yes this is Miss Oglethorpe. . . . Why hello Ruth, why I haven't seen you for ages, since Mrs. Sunderland's. . . . Oh, do I'd love to see you. Come by and we'll have a bite to eat on the way to the theater. . . . It's the third floor."
+Gosh it's six o'clock already. She starts walking up and down the room again. I am borne darkly fearfully afar. . . . The phone rings. "Hello. . . . Yes this is Miss Oglethorpe. . . . Why hello 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person>, why I haven't seen you for ages, since Mrs. Sunderland's. . . . Oh, do I'd love to see you. Come by and we'll have a bite to eat on the way to the theater. . . . It's the third floor."
 
 She rings off and gets a raincape out of a closet. The smell of furs and mothballs and dresses clings in her nostrils. She throws up the window again and breathes deep of the wet air full of the cold rot of autumn. She hears the burring boom of a big steamer from the river. Darkly, fearfully afar from this nonsensical life, from this fuzzy idiocy and strife; a man can take a ship for his wife, but a girl. The telephone is shiveringly beadily ringing, ringing.
 
-The buzzer burrs at the same time. Ellen presses the button to click the latch. "Hello. . . . No, I'm very sorry I'm afraid you'll have to tell me who it is. Why Larry Hopkins I thought you were in Tokyo. . . . They havent moved you again have they? Why of course we must see each other. . . . My dear it's simply horrible but I'm all dated up for two weeks. . . . Look I'm sort of crazy tonight. You call up tomorrow at twelve and I'll try to shift things around. . . . Why of course I've got to see you immediately you funny old thing." . . . Ruth Prynne and Cassandra Wilkins come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . Cassie wont you have dinner with us?"
+The buzzer burrs at the same time. Ellen presses the button to click the latch. "Hello. . . . No, I'm very sorry I'm afraid you'll have to tell me who it is. Why Larry Hopkins I thought you were in Tokyo. . . . They havent moved you again have they? Why of course we must see each other. . . . My dear it's simply horrible but I'm all dated up for two weeks. . . . Look I'm sort of crazy tonight. You call up tomorrow at twelve and I'll try to shift things around. . . . Why of course I've got to see you immediately you funny old thing." . . . 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename>
+        <surname>Prynne</surname>
+    </persName>
+</person> and Cassandra Wilkins come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . Cassie wont you have dinner with us?"
 
 "I felt I just had to see you. . . . It's so wonderful about your wonderful success," says Cassie in a shaky voice, "And my dear I felt so terribly when I heard about Mr. Emery. I cried and cried, didnt I Ruth?"
 
-"Oh what a beautiful apartment you have," Ruth is exclaiming at the same moment. Ellen's ears ring sickeningly. "We all have to die sometime," gruffly she blurts out.
+"Oh what a beautiful apartment you have," 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person> is exclaiming at the same moment. Ellen's ears ring sickeningly. "We all have to die sometime," gruffly she blurts out.
 
-Ruth's rubberclad foot is tapping the floor; she catches Cassie's eye and makes her stammer into silence. "Hadnt we better go along? It's getting rather late," she says.
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person>'s rubberclad foot is tapping the floor; she catches Cassie's eye and makes her stammer into silence. "Hadnt we better go along? It's getting rather late," she says.
 
-"Excuse me a minute Ruth." Ellen runs into the bathroom and slams the door. She sits on the edge of the bathtub pounding on her knees with her clenched fists. Those women'll drive me mad. Then the tension in her snaps, she feels something draining out of her like water out of a washbasin. She quietly puts a dab of rouge on her lips.
+"Excuse me a minute 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person>." Ellen runs into the bathroom and slams the door. She sits on the edge of the bathtub pounding on her knees with her clenched fists. Those women'll drive me mad. Then the tension in her snaps, she feels something draining out of her like water out of a washbasin. She quietly puts a dab of rouge on her lips.
 
-When she goes back she says in her usual voice: "Well let's get along. . . . Got a part yet Ruth?"
+When she goes back she says in her usual voice: "Well let's get along. . . . Got a part yet 
+<person key="RuthPrynne">
+    <persName>
+        <forename>Ruth</forename> 
+    </persName>
+</person>?"
 
 "I had a chance to go out to Detroit with a stock company. I turned it down. ... I wont go out of New York whatever happens."
 
@@ -10922,15 +11127,35 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
 
 
-                    <p>RUTH PRYNNE came out of the doctor's office pullthe fur tight round her throat. She felt faint. Taxi. As she stepped in she remembered the smell of cosmetics and toast and the littered hallway at Mrs. Sunderlands. Oh I cant go home just yet. "Driver go to the Old English Tea Room on Fortieth Street please." She opened her long green leather purse and looked in. My God, only a dollar a quarter a nickel and two pennies. She kept her eyes on the figures flickering on the taximeter. She wanted to break down and cry. . . . The way money goes. The gritty cold wind rasped at her throat when she got out. "Eighty cents miss. . . . I haven't any change miss." "All right keep the change." Heavens only thirtytwo cents. . . . Inside it was warm and smelled cozily of tea and cookies.</p>
+                    <p><person key="RuthPrynne">
+                        <persName>
+                            <forename>RUTH</forename> 
+                            <surname>PRYNNE</surname>
+                        </persName>
+                    </person> came out of the doctor's office pullthe fur tight round her throat. She felt faint. Taxi. As she stepped in she remembered the smell of cosmetics and toast and the littered hallway at Mrs. Sunderlands. Oh I cant go home just yet. "Driver go to the Old English Tea Room on Fortieth Street please." She opened her long green leather purse and looked in. My God, only a dollar a quarter a nickel and two pennies. She kept her eyes on the figures flickering on the taximeter. She wanted to break down and cry. . . . The way money goes. The gritty cold wind rasped at her throat when she got out. "Eighty cents miss. . . . I haven't any change miss." "All right keep the change." Heavens only thirtytwo cents. . . . Inside it was warm and smelled cozily of tea and cookies.</p>
 
-                    <p>"Why Ruth, if it isn't Ruth. . . . Dearest come to my arms after all these years." It was Billy Waldron. He was fatter and whiter than he used to be. He gave her a stagy hug and kissed her on the forehead. "How are you? Do tell me. . . . How distinguée you look in that hat."</p>
+                    <p>"Why 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>, if it isn't 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>. . . . Dearest come to my arms after all these years." It was Billy Waldron. He was fatter and whiter than he used to be. He gave her a stagy hug and kissed her on the forehead. "How are you? Do tell me. . . . How distinguée you look in that hat."</p>
 
 
 
                     <p>"I've just been having my throat X-rayed," she said with a giggle. "I feel like the wrath of God."</p>
 
-                    <p>"What are you doing Ruth? I havent heard of you for ages."</p>
+                    <p>"What are you doing 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>? I havent heard of you for ages."</p>
 
                     <p>"Put me down as a back number, hadn't you?" She caught his words up fiercely.</p>
 
@@ -10942,13 +11167,23 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"I have an appointment to see Belasco next week. . . . Something may come of that."</p>
 
-                    <p>"Why I should say it might Ruth. . . . Are you expecting someone?"</p>
+                    <p>"Why I should say it might 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person>. . . . Are you expecting someone?"</p>
 
                     <p>"No. . . . Oh Billy you're still the same old tease. . . . Dont tease me this afternoon. I dont feel up to it."</p>
 
                     <p>"You poor dear sit down and have a cup of tea with me."</p>
 
-                    <p>"I tell you Ruth it's a terrible year. Many a good trouper will pawn the last link of his watch chain this year. . . . I suppose you're going the rounds."</p>
+                    <p>"I tell you 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> it's a terrible year. Many a good trouper will pawn the last link of his watch chain this year. . . . I suppose you're going the rounds."</p>
 
                     <p>"Dont talk about it. . . . If I could only get my throat all right. . . . A thing like that wears you down."</p>
 
@@ -10956,13 +11191,22 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"Billy could I ever forget them? . . . Wasnt it a scream?"</p>
 
-                    <p>"The last time I saw you Ruth was in The Butterfly on the Wheel in Seattle. I was out front. . . ."</p>
+                    <p>"The last time I saw you 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> was in The Butterfly on the Wheel in Seattle. I was out front. . . ."</p>
 
                     <p>"Why didn't you come back and see me?"</p>
 
                     <p>"I was still angry at you I suppose. . . . It was my lowest moment. In the valley of shadow . . . melancholia . . . neurasthenia. I was stranded penniless. . . . That night I was a little under the influence, you understand. I didn't want you to see the beast in me."</p>
 
-                    <p>Ruth poured herself a fresh cup of tea. She suddenly felt feverishly gay. "Oh but Billy havent you forgotten all that? . . . I was a foolish little girl then. . . . I was afraid that love or marriage or anything like that would interfere with my art, you understand. . . . I was so crazy to succeed."</p>
+                    <p><person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> poured herself a fresh cup of tea. She suddenly felt feverishly gay. "Oh but Billy havent you forgotten all that? . . . I was a foolish little girl then. . . . I was afraid that love or marriage or anything like that would interfere with my art, you understand. . . . I was so crazy to succeed."</p>
 
                     <p>"Would you do the same thing again?"</p>
 
@@ -10972,7 +11216,11 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"Something about Nor all your tears wash out a word of it . . . But Billy," she threw back her head and laughed, "I thought you were getting ready to propose to me all over again. . . . Ou my throat."</p>
 
-                    <p>"Ruth I wish you werent taking that X-ray treatment. . . . I've heard it's very dangerous. Dont let me alarm you about it my dear . . . but I have heard of cases of cancer contracted that way."</p>
+                    <p>"<person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> I wish you werent taking that X-ray treatment. . . . I've heard it's very dangerous. Dont let me alarm you about it my dear . . . but I have heard of cases of cancer contracted that way."</p>
 
                     <p>"That's nonsense Billy. . . . That's only when X-rays are improperly used, and it takes years of exposure. . . . No I think this Dr. Warner's a remarkable man."</p>
 
@@ -12181,25 +12429,60 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>Merivale's hands were trembling as he fastened his belt. Perkins, Jack Cunningham, the damn blackguard, hydroplanes. Jack Cunningham Salmagundi Perkins. He went to a phone booth in a corner of the store and called up his mother. "Hello Mother, I'm afraid I wont be up to dinner. . . . I'm dining with Randolph Perkins at the Salmagundi Club. . . . Yes it is very pleasant. . . . Oh well he and I have always been fairly good friends. . . . Oh yes it's essential to stand in with the men higher up. And I've seen Jack Cunningham. I put it up to him straight from the shoulder man to man and he was very much embarrassed. He promised a full explanation within twentyfour hours. . . . No I kept my temper very well. I felt I owed it to Maisie. I tell you I think the man's a blackguard but until there's proof. . . . Well good night dear, in case I'm late. Oh no please dont wait up. Tell Maisie not to worry I'll be able to give her the fullest details. Good night mother."</p>
 
-                    <p>They sat at a small table in the back of a dimly lighted tearoom. The shade on the lamp cut off the upper parts of their faces. Ellen had on a dress of bright peacock blue and a small blue hat with a piece of green in it. Ruth Prynne's face had a sagging tired look under the street makeup.</p>
+                    <p>They sat at a small table in the back of a dimly lighted tearoom. The shade on the lamp cut off the upper parts of their faces. Ellen had on a dress of bright peacock blue and a small blue hat with a piece of green in it. 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                            <surname>Prynne</surname>
+                        </persName>
+                    </person>'s face had a sagging tired look under the street makeup.</p>
 
                     <p>"Elaine, you've just got to come," she was saying in a whiny voice, "Cassie'll be there and Oglethorpe and all the old gang. . . . After all now that you're making such a success of editorial work it's no reason for completely abandoning your old friends is it? You dont know how much we talk and wonder about you."</p>
 
-                    <p>"No but Ruth it's just that I'm getting to hate large parties. I guess I must be getting old. All right I'll come for a little while."</p>
+                    <p>"No but 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person> it's just that I'm getting to hate large parties. I guess I must be getting old. All right I'll come for a little while."</p>
 
-                    <p>Ruth put down the sandwich she was nibbling at and reached for Ellen's hand and patted it. "That's the little trouper. . . . Of course I knew you were coming all along."</p>
+                    <p><person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> put down the sandwich she was nibbling at and reached for Ellen's hand and patted it. "That's the little trouper. . . . Of course I knew you were coming all along."</p>
 
-                    <p>"But Ruth you never told me what happened to that traveling repertory company last summer. . . ."</p>
+                    <p>"But 
+                        <person key="RuthPrynne">
+                        <persName>
+                            <forename>Ruth</forename> 
+                        </persName>
+                    </person> you never told me what happened to that traveling repertory company last summer. . . ."</p>
 
-                    <p>"O my God," burst out Ruth. "That was terrible. Of course it was a scream, a perfect scream. Well the first thing that happened was that Isabel Clyde's husband Ralph Nolton who was managing the company was a dipsomaniac . . . and then the lovely Isabel wouldn't let anybody on the stage who didn't act like a dummy for fear the rubes wouldnt know who the star was. . . . Oh I cant tell about it any more. . . . It isnt funny to me any more, it's just horrible. . . . Oh Elaine I'm so discouraged. My dear I'm getting old." She suddenly burst out crying.</p>
+                    <p>"O my God," burst out 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person>. "That was terrible. Of course it was a scream, a perfect scream. Well the first thing that happened was that Isabel Clyde's husband Ralph Nolton who was managing the company was a dipsomaniac . . . and then the lovely Isabel wouldn't let anybody on the stage who didn't act like a dummy for fear the rubes wouldnt know who the star was. . . . Oh I cant tell about it any more. . . . It isnt funny to me any more, it's just horrible. . . . Oh Elaine I'm so discouraged. My dear I'm getting old." She suddenly burst out crying.</p>
 
-                    <p>"Oh Ruth please dont," said Ellen in a little rasping voice. She laughed. "After all we're none of us getting any younger are we?"</p>
+                    <p>"Oh 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> please dont," said Ellen in a little rasping voice. She laughed. "After all we're none of us getting any younger are we?"</p>
 
                     <p>"Dear you dont understand . . . You never will understand."</p>
 
                     <p>They sat a long while without saying anything, scraps of lowvoiced conversation came to them from other corners of the dim tearoom. The palehaired waitress brought them two orders of fruit salad.</p>
 
-                    <p>"My it must be getting late," said Ruth eventually.</p>
+                    <p>"My it must be getting late," said 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> eventually.</p>
 
                     <p>"It's only half past eight. . . . We dont want to get to this party too soon."</p>
 
@@ -12221,7 +12504,12 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"He'll always be a restless sort of person. Oh Elaine I was so happy when I heard about your being married. . . . I acted like a damn fool. I cried and cried. . . . And now with Martin and everything you must be terribly happy."</p>
 
-                    <p>"Oh we get along all right. . . . Martin's picking up, New York seems to agree with him. He was so quiet and fat for a long while we were terribly afraid we'd produced an imbecile. Do you know Ruth I don't think I'd ever have another baby. . . . I was so horribly afraid he'd turn out deformed or something. . . . It makes me sick to think of it."</p>
+                    <p>"Oh we get along all right. . . . Martin's picking up, New York seems to agree with him. He was so quiet and fat for a long while we were terribly afraid we'd produced an imbecile. Do you know 
+                        <person key="RuthPrynne">
+                            <persName>
+                                <forename>Ruth</forename> 
+                            </persName>
+                        </person> I don't think I'd ever have another baby. . . . I was so horribly afraid he'd turn out deformed or something. . . . It makes me sick to think of it."</p>
 
                     <p>"Oh but it must be wonderful though."</p>
 
