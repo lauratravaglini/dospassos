@@ -206,7 +206,7 @@
             
             
             <availability status="free">
-                <p>The author died in <date when="1970">1970</date>, so this work is also in the public domain in countries and areas where the copyright term is the author's life plus 50 years or less. This work may also be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.</p>
+                <p>The author died in <date when="1970">1970</date>, so this work is also in the public domain in countries and areas where the copyright term is the author's life plus <time dur-iso="PT50Y">50 years</time> or less. This work may also be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.</p>
             </availability
                         
             
@@ -217,8 +217,7 @@
         <group> <!-- First Section-->
         <text>
         <body>
-            
-            <div n="1" type="section">
+                        <div n="1" type="section">
                 <head>First Section</head> <!-- Ale -->
 
 
@@ -792,7 +791,7 @@
                 <div n="2" type="chapter">
                     <head>II. Metropolis</head>
 
-                    <p><epigraph>There were <place><placeName><settlement>Babylon</settlement></placeName></place> and <place><placeName><settlement>Nineveh</settlement></placeName></place>: they were built of brick. <place><placeName><settlement>Athens</settlement></placeName></place> was gold marble colums. <place><placeName><settlement>Rome</settlement></placeName></place> was held up on broad arches of rubble. In <place><placeName><settlement>Constantinople</settlement></placeName></place> the minarets flame like great candles round the Golden Horn . . . Steel, glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the millionwindowed buildings will jut glittering, pyramid on pyramid like the white cloudhead above a thunderstorm.</epigraph></p>
+                    <p><epigraph>There were <place key="Babylon#"><placeName><settlement type="city">Babylon</settlement></placeName></place> and <place key="Nineveh#"><placeName><settlement type="city">Nineveh</settlement></placeName></place>: they were built of brick. <place key="Athens#"><placeName><settlement type="city">Athens</settlement></placeName></place> was gold marble colums. <place key="Rome#"><placeName><settlement type="city">Rome</settlement></placeName></place> was held up on broad arches of rubble. In <place key="Constantinople#"><placeName><settlement type="city">Constantinople</settlement></placeName></place> the minarets flame like great candles round the Golden Horn . . . Steel, glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the millionwindowed buildings will jut glittering, pyramid on pyramid like the white cloudhead above a thunderstorm.</epigraph></p>
 
 
 
@@ -809,13 +808,13 @@
                                 <forename>Susie</forename> 
                             </persName>
                         </person>
-                    were only here he'd tell her about the big money he was going to make and how he'd deposit ten dollars a week in the savings bank just for little 
+                    were only here he'd tell her about the big money he was going to make and how he'd deposit <measure type="currency">ten dollars</measure> a week in the savings bank just for little 
                         <person key="EllenThatcher">
                             <persName>
                                 <forename>Ellen</forename> 
                             </persName>
                         </person>                    
-                    ; that would make <num type="cardinal" value="520">five hundred and twenty</num> dollars a year. . . . Why in ten years without the interest that'd come to more than <num type="cardinal" value="5000">five thousand<num> dollars. I must compute the compound interest on <num type="cardinal" value="520">five hundred and twenty dollars</num> at <num type="percentage" value="4%">four per cent</num>. He walked excitedly about the narrow room. The gas jet purred comfortably like a cat. His eyes fell on the headline on a Journal that lay on the floor by the coalscuttle where he had dropped it to run for the hack to take 
+                    ; that would make <measure type="currency">five hundred and twenty dollars</measure> a year. . . . Why in <time dur-iso="PT10Y">ten years</time> without the interest that'd come to more than <measure type="currency">five thousand dollars</measure>. I must compute the compound interest on <measure type="currency">five hundred and twenty dollars</measure> at <num type="percentage" value="4%">four per cent</num>. He walked excitedly about the narrow room. The gas jet purred comfortably like a cat. His eyes fell on the headline on a Journal that lay on the floor by the coalscuttle where he had dropped it to run for the hack to take 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
@@ -825,11 +824,11 @@
                     
                     <floatingText>
                         <head>
-                            <p><name>MORTON</name> SIGNS THE GREATER <place key="NewYork"><placeName><settlement>NEW YORK</settlement></placeName></place> BILL</p>
+                            <p><name>MORTON</name> SIGNS THE GREATER <place key="NewYork"><placeName><settlement type="city">NEW YORK</settlement></placeName></place> BILL</p>
                         </head>
 
                         <body>
-                            <p>Completes the Act Making <place key="NewYork"><placeName><settlement>New York</settlement></placeName></place> World's <num type="ordinal" value="2">Second</num> Metropolis</p>
+                            <p>Completes the Act Making <place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place> World's <num type="ordinal" value="2">Second</num> Metropolis</p>
                         </body>
                     </floatingText>
 
@@ -848,7 +847,7 @@
 
                     <p>He pushed up the window and leaned out. An L train was rumbling past the end of the street. A whiff of coal smoke stung his nostrils. He hung out of the window a long while looking up and down the street. The world's <num type="ordinal" value="second">second</num> metropolis. In the brick houses and the dingy lamplight and the voices of a group of boys kidding and quarreling on the steps of a house opposite, in the regular firm tread of a policeman, he felt a marching like soldiers, like a sidewheeler going up the <geogName><name>Hudson</name><geogName> under the Palisades, like an election parade, through long streets towards something tall white full of colonnades and stately. Metropolis.</p>
 
-                    <p>The street was suddenly full of running. Somebody out of breath let out the word Fire.</p>
+                    <p>The street was suddenly full of running. Somebody out of breath let out the word <said aloud="true" direct="false">Fire</said>.</p>
 
                     <p><said who="" aloud="true" direct="true">"Where at?"</said></p>
 
@@ -866,9 +865,9 @@
 
                     <p><said who="gen-man-05" aloud="true" direct="true">"It's a tenement house."</said></p>
 
-                    <p>It was a narrowwindowed sixstory tenement. The hookandladder had just drawn up. Brown smoke, with here and there a little trail of sparks was pouring fast out of the lower windows. <num type="cardinal" value="3">Three</num> policemen were swinging their clubs as they packed the crowd back against the steps and railings of the houses opposite. In the empty space in the middle of the street the fire engine and the red hosewagon shone with bright brass. People watched silent staring at the upper windows where shadows moved and occasional light flickered. A thin pillar of flame began to flare above the house like a romancandle.</p>
+                    <p>It was a narrowwindowed sixstory tenement. The hookandladder had just drawn up. Brown smoke, with here and there a little trail of sparks was pouring fast out of the lower windows. <num type="cardinal" value="3">Three</num> <occupation>policemen</occupation> were swinging their clubs as they packed the crowd back against the steps and railings of the houses opposite. In the empty space in the middle of the street the fire engine and the red hosewagon shone with bright brass. People watched silent staring at the upper windows where shadows moved and occasional light flickered. A thin pillar of flame began to flare above the house like a romancandle.</p>
 
-                    <p><said who="" aloud="true" direct="true">"The airshaft,"</said> whispered a man in 
+                    <p><said aloud="true" direct="true">"The airshaft,"</said> whispered a man in 
                     <person key="EdThatcher">
                         <persName>
                             <surname>Thatcher</surname> 
@@ -880,7 +879,7 @@
                             <surname>Thatcher</surname> 
                         </persName>
                     </person>
-                    felt suddenly sick. When the smoke cleared he saw people hanging in a kicking cluster, hanging by their hands from a windowledge. The other side firemen were helping women down a ladder. The flame in the center of the house flared brighter. Something black had dropped from a window and lay on the pavement shrieking. The policemen were shoving the crowd back to the ends of the block. New fire engines were arriving.</p>
+                    felt suddenly sick. When the smoke cleared he saw people hanging in a kicking cluster, hanging by their hands from a windowledge. The other side firemen were helping women down a ladder. The flame in the center of the house flared brighter. Something black had dropped from a window and lay on the pavement shrieking. The <occupation>policemen</occupation> were shoving the crowd back to the ends of the block. New fire engines were arriving.</p>
 
                     <p><said who="gen-man-06" aloud="true" direct="true">"Theyve got five alarms in,"</said> a man said. <said who="gen-man-06" aloud="true" direct="true">"What do you think of that? Everyone of 'em on the two top floors was trapped. It's an incendiary done it. Some goddam firebug."</said></p>
 
@@ -894,9 +893,9 @@
 
                     <p><said aloud="true" direct="true">"He's an <nationality key="IT">Italian</nationality>."</said></p>
 
-                    <p><said aloud="true" direct="true">"His wife's in that buildin."</said></p>
+                    <p><said aloud="true" direct="true">"His wife's in that <orig type="informal">buildin</orig>."</said></p>
 
-                    <p><said aloud="true" direct="true">"Cops wont let him get by."</said> <said aloud="true" direct="true">"His wife's in a family way. He cant talk <nationality>English</nationality> to ask the cops."</said></p>
+                    <p><said aloud="true" direct="true">"<orig type="informal"><occupation>Cops</occupation></orig> wont let him get by."</said> <said aloud="true" direct="true">"His wife's in a family way. He cant talk <nationality>English</nationality> to ask the <orig type="informal"><occupation>cops</occupation></orig>."</said></p>
 
                     <p>The man wore blue suspenders tied up with a piece of string in back. His back was heaving and now and then he left out a string of groaning words nobody understood. 
                     <person key="EdThatcher">
@@ -916,21 +915,56 @@
                             <surname>Thatcher</surname> 
                         </persName>
                     </person>                    
-                    's hands and feet went suddenly cold. The firebug. The papers say they hang round like that to watch it. He walked home fast, ran up the stairs, and locked the room door behind him. The room was quiet and empty. He'd forgotten that 
+                    's hands and feet went suddenly cold. <said who="#EdThatcher" aloud="false">The firebug</said>. The papers say they hang round like that to watch it. He walked home fast, ran up the stairs, and locked the room door behind him. The room was quiet and empty. He'd forgotten that 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
                         </persName>
                     </person>                     
-                    wouldnt be there waiting for him. He began to undress. He couldnt forget the smell of coaloil on the man's clothes.</p>
+                    <orig type="informal">wouldnt</orig> be there waiting for him. He began to undress. He couldnt forget the smell of coaloil on the man's clothes.</p>
 
-                    <p>Mr. Perry flicked at the burdock leaves with his cane. The real-estate agent was pleading in a singsong voice:</p>
+                    <p>
+                    <person key="MrPerry">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Perry</surname> 
+                        </persName>
+                    </person>
+                    flicked at the burdock leaves with his cane. The real-estate agent was pleading in a singsong voice:</p>
 
-                    <p><said who="" aloud="true" direct="true">"I dont mind telling you, Mr. Ferry, it's an opportunity not to be missed. You know the old saying sir . . . opportunity knocks but once on a young man's door. In six months I can virtually guarantee that these lots will have doubled in value. Now that we are a part of New York, the second city in the world, sir, dont forget that. . . . Why the time will come, and I firmly believe that you and I will see it, when bridge after bridge spanning the East River have made Long Island and Manhattan one, when the Borough of Queens will be as much the heart and throbbing center of the great metropolis as is Astor Place today."</said></p>
+                    <p><said who="MrPerry" aloud="true" direct="true">"I dont mind telling you, 
+                    <person key="MrFerry">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Ferry</surname> 
+                        </persName>
+                    </person>                    
+                    , it's an opportunity not to be missed. You know the old saying sir . . . opportunity knocks but once on a young man's door. In <time dur-iso="P1M">six months</time> I can virtually guarantee that these lots will have doubled in value. Now that we are a part of <place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place>, the <num type="ordinal" value="2">second</num> city in the world, sir, dont forget that. . . . Why the time will come, and I firmly believe that you and I will see it, when bridge after bridge spanning the <geogName><name>East</name><geogFeature>River</geogFeature></geogName> have made <placeName>Long Island<placeName> and <placeName>Manhattan<placeName> one, when the <placeName>Borough of Queens</placeName> will be as much the heart and throbbing center of the great metropolis as is <placeName>Astor Place</placeName> today."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I know, I know, but I'm looking for something dead safe. And besides I want to build. My wife hasnt been very well these last few years. . . ."</said></p>
+                    <p><said who="MrFerry" aloud="true" direct="true">"I know, I know, but I'm looking for something dead safe. And besides I want to build. My wife hasnt been very well these last few years. . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"But what could be safer than my proposition? Do you realize Mr. Perry, that at considerable personal loss I'm letting you in on the ground floor of one of the greatest real-estate certainties of modern times. I'm putting at your disposal not only security, but ease, comfort, luxury. We are caught up Mr. Perry on a great wave whether we will or no, a great wave of expansion and progress. A great deal is going to happen in the next few years. All these mechanical inventions — telephones, electricity, steel bridges, horseless vehicles—they are all leading somewhere. It's up to us to be on the inside, in the forefront of progress. . . . My God! I cant begin to tell you what it will mean. . . ."</said> Poking amid the dry grass and the burdock leaves Mr. Perry had moved something with his stick. He stooped and picked up a triangular skull with a pair of spiralfluted horns. <said who="" aloud="true" direct="true">"By gad!"</said> he said. <said who="" aloud="true" direct="true">"That must have been a fine ram."</said></p>
+                    <p><said who="MrFerry" aloud="true" direct="true">"But what could be safer than my proposition? Do you realize 
+                    <person key="MrPerry">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Perry</surname> 
+                        </persName>
+                    </person>
+                    , that at considerable personal loss I'm letting you in on the ground floor of one of the greatest real-estate certainties of modern times. I'm putting at your disposal not only security, but ease, comfort, luxury. We are caught up 
+                    <person key="MrPerry">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Perry</surname> 
+                        </persName>
+                    </person>
+                    on a great wave whether we will or no, a great wave of expansion and progress. A great deal is going to happen in the next few years. All these mechanical inventions — telephones, electricity, steel bridges, horseless vehicles—they are all leading somewhere. It's up to us to be on the inside, in the forefront of progress. . . . My <name type="entity">God</name>! I cant begin to tell you what it will mean. . . ."</said> Poking amid the dry grass and the burdock leaves 
+                    <person key="MrPerry">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Perry</surname> 
+                        </persName>
+                    </person>
+                    had moved something with his stick. He stooped and picked up a triangular skull with a pair of spiralfluted horns. <said who="MrPerry" aloud="true" direct="true">"<orig type="informal">By gad</orig>!"</said> he said. <said who="" aloud="true" direct="true">"That must have been a fine ram."</said></p>
 
 
 
@@ -940,49 +974,60 @@
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     sat nodding, his hands dangling big and red between his knees. In his eardrums he could still feel through the snipping of scissors the pounding of his feet on the hungry road down from Nyack.</p>
+                    sat nodding, his hands dangling big and red between his knees. In his eardrums he could still feel through the snipping of scissors the pounding of his feet on the hungry road down from <placeName>Nyack</placeName>.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Next!"</said></p>
+                    <p><said aloud="true" direct="true">"Next!"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Whassat? . . . All right I just want a shave an a haircut."</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"<orig type="informal">Whassat</orig>? . . . All right I just want a shave an a haircut."</said></p>
 
                     <p>The barber's pudgy hands moved through his hair, the scissors whirred like a hornet behind his ears. His eyes kept closing; he jerked them open fighting sleep. He could see beyond the striped sheet littered with sandy hair the bobbing hammerhead of the colored boy shining his shoes.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Yessir"</said> a deepvoiced man droned from the next chair, <said who="" aloud="true" direct="true">"it's time the Democratic party nominated a strong ..."</said></p>
+                    <p><said aloud="true" direct="true">"<orig type="informal">Yessir</orig>"</said> a deepvoiced man droned from the next chair, <said aloud="true" direct="true">"it's time the <orgName>Democratic <name type="role">party</name></orgName> nominated a strong ..."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Want a neckshave as well?"</said> The barber's greasyskinned moonface poked into his.</p>
+                    <p><said aloud="true" direct="true">"Want a neckshave as well?"</said> The barber's greasyskinned moonface poked into his.</p>
 
                     <p>He nodded.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Shampoo?"</said></p>
+                    <p><said aloud="true" direct="true">"Shampoo?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"No."</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"No."</said></p>
 
-                    <p>When the barber threw back the chair to shave him he wanted to crane his neck like a mudturtle turned over on its back. The lather spread drowsily on his face, prickling his nose, filling up his ears. Drowning in featherbeds of lather, blue lather, black, slit by the faraway glint of the razor, glint of the grubbing hoe through blueblack lather clouds. The old man on his back in the potatofield, his beard sticking up lathery white full of blood. Full of blood his socks from those blisters on his heels. His hands gripped each other cold and horny like a dead man's hands under the sheet. Lemme git up. . . . He opened his eyes. Padded fingertips were stroking his chin. He stared up at the ceiling where four flies made figure eights round a red crepe-paper bell. His tongue was dry leather in his mouth. The barber righted the chair again. 
+                    <p>When the barber threw back the chair to shave him he wanted to crane his neck like a mudturtle turned over on its back. The lather spread drowsily on his face, prickling his nose, filling up his ears. Drowning in featherbeds of lather, blue lather, black, slit by the faraway glint of the razor, glint of the grubbing hoe through blueblack lather clouds. The old man on his back in the potatofield, his beard sticking up lathery white full of blood. Full of blood his socks from those blisters on his heels. His hands gripped each other cold and horny like a dead man's hands under the sheet. Lemme git up. . . . He opened his eyes. Padded fingertips were stroking his chin. He stared up at the ceiling where <num type="cardinal" value="4">four</num> flies made figure <num type="cardinal" value="8">eights</num> round a red crepe-paper bell. His tongue was dry leather in his mouth. The barber righted the chair again. 
                     <person key="BudKorpenning">
                         <persName>
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     looked about blinking. <said who="" aloud="true" direct="true">"Four bits, and a nickel for the shine."</said></p>
+                     looked about blinking. <said aloud="true" direct="true">"<measure type="currency">Four bits</measure>, and <measure type="currency">a nickel</measure> for the shine."</said></p>
+                    <floatingText>
+                        <body>
+                            <p>ADMITS KILLING CRIPPLED MOTHER . . .</p>
+                        </body>
+                    </floatingText>
 
-                    <p>ADMITS KILLING CRIPPLED MOTHER . . .</p>
 
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"D'yous mind if I set here <time dur-iso="PT1M">a minute</time> an read that paper?"</said> he hears his voice drawling in his pounding ears.</p>
 
+                    <p><said aloud="true" direct="true">"Go right ahead."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"D'yous mind if I set here a minute an read that paper?"</said> he hears his voice drawling in his pounding ears.</p>
+                    <floatingText>
+                        <body>
+                            <p>PARKER'S FRIENDS PROTECT. . .</p>
+                        </body>
+                    </floatingText>
 
-                    <p><said who="" aloud="true" direct="true">"Go right ahead."</said></p>
+                    <p>The black print squirms before his eyes. <nationality>Russians</nationality>. . . MOB STONES. . . (Special Dispatch to the Herald) <place><placeName><settlement type="city">Trenton</settlement>, <region type="state">N.J.</placeName></place></p>
 
-                    <p>PARKER'S FRIENDS PROTECT. . .</p>
+                    <floatingText>
+                        <body>
+                            <p><person><persName><forename>Nathan</forename> <surname>Sibbetts</surname></persName></person>, <age value="14">fourteen years old</age>, broke down today after <time dur-iso="PT2W">two weeks</time> of steady denial of guilt and confessed to the police that he was responsible for the death of his aged and crippled mother, <person><persName><forename>Hannah</forename> <surname>Sibbetts</surname></persName></person>, after a quarrel in their home at <geogName><name>Jacob's</name> <geogFeature>Creek</geogFeature></geogName>, <location><measure>six miles</measure> <offset>above</offset></location> this city. Tonight he was committed to await the action of the <orgName>Grand <name type="role">Jury</name></orgName>.</p>
 
-                    <p>The black print squirms before his eyes. Russians. . . MOB STONES. . . (Special Dispatch to the Herald) Trenton, N.J.</p>
+                            <p>RELIEVE PORT ARTHUR IN FACE OF ENEMY . . . <person><persName><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Rix Loses</surname></persName></person> Husband's Ashes.</p>
 
-                    <p>Nathan Sibbetts, fourteen years old, broke down today after two weeks of steady denial of guilt and confessed to the police that he was responsible for the death of his aged and crippled mother, Hannah Sibbetts, after a quarrel in their home at Jacob's Creek, six miles above this city. Tonight he was committed to await the action of the Grand Jury.</p>
+                            <p><said direct="false">On <date when="--05-24">Tuesday May 24</date> at about <time when="08:30:00">half past eight o'clock</time> I came home after sleeping on the steam roller all night,</said> he said, <said direct="false">and went upstairs to sleep some more. I had only gotten to sleep when my mother came upstairs and told me to get up and if I didn't get up she would throw me downstairs. My mother grabbed hold of me to throw me downstairs. I threw her first and she fell to the bottom. I went downstairs and found that her head was twisted to one side. I then saw that she was dead and then I straightened her neck and covered her up with the cover from my bed.</said></p>
+                        </body>
+                    </floatingText>
 
-                    <p>RELIEVE PORT ARTHUR IN FACE OF ENEMY . . . Mrs. Rix Loses Husband's Ashes.</p>
-
-                    <p>On Tuesday May 24 at about half past eight o'clock I came home after sleeping on the steam roller all night, he said, and went upstairs to sleep some more. I had only gotten to sleep when my mother came upstairs and told me to get up and if I didn't get up she would throw me downstairs. My mother grabbed hold of me to throw me downstairs. I threw her first and she fell to the bottom. I went downstairs and found that her head was twisted to one side. I then saw that she was dead and then I straightened her neck and covered her up with the cover from my bed.</p>
 
                     <p>
                     <person key="BudKorpenning">
@@ -990,7 +1035,7 @@
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     folds the paper carefully, lays it on the chair and leaves the barbershop. Outside the air smells of crowds, is full of noise and sunlight. No more'n a needle in a haystack. . . <said who="" aloud="true" direct="true">"An I'm twentyfive years old,"</said> he muttered aloud. Think of a kid fourteen. . . . He walks faster along roaring pavements where the sun shines through the Elevated striping the blue street with warm seething yellow stripes. No more'n a needle in a haystack.</p>
+                     folds the paper carefully, lays it on the chair and leaves the barbershop. Outside the air smells of crowds, is full of noise and sunlight. No more'n a needle in a haystack. . . <said who="#BudKorpenning" aloud="true" direct="true">"An I'm <age>twentyfive years old</age>,"</said> he muttered aloud. Think of a kid <age>fourteen</age>. . . . He walks faster along roaring pavements where the sun shines through the Elevated striping the blue street with warm seething yellow stripes. No more'n a needle in a haystack.</p>
 
                     <p>
                     <person key="EdThatcher">
@@ -999,7 +1044,7 @@
                             <surname>Thatcher</surname>
                         </persName>
                     </person> 
-                    sat hunched over the pianokeys picking out the Mosquito Parade. Sunday afternoon sunlight streamed dustily through the heavy lace curtains of the window, squirmed in the red roses of the carpet, filled the cluttered parlor with specks and splinters of light. 
+                    sat hunched over the pianokeys picking out the <name type="song">Mosquito Parade</name>. Sunday afternoon sunlight streamed dustily through the heavy lace curtains of the window, squirmed in the red roses of the carpet, filled the cluttered parlor with specks and splinters of light. 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
@@ -1012,15 +1057,15 @@
                             <forename>Ellen</forename>
                         </persName>
                     </person>
-                    danced. Two small hands held up the pinkfrilled dress and now and then an emphatic little voice said, <said who="" aloud="true" direct="true">"Mummy watch my expression."</said></p>
+                    danced. <num type="cardinal" value="2">Two</num> small hands held up the pinkfrilled dress and now and then an emphatic little voice said, <said who="#EllenThatcher" aloud="true" direct="true">"Mummy watch my expression."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Just look at the child,"</said> said 
+                    <p><said who="#EdThatcher" aloud="true" direct="true">"Just look at the child,"</said> said 
                     <person key="EdThatcher">
                         <persName>
                             <surname>Thatcher</surname>
                         </persName>
                     </person> 
-                   , still playing. <said who="" aloud="true" direct="true">"She's a regular little balletdancer."</said></p>
+                   , still playing. <said who="#EdThatcher" aloud="true" direct="true">"She's a regular little balletdancer."</said></p>
 
                     <p>Sheets of the Sunday paper lay where they had fallen from the table; 
                     <person key="EllenThatcher">
@@ -1030,7 +1075,7 @@
                     </person>
                     started dancing on them, tearing the sheets under her nimble tiny feet.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Dont do that 
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"<orig type="informal">Dont</orig> do that 
                     <person key="EllenThatcher">
                         <persName>
                             <forename>Ellen</forename>
@@ -1044,9 +1089,9 @@
                     </person>
                     from the pink plush chair.</p>
 
-                    <p><said who="" aloud="true" direct="true">"But mummy I can do it while I dance."</said></p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"But mummy I can do it while I dance."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Dont do that mother said."</said> 
+                    <p><said who="#EdThatcher" aloud="true" direct="true">"<orig type="informal">Dont</orig> do that mother said."</said> 
                     <person key="EdThatcher">
                         <persName>
                             <forename>Ed</forename> 
@@ -1061,15 +1106,15 @@
                     </person>
                     was dancing to it, her arms swaying to it, her feet nimbly tearing the paper.</p>
 
-                    <p><said who="" aloud="true" direct="true">"
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"
                     <person key="EdThatcher">
                         <persName>
                             <forename>Ed</forename> 
                         </persName>
                     </person>
-                    for Heaven's sake pick the child up; she's tearing the paper."</said></p>
+                    for <placeName>Heaven</placeName>'s sake pick the child up; she's tearing the paper."</said></p>
 
-                    <p>He brought his fingers down in a lingering chord. <said who="" aloud="true" direct="true">"Deary you mustnt do that. Daddy's not finished reading it."</said></p>
+                    <p>He brought his fingers down in a lingering chord. <said who="#EdThatcher" aloud="true" direct="true">"Deary you <orig type="informal">mustnt</orig> do that. Daddy's not finished reading it."</said></p>
 
                     <p>
                     <person key="EllenThatcher">
@@ -1083,7 +1128,13 @@
                             <surname>Thatcher</surname>
                         </persName>
                     </person> 
-                    swooped down on her from the pianostool and set her squirming and laughing on his knee. <said who="" aloud="true" direct="true">"Ellen you should always mind when mummy speaks to you, and dear you shouldnt be destructive. It costs money to make that paper and people worked on it and daddy went out to buy it and he hasnt finished reading it yet. 
+                    swooped down on her from the pianostool and set her squirming and laughing on his knee. <said who="#EdThatcher" aloud="true" direct="true">"
+                    <person key="EllenThatcher">
+                        <persName>
+                            <forename>Ellen</forename> 
+                        </persName>
+                    </person>
+                    you should always mind when mummy speaks to you, and dear you shouldnt be destructive. It costs money to make that paper and people worked on it and daddy went out to buy it and he hasnt finished reading it yet. 
                     <person key="EllenThatcher">
                         <persName>
                             <addName type="nickname">Ellie</addName>
@@ -1097,19 +1148,19 @@
                     </person>
                     went on dancing, stepping carefully among the roses on the sunny field of the carpet.</p>
 
-                    <p>There were six men at the table in the lunch room eating fast with their hats on the backs of their heads.</p>
+                    <p>There were <num type="cardinal" value="6">six</num> men at the table in the lunch room eating fast with their hats on the backs of their heads.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Jiminy crickets!"</said> cried the young man at the end of the table who was holding a newspaper in one hand and a cup of coffee in the other. <said who="" aloud="true" direct="true">"Kin you beat it?"</said></p>
+                    <p><said aloud="true" direct="true">"Jiminy crickets!"</said> cried the young man at the end of the table who was holding a newspaper in one hand and a cup of coffee in the other. <said aloud="true" direct="true">"<orign type="informal">Kin</orig> you beat it?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Beat what?"</said> growled a longfaced man with a toothpick in the corner of his mouth.</p>
+                    <p><said aloud="true" direct="true">"Beat what?"</said> growled a longfaced man with a toothpick in the corner of his mouth.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Big snake appears on Fifth Avenue. . . . Ladies screamed and ran in all directions this morning at eleven thirty when a big snake crawled out of a crack in the masonry of the retaining wall of the reservoir at Fifth Avenue and Fortysecond Street and started to cross the sidewalk. . . ."</said></p>
+                    <p><said aloud="true" direct="true">"Big snake appears on <address><num type="ordinal" value="5">Fifth</num> Avenue</address>. . . . Ladies screamed and ran in all directions this morning at <time when="11:30:00">eleven thirty</time> when a big snake crawled out of a crack in the masonry of the retaining wall of the reservoir at <address><num type="ordinal" value="5">Fifth</num> Avenue</address> and <address><num type="ordinal" value="42">Fortysecond</num> Street</address> and started to cross the sidewalk. . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Some fish story. . . ."</said></p>
+                    <p><said aloud="true" direct="true">"Some fish story. . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"That aint nothin,"</said> said an old man. <said who="" aloud="true" direct="true">"When I was a boy we used to go snipeshootin on Brooklyn Flats. . . ."</said></p>
+                    <p><said aloud="true" direct="true">"That aint nothin,"</said> said an old man. <said aloud="true" direct="true">"When I was a boy we used to go snipeshootin on <placeName>Brooklyn<placeName> Flats. . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Holy Moses! it's quarter of nine,"</said> muttered the young man folding his paper and hurrying out into Hudson Street that was full of men and girls walking briskly through the ruddy morning. The scrape of the shoes of hairyhoofed drayhorses and the grind of the wheels of producewagons made a deafening clatter and filled the air with sharp dust. A girl in a flowered bonnet with a big lavender bow under her pert tilted chin was waiting for him in the door of M. Sullivan & Co., Storage and Warehousing. The young man felt all fizzy inside, like a freshly uncorked bottle of pop.</p>
+                    <p><said aloud="true" direct="true">"Holy <persName>Moses</persName>! it's <time when="09:15:00">quarter of nine</time>,"</said> muttered the young man folding his paper and hurrying out into <address>Hudson Street</address> that was full of men and girls walking briskly through the ruddy morning. The scrape of the shoes of hairyhoofed drayhorses and the grind of the wheels of producewagons made a deafening clatter and filled the air with sharp dust. A girl in a flowered bonnet with a big lavender bow under her pert tilted chin was waiting for him in the door of <orgName>M. Sullivan & Co., Storage and Warehousing</orgName>. The young man felt all fizzy inside, like a freshly uncorked bottle of pop.</p>
 
                     <p><said who="" aloud="true" direct="true">"Hello 
                     <person key="EmilyMerivale">
@@ -1125,45 +1176,51 @@
                     </person>
                     I've got a raise."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"You're pretty near late, d'you know that?"</said></p>
+                    <p><said who="#EmilyMerivale" aloud="true" direct="true">"You're pretty near late, d'you know that?"</said></p>
 
                     <p><said who="" aloud="true" direct="true">"But honest injun I've got a two-dollar raise."</said></p>
 
                     <p>She tilted her chin first to oneside and then to the other.</p>
 
-                    <p><said who="" aloud="true" direct="true">"I dont give a rap."</said></p>
+                    <p><said who="#EmilyMerivale" aloud="true" direct="true">"I dont give a rap."</said></p>
 
                     <p><said who="" aloud="true" direct="true">"You know what you said if I got a raise."</said> She looked in his eyes giggling.</p>
 
                     <p><said who="" aloud="true" direct="true">"An this is just the beginnin . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"But what good's fifteen dollars a week?"</said></p>
+                    <p><said who="#EmilyMerivale" aloud="true" direct="true">"But what good's <measure type="currency">fifteen dollars</measure> a week?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Why it's sixty dollars a month, an I'm learning the import business."</said></p>
+                    <p><said who="" aloud="true" direct="true">"Why it's <measure type="currency">sixty dollars</measure> a month, an I'm learning the import business."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Silly boy you'll be late."</said> She suddenly turned and ran up the littered stairs, her pleated bellshaped skirt swishing from side to side.</p>
+                    <p><said who="#EmilyMerivale" aloud="true" direct="true">"Silly boy you'll be late."</said> She suddenly turned and ran up the littered stairs, her pleated bellshaped skirt swishing from side to side.</p>
 
-                    <p><said who="" aloud="true" direct="true">"God! I hate her. I hate her."</said> Sniffing up the tears that were hot in his eyes, he walked fast down Hudson Street to the office of Winkle & Gulick, West India Importers.</p>
+                    <p><said who="" aloud="true" direct="true">"God! I hate her. I hate her."</said> Sniffing up the tears that were hot in his eyes, he walked fast down Hudson Street to the office of <orgName>Winkle & Gulick, West India Importers</orgName>.</p>
 
                     <p>The deck beside the forward winch was warm and briny damp. They were sprawled side by side in greasy denims talking drowsily in whispers, their ears full of the seethe of broken water as the bow shoved bluntly through the long grassgray swells of the Gulf Stream.</p>
 
-                    <p><said who="" aloud="true" direct="true">"J'te dis mon vieux, moi j'fou l'camp a New York. . . . The minute we tie up I go ashore and I stay ashore. I'm through with this dog's life."</said> The cabinboy had fair hair and an oval pink-and-cream face; a dead cigarette butt fell from between his lips as he spoke. <said who="" aloud="true" direct="true">"Merde!"</said> He reached for it as it rolled down the deck. It escaped his hand and bounced into the scuppers.</p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"<foreign xml:lang="fr">J'te dis mon vieux, moi j'fou l'camp a</foreign> <place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place>. . . . The minute we tie up I go ashore and I stay ashore. I'm through with this dog's life."</said> The cabinboy had fair hair and an oval pink-and-cream face; a dead cigarette butt fell from between his lips as he spoke. <said who="#EmileLoustec" aloud="true" direct="true">"<orig><foreign xml:lang="fr">Merde</foreign></orig>!"</said> He reached for it as it rolled down the deck. It escaped his hand and bounced into the scuppers.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Let it go. I've got plenty,"</said> said the other boy who lay on his belly kicking a pair of dirty feet up into the hazy sunlight. <said who="" aloud="true" direct="true">"The consul will just have you shipped back."</p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"Let it go. I've got plenty,"</said> said the other boy who lay on his belly kicking a pair of dirty feet up into the hazy sunlight. <said aloud="true" direct="true">"The consul will just have you shipped back."</p>
 
-                    <p><said who="" aloud="true" direct="true">"He wont catch me."</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"He wont catch me."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"And your military service?"</said></p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"And your military service?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"To hell with it. And with France too for that matter."</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"To hell with it. And with <place key="FR"><placeName><country>France</country></placeName></place> too for that matter."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"You want to make yourself an American citizen?"</said></p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"You want to make yourself an <nationality>American</nationality> citizen?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Why not? A man has a right to choose his country."</said></p>
+                    <p><said who="#EmileLoustec"aloud="true" direct="true">"Why not? A man has a right to choose his country."</said></p>
 
-                    <p>The other rubbed his nose meditatively with his fist and then let his breath out in a long whistle. <said who="" aloud="true" direct="true">"Emile you're a wise guy,"</said> he said.</p>
+                    <p>The other rubbed his nose meditatively with his fist and then let his breath out in a long whistle. <said who="#CongoJake" aloud="true" direct="true">"
+                    <person key="EmileLoustec">
+                        <persName>
+                            <forename>Emile</forename> 
+                        </persName>
+                    </person>
+                    you're a wise guy,"</said> he said.</p>
 
-                    <p><said who="" aloud="true" direct="true">"But 
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"But 
                     <person key="CongoJake">
                         <persName>
                             <forename>Congo</forename> 
@@ -1179,11 +1236,11 @@
                     </person>
                      rolled himself round and sat up crosslegged, scratching his head that was thick with kinky black hair.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Say how much does a woman cost in New York?"</said></p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"Say how much does a woman cost in <place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place>?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I dunno, expensive I guess. . . . I'm not going ashore to raise hell; I'm going to get a good job and work. Cant you think of nothing but women?"</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"I <orig type="informal">dunno</orig>, expensive I guess. . . . I'm not going ashore to raise hell; I'm going to get a good job and work. Cant you think of nothing but women?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"What's the use? Why not?"</said> said 
+                    <p><said who="#CongoJake" aloud="true" direct="true">"What's the use? Why not?"</said> said 
                     <person key="CongoJake">
                         <persName>
                             <forename>Congo</forename> 
@@ -1191,15 +1248,15 @@
                     </person>
                      and settled himself flat on the deck again, burying his dark sootsmudged face in his crossed arms.</p>
 
-                    <p><said who="" aloud="true" direct="true">"I want to get somewhere in the world, that's what I mean. Europe's rotten and stinking. In America a fellow can get ahead. Birth dont matter, education dont matter. It's all getting ahead."</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"I want to get somewhere in the world, that's what I mean. <place key="EU"><placeName><bloc type="continent">Europe</block></placeName></place>'s rotten and stinking. In <place key="USA"><placeName><bloc type="continent">America</block></placeName></place> a fellow can get ahead. Birth dont matter, education dont matter. It's all getting ahead."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"And if there was a nice passionate little woman right here now where the deck's warm, you wouldn't like to love her up?"</said></p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"And if there was a nice passionate little woman right here now where the deck's warm, you wouldn't like to love her up?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"After we're rich, we'll have plenty, plenty of everything."</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"After we're rich, we'll have plenty, plenty of everything."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"And they dont have any military service?"</said></p>
+                    <p><said who="#CongoJake" aloud="true" direct="true">"And they dont have any military service?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Why should they? Its the coin they're after. They dont want to fight people; they want to do business with them."</said></p>
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"Why should they? Its the coin they're after. They dont want to fight people; they want to do business with them."</said></p>
 
                     <p>
                     <person key="CongoJake">
@@ -1211,15 +1268,15 @@
 
                     <p>The cabin boy lay on his back looking at the clouds. They floated from the west, great piled edifices with the sunlight crashing through between, bright and white like tinfoil. He was walking through tall white highpiled streets, stalking in a frock coat with a tall white collar up tinfoil stairs, broad, cleanswept, through blue portals into streaky marble halls where money rustled and clinked on long tinfoil tables, banknotes, silver, gold.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Merde v'là l'heure."</said> The paired strokes of the bell in the crowsnest came faintly to their ears. <said who="" aloud="true" direct="true">"But dont forget, 
+                    <p><said who="#EmileLoustec" aloud="true" direct="true">"<foreign xml:lang="fr">Merde v'là l'heure</foreign>."</said> The paired strokes of the bell in the crowsnest came faintly to their ears. <said who="#EmileLoustec" aloud="true" direct="true">"But dont forget, 
                     <person key="CongoJake">
                         <persName>
                             <forename>Congo</forename> 
                         </persName>
                     </person>
-                    , the first night we get ashore. . ."</said> He made a popping noise with his lips. <said who="" aloud="true" direct="true">"We're gone."</said></p>
+                    , the first night we get ashore. . ."</said> He made a popping noise with his lips. <said who="#EmileLoustec" aloud="true" direct="true">"We're gone."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I was asleep. I dreamed of a little blonde girl. I'd have had her if you hadnt waked me."</said> The cabinboy got to his feet with a grunt and stood a moment looking west to where the swells ended in a sharp wavy line against a sky hard and abrupt as nickel. Then he pushed 
+                    <p><said who="#CongoJake" aloud="true" direct="true">"I was asleep. I dreamed of a little blonde girl. I'd have had her if you hadnt waked me."</said> The cabinboy got to his feet with a grunt and stood a moment looking west to where the swells ended in a sharp wavy line against a sky hard and abrupt as nickel. Then he pushed 
                     <person key="CongoJake">
                         <persName>
                             <forename>Congo</forename> 
@@ -1227,7 +1284,7 @@
                     </person>
                     's face down against the deck and ran aft, the wooden clogs clattering on his bare feet as he went.</p>
 
-                    <p>Outside, the hot June Saturday was dragging its frazzled ends down 110th Street. 
+                    <p>Outside, the hot June Saturday was dragging its frazzled ends down <address>110th Street</address>. 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
@@ -1236,11 +1293,17 @@
                     </person> 
                     lay uneasily in bed, her hands spread blue and bony on the coverlet before her. Voices came through the thin partition. A young girl was crying through her nose:</p>
 
-                    <p><said who="" aloud="true" direct="true">"I tell yer mommer I aint agoin back to him."</said></p>
+                    <p><said who="#Rosie?" aloud="true" direct="true">"I tell <orig type="informal">yer</orig> <orig type="informal">mommer</orig> I <orig type="informal">aint</orig> <orig type="informal">agoin</orig> back to him."</said></p>
 
-                    <p>Then came expostulating an old staid Jewish woman's voice: <said who="" aloud="true" direct="true">"But Rosie, married life aint all beer and skittles. A vife must submit and vork for her husband."</said></p>
+                    <p>Then came expostulating an old staid <nationality>Jewish</nationality> woman's voice: <said aloud="true" direct="true">"But 
+                    <person key="Rosie?">
+                        <persName>
+                            <forename>Rosie</forename> 
+                        </persName>
+                    </person>                     
+                    , married life <orig type="informal">aint</orig> all beer and skittles. A <orig type="accent">vife</orig> must submit and <orig type="accent">vork</orig> for her husband."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I wont. I cant help it. I wont go back to the dirty brute."</said></p>
+                    <p><said who="" aloud="true" direct="true">"I <orig type="informal">wont</orig>. I cant help it. I <orig type="informal">wont</orig> go back to the dirty brute."</said></p>
 
                     <p>
                     <person key="SusieThatcher">
@@ -1250,7 +1313,7 @@
                     </person>
                     sat up in bed, but she couldn't hear the next thing the old woman said.</p>
 
-                    <p><said who="" aloud="true" direct="true">"But I aint a Jew no more,"</said> suddenly screeched the young girl. <said who="" aloud="true" direct="true">"This aint Russia; it's little old New York. A girl's got some rights here."</said> Then a door slammed and everything was quiet.</p>
+                    <p><said who="#Rosie?" aloud="true" direct="true">"But I aint a <nationality>Jew</nationality> no more,"</said> suddenly screeched the young girl. <said who="" aloud="true" direct="true">"This aint <place key="RU"><placeName><country>Russia</block></placeName></place>; it's little old <place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place>. A girl's got some rights here."</said> Then a door slammed and everything was quiet.</p>
 
                     <p>
                     <person key="SusieThatcher">
@@ -1259,13 +1322,13 @@
                             <surname>Thatcher</surname>
                         </persName>
                     </person>                      
-                    stirred in bed moaning fretfully. Those awful people never give me a moment's peace. From below came the jingle of a pianola playing the Merry Widow Waltz. O Lord! why dont 
+                    stirred in bed moaning fretfully. Those awful people never give me a moment's peace. From below came the jingle of a pianola playing the <name type="song">Merry Widow Waltz</name>. <said who="#SusieThatcher" aloud="false" direct="false">O <name type="entity">Lord</name>! why dont 
                     <person key="EdThatcher">
                         <persName>
                             <forename>Ed</forename> 
                         </persName>
                     </person>                    
-                    come home? It's cruel of them to leave a sick woman alone like this. Selfish. She twisted up her mouth and began to cry. Then she lay quiet again, staring at the ceiling watching the flies buzz teasingly round the electriclight fixture. A wagon clattered by down the street. She could hear children's voices screeching. A boy passed yelling an extra. Suppose there'd been a fire. That terrible Chicago theater fire. Oh I'll go mad! She tossed about in the bed, her pointed nails digging into the palms of her hands. I'll take another tablet. Maybe I can get some sleep. She raised herself on her elbow and took the last tablet out of a little tin box. The gulp of water that washed the tablet down was soothing to her throat. She closed her eyes and lay quiet.</p>
+                    come home? It's cruel of them to leave a sick woman alone like this. Selfish.</said> She twisted up her mouth and began to cry. Then she lay quiet again, staring at the ceiling watching the flies buzz teasingly round the electriclight fixture. A wagon clattered by down the street. She could hear children's voices screeching. A boy passed yelling an extra. <said who="#SusieThatcher" aloud="false" direct="false">Suppose there'd been a fire. That terrible <place key="Chicago"><placeName><settlement type="city">Chicago</settlement></placeName></place> theater fire. Oh I'll go mad!</said> She tossed about in the bed, her pointed nails digging into the palms of her hands. <said who="#SusieThatcher" aloud="false" direct="false">I'll take another tablet. Maybe I can get some sleep.</said> She raised herself on her elbow and took the last tablet out of a little tin box. The gulp of water that washed the tablet down was soothing to her throat. She closed her eyes and lay quiet.</p>
 
                     <p>She woke with a start. 
                     <person key="EllenThatcher">
@@ -1275,15 +1338,15 @@
                     </person>
                     was jumping round the room, her green tam falling off the back of her head, her coppery curls wild.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Oh mummy I want to be a little boy."</said></p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"Oh mummy I want to be a little boy."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Quieter dear. Mother's not feeling a bit well."</said></p>
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"Quieter dear. Mother's not feeling a bit well."</said></p>
 
 
 
-                    <p><said who="" aloud="true" direct="true">"I want to be a little boy."</said></p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"I want to be a little boy."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Why 
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"Why 
                     <person key="EdThatcher">
                         <persName>
                             <forename>Ed</forename> 
@@ -1291,7 +1354,13 @@
                     </person>
                     what have you done to the child? She's all wrought up."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"We're just excited, Susie. We've been to the most wonderful play. You'd have loved it, it's so poetic and all that sort of thing. And Maude Adams was fine. 
+                    <p><said who="#EdThatcher" aloud="true" direct="true">"We're just excited, 
+                    <person key="SusieThatcher">
+                        <persName>
+                            <forename>Susie</forename> 
+                        </persName>
+                    </person>                      
+                    . We've been to the most wonderful play. You'd have loved it, it's so poetic and all that sort of thing. And <person><persName><forename>Maude</forename> <surname>Adams</surname><persName><person> was fine. 
                     <person key="EllenThatcher">
                         <persName>
                             <addName type="nickname">Ellie</addName>
@@ -1299,11 +1368,11 @@
                     </person>
                     loved every minute of it."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"It seems silly, as I said before, to take such a young child . . ."</said></p>
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"It seems silly, as I said before, to take such a young child . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Oh daddy I want to be a boy."</said></p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"Oh daddy I want to be a boy."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I like my little girl the way she is. We'll have to go again 
+                    <p><said who="#EdThatcher" aloud="true" direct="true">"I like my little girl the way she is. We'll have to go again 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
@@ -1311,23 +1380,23 @@
                     </person>
                     and take you."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"
                     <person key="EdThatcher">
                         <persName>
                             <forename>Ed</forename> 
                         </persName>
                     </person>
-                    you know very well I wont be well enough."</said> She sat bolt upright, her hair hanging a straight faded yellow down her back. <said who="" aloud="true" direct="true">"Oh, I wish I'd die . . . I wish I'd die, and not be a burden to you any more. . . . You hate me both of you. If you didnt hate me you wouldnt leave me alone like this."</said> She choked and put her face in her hands.</p>
+                    you know very well I wont be well enough."</said> She sat bolt upright, her hair hanging a straight faded yellow down her back. <said who="" aloud="true" direct="true">"Oh, I wish I'd die . . . I wish I'd die, and not be a burden to you any more. . . . You hate me both of you. If you didnt hate me you <orig type="informal">wouldnt</orig> leave me alone like this."</said> She choked and put her face in her hands.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Oh I wish I'd die,"</said> she sobbed through her fingers.</p>
+                    <p><said who="#SusieThatcher" aloud="true" direct="true">"Oh I wish I'd die,"</said> she sobbed through her fingers.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Now 
+                    <p><said who="#EdThatcher" aloud="true" direct="true">"Now 
                     <person key="SusieThatcher">
                         <persName>
                             <forename>Susie</forename> 
                         </persName>
                     </person>                    
-                    for Heaven's sakes, it's wicked to talk like that."</said> He put his arm round her and sat on the bed beside her.</p>
+                    for <placeName>Heaven<placeName>'s sakes, it's wicked to talk like that."</said> He put his arm round her and sat on the bed beside her.</p>
 
                     <p>Crying quietly she dropped her head on his shoulder. 
                     <person key="EllenThatcher">
@@ -1335,7 +1404,13 @@
                             <forename>Ellen</forename>
                         </persName>
                     </person>
-                    stood staring at them out of round gray eyes. Then she started jumping up and down, chanting to herself, <said who="" aloud="true" direct="true">"Ellie's goin to be a boy, 
+                    stood staring at them out of round gray eyes. Then she started jumping up and down, chanting to herself, <said who="#EllenThatcher" aloud="true" direct="true">"
+                    <person key="EllenThatcher">
+                        <persName>
+                            <addName type="nickname">Ellie</addName>
+                        </persName>
+                    </person>                    
+                    's goin to be a boy, 
                     <person key="EllenThatcher">
                         <persName>
                             <addName type="nickname">Ellie</addName>
@@ -1349,39 +1424,39 @@
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     walked down Broadway, past empty lots where tin cans glittered among grass and sumach bushes and ragweed, between ranks of billboards and Bull Durham signs, past shanties and abandoned squatters' shacks, past gulches heaped with wheelscarred rubbishpiles where dumpcarts were dumping ashes and clinkers, past knobs of gray outcrop where steamdrills continually tapped and nibbled, past excavations out of which wagons full of rock and clay toiled up plank roads to the street, until he was walking on new sidewalks along a row of yellow brick apartment houses, looking in the windows of grocery stores, Chinese laundries, lunchrooms, flower and vegetable shops, tailors', delicatessens. Passing under a scaffolding in front of a new building, he caught the eye of an old man who sat on the edge of the sidewalk trimming oil lamps. 
+                     walked down <address>Broadway</address>, past empty lots where tin cans glittered among grass and sumach bushes and ragweed, between ranks of billboards and <name type="brand">Bull Durham</name> signs, past shanties and abandoned squatters' shacks, past gulches heaped with wheelscarred rubbishpiles where dumpcarts were dumping ashes and clinkers, past knobs of gray outcrop where steamdrills continually tapped and nibbled, past excavations out of which wagons full of rock and clay toiled up plank roads to the street, until he was walking on new sidewalks along a row of yellow brick apartment houses, looking in the windows of grocery stores, <nationality>Chinese</nationality> laundries, lunchrooms, flower and vegetable shops, tailors', delicatessens. Passing under a scaffolding in front of a new building, he caught the eye of an old man who sat on the edge of the sidewalk trimming oil lamps. 
                     <person key="BudKorpenning">
                         <persName>
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     stood beside him, hitching up his pants; cleared his throat:</p>
+                    stood beside him, hitching up his pants; cleared his throat:</p>
 
-                    <p><said who="" aloud="true" direct="true">"Say mister you couldnt tell a feller where a good place was to look for a job?"</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Say mister you couldnt tell a <orig type="informal">feller</orig> where a good place was to look for a job?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Aint no good place to look for a job, young feller. . . .</span></p>
+                    <p><said aloud="true" direct="true">"Aint no good place to look for a job, young <orig type="informal">feller</orig>. . . .</span></p>
 
-                    <p><said who="" aloud="true" direct="true">There's jobs all right. . . . I'll be sixty-five years old in a month and four days an I've worked sence I was five I reckon, an I aint found a good job yet."</said></p>
+                    <p><said aloud="true" direct="true">There's jobs all right. . . . I'll be sixty-five years old in a month and four days an I've worked <orig type="informal">sence</orig> I was five I reckon, <orig type="informal">an</orig> I <orig type="informal">aint</orig> found a good job yet."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Anything that's a job'll do me."</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Anything that's a job'll do me."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Got a union card?"</said></p>
+                    <p><said aloud="true" direct="true">"Got a union card?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I aint got nothin."</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"I aint got nothin."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Cant git no job in the buildin trades without a union card,"</said> said the old man. He rubbed the gray bristles of his chin with the back of his hand and leaned over the lamps again. 
+                    <p><said aloud="true" direct="true">"<orig type="informal">Cant</orig> <orig type="informal">git</orig> no job in the <orig type="informal">buildin</orig> trades without a union card,"</said> said the old man. He rubbed the gray bristles of his chin with the back of his hand and leaned over the lamps again. 
                     <person key="BudKorpenning">
                         <persName>
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     stood staring into the dustreeking girder forest of the new building until he found the eyes of a man in a derby hat fixed on him through the window of the watchman's shelter. He shuffled his feet uneasily and walked on. If I could git more into the center of things. . . .</p>
+                    stood staring into the dustreeking girder forest of the new building until he found the eyes of a man in a derby hat fixed on him through the window of the watchman's shelter. He shuffled his feet uneasily and walked on. If I could git more into the center of things. . . .</p>
 
-                    <p>At the next corner a crowd was collecting round a high-slung white automobile. Clouds of steam poured out of its rear end. A policeman was holding up a small boy by the armpits. From the car a redfaced man with white walrus whiskers was talking angrily.</p>
+                    <p>At the next corner a crowd was collecting round a high-slung white automobile. Clouds of steam poured out of its rear end. A <occupation>policeman</occupation> was holding up a small boy by the armpits. From the car a redfaced man with white walrus whiskers was talking angrily.</p>
 
-                    <p><said who="" aloud="true" direct="true">"I tell you officer he threw a stone. . . . This sort of thing has got to stop. For an officer to countenance hoodlums and rowdies. . . ."</said></p>
+                    <p><said aloud="true" direct="true">"I tell you <occupation>officer</occupation> he threw a stone. . . . This sort of thing has got to stop. For an <occupation>officer</occupation> to countenance hoodlums and rowdies. . . ."</said></p>
 
-                    <p>A woman with her hair done up in a tight bunch on top of her head was screaming, shaking her fist at the man in the car, <said who="" aloud="true" direct="true">"Officer he near run me down he did, he near run me down."</said></p>
+                    <p>A woman with her hair done up in a tight bunch on top of her head was screaming, shaking her fist at the man in the car, <said aloud="true" direct="true">"<occupation>Officer</occupation> he near run me down he did, he near run me down."</said></p>
 
 
 
@@ -1391,25 +1466,25 @@
                             <forename>Bud</forename> 
                         </persName>
                     </person>
-                     edged up next to a young man in a butcher's apron who had a baseball cap on backwards.</p>
+                    edged up next to a young man in a <occupation>butcher</occupation>'s apron who had a baseball cap on backwards.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Wassa matter?"</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"<orig type="informal">Wassa</orig> matter?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Hell I dunno. . . . One o them automoebile riots I guess. Aint you read the paper? I dont blame em do you? What right have those golblamed automoebiles got racin round the city knockin down wimen an children?"</said></p>
+                    <p><said aloud="true" direct="true">"Hell I <orig type="informal">dunno</orig>. . . . One <orig type="informal">o</orig> them automoebile riots I guess. <orig type="informal">Aint</orig> you read the paper? I dont blame <orig type="informal">em</orig> do you? What right have those golblamed automoebiles got <orig type="informal">racin</orig> round the city knockin down <orig type="informal">wimen</orig> an children?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Gosh do they do that?"</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Gosh do they do that?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Sure they do."</said></p>
+                    <p><said aloud="true" direct="true">"Sure they do."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Say . . . er . . . kin you tell me about where's a good place to find out about gettin a job?"</said> The butcherboy threw back head and laughed.</p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Say . . . <orig type="informal">er</orig> . . . <orig type="informal">kin</orig> you tell me about where's a good place to find out about gettin a job?"</said> The <occupation>butcherboy</occupation> threw back head and laughed.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Kerist I thought you was goin to ask for a handout. . . . I guess you aint a Newyorker. . . . I'll tell you what to do. You keep right on down Broadway till you get to City Hall. . . ."</said></p>
+                    <p><said aloud="true" direct="true">"<orig type="informal">Kerist</orig> I thought you was <orig type="informal">goin</orig> to ask for a handout. . . . I guess you aint a Newyorker. . . . I'll tell you what to do. You keep right on down <address>Broadway</address> till you get to <name type="building">City Hall</name>. . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Is that kinder the center of things?"</said></p>
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Is that kinder the center of things?"</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Sure it is. . . . An then you go upstairs and ask the Mayor. . . . Tell me there are some seats on the board of aldermen . . ."</said></p>
+                    <p><said aloud="true" direct="true">"Sure it is. . . . An then you go upstairs and ask the <occupation>Mayor</occupation>. . . . Tell me there are some seats on the board of aldermen . . ."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Like hell they are,"</said> growled 
+                    <p><said who="#BudKorpenning" aloud="true" direct="true">"Like hell they are,"</said> growled 
                     <person key="BudKorpenning">
                         <persName>
                             <forename>Bud</forename> 
@@ -1417,35 +1492,35 @@
                     </person>
                      and walked away fast.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Roll ye babies . . . roll ye lobsided sons o bitches."</said></p>
+                    <p><said aloud="true" direct="true">"Roll <orig type="informal">ye</orig> babies . . . roll <orig type="informal">ye</orig> lobsided <orig type="?">sons o bitches</orig>."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"That's it talk to em Slats."</said></p>
+                    <p><said aloud="true" direct="true">"That's it talk to <orig type="informal">em</orig> <person><persName><addName>Slats</addName></persName></person>."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Come seven!"</said> Slats shot the bones out of his hand, brought the thumb along his sweaty fingers with a snap. <said who="" aloud="true" direct="true">"Aw hell."</p>
+                    <p><said aloud="true" direct="true">"Come <num type="cardinal" value="7">seven</num>!"</said> <person><persName><addName>Slats</addName></persName></person> shot the bones out of his hand, brought the thumb along his sweaty fingers with a snap. <said who="" aloud="true" direct="true">"Aw hell."</p>
 
-                    <p><said who="" aloud="true" direct="true">"You're some great crapshooter I'll say, Slats."</said></p>
+                    <p><said aloud="true" direct="true">"You're some great crapshooter I'll say, <person><persName><addName>Slats</addName></persName></person>."</said></p>
 
-                    <p>Dirty hands added each a nickel to the pile in the center of the circle of patched knees stuck forward. The five boys were sitting on their heels under a lamp on South Street.</p>
+                    <p>Dirty hands added each a nickel to the pile in the center of the circle of patched knees stuck forward. The <num type="cardinal" value="5">five</num> boys were sitting on their heels under a lamp on <adress>South Street</adress>.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Come on girlies we're waitin for it. . . . Roll ye little bastards, goddam ye, roll."</said></p>
+                    <p><said aloud="true" direct="true">"Come on <orig type="informal">girlies</orig> we're <orig type="informal">waitin</orig> for it. . . . Roll <orig type="informal">ye</orig> little bastards, <orig type="informal">goddam</orig> <orig type="informal">ye</orig>, roll."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Cheeze it fellers! There's Big Leonard an his gang acomin down the block."</said></p>
+                    <p><said aloud="true" direct="true">"<orig type="informal">Cheeze</orig> it <orig type="informal">fellers</orig>! There's <person><persName><addName type="nickname">Big Leonard</addName></persName></person> an his gang <orig type="informal">acomin</orig> down the block."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"I'd knock his block off for a . . ."</said></p>
+                    <p><said aloud="true" direct="true">"I'd knock his block off for a . . ."</said></p>
 
 
 
-                    <p>Four of them were already slouching off along the wharf, gradually scattering without looking back. The smallest boy with a chinless face shaped like a beak stayed behind quietly picking up the coins. Then he ran along the wall and vanished into the dark passageway between two houses. He flattened himself behind a chimney and waited. The confused voices of the gang broke into the passageway; then they had gone on down the street. The boy was counting the nickels in his hand. Ten. <said who="" aloud="true" direct="true">"Jez, that's fifty cents. . . . I'll tell 'em Big Leonard scooped up the dough."</said> His pockets had no bottoms, so he tied the nickels into one of his shirt tails.</p>
+                    <p><num type="cardinal" value="4">Four</num> of them were already slouching off along the wharf, gradually scattering without looking back. The smallest boy with a chinless face shaped like a beak stayed behind quietly picking up the coins. Then he ran along the wall and vanished into the dark passageway between two houses. He flattened himself behind a chimney and waited. The confused voices of the gang broke into the passageway; then they had gone on down the street. The boy was counting the nickels in his hand. <num type="cardinal" value="10">Ten</num>. <said aloud="true" direct="true">"<orig type="informal">Jez</orig>, that's <measure type="currency">fifty cents</measure>. . . . I'll tell 'em <person><persName><addName type="nickname">Big Leonard</addName></persName></person> scooped up the dough."</said> His pockets had no bottoms, so he tied the nickels into one of his shirt tails.</p>
 
-                    <p>A goblet for Rhine wine hobnobbed with a champagne glass at each place along the glittering white oval table. On eight glossy white plates eight canapés of caviar were like rounds of black beads on the lettuceleaves, flanked by sections of lemon, sprinkled with a sparse chopping of onion and white of egg. <said who="" aloud="true" direct="true">"Beaucoup de soing and dont you forget it,"</said> said the old waiter puckering up his knobbly forehead. He was a short waddling man with a few black strands of hair plastered tight across a domed skull.</p>
+                    <p>A goblet for <geogName type="river">Rhine<geogName> wine hobnobbed with a champagne glass at each place along the glittering white oval table. On <num type="cardinal" value="8">eight</num> glossy white plates <num type="cardinal" value="8">eight</num> canapés of caviar were like rounds of black beads on the lettuceleaves, flanked by sections of lemon, sprinkled with a sparse chopping of onion and white of egg. <said aloud="true" direct="true">"<foreign xml:lang="fr">Beaucoup de soing</foreign> and <orig type="informal">dont</orig> you forget it,"</said> said the old waiter puckering up his knobbly forehead. He was a short waddling man with a few black strands of hair plastered tight across a domed skull.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Awright."</said> 
+                    <p><said aloud="true" direct="true">"<orig type="informal">Awright</orig>."</said> 
                     <person key="EmileLoustec">
                         <persName>
                             <forename>Emile</forename> 
                         </persName>
                     </person>
-                     nodded his head gravely. His collar was too tight for him. He was shaking a last bottle of champagne into the nickelbound bucket of ice on the servingtable.</p>
+                    nodded his head gravely. His collar was too tight for him. He was shaking a last bottle of champagne into the nickelbound bucket of ice on the servingtable.</p>
 
                     <p><said who="" aloud="true" direct="true">"Beaucoup de soing, sporca madonna. . . . Thisa guy trows money about lika confetti, see. . . . Gives tips, see. He's a verra rich gentleman. He dont care how much he spend." 
                     <person key="EmileLoustec">
@@ -3842,7 +3917,7 @@
 
                     <p><said who="" aloud="true" direct="true">"He's never made anything much by it,"</said> said Baldwin.</p>
 
-                    <p><said who="" aloud="true" direct="true">"He may yet. . . . He may yet. . . . Man you ought to see his plans for allsteel buildins. He's got an idea the skyscraper of the future'll be built of steel and glass. We've been experimenting with vitrous tile recently. . . . cristamighty some of his plans would knock yer eye out. . . . He's got a great sayin about some Roman emperor who found Rome of brick and left it of marble. Well he says he's found New York of brick an that he's goin to leave it of steel . . . steel an glass. I'll have to show you his project for a rebuilt city. It's some pipedream."</said></p>
+                    <p><said who="" aloud="true" direct="true">"He may yet. . . . He may yet. . . . Man you ought to see his plans for allsteel buildins. He's got an idea the skyscraper of the future'll be built of steel and glass. We've been experimenting with vitrous tile recently. . . . cristamighty some of his plans would knock yer eye out. . . . He's got a great sayin about some Roman emperor who found <place key="Rome#"><placeName><settlement type="city">Rome</settlement></placeName></place> of brick and left it of marble. Well he says he's found New York of brick an that he's goin to leave it of steel . . . steel an glass. I'll have to show you his project for a rebuilt city. It's some pipedream."</said></p>
 
                     <p>They settled on a cushioned bench in the corner of the restaurant that smelled of steak and the grill.
                     <person key="PhilSandbourne">
@@ -6661,6 +6736,7 @@
                     <p>Captain McAvoy sucked a good half of his mustache into his mouth. <said who="" aloud="true" direct="true">"God damn it to hell,"</said> he groaned. <said who="" aloud="true" direct="true">"A pretty thing to happen on a man's wedding day."</p>
                 </div>
             </div>
+
         </body>
         </text>
         </group>
@@ -9869,7 +9945,7 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
         <group> <!-- Third Section-->
         <text>
         <body>
-            <div n="3" type="section">
+<div n="3" type="section">
                 <head>Third Section<head>
 
 
@@ -12157,7 +12233,7 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
 
                 <div n="5" type="chapter">
-                    <head>V. The Burthen of Nineveh</head> <!-- Ale -->
+                    <head>V. The Burthen of <place key="Nineveh#"><placeName><settlement type="city">Nineveh</settlement></placeName></place></head> <!-- Ale -->
 
                     <p>Seeping in red twilight out of the Gulf Stream fog, throbbing brassthroat that howls through the stiff-fingered streets, prying open glazed eyes of skyscrapers, splashing red lead on the girder ed thighs of the five bridges, teasing caterwauling tug boats into heat under the toppling smoketrees of the harbor.</p>
 
@@ -12305,7 +12381,7 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p><said who="" aloud="true" direct="true">"We was goin to play injuns, but now I guess we'll play tramps,"</said> said Joe warming up a little. The tramp brought a newspaper package out of the formless pocket of his weathergreened coat and began unwrapping it carefully. A good smell began to come from the sizzling ham. Skinny sat down again, still keeping as far away as he could without missing anything. The tramp divided up his chicken and they began to eat together.</p>
 
-                    <p><said who="" aloud="true" direct="true">"Gabriel old scout will you just look at that?"</said> The tramp started his singsong shouting that made the boys feel scared again. It was beginning to get dark. The tramp was shouting with his mouth full pointing with a drumstick towards the flickering checkerboard of lights going on up Riverside Drive. <said who="" aloud="true" direct="true">"Juss set here a minute an look at her Gabriel. . . . Look at the old bitch if you'll pardon the expression. Earthquake insurance, gosh they need it dont they? Do you know how long God took to destroy the tower of Babel, folks? Seven minutes. Do you know how long the Lord God took to destroy Babylon and Nineveh? Seven minutes. There's more wickedness in one block in New York City than there was in a square mile in Nineveh, and how long do you think the Lord God of Sabboath will take to destroy New York City an Brooklyn an the Bronx? Seven seconds. Seven seconds. . . . Say kiddo what's your name?"</said> He dropped into his low purring voice and made a pass at Joe with his drumstick.</p>
+                    <p><said who="" aloud="true" direct="true">"Gabriel old scout will you just look at that?"</said> The tramp started his singsong shouting that made the boys feel scared again. It was beginning to get dark. The tramp was shouting with his mouth full pointing with a drumstick towards the flickering checkerboard of lights going on up Riverside Drive. <said who="" aloud="true" direct="true">"Juss set here a minute an look at her Gabriel. . . . Look at the old bitch if you'll pardon the expression. Earthquake insurance, gosh they need it dont they? Do you know how long God took to destroy the tower of Babel, folks? Seven minutes. Do you know how long the Lord God took to destroy <place key="Babylon#"><placeName><settlement type="city">Babylon</settlement></placeName></place> and <place key="Nineveh#"><placeName><settlement type="city">Nineveh</settlement></placeName></place>? Seven minutes. There's more wickedness in one block in New York City than there was in a square mile in <place key="Nineveh#"><placeName><settlement type="city">Nineveh</settlement></placeName></place>, and how long do you think the Lord God of Sabboath will take to destroy New York City an Brooklyn an the Bronx? Seven seconds. Seven seconds. . . . Say kiddo what's your name?"</said> He dropped into his low purring voice and made a pass at Joe with his drumstick.</p>
 
                     <p><said who="" aloud="true" direct="true">"Joseph Cameron Parker. . . . We live in Union."</said></p>
 
@@ -12385,7 +12461,7 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p><said who="" aloud="true" direct="true">"I cant. Good luck Nevada."</said> The whisky warm in his stomach, tingling in his fingers, Jimmy Herf stepped out into seven o'clock Park Avenue, whirring with taxicabs, streaked with smells of gasoline and restaurants and twilight.</p>
 
-                    <p>It was the first evening James Merivale had gone to the Metropolitan Club since he had been put up for it; he had been afraid, that like carrying a cane, it was a little old for him. He sat in a deep leather chair by a window smoking a thirty-five cent cigar with the Wall Street Journal on his knee and a copy of the Cosmopolitan leaning against his right thigh and, with his eyes on the night flawed with lights like a crystal, he abandoned himself to reverie: Economic Depression. . . . Ten million dollars. . . . After the war slump. Some smash I'll tell the world, blackhead & densch fail for $10,000,000. . . . Densch left the country some days ago. . . . Blackhead incommunicado in his home at Great Neck. One of the oldest and most respected import and export firms in New York, $10,000,000. O it's always fair weather When good fellows get together. That's the thing about banking. Even in a deficit there's money to be handled, collateral. These commercial propositions always entail a margin of risk. We get 'em coming or else we get 'em going, eh Merivale? That's what old Perkins said when Cunningham mixed him that Jack Rose. . . . With a stein on the tabul And a good song ri-i-inging clear. Good connection that feller. Maisie knew what she was doing after all. . . . A man in a position like that's always likely to be blackmailed. A fool not to prosecute. . . . Girl's crazy he said, married to another man of the same name. . . . Ought to be in a sanitarium, a case like that. God I'd have dusted his hide for him. Circumstances exonerated him completely, even mother admitted that. O Sinbad was in had in Tokio and Rome . . . . that's what Jerry used to sing. Poor old Jerry never had the feeling of being in good right in on the ground floor of the Metropolitan Club. . . . Comes of poor stock. Take Jimmy now . . . hasnt even that excuse, an out and out failure, a misfit from way back. . . . Guess old man Herf was pretty wild, a yachtsman. Used to hear mother say Aunt Lily had to put up with a whole lot. Still he might have made something of himself with all his advantages . . . dreamer, wanderlust . . . Greenwich Village stuff. And dad did every bit as much for him as he did for me. . . . And this divorce now. Adultery . . . with a prostitute like as not. Probably had syphilis or something. Ten Million Dollar Failure.</p>
+                    <p>It was the first evening James Merivale had gone to the Metropolitan Club since he had been put up for it; he had been afraid, that like carrying a cane, it was a little old for him. He sat in a deep leather chair by a window smoking a thirty-five cent cigar with the Wall Street Journal on his knee and a copy of the Cosmopolitan leaning against his right thigh and, with his eyes on the night flawed with lights like a crystal, he abandoned himself to reverie: Economic Depression. . . . Ten million dollars. . . . After the war slump. Some smash I'll tell the world, blackhead & densch fail for $10,000,000. . . . Densch left the country some days ago. . . . Blackhead incommunicado in his home at Great Neck. One of the oldest and most respected import and export firms in New York, $10,000,000. O it's always fair weather When good fellows get together. That's the thing about banking. Even in a deficit there's money to be handled, collateral. These commercial propositions always entail a margin of risk. We get 'em coming or else we get 'em going, eh Merivale? That's what old Perkins said when Cunningham mixed him that Jack Rose. . . . With a stein on the tabul And a good song ri-i-inging clear. Good connection that feller. Maisie knew what she was doing after all. . . . A man in a position like that's always likely to be blackmailed. A fool not to prosecute. . . . Girl's crazy he said, married to another man of the same name. . . . Ought to be in a sanitarium, a case like that. God I'd have dusted his hide for him. Circumstances exonerated him completely, even mother admitted that. O Sinbad was in had in Tokio and <place key="Rome#"><placeName><settlement type="city">Rome</settlement></placeName></place> . . . . that's what Jerry used to sing. Poor old Jerry never had the feeling of being in good right in on the ground floor of the Metropolitan Club. . . . Comes of poor stock. Take Jimmy now . . . hasnt even that excuse, an out and out failure, a misfit from way back. . . . Guess old man Herf was pretty wild, a yachtsman. Used to hear mother say Aunt Lily had to put up with a whole lot. Still he might have made something of himself with all his advantages . . . dreamer, wanderlust . . . Greenwich Village stuff. And dad did every bit as much for him as he did for me. . . . And this divorce now. Adultery . . . with a prostitute like as not. Probably had syphilis or something. Ten Million Dollar Failure.</p>
 
                     <p>Failure. Success.</p>
 

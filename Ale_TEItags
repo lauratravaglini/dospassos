@@ -1,0 +1,57 @@
+KEYS
+_Places_
+Babylon#
+Nineveh#
+Rome#
+Athens#
+Constantinople#
+<place key="FR"><placeName><country>France</country></placeName></place>
+
+(per ora non hanno keys: Queens, Long Island, Manhattan, Broadway) << CITY
+
+_People_
+
+if person not relevant: no key
+<person><persName><forename>Nathan</forename> <surname>Sibbetts</surname></persName></person>
+
+
+TAGS
+
+measures and numbers:
+<measure type="currency"></measure>
+<num type="ordinal" value="2">second</num>
+
+people/individuals:
+<occupation>nurse</occupation>
+<name type="entity">God</name>
+
+
+dates and time:
+<time dur-iso="PT10Y">ten years</time>
+
+places:
+<place key="NewYork"><placeName><settlement type="city">New York</settlement></placeName></place>
+<geogName><name>East</name><geogFeature>River</geogFeature></geogName>
+<placeName><settlement type="city">Trenton</settlement>, <region type="state">N.J.</placeName>
+<placeName>Heaven</placeName>?
+<place key="EU"><placeName><bloc type="continent">Europe</block></placeName></place>
+<place key="FR"><placeName><country>France</block></placeName></place>
+<name type="building">City Hall</name>
+<geogName type="river">Rhine<geogName>
+
+organisations:
+<orgName>Democratic <name type="role">party</name></orgName>
+
+other names:
+<name type="song">Mosquito Parade</name>
+<name type="brand">Bull Durham</name>
+
+
+
+DUBBI
+--- exclamation: <orig type="informal">By gad</orig> ???
+<orig type="????">Merde</orig>??
+<orig type="?">sons o bitches</orig>
+
+<placeName> after -->> <place>????
+<persName> after -->> <person>

@@ -1,6 +1,8 @@
 PLACES:
 key="USA"
 key="NewYork"
+key="Babylon#"
+
 ? <geogName><name>Canal</name></geogName>
 ? <placeName>Onteora<placeName>
 ? <address>Broadway</address>
@@ -129,6 +131,9 @@ Floating Text:
                         </body>
                     </floatingText>
 
+<time dur-iso="PT50Y">50 years</time>
+https://en.wikipedia.org/wiki/ISO_8601
+
 
 Come definiamo le parti in slang?
 Es.
@@ -136,3 +141,4 @@ Es.
 
 Poi: ho usato "german-accent" qui perché non sapevo come fare
 <orig type="german-accent">Congradulade</orig> me, <orig type="german-accent">Congradulade</orig> me; <orig type="german-accent">mein vife</orig> has <orig type="german-accent">giben</orig> birth to a <orig type="german-accent">poy</orig>
+
