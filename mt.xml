@@ -6893,18 +6893,36 @@
                             <roleName type="honorific">Miss</roleName>
                             <surname>Wilkins</surname>
                         </persName>
-                    </person> this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
+                    </person> this is 
+                    <person key="JimmyHerf">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName>
+                            <surname>Herf</surname>
+                        </persName>
+                    </person>. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
 
                     <p><person key="CassandraWilkins">
                             <persName>
                                 <forename>Cassandra</forename>
                                 <surname>Wilkins</surname>
                             </persName>
-                        </person> lisped and pouted, "Isn't she dweadful Mr. Herf. . . . She says the dweadfullest things."</p>
+                        </person> lisped and pouted, "Isn't she dweadful 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>. . . . She says the dweadfullest things."</p>
 
                     <p>"She merely does it to annoy."</p>
 
-                    <p>"Oh Mr. Herf I'm so pleased to meet you at last, 
+                    <p>"Oh 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person> I'm so pleased to meet you at last, 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
@@ -6920,7 +6938,13 @@
 
                     <p>"What heow Cassahndrah?" he said in a careful Oxford drawl. "What prophecies today?"</p>
 
-                    <p>"Nothing except a wire from Mrs. Fitzsimmons Green. She wants me to go to see her at Scarsdale tomorrow to talk about the Gweenery Theater. . . . Excuse me this is Mr. Herf, Mr. Oglethorpe." The redhaired man raised one eyebrow and lowered the other and put a limp hand in <person key="JimmyHerf">
+                    <p>"Nothing except a wire from Mrs. Fitzsimmons Green. She wants me to go to see her at Scarsdale tomorrow to talk about the Gweenery Theater. . . . Excuse me this is 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>, Mr. Oglethorpe." The redhaired man raised one eyebrow and lowered the other and put a limp hand in <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
@@ -6940,7 +6964,13 @@
 
                     <p>"Jojo close that door," came a quiet deep girl's voice from inside the room.</p>
 
-                    <p>"Oh poo-er deah Elaine, she wants to sleep. . . . So glahd to have met you, Mr. Herf."</p>
+                    <p>"Oh poo-er deah Elaine, she wants to sleep. . . . So glahd to have met you, 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>."</p>
 
                     <p>"Jojo!"</p>
 
@@ -6984,7 +7014,13 @@
                             </persName>
                         </person> dear, I'll call you up at about six."</p>
 
-                    <p>"All wight Wuthy . . . So pleased to have met you Mr. Herf." The door closed on 
+                    <p>"All wight Wuthy . . . So pleased to have met you 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>." The door closed on 
                         <person key="CassandraWilkins">
                             <persName>
                                 <addName type="nickname">Cassie</addName>
@@ -7117,7 +7153,13 @@
 
                     <p>"I'm going to eat a small steak and onions."</p>
 
-                    <p>"Not if you're intending to spend the afternoon with me. Mr. Herf."</p>
+                    <p>"Not if you're intending to spend the afternoon with me. 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>."</p>
 
                     <p>"Oh all right. 
                         <person key="RuthPrynne">
@@ -8090,7 +8132,13 @@
 
                     <p>"Good morning Mrs. Maginnis."</p>
 
-                    <p>"It's goin to be powerful hot today, Mr. Herf."</p>
+                    <p>"It's goin to be powerful hot today, 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>."</p>
 
                     <p>"I guess it is all right."</p>
 
@@ -8118,7 +8166,13 @@
 
                     <p>"There cant be any burglars because the place is vacant. The wires must get crossed or something. I dont know when it stopped but it certainly drove me wild when I went to bed this morning."</p>
 
-                    <p>"Now James Herf you dont mean me to infer that you come home sober every night?"</p>
+                    <p>"Now 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <addName type="birth">James</addName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person> you dont mean me to infer that you come home sober every night?"</p>
 
 
 
@@ -8338,11 +8392,23 @@
 
                     <p>"Hello Stan, sit down," she said quietly. Then she continued smiling into Oglethorpe's face. "Isnt that wonderful Jojo?"</p>
 
-                    <p>"Ellie this is Mr. Herf," said Stan gruffly.</p>
+                    <p>"Ellie this is 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>," said Stan gruffly.</p>
 
                     <p>"Oh I'm so glad to meet you. I used to hear about you up at Mrs. Sunderland's."</p>
 
-                    <p>They were silent. Oglethorpe was tapping on the table with his spoon. "Why heow deo you deo Mr. Herf," he said with sudden unction. "Dont you remember how we met?"</p>
+                    <p>They were silent. Oglethorpe was tapping on the table with his spoon. "Why heow deo you deo 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>," he said with sudden unction. "Dont you remember how we met?"</p>
 
                     <p>"By the way how's everything up there Jojo?"</p>
 
@@ -8362,7 +8428,13 @@
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
-                        </person> got a job yet, Mr. Herf?" she asked.</p>
+                        </person> got a job yet, 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>?" she asked.</p>
 
                     <p>"No she hasnt."</p>
 
@@ -8390,7 +8462,13 @@
                         </persName>
                         </person> was staring at the thin triangles of patent leather that stuck out from Oglethorpe's pink buff spats. Cant be feet in them. He stood up suddenly.</p>
 
-                    <p>"Now Mr. Herf couldnt you keep me company for fifteen minutes? I've got to leave here at six and I forgot to bring a book and I cant walk in these shoes."</p>
+                    <p>"Now 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person> couldnt you keep me company for fifteen minutes? I've got to leave here at six and I forgot to bring a book and I cant walk in these shoes."</p>
 
                     <p><person key="JimmyHerf">
                         <persName>
@@ -11598,10 +11676,10 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
                     <p>"Ellie I hate to have you take that job. . . . You ought to keep on with your acting."</p>
 
                     <p>"But <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
-                        </person>, we've got to live."</p>
+                                <persName>
+                                    <addName type="nickname">Jimps</addName>
+                                </persName>
+                            </person>, we've got to live."</p>
 
                     <p>"I know . . . I know. You'd certainly didnt have your wits about you Ellie when you married me."</p>
 
@@ -11737,9 +11815,9 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"You brought them here yourself 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>. . . . And that dreadful woman insisted on talking babies with me all the evening. I hate talking babies."</p>
 
                     <p>"Gosh I wish we could go to a show."</p>
@@ -12284,7 +12362,13 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> tried to think of the bootlegging story he'd write for the Sunday Magazine Section. The girl's pink cheeks and toobright eyes kept intervening, blurring the orderly arrangement of his thoughts. He sank gradually into dreamier and dreamier reverie. Before the kid was born Ellie sometimes had toobright eyes like that. The time on the hill when she had suddenly wilted in his arms and been sick and he had left her among the munching, calmly staring cows on the grassy slope and gone to a shepherd's hut and brought back milk in a wooden ladle, and slowly as the mountains hunched up with evening the color had come back into her cheeks and she had looked at him that way and said with a dry little laugh: It's the little Herf inside me. God why cant I stop mooning over things that are past And when the baby was coming and Ellie was in the American Hospital at Neuilly, himself wandering distractedly through the fair, going into the Flea Circus, riding on merrygorounds and the steam swing, buying toys, candy, taking chances on dolls in a crazy blur, stumbling back to the hospital with a big plaster pig under his arm. Funny these fits of refuge in the past. Suppose she had died; I thought she would. The past would have been complete all round, framed, worn round your neck like a cameo, set up in type, molded on plates for the Magazine Section, like the first of James Herf's articles on The Bootlegging Ring. Burning slugs of thought kept dropping into place spelled out by a clanking linotype.</p>
+                        </person> tried to think of the bootlegging story he'd write for the Sunday Magazine Section. The girl's pink cheeks and toobright eyes kept intervening, blurring the orderly arrangement of his thoughts. He sank gradually into dreamier and dreamier reverie. Before the kid was born Ellie sometimes had toobright eyes like that. The time on the hill when she had suddenly wilted in his arms and been sick and he had left her among the munching, calmly staring cows on the grassy slope and gone to a shepherd's hut and brought back milk in a wooden ladle, and slowly as the mountains hunched up with evening the color had come back into her cheeks and she had looked at him that way and said with a dry little laugh: It's the little Herf inside me. God why cant I stop mooning over things that are past And when the baby was coming and Ellie was in the American Hospital at Neuilly, himself wandering distractedly through the fair, going into the Flea Circus, riding on merrygorounds and the steam swing, buying toys, candy, taking chances on dolls in a crazy blur, stumbling back to the hospital with a big plaster pig under his arm. Funny these fits of refuge in the past. Suppose she had died; I thought she would. The past would have been complete all round, framed, worn round your neck like a cameo, set up in type, molded on plates for the Magazine Section, like the first of 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <addName type="birth">James</addName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>'s articles on The Bootlegging Ring. Burning slugs of thought kept dropping into place spelled out by a clanking linotype.</p>
 
                     <p>At midnight he was walking across Fourteenth. He didnt want to go home to bed although the rasping cold wind tore at his neck and chin with sharp ice claws. He walked west across Seventh and Eighth Avenues, found the name Roy Sheffield beside a bell in a dimly lit hall. As soon as he pressed the bell the catch on the door began to click. He ran up the stairs. Roy had his big curly head with its glass gray gollywog eyes stuck out the door.</p>
 
@@ -12484,13 +12568,19 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
                         </persName>
                         </person> yawned and scraped back his chair. The nickel glints of the typewriter hurt his eyes. The tips of his fingers were sore. He pushed open the sliding doors a little and peeped into the cold bedroom. He could barely make out Ellie asleep in the bed in the alcove. At the far end of the room was the baby's crib. There was a faint milkish sour smell of babyclothes. He pushed the doors to again and began to undress. If we only had more space, he was muttering; we live cramped in our squirrelcage. . . . He pulled the dusty cashmere off the couch and yanked his pyjamas out from under the pillow. Space space cleanness quiet; the words were gesticulating in his mind as if he were addressing a vast auditorium.</p>
 
-                    <p>He turned out the light, opened a crack of the window and dropped wooden with sleep into bed. Immediately he was writing a letter on a linotype. Now I lay me down to sleep . . . mother of the great white twilight. The arm of the linotype was a woman's hand in a long white glove. Through the clanking from behind amber foots Ellie's voice Dont, dont, dont, you're hurting me so. . . . Mr. Herf, says a man in overalls, you're hurting the machine and we wont be able to get out the bullgod edition thank dog. The linotype was a gulping mouth with nickelbright rows of teeth, gulped, crunched. He woke up sitting up in bed. He was cold, his teeth were chattering. He pulled the covers about him and settled to sleep again. The next time he woke up it was daylight. He was warm and happy. Snowflakes were dancing, hesitating, spinning, outside the tall window.</p>
+                    <p>He turned out the light, opened a crack of the window and dropped wooden with sleep into bed. Immediately he was writing a letter on a linotype. Now I lay me down to sleep . . . mother of the great white twilight. The arm of the linotype was a woman's hand in a long white glove. Through the clanking from behind amber foots Ellie's voice Dont, dont, dont, you're hurting me so. . . . 
+                        <person key="JimmyHerf">
+                            <persName>
+                                <roleName type="honorific" full="abb">Mr.</roleName>
+                                <surname>Herf</surname>
+                            </persName>
+                        </person>, says a man in overalls, you're hurting the machine and we wont be able to get out the bullgod edition thank dog. The linotype was a gulping mouth with nickelbright rows of teeth, gulped, crunched. He woke up sitting up in bed. He was cold, his teeth were chattering. He pulled the covers about him and settled to sleep again. The next time he woke up it was daylight. He was warm and happy. Snowflakes were dancing, hesitating, spinning, outside the tall window.</p>
 
                     <p>"Hello 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>," said Ellie coming towards him with a tray.</p>
 
                     <p>"Why have I died and gone to heaven or something?"</p>
@@ -12503,9 +12593,9 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>'In a minute. . . . Look here 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person> I've got something I want to talk about. Look dont you think we ought to get another place now that you're working nights again all the time?"</p>
 
                     <p>"You mean move?"</p>
@@ -12751,9 +12841,9 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
 
                     <p>"<person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person> is fine. . . . He's terribly sick of newspaper work. I do wish he could get something he really enjoyed doing."</p>
 
                     <p>"He'll always be a restless sort of person. Oh Elaine I was so happy when I heard about your being married. . . . I acted like a damn fool. I cried and cried. . . . And now with Martin and everything you must be terribly happy."</p>
@@ -12842,9 +12932,9 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
                     <p>"Of course of course. How he has changed. A much more interesting looking man than he used to be I must say. . . . A very strange place for the wife of a bolshevik pacifist and I. W. W. agitator to be seen taking lunch, I must say.</p>
 
                     <p>"<person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person> isnt exactly that. I kind of wish he were. . . ." She wrinkled up her nose. "I'm a little fed up too with all that sort of thing."</p>
 
                     <p>"I suspected it my dear." Cassia was flitting selfconsciously by.</p>
@@ -12935,18 +13025,18 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"What's the matter 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>? Havent you got a key?" Her face was soft with sleep; there was a happy cozy suave smell of sleep about her. He talked through clenched teeth breathlessly.</p>
 
                     <p>"Ellie I've got to talk to you."</p>
 
                     <p>"Are you lit, 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>?"</p>
 
                     <p>"Well I know what I'm saying."</p>
@@ -12969,27 +13059,27 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>She sat with her knees hunched up and her hands clasped round them looking at him with wide eyes. "Are you really so crazy about me 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>?"</p>
 
                     <p>"Look here lets get a divorce and be done with it."</p>
 
                     <p>"Dont be in such a hurry, 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>. . . . And there's Martin. What about him?"</p>
 
                     <p>"I can scrape up enough money for him occasionally, poor little kid."</p>
 
                     <p>"I make more than you do, 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>. . . . You shouldnt do that yet."</p>
 
                     <p>"I know. I know. Dont I know it?"</p>
@@ -13005,9 +13095,9 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"Goodnight 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimps</forename>
-                        </persName>
+                            <persName>
+                                <addName type="nickname">Jimps</addName>
+                            </persName>
                         </person>," she whined in the middle of a yawn.</p>
 
                     <p>"But things dont end. . . . If only I weren' so terribly sleepy. . . . Will you put out the light?"</p>
