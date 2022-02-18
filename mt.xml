@@ -6936,7 +6936,11 @@
                         </persName>
                         </person> found himself looking in the white face of a crookednosed man whose red hair rode in two unequal mounds on either side of a straight part. He wore a green satin bathrobe and red morocco slippers.</p>
 
-                    <p>"What heow Cassahndrah?" he said in a careful Oxford drawl. "What prophecies today?"</p>
+                    <p>"What heow <person key="CassandraWilkins">
+                                        <persName>
+                                            <addName type="nickname">Cassahndrah</addName>
+                                        </persName>
+                                    </person>?" he said in a careful Oxford drawl. "What prophecies today?"</p>
 
                     <p>"Nothing except a wire from Mrs. Fitzsimmons Green. She wants me to go to see her at Scarsdale tomorrow to talk about the Gweenery Theater. . . . Excuse me this is 
                         <person key="JimmyHerf">
@@ -8412,7 +8416,12 @@
 
                     <p>"By the way how's everything up there Jojo?"</p>
 
-                    <p>"Just topping thanks. Cassahndrah's beau has left her and there's been the most appalling scandal about that Costello creature. It seems that she came home foxed the other night, to the ears my deah, and tried to take the taxi driver into her room with her, and the poor boy protesting all the time that all he wanted was his fare. . . . It was appalling."</p>
+                    <p>"Just topping thanks. 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassahndrah</addName>
+                            </persName>
+                        </person>'s beau has left her and there's been the most appalling scandal about that Costello creature. It seems that she came home foxed the other night, to the ears my deah, and tried to take the taxi driver into her room with her, and the poor boy protesting all the time that all he wanted was his fare. . . . It was appalling."</p>
 
                     <p>Stan got stiffly to his feet and walked out.</p>
 
