@@ -6818,11 +6818,22 @@
 
                     <p>Blushing he blew down his chin at his tie. "Who's the funnylooking girl opened the halldoor?"</p>
 
-                    <p>"Shush you can hear everything through the partition. . . . That's Cassie," she whispered giggling. "Cassah-ndrah Wilkins . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her." She let out a whoop of laughter. "You nut 
+                    <p>"Shush you can hear everything through the partition. . . . That's 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>," she whispered giggling. "
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="?">Cassah-ndrah</addName> <!-- ricontrollare -->
+                                <surname>Wilkins</surname>
+                            </persName>
+                        </person> . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her." She let out a whoop of laughter. "You nut 
                         <person key="JimmyHerf">
-                        <persName>
-                            <forename>Jimmy</forename>
-                        </persName>
+                            <persName>
+                                <forename>Jimmy</forename>
+                            </persName>
                         </person>," She got to her feet and punched him in the muscle of the arm. "You always make me act like I was crazy."</p>
 
 
@@ -6872,7 +6883,11 @@
                         </persName>
                         </person> did not recognize the face he had seen through the crack in the door.</p>
 
-                    <p>"Hello Cassie, this is . . . Beg pardon, Miss Wilkins this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
+                    <p>"Hello <person key="CassandraWilkins">
+                        <persName>
+                            <addName type="nickname">Cassie</addName>
+                        </persName>
+                    </person>, this is . . . Beg pardon, Miss Wilkins this is Mr. Herf. You tell him about the lady across the air-shaft, you know Sappo the Monk."</p>
 
                     <p>Cassandra Wilkins lisped and pouted, "Isn't she dweadful Mr. Herf. . . . She says the dweadfullest things."</p>
 
@@ -6925,7 +6940,12 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> tingling. He stood beside Cassie constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. 
+                        </person> tingling. He stood beside 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> constrainedly without speaking in the dingydark hall. A smell of coffee and singeing toast seeped in from somewhere. 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
@@ -6946,9 +6966,19 @@
                         </persName>
                         </person> took hold of her shoulders and pushed her gently towards the door. "It's two o'clock."</p>
 
-                    <p>"Well goodby Cassie dear, I'll call you up at about six."</p>
+                    <p>"Well goodby 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> dear, I'll call you up at about six."</p>
 
-                    <p>"All wight Wuthy . . . So pleased to have met you Mr. Herf." The door closed on Cassie's tittering lisp.</p>
+                    <p>"All wight Wuthy . . . So pleased to have met you Mr. Herf." The door closed on 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>'s tittering lisp.</p>
 
                     <p>"Wow, 
                         <person key="RuthPrynne">
@@ -7026,7 +7056,17 @@
 
                     <p>"It'll be a scream." Whooping with laughter she put her arm in his. Her silvernet bag knocked against his elbow as they walked.</p>
 
-                    <p>"And what about Cassie, the mysterious Cassandra?"</p>
+                    <p>"And what about 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>, the mysterious 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <forename>Cassandra</forename>
+                            </persName>
+                        </person>?"</p>
 
                     <p>"You mustn't laugh at her, she's a peach. . . . If only she wouldn't keep that horrid little white poodle. She keeps it in her room and it never gets any exercise and it smells something terrible. She has that little room next to mine. . . . Then she's got a steady . . ." 
                         <person key="RuthPrynne">
@@ -7481,7 +7521,12 @@
 
                     <p>"Well what were these shocking goingson at 105th Street?"</p>
 
-                    <p>"O you missed it. It was a shriek. . . . Everybody was out in the hall, Mrs. Sunderland with her hair in curlpapers, and Cassie was crying and Tony Hunter was standing in his door in pink pyjamas. . . ."</p>
+                    <p>"O you missed it. It was a shriek. . . . Everybody was out in the hall, Mrs. Sunderland with her hair in curlpapers, and 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> was crying and Tony Hunter was standing in his door in pink pyjamas. . . ."</p>
 
                     <p>"Who's he?"</p>
 
@@ -7516,7 +7561,12 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> you're such a shriek. . . . Well Cassie was sobbing and the little dog was barking, and the invisible Costello was yelling Police and fainting into the arms of an unknown man in a dress suit. And Jojo was brandishing a revolver, a little nickel one, may have been a waterpistol for all I know. . . . The only person who looked in their right senses was Elaine Olgethorpe. . . . You know the titianhaired vision that so impressed your infant mind."</p>
+                        </person> you're such a shriek. . . . Well 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> was sobbing and the little dog was barking, and the invisible Costello was yelling Police and fainting into the arms of an unknown man in a dress suit. And Jojo was brandishing a revolver, a little nickel one, may have been a waterpistol for all I know. . . . The only person who looked in their right senses was Elaine Olgethorpe. . . . You know the titianhaired vision that so impressed your infant mind."</p>
 
                     <p>"Honestly 
                         <person key="RuthPrynne">
@@ -7556,7 +7606,12 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> you're too innocent to live. But let me finish the tragic tale. . . . After those two had disappeared and locked the door behind them the most awful powwow you've ever imagined went on in the hall. Of course Cassie had been having hysterics all along just to add to the excitement. When I came back from getting her some sweet spirits of ammonia in the bathroom I found the court in session. It was a shriek. Miss Costello wanted the Oglethorpes thrown out at dawn and said she'd leave if they didn't and Mrs. Sunderland kept moaning that in thirty years of theatrical experience she'd never seen a scene like that, and the man in the dress suit who was Benjamin Arden . . . you know he played a character part in Honeysuckle 
+                        </person> you're too innocent to live. But let me finish the tragic tale. . . . After those two had disappeared and locked the door behind them the most awful powwow you've ever imagined went on in the hall. Of course 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> had been having hysterics all along just to add to the excitement. When I came back from getting her some sweet spirits of ammonia in the bathroom I found the court in session. It was a shriek. Miss Costello wanted the Oglethorpes thrown out at dawn and said she'd leave if they didn't and Mrs. Sunderland kept moaning that in thirty years of theatrical experience she'd never seen a scene like that, and the man in the dress suit who was Benjamin Arden . . . you know he played a character part in Honeysuckle 
                         <person key="JimmyHerf">
                             <persName>
                                 <forename>Jim</forename>
@@ -7637,7 +7692,12 @@
 
                     <p>We take liberty of calling the trade's attention to four new superfine Mullen products that we feel the greatest confidence in recommending to our customers as a fresh and absolutely unparalleled departure in the paper manufacturer's art . . . .</p>
 
-                    <p>They came out of the movie blinking into bright pools of electric glare. Cassie watched him stand with his feet apart and eyes absorbed lighting a cigar. McAvoy was a stocky man with a beefy neck; he wore a single-button coat, a checked vest and a dogshead pin in his brocade necktie.</p>
+                    <p>They came out of the movie blinking into bright pools of electric glare. 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> watched him stand with his feet apart and eyes absorbed lighting a cigar. McAvoy was a stocky man with a beefy neck; he wore a single-button coat, a checked vest and a dogshead pin in his brocade necktie.</p>
 
                     <p>"That was a rotton show or I'm a Dutchman," he was growling.</p>
 
@@ -7669,11 +7729,21 @@
 
                     <p>"No honest I resigned before he had a chance. . . . He's a stinker d'you know it? I wont take no more of his lip. When I was walkin outa the office he called after me. . . . Young man lemme tell ye sumpen. You wont never make good till you learn who's boss around this town, till you learn that it aint you." Morris was holding out a vanilla icecream soda to her.</p>
 
-                    <p>"Dreamin' again Cassie; anybody'd think you was a snow-bird." Smiling brighteyed, she took the soda; he was drinking coca-cola. "Thank you," she said. She sucked with pouting lips at a spoonful of icecream. "Ou Morris it's delicious."</p>
+                    <p>"Dreamin' again 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>; anybody'd think you was a snow-bird." Smiling brighteyed, she took the soda; he was drinking coca-cola. "Thank you," she said. She sucked with pouting lips at a spoonful of icecream. "Ou Morris it's delicious."</p>
 
                     <p>The path between round splashes of arclights ducked into darkness. Through slant lights and nudging shadows came a smell of dusty leaves and trampled grass and occasionally a rift of cool fragrance from damp earth under shrubberies.</p>
 
-                    <p>"Oh I love it in the Park," chanted Cassie. She stifled a belch. "D'you know Morris I oughnt to have eaten that ice-cream. It always gives me gas."</p>
+                    <p>"Oh I love it in the Park," chanted 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>. She stifled a belch. "D'you know Morris I oughnt to have eaten that ice-cream. It always gives me gas."</p>
 
 
 
@@ -7693,7 +7763,12 @@
 
                     <p>"I'm not upstage with you Morris, am I?" She sniffed and wiped her eyes.</p>
 
-                    <p>"You are kinda, that's what makes me sore. I like my little girl to pet me an love me up a little. Hell Cassie life aint all beer an sourkraut." As they walked tightly pressed one to another they felt rock under their feet. They were on a little hill of granite outcrop with shrubbery all round. The lights from the buildings that hemmed in the end of the Park shone in their faces. They stood apart holding each other's hands.</p>
+                    <p>"You are kinda, that's what makes me sore. I like my little girl to pet me an love me up a little. Hell 
+                        <person key="CassandraWilkins">
+                        <persName>
+                            <addName type="nickname">Cassie</addName>
+                        </persName>
+                    </person> life aint all beer an sourkraut." As they walked tightly pressed one to another they felt rock under their feet. They were on a little hill of granite outcrop with shrubbery all round. The lights from the buildings that hemmed in the end of the Park shone in their faces. They stood apart holding each other's hands.</p>
 
                     <p>"Take that redhaired girl up at 105th Street. . . . I bet she wouldnt be upstage when she was alone with a feller."</p>
 
@@ -7713,13 +7788,23 @@
 
                     <p>"Oh I hate you when you talk that way. . . . Weal love is all pure and lovely. . . . Morris you don't love me."</p>
 
-                    <p>"Quit pickin on me cant you Cassie for a minute. . .? Goddam it's hell to be broke."</p>
+                    <p>"Quit pickin on me cant you 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> for a minute. . .? Goddam it's hell to be broke."</p>
 
                     <p>They sat down on a bench in the light. Behind them automobiles slithered with a constant hissing scuttle in two streams along the roadway. She put her hand on his knee and he covered it with his big stubby hand.</p></p>
 
                     <p>"Morris I feel that we are going to be very happy from now on, I feel it. You're going to get a fine job, I'm sure you are."</p>
 
-                    <p>"I aint so sure. . . . I'm not so young as I was Cassie. I aint got any time to lose."</p>
+                    <p>"I aint so sure. . . . I'm not so young as I was 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>. I aint got any time to lose."</p>
 
                     <p>"Why you're terribly young, you're only thirtyfive Morris. . . . And I think that something wonderful is going to happen. I'm going to get a chance to dance."</p>
 
@@ -7739,15 +7824,34 @@
 
                     <p>"It just me," came a tearful voice.</p>
 
-                    <p>Ellen unlocked the door. "Why Cassie what's the matter?"</p>
+                    <p>Ellen unlocked the door. "Why 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> what's the matter?"</p>
 
-                    <p>Cassie rubbed her wet face in the hollow of Ellen's neck.</p>
+                    <p><person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> rubbed her wet face in the hollow of Ellen's neck.</p>
 
-                    <p>"Oh Cassie you're gumming my veil. . . . What on earth's the matter?"</p>
+                    <p>"Oh 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> you're gumming my veil. . . . What on earth's the matter?"</p>
 
                     <p>"I've been up all night thinking how unhappy you must be."</p>
 
-                    <p>"But Cassie I've never been happier in my life."</p>
+                    <p>"But 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> I've never been happier in my life."</p>
 
                     <p>"Aren't men dweadful?"</p>
 
@@ -7755,21 +7859,41 @@
 
                     <p>"Elaine I've got to tell you something. I know you dont care anything about me but I'm going to tell you all the same."</p>
 
-                    <p>"Of course I care about you Cassie. . . . Dont be silly.</p>
+                    <p>"Of course I care about you 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>. . . . Dont be silly.</p>
 
                     <p>But I'm busy now. . . . Why dont you go back to bed and tell me later?"</p>
 
-                    <p>"I've got to tell you now." Ellen sat down on her trunk resignedly. "Elaine I've bwoken it off with Morris. . . . Isn't it tewible?" Cassie wiped her eyes on the sleeve of her lavender dressinggown and sat down beside Ellen on the trunk.</p>
+                    <p>"I've got to tell you now." Ellen sat down on her trunk resignedly. "Elaine I've bwoken it off with Morris. . . . Isn't it tewible?" 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> wiped her eyes on the sleeve of her lavender dressinggown and sat down beside Ellen on the trunk.</p>
 
                     <p>"Look dear," said Ellen gently. "Suppose you wait just a second, I'm going to telephone for a taxi. I want to make a getaway before Jojo's up. I'm sick of big scenes." The hall smelled stuffily of sleep and massagecream. Ellen talked very low into the receiver. The gruff man's voice at the garage growled pleasantly in her ears. "Sure right away miss." She tiptoed springily back into the room and closed the door.</p>
 
                     <p>"I thought he loved me, honestly I did Elaine. Oh men are so dweadful. Morris was angwy because I wouldn't live with him. I think it would be wicked. I'd work my fingers to the bone for him, he knows that. Havent I been doing it two years? He said be couldnt go on unless he had me weally, you know what he meant, and I said our love was so beautiful it could go on for years and years. I could love him for a lifetime without even kissing him. Dont you think love should be pure? And then he made fun of my dancing and said I was Chalif's mistwess and just kidding him along and we quaweled dwead fully and he called me dweadful names and went away and said he'd never come back."</p>
 
-                    <p>"Dont worry about that Cassie, he'll come back all right."</p>
+                    <p>"Dont worry about that 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>, he'll come back all right."</p>
 
                     <p>"No but you're so material, Elaine. I mean spiwitually our union is bwoken forever. Cant you see there was this beautiful divine spiwitual thing between us and it's bwoken." She began to sob again with her face pressed into Ellen's shoulder.</p>
 
-                    <p>"But Cassie I dont see what fun you get out of it all?"</p>
+                    <p>"But 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> I dont see what fun you get out of it all?"</p>
 
                     <p>"Oh you dont understand. You're too young. I was like you at first except that I wasnt mawied and didnt wun awound with men. But now I want spiwitual beauty. I want to get it through my dancing and my life, I want beauty everywhere and I thought Morris wanted it."</p>
 
@@ -7781,7 +7905,22 @@
 
                     <p>"But you cant go like this."</p>
 
-                    <p>"You just watch me." Ellen gathered up the bundle of books in one hand and in the other carried the black leather dressingcase. "Look Cassie will you be a dear and show him the trunk when he comes up to get it. . . . And one other thing, when Stan Emery calls up tell him to call me at the Brevoort or at the Lafayette. Thank goodness I didnt deposit my money last week. . . . And Cassie if you find any little odds and ends of mine around you just keep em. . . . Goodby." She lifted her veil and kissed Cassie quickly on the cheeks.</p>
+                    <p>"You just watch me." Ellen gathered up the bundle of books in one hand and in the other carried the black leather dressingcase. "Look 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> will you be a dear and show him the trunk when he comes up to get it. . . . And one other thing, when Stan Emery calls up tell him to call me at the Brevoort or at the Lafayette. Thank goodness I didnt deposit my money last week. . . . And 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> if you find any little odds and ends of mine around you just keep em. . . . Goodby." She lifted her veil and kissed 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> quickly on the cheeks.</p>
 
                     <p>"Oh how can you be so bwave as to go away all alone like this. . . . You'll let Wuth and me come down to see you wont you? We're so fond of you. Oh Elaine you're going to have a wonderful career, I know you are."</p>
 
@@ -8372,7 +8511,11 @@
 
                     <p>Ellen had just hung a chintz curtain in the window to hide with its blotchy pattern of red and purple flowers the vista of desert backyards and brick flanks of downtown houses. In the middle of the bare room was a boxcouch cumbered with teacups, a copper chafingdish and percolator; the yellow hardwood floor was littered with snippings of chintz and curtainpins; books, dresses, bedlinen cascaded from a trunk in the corner; from a new mop in the fireplace exuded a smell of cedar oil. Ellen was leaning against the wall in a daffodilcolored kimono looking happily about the big shoebox-shaped room when the buzzer startled her. She pushed a rope of hair up off her forehead and pressed the button that worked the latch. There was a little knock on the door. A woman was standing in the dark of the hall.</p>
 
-                    <p>"Why Cassie I couldn't make out who you were. Come in. . . . What's the matter?"</p>
+                    <p>"Why <person key="CassandraWilkins">
+                        <persName>
+                            <addName type="nickname">Cassie</addName>
+                        </persName>
+                    </person> I couldn't make out who you were. Come in. . . . What's the matter?"</p>
 
                     <p>"You are sure I'm not intwuding?"</p>
 
@@ -8384,23 +8527,52 @@
 
                     <p>"You're sure it wouldn't be too much twouble?"</p>
 
-                    <p>"Of course not. . . . But Cassie what's the matter?"</p>
+                    <p>"Of course not. . . . But 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> what's the matter?"</p>
 
                     <p>"Oh everything. . . . I came down to tell you but I cant. I cant ever tell anybody."</p>
 
-                    <p>"I'm so excited about this apartment. Imagine Cassie it's the first place of my own I ever had in my life. Daddy wants me to live with him in Passaic, but I just felt I couldn't."</p>
+                    <p>"I'm so excited about this apartment. Imagine 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> it's the first place of my own I ever had in my life. Daddy wants me to live with him in Passaic, but I just felt I couldn't."</p>
 
                     <p>"And what does Mr. Oglethorpe . . .? Oh but that's impertinent of me. . . . Do forgive me Elaine. I'm almost cwazy. I don't know what I'm saying."</p>
 
-                    <p>"Oh Jojo's a dear. He's even going to let me divorce him if I want to. . . . Would you if you were me?" Without waiting for an answer she disappeared between the folding doors. Cassie remained hunched up on the edge of the couch.</p>
+                    <p>"Oh Jojo's a dear. He's even going to let me divorce him if I want to. . . . Would you if you were me?" Without waiting for an answer she disappeared between the folding doors. 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> remained hunched up on the edge of the couch.</p>
 
-                    <p>Ellen came back with a blue teapot in one hand and a pan of steaming water in the other. "Do you mind not having lemon or cream? There's some sugar on the mantelpiece. These cups are clean because I just washed them. Dont you think they are pretty? Oh you cant imagine how wonderful and domestic it makes you feel to have a place all to yourself. I hate living in a hotel. Honestly this place makes me just so domestic . . . Of course the ridiculous thing is that I'll probably have to give it up or sublet as soon as I've got it decently fixed up. Show's going on the road in three weeks. I want to get out of it but Harry Goldweiser wont let me." Cassie was taking little sips of tea out of her spoon. She began to cry softly. "Why Cassie buck up, what's the matter?"</p>
+                    <p>Ellen came back with a blue teapot in one hand and a pan of steaming water in the other. "Do you mind not having lemon or cream? There's some sugar on the mantelpiece. These cups are clean because I just washed them. Dont you think they are pretty? Oh you cant imagine how wonderful and domestic it makes you feel to have a place all to yourself. I hate living in a hotel. Honestly this place makes me just so domestic . . . Of course the ridiculous thing is that I'll probably have to give it up or sublet as soon as I've got it decently fixed up. Show's going on the road in three weeks. I want to get out of it but Harry Goldweiser wont let me." 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> was taking little sips of tea out of her spoon. She began to cry softly. "Why 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> buck up, what's the matter?"</p>
 
                     <p>"Oh, you're so lucky in everything Elaine and I'm so miserable."</p>
 
                     <p>"Why I always thought it was my jinx that got the beautyprize, but what is the matter?"</p>
 
-                    <p>Cassie put down her cup and pushed her two clenched hands into her neck. "It's just this," she said in a strangled voice. . . . "I think I'm going to have a baby." She put her head down on her knees and sobbed.</p>
+                    <p><person key="CassandraWilkins">
+                        <persName>
+                            <addName type="nickname">Cassie</addName>
+                        </persName>
+                    </person> put down her cup and pushed her two clenched hands into her neck. "It's just this," she said in a strangled voice. . . . "I think I'm going to have a baby." She put her head down on her knees and sobbed.</p>
 
                     <p>"Are you sure? Everybody's always having scares."</p>
 
@@ -8414,7 +8586,12 @@
 
                     <p>"Oh it must have been ten days ago easily. I know it's that . . . I dont want to have anything but my dancing." She stopped sobbing and began taking little sips of tea again.</p>
 
-                    <p>Ellen walked back and forth in front of the fireplace. "Look here Cassie there's no use getting all wrought up over things, is there? I know a woman who'll help you. . . . Do pull yourself together please."</p>
+                    <p>Ellen walked back and forth in front of the fireplace. "Look here 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> there's no use getting all wrought up over things, is there? I know a woman who'll help you. . . . Do pull yourself together please."</p>
 
                     <p>"Oh I couldn't, I couldn't." . . . The saucer slid off her knees and broke in two on the floor. "Tell me Elaine have you ever been through this? . . . Oh I'm so sowy. I'll buy you another saucer Elaine." She got totteringly to her feet and put the cup and spoon on the mantelpiece.</p>
 
@@ -8424,9 +8601,18 @@
 
                     <p>"Things are rather like that," said Ellen gruffly.</p>
 
-                    <p>Cassie was crying again. "Men are so bwutal and selfish."</p>
+                    <p><person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> was crying again. "Men are so bwutal and selfish."</p>
 
-                    <p>"Have another cup of tea, Cassie."</p>
+                    <p>"Have another cup of tea, 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>."</p>
 
                     <p>"Oh I couldn't. My dear I feel a deadly nausea. . . . Oh I think I'm going to be sick."</p>
 
@@ -8434,7 +8620,12 @@
 
                     <p>Ellen walked up and down the room with clenched teeth. I hate women. I hate women.</p>
 
-                    <p>After a while Cassie came back into the room, her face greenish white, dabbing her forehead with a washrag.</p>
+                    <p>After a while 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> came back into the room, her face greenish white, dabbing her forehead with a washrag.</p>
 
                     <p>"Here lie down here you poor kid," said Ellen clearing a space on the couch. ". . . Now you'll feel much better."</p>
 
@@ -8448,13 +8639,28 @@
 
                     <p>"Elaine dear could you let me have a little powder? I've lost my vanity case."</p>
 
-                    <p>She turned back into the room. "I think. . . . Yes there's some on the mantelpiece. . . . Do you feel better now Cassie?"</p>
+                    <p>She turned back into the room. "I think. . . . Yes there's some on the mantelpiece. . . . Do you feel better now 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>?"</p>
 
-                    <p>"Oh yes," said Cassie in a trembly voice. "And have you got a lipstick?"</p>
+                    <p>"Oh yes," said 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person> in a trembly voice. "And have you got a lipstick?"</p>
 
                     <p>"I'm awfully sorry. . . . I've never worn any street makeup. I'll have to soon enough if I keep on acting."</p>
 
-                    <p>She went into the alcove to take off her kimono, slipped on a plain green dress, coiled up her hair and pushed a small black hat down over it. "Let's run along Cassie. I want to have something to eat at six. . . . I hate bolting my dinner five minutes before a performance."</p>
+                    <p>She went into the alcove to take off her kimono, slipped on a plain green dress, coiled up her hair and pushed a small black hat down over it. "Let's run along 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>. I want to have something to eat at six. . . . I hate bolting my dinner five minutes before a performance."</p>
 
                     <p>"Oh I'm so tewified. . . . Pwomise you wont leave me alone."</p>
 
@@ -8466,7 +8672,12 @@
 
                     <p>"Elaine you're the most angelic cweature in the world. . . . You deserve every bit of your success."</p>
 
-                    <p>At the corner of Sixth Avenue they got into a taxi. Cassie's teeth were chattering. "Please let's go another time. I'm too fwightened to go now."</p>
+                    <p>At the corner of Sixth Avenue they got into a taxi. 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>'s teeth were chattering. "Please let's go another time. I'm too fwightened to go now."</p>
 
                     <p>"My dear child it's the only thing to do."</p>
 
@@ -10352,9 +10563,19 @@ The buzzer burrs at the same time. Ellen presses the button to click the latch. 
         <forename>Ruth</forename>
         <surname>Prynne</surname>
     </persName>
-</person> and Cassandra Wilkins come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . Cassie wont you have dinner with us?"
+</person> and Cassandra Wilkins come in shaking the water off their umbrellas. "Well goodby Larry. . . . Why it's so so sweet of both of you. . . . Do take your things off for a second. . . . 
+<person key="CassandraWilkins">
+    <persName>
+        <addName type="nickname">Cassie</addName>
+    </persName>
+</person> wont you have dinner with us?"
 
-"I felt I just had to see you. . . . It's so wonderful about your wonderful success," says Cassie in a shaky voice, "And my dear I felt so terribly when I heard about Mr. Emery. I cried and cried, didnt I Ruth?"
+"I felt I just had to see you. . . . It's so wonderful about your wonderful success," says 
+<person key="CassandraWilkins">
+    <persName>
+        <addName type="nickname">Cassie</addName>
+    </persName>
+</person> in a shaky voice, "And my dear I felt so terribly when I heard about Mr. Emery. I cried and cried, didnt I Ruth?"
 
 "Oh what a beautiful apartment you have," 
 <person key="RuthPrynne">
@@ -10367,7 +10588,12 @@ The buzzer burrs at the same time. Ellen presses the button to click the latch. 
     <persName>
         <forename>Ruth</forename> 
     </persName>
-</person>'s rubberclad foot is tapping the floor; she catches Cassie's eye and makes her stammer into silence. "Hadnt we better go along? It's getting rather late," she says.
+</person>'s rubberclad foot is tapping the floor; she catches 
+<person key="CassandraWilkins">
+    <persName>
+        <addName type="nickname">Cassie</addName>
+    </persName>
+</person>'s eye and makes her stammer into silence. "Hadnt we better go along? It's getting rather late," she says.
 
 "Excuse me a minute 
 <person key="RuthPrynne">
@@ -12437,7 +12663,12 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
                         </persName>
                     </person>'s face had a sagging tired look under the street makeup.</p>
 
-                    <p>"Elaine, you've just got to come," she was saying in a whiny voice, "Cassie'll be there and Oglethorpe and all the old gang. . . . After all now that you're making such a success of editorial work it's no reason for completely abandoning your old friends is it? You dont know how much we talk and wonder about you."</p>
+                    <p>"Elaine, you've just got to come," she was saying in a whiny voice, "
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>'ll be there and Oglethorpe and all the old gang. . . . After all now that you're making such a success of editorial work it's no reason for completely abandoning your old friends is it? You dont know how much we talk and wonder about you."</p>
 
                     <p>"No but 
                         <person key="RuthPrynne">
@@ -12521,7 +12752,12 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>"Oh yes cant you see evewything's Gweek, absolutely Gweek. . . . Here's Hester. . . . Here they are darling. . . . Hester you know Wuth . . . and this is Elaine Oglethorpe."</p>
 
-                    <p>"I call myself Mrs. Herf now, Cassie."</p>
+                    <p>"I call myself Mrs. Herf now, 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>."</p>
 
                     <p>"Oh I beg your pardon, it's so hard to keep twack. . . . They're just in time. . . . Hester's going to dance an owiental dance called Wythms from the Awabian Nights. . . . Oh it's too beautiful."</p>
 
@@ -12539,7 +12775,12 @@ The roar of the streets breaks like surf about a shell of throbbing agony. She w
 
                     <p>They sat down on a couch in a recess between the dormer windows. Out of the corner of her eye she could see a girl dancing in green silk veils. The phonograph was playing the Cesar Frank symphony.</p>
 
-                    <p>"We mustnt miss Cassie's daunce. The poor girl would be dreadfully offended."</p>
+                    <p>"We mustnt miss 
+                        <person key="CassandraWilkins">
+                            <persName>
+                                <addName type="nickname">Cassie</addName>
+                            </persName>
+                        </person>'s daunce. The poor girl would be dreadfully offended."</p>
 
                     <p>"Jojo tell me about yourself, how have you been?"</p>
 
