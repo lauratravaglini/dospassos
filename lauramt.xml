@@ -5717,42 +5717,42 @@
 
 
 
-    <p>'In a minute. . . . Look here 
+    <p><said who="#" aloud="true" direct="true"></said>"In a minute. . . . Look here 
         <person key="JimmyHerf">
             <persName>
                 <addName type="nickname">Jimps</addName>
             </persName>
         </person> I've got something I want to talk about. Look dont you think we ought to get another place now that you're working nights again all the time?"</p>
 
-    <p>"You mean move?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"You mean move?"</p>
 
-    <p>"No. I was thinking if you could get another room to sleep in somewhere round, then nobody'd ever disturb you in the morning."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"No. I was thinking if you could get another room to sleep in somewhere round, then nobody'd ever disturb you in the morning."</p>
 
-    <p>"But Ellie we'd never see each other. . . . We hardly ever see each other as it is."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"But Ellie we'd never see each other. . . . We hardly ever see each other as it is."</p>
 
-    <p>"It's terrible . . . but what can we do when our office-hours are so different?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"It's terrible . . . but what can we do when our office-hours are so different?"</p>
 
     <p>Martin's crying came in a gust from the other room. 
         <person key="JimmyHerf">
         <persName>
             <forename>Jimmy</forename>
         </persName>
-        </person> sat on the edge of the bed with the empty coffeecup on his knees looking at his bare feet. "Just as you like," he said dully. An impulse to grab her hands to crush her to him until he hurt her went up through him like a rocket and died. She picked up the coffeethings and swished away. His lips knew her lips, his arms knew the twining of her arms, he knew the deep woods of her hair, he loved her. He sat for a long time looking at his feet, lanky reddish feet with swollen blue veins, shoebound toes twisted by stairs and pavements. On each little toe there was a corn. He found his eyes filling with pitying tears. The baby had stopped crying. 
+        </person> sat on the edge of the bed with the empty coffeecup on his knees looking at his bare feet. <said who="#" aloud="true" direct="true"></said>"Just as you like," he said dully. An impulse to grab her hands to crush her to him until he hurt her went up through him like a rocket and died. She picked up the coffeethings and swished away. His lips knew her lips, his arms knew the twining of her arms, he knew the deep woods of her hair, he loved her. He sat for a long time looking at his feet, lanky reddish feet with swollen blue veins, shoebound toes twisted by stairs and pavements. On each little toe there was a corn. He found his eyes filling with pitying tears. The baby had stopped crying. 
         <person key="JimmyHerf">
             <persName>
                 <forename>Jimmy</forename>
             </persName>
             </person> went into the bathroom and started the water running in the tub.</p>
 
-    <p>"It was that other feller you had Anna. He got you to thinkin you didnt give a damn. . . . He made you a fatalist."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"It was that other feller you had Anna. He got you to thinkin you didnt give a damn. . . . He made you a fatalist."</p>
 
-    <p>"What's at?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"What's at?"</p>
 
-    <p>"Somebody who thinks there's no use strugglin, somebody who dont believe in human progress."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Somebody who thinks there's no use strugglin, somebody who dont believe in human progress."</p>
 
-    <p>"Do you think Bouy was like that?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Do you think Bouy was like that?"</p>
 
-    <p>"He was a scab anyway None o these Southerners are classconscious. . . . Didn't he make you stop payin your union dues?" "I was sick o workin a sewin machine."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"He was a scab anyway None o these Southerners are classconscious. . . . Didn't he make you stop payin your union dues?" "I was sick o workin a sewin machine."</p>
 
     <p>"But you could be a handworker, do fancy work and make good money. You're not one o that kind, you're one of us. . . . I'll get you back in good standin an you kin get a good job again. . . . God I'd never have let you work in a dancehall the way he did. Anna it hurt me terrible to see a Jewish girl goin round with a feller like that."</p>
 
