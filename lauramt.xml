@@ -5529,7 +5529,7 @@
                 </persName>
                 </person> do tell us all about it. . . . We're so horribly bored."</p>
 
-    <p>"Hello," cried 
+    <p><said who="#" aloud="true" direct="true"></said>"Hello," cried 
         <person key="JimmyHerf">
         <persName>
             <forename>Jimmy</forename>
@@ -5539,38 +5539,38 @@
             <persName>
                 <forename>Jimmy</forename>
             </persName>
-            </person> was pushed into an armchair, had a glass of gin and ginger ale put in his hand. "Now what's all this about a fight? You'd better tell us because were certainly not going to buy the Sunday Tribune to find out," Bob Hildebrand said in a deep rum' bling voice.</p>
+            </person> was pushed into an armchair, had a glass of gin and ginger ale put in his hand. <said who="#" aloud="true" direct="true"></said>"Now what's all this about a fight? You'd better tell us because were certainly not going to buy the Sunday Tribune to find out," Bob Hildebrand said in a deep rum' bling voice.</p>
 
     <p><person key="JimmyHerf">
         <persName>
             <forename>Jimmy</forename>
         </persName>
-        </person> took a long drink. "I went out with a man I know who's shiek of all the French and Italian bootleggers. He's a fine man. He's got a cork leg. He set me up to a swell feed and real Italian wine out in a deserted poolroom on the shores of Sheepshead Bay. . . ."</p>
+        </person> took a long drink. <said who="#" aloud="true" direct="true"></said>"I went out with a man I know who's shiek of all the French and Italian bootleggers. He's a fine man. He's got a cork leg. He set me up to a swell feed and real Italian wine out in a deserted poolroom on the shores of Sheepshead Bay. . . ."</p>
 
-    <p>"By the way," asked Roy, "where's Helena."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"By the way," asked Roy, <said who="#" aloud="true" direct="true"></said>"where's Helena."</p>
 
-    <p>"Dent interrupt Roy," said Alice. "This is good . . . and besides you should never ask a man where his wife is."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Dent interrupt Roy," said Alice. <said who="#" aloud="true" direct="true"></said>"This is good . . . and besides you should never ask a man where his wife is."</p>
 
-    <p>"Then there was a lot of flashing of signal lights and stuff and a motorboat loaded down with Mumm's extra dry champagne for Park Avenue Christmases came in and the hijackers arrived on a speedboat. . . . It probably was a hydroplane it came so fast . . ."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Then there was a lot of flashing of signal lights and stuff and a motorboat loaded down with Mumm's extra dry champagne for Park Avenue Christmases came in and the hijackers arrived on a speedboat. . . . It probably was a hydroplane it came so fast . . ."</p>
 
-    <p>"My this is exciting," cooed Alice. ". . . Roy why dont you take up bootlegging?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"My this is exciting," cooed Alice. ". . . Roy why dont you take up bootlegging?"</p>
 
-    <p>"Worst fight I ever saw outside of the movies, six or seven on a side all slugging each other on a little narrow landing the size of this room, people crowning each other with oars and joints of lead pipe."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Worst fight I ever saw outside of the movies, six or seven on a side all slugging each other on a little narrow landing the size of this room, people crowning each other with oars and joints of lead pipe."</p>
 
-    <p>"Was anybody hurt?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Was anybody hurt?"</p>
 
-    <p>"Everybody was. . . . I think two of the hijackers were drowned. At any rate they beat a retreat leaving us lapping up the spilled champagne."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Everybody was. . . . I think two of the hijackers were drowned. At any rate they beat a retreat leaving us lapping up the spilled champagne."</p>
 
-    <p>"But it must have been terrible," cried the Hildebrands.</p>
+    <p><said who="#" aloud="true" direct="true"></said>"But it must have been terrible," cried the Hildebrands.</p>
 
-    <p>"What did you do 
+    <p><said who="#" aloud="true" direct="true"></said>"What did you do 
         <person key="JimmyHerf">
         <persName>
             <forename>Jimmy</forename>
         </persName>
         </person>?" asked Alice breathless.</p>
 
-    <p>"Oh I hopped around keeping out of harm's way. I didnt know who was on which side and it was dark and wet and confusing everywhere. . . . I finally did drag my bootlegger friend out of the fray when he got his leg broken . . . his wooden leg."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Oh I hopped around keeping out of harm's way. I didnt know who was on which side and it was dark and wet and confusing everywhere. . . . I finally did drag my bootlegger friend out of the fray when he got his leg broken . . . his wooden leg."</p>
 
     <p>Everybody let out a shout. Roy filled 
         <person key="JimmyHerf">
@@ -5579,109 +5579,109 @@
         </persName>
         </person>'s glass up with gin again.</p>
 
-    <p>"Oh <person key="JimmyHerf">
+    <p><said who="#" aloud="true" direct="true"></said>"Oh <person key="JimmyHerf">
         <persName>
             <forename>Jimmy</forename>
         </persName>
-        </person>," cooed Alice, "you lead the most thrilling life."</p>
+        </person>," cooed Alice, <said who="#" aloud="true" direct="true"></said>"you lead the most thrilling life."</p>
 
     <p>James Merivale was going over a freshly decoded cable, tapping the words with a pencil as he read them. Tasmanian Manganese Products instructs us to open credit. . . . The phone on his desk began to buzz.</p>
 
-    <p>"James this is your mother. Come right up; something terrible has happened."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"James this is your mother. Come right up; something terrible has happened."</p>
 
-    <p>"But I dont know if I can get away. . . ."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"But I dont know if I can get away. . . ."</p>
 
-    <p>She had already cut off. Merivale felt himself turning pale. "Let me speak to Mr. Aspinwall please. . . . Mr. Aspinwall this is Merivale. . . . My mother's been taken suddenly ill. I'm afraid it may be a stroke. I'd like to run up there for an hour. I'll be back in time to get a cable off on that Tasmanian matter."</p>
+    <p>She had already cut off. Merivale felt himself turning pale. <said who="#" aloud="true" direct="true"></said>"Let me speak to Mr. Aspinwall please. . . . Mr. Aspinwall this is Merivale. . . . My mother's been taken suddenly ill. I'm afraid it may be a stroke. I'd like to run up there for an hour. I'll be back in time to get a cable off on that Tasmanian matter."</p>
 
-    <p>"All right. . . . I'm very sorry Merivale."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"All right. . . . I'm very sorry Merivale."</p>
 
     <p>He grabbed his hat and coat, forgetting his muffler, and streaked out of the bank and along the street to the subway. He burst into the apartment breathless, snapping his fingers from nervousness. Mrs. Merivale grayfaced met him in the hall.</p>
 
-    <p>"My dear I thought you'd been taken ill."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"My dear I thought you'd been taken ill."</p>
 
-    <p>"It's not that . . . it's about Maisie."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"It's not that . . . it's about Maisie."</p>
 
-    <p>"She hasnt met with an accid. . .?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"She hasnt met with an accid. . .?"</p>
 
-    <p>"Come in here," interrupted Mrs. Merivale. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. "My dear this girl says she's Mrs. Jack Cunningham and she's got a marriage certificate to prove it."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Come in here," interrupted Mrs. Merivale. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. <said who="#" aloud="true" direct="true"></said>"My dear this girl says she's Mrs. Jack Cunningham and she's got a marriage certificate to prove it."</p>
 
-    <p>"Good Heavens, is that true?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Good Heavens, is that true?"</p>
 
     <p>The girl nodded in a melancholy way.</p>
 
-    <p>"And the invitations are out. Since his last wire Maisie's been ordering her trousseau."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"And the invitations are out. Since his last wire Maisie's been ordering her trousseau."</p>
 
     <p>The girl unfolded a large certificate ornamented with pansies and cupids and handed it to James.</p>
 
-    <p>"It might be forged."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"It might be forged."</p>
 
-    <p>"It's not forged," said the girl sweetly.</p>
+    <p><said who="#" aloud="true" direct="true"></said>"It's not forged," said the girl sweetly.</p>
 
-    <p>"John. C. Cunningham, 21 . . . Jessie Lincoln, 18," he read aloud. . . . "I'll smash his face for that, the blackguard. That's certainly his signature, I've seen it at the bank. . . . The blackguard."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"John. C. Cunningham, 21 . . . Jessie Lincoln, 18," he read aloud. . . . "I'll smash his face for that, the blackguard. That's certainly his signature, I've seen it at the bank. . . . The blackguard."</p>
 
-    <p>"Now James, don't be hasty."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Now James, don't be hasty."</p>
 
-    <p>"I thought it would be better this way than after the ceremony," put in the girl in her little sugar voice. "I wouldnt have Jack commit bigamy for anything in the world."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"I thought it would be better this way than after the ceremony," put in the girl in her little sugar voice. <said who="#" aloud="true" direct="true"></said>"I wouldnt have Jack commit bigamy for anything in the world."</p>
 
-    <p>"Where's Maisie?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Where's Maisie?"</p>
 
-    <p>"The poor darling is prostrated in her room."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"The poor darling is prostrated in her room."</p>
 
-    <p>Merivale's face was crimson. The sweat itched under his collar. "Now dearest" Mrs. Merivale kept saying, "you must promise me not to do anything rash."</p>
+    <p>Merivale's face was crimson. The sweat itched under his collar. <said who="#" aloud="true" direct="true"></said>"Now dearest" Mrs. Merivale kept saying, <said who="#" aloud="true" direct="true"></said>"you must promise me not to do anything rash."</p>
 
-    <p>"Yes Maisie's reputation must be protected at all costs."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Yes Maisie's reputation must be protected at all costs."</p>
 
-    <p>"My dear I think the best thing to do is to get him up here and confront him with this . . . with this . . . lady. . . . Would you agree to that Mrs. Cunningham?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"My dear I think the best thing to do is to get him up here and confront him with this . . . with this . . . lady. . . . Would you agree to that Mrs. Cunningham?"</p>
 
-    <p>"Oh dear. . . . Yes I suppose so."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Oh dear. . . . Yes I suppose so."</p>
 
-    <p>"Wait a minute," shouted Merivale and strode down the hall to the telephone. "Rector 12305. . . . Hello. I want to speak to Mr. Jack Cunningham please. . . . Hello. Is this Mr. Cunningham's office? Mr. James Merivale speaking. . . . Out of town. . . . And when will he be back? . . . Hum," He strode back along the hall. "The damn scoundrel's out of town."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Wait a minute," shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true"></said>"Rector 12305. . . . Hello. I want to speak to Mr. Jack Cunningham please. . . . Hello. Is this Mr. Cunningham's office? Mr. James Merivale speaking. . . . Out of town. . . . And when will he be back? . . . Hum," He strode back along the hall. <said who="#" aloud="true" direct="true"></said>"The damn scoundrel's out of town."</p>
 
-    <p>"All the years I've known him," said the little lady in the round hat, "that has always been where he was."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"All the years I've known him," said the little lady in the round hat, <said who="#" aloud="true" direct="true"></said>"that has always been where he was."</p>
 
     <p>Outside the broad office windows the night is gray and foggy. Here and there a few lights make up dim horizontals and perpendiculars of asterisks. Phineas Blackhead sits at his desk tipping far back in the small leather armchair. In his hand protecting his fingers by a large silk handkerchief, he holds a glass of hot water and bicarbonate of soda. Densch bald and round as a billiardball sits in the deep armchair playing with his tortoiseshell spectacles. Everything is quiet except for an occasional rattling and snapping of the steampipes.</p>
 
-    <p>"Densch you must forgive me. . . . You know I rarely permit myself an observation concerning other people's business," Blackhead is saying slowly between sips; then suddenly he sits up in his chair. "It's a damn fool proposition, Densch, by God it is . . . by the Living Jingo it's ridiculous."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Densch you must forgive me. . . . You know I rarely permit myself an observation concerning other people's business," Blackhead is saying slowly between sips; then suddenly he sits up in his chair. <said who="#" aloud="true" direct="true"></said>"It's a damn fool proposition, Densch, by God it is . . . by the Living Jingo it's ridiculous."</p>
 
-    <p>"I dont like dirtying my hands any more than you do. . . . Baldwin's a good fellow, I think we're safe in backing him a little."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"I dont like dirtying my hands any more than you do. . . . Baldwin's a good fellow, I think we're safe in backing him a little."</p>
 
-    <p>"What the hell's an import and export firm got to do in politics? If any of those guys wants a handout let him come up here and get it. Our business is the price of beans . . . and its goddam low. If any of you puling lawyers could restore the balance of the exchanges I'd be willing to do anything in the world. . . . They're crooks every last goddam one of em . . . by the Living Jingo they're crooks." His face flushes purple, he sits upright in his chair banging with his fist on the corner of the desk. "Now you're getting me all excited. . . . Bad for my stomach, bad for my heart." Phineas Blackhead belches portentously and takes a great gulp out of the glass of bicarbonate of soda. Then he leans back in his chair again letting his heavy lids half cover his eyes.</p>
+    <p><said who="#" aloud="true" direct="true"></said>"What the hell's an import and export firm got to do in politics? If any of those guys wants a handout let him come up here and get it. Our business is the price of beans . . . and its goddam low. If any of you puling lawyers could restore the balance of the exchanges I'd be willing to do anything in the world. . . . They're crooks every last goddam one of em . . . by the Living Jingo they're crooks." His face flushes purple, he sits upright in his chair banging with his fist on the corner of the desk. <said who="#" aloud="true" direct="true"></said>"Now you're getting me all excited. . . . Bad for my stomach, bad for my heart." Phineas Blackhead belches portentously and takes a great gulp out of the glass of bicarbonate of soda. Then he leans back in his chair again letting his heavy lids half cover his eyes.</p>
 
-    <p>"Well old man," says Mr. Densch in a tired voice, "it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Well old man," says Mr. Densch in a tired voice, <said who="#" aloud="true" direct="true"></said>"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</p>
 
-    <p>"Like hell it dont. . . . How about McNiel and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Like hell it dont. . . . How about McNiel and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</p>
 
-    <p>Densch gets to his feet. "My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ." He starts walking to the door, his round belly stuck proudly out in front of him.</p>
+    <p>Densch gets to his feet. <said who="#" aloud="true" direct="true"></said>"My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ." He starts walking to the door, his round belly stuck proudly out in front of him.</p>
 
-    <p>"Well allow me to say Densch that I think its a damn fool proposition," Blackhead shouts after him. When his partner has gone he lies back a second with his eyes closed. His face takes on the mottled color of ashes, his big fleshy frame is shrinking like a deflating balloon. At length he gets to his feet with a groan. Then he takes his hat and coat and walks out of the office with a slow heavy step. The hall is empty and dimly lit. He has to wait a long while for the elevator. The thought of holdup men sneaking through the empty building suddenly makes him catch his breath. He is afraid to look behind him, like a child in the dark. At last the elevator shoots up.</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Well allow me to say Densch that I think its a damn fool proposition," Blackhead shouts after him. When his partner has gone he lies back a second with his eyes closed. His face takes on the mottled color of ashes, his big fleshy frame is shrinking like a deflating balloon. At length he gets to his feet with a groan. Then he takes his hat and coat and walks out of the office with a slow heavy step. The hall is empty and dimly lit. He has to wait a long while for the elevator. The thought of holdup men sneaking through the empty building suddenly makes him catch his breath. He is afraid to look behind him, like a child in the dark. At last the elevator shoots up.</p>
 
-    <p>"Wilmer," he says to the night watchman who runs it, "there ought to be more light in these halls at night. . . . During this crime wave I should think you ought to keep the building brightly lit."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Wilmer," he says to the night watchman who runs it, <said who="#" aloud="true" direct="true"></said>"there ought to be more light in these halls at night. . . . During this crime wave I should think you ought to keep the building brightly lit."</p>
 
-    <p>"Yassir maybe you're right sir . . . but there cant nobody get in unless I sees em first."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Yassir maybe you're right sir . . . but there cant nobody get in unless I sees em first."</p>
 
-    <p>"You might be overpowered by a gang Wilmer."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"You might be overpowered by a gang Wilmer."</p>
 
-    <p>"I'd like to see em try it."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"I'd like to see em try it."</p>
 
-    <p>"I guess you are right . . . mere question of nerve."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"I guess you are right . . . mere question of nerve."</p>
 
-    <p>Cynthia is sitting in the Packard reading a book. "Well dear did you think I was never coming."</p>
+    <p>Cynthia is sitting in the Packard reading a book. <said who="#" aloud="true" direct="true"></said>"Well dear did you think I was never coming."</p>
 
-    <p>"I almost finished my book, dad."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"I almost finished my book, dad."</p>
 
-    <p>"All right Butler . . . up town as fast as you can. We're late for dinner."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"All right Butler . . . up town as fast as you can. We're late for dinner."</p>
 
-    <p>As the limousine whirs up Lafayette Street, Blackhead turns to his daughter. "If you ever hear a man talking about his duty as a citizen, by the Living Jingo dont trust him. . . . He's up to some kind of monkey business nine times out of ten. You dont know what a relief it is to me that you and Joe are comfortably settled in life."</p>
+    <p>As the limousine whirs up Lafayette Street, Blackhead turns to his daughter. <said who="#" aloud="true" direct="true"></said>"If you ever hear a man talking about his duty as a citizen, by the Living Jingo dont trust him. . . . He's up to some kind of monkey business nine times out of ten. You dont know what a relief it is to me that you and Joe are comfortably settled in life."</p>
 
-    <p>"What's the matter dad? Did you have a hard day at the office?" "There are no markets, there isnt a market in the goddam world that isnt shot to blazes. . . . I tell you Cynthia it's nip and tuck. There's no telling what might happen. . . . Look, before I forget it could you be at the bank uptown at twelve tomorrow? . . . I'm sending Hudgins up with certain securities, personal you understand, I want to put in your safe deposit box."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"What's the matter dad? Did you have a hard day at the office?" <said who="#" aloud="true" direct="true"></said>"There are no markets, there isnt a market in the goddam world that isnt shot to blazes. . . . I tell you Cynthia it's nip and tuck. There's no telling what might happen. . . . Look, before I forget it could you be at the bank uptown at twelve tomorrow? . . . I'm sending Hudgins up with certain securities, personal you understand, I want to put in your safe deposit box."</p>
 
-    <p>"But it's jammed full already dad."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"But it's jammed full already dad."</p>
 
-    <p>"That box at the Astor Trust is in your name isnt it?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"That box at the Astor Trust is in your name isnt it?"</p>
 
-    <p>"Jointly in mine and Joe's."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Jointly in mine and Joe's."</p>
 
-    <p>"Well you take a new box at the Fifth Avenue Bank in your own name. . . . I'll have the stuff get there at noon sharp. . . . And remember what I tell you Cynthia, if you ever hear a business associate talking about civic virtue, look lively."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Well you take a new box at the Fifth Avenue Bank in your own name. . . . I'll have the stuff get there at noon sharp. . . . And remember what I tell you Cynthia, if you ever hear a business associate talking about civic virtue, look lively."</p>
 
     <p>They are crossing Fourteenth. Father and daughter look out through the glass at the windbitten faces of people waiting to cross the street.</p>
 
@@ -5702,18 +5702,18 @@
             </persName>
         </person>, says a man in overalls, you're hurting the machine and we wont be able to get out the bullgod edition thank dog. The linotype was a gulping mouth with nickelbright rows of teeth, gulped, crunched. He woke up sitting up in bed. He was cold, his teeth were chattering. He pulled the covers about him and settled to sleep again. The next time he woke up it was daylight. He was warm and happy. Snowflakes were dancing, hesitating, spinning, outside the tall window.</p>
 
-    <p>"Hello 
+    <p><said who="#" aloud="true" direct="true"></said>"Hello 
         <person key="JimmyHerf">
             <persName>
                 <addName type="nickname">Jimps</addName>
             </persName>
         </person>," said Ellie coming towards him with a tray.</p>
 
-    <p>"Why have I died and gone to heaven or something?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Why have I died and gone to heaven or something?"</p>
 
-    <p>"No it's Sunday morning. . . . I thought you needed a little luxury. . . . I made some corn muffins."</p>
+    <p><said who="#" aloud="true" direct="true"></said>"No it's Sunday morning. . . . I thought you needed a little luxury. . . . I made some corn muffins."</p>
 
-    <p>"Oh you're marvelous Ellie. . . . Wait a minute I must jump up and wash my teeth." He came back with his face washed, wearing his bathrobe. Her mouth winced under his kiss. "And it's only eleven o'clock. I've gained an hour on my day off. . . . Wont you have some coffee too?"</p>
+    <p><said who="#" aloud="true" direct="true"></said>"Oh you're marvelous Ellie. . . . Wait a minute I must jump up and wash my teeth." He came back with his face washed, wearing his bathrobe. Her mouth winced under his kiss. <said who="#" aloud="true" direct="true"></said>"And it's only eleven o'clock. I've gained an hour on my day off. . . . Wont you have some coffee too?"</p>
 
 
 
