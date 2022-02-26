@@ -76,7 +76,7 @@
 
                     <p>The bathroom door opened; a stream of sunlight reflected out of a pierglass cut the murky hall in half, out of it came a head of hair like copper wire, bluedark eyes in a brittlewhite eggshaped face. Then the hair was brown down the hall above a slim back in a tangerine-colored slip, nonchalant pink heels standing up out of the bathslippers at every step.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Ou-ou, <person key="JimmyHerf">
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Ou-ou, <person key="JimmyHerf">
                                     <persName>
                                         <addName type="nickname">Jimmee</addName>
                                     </persName>
@@ -85,7 +85,7 @@
                                     <persName>
                                         <forename>Ruth</forename> 
                                     </persName>
-                                </person> was yodling at him from behind her door. <said who="#" aloud="true" direct="true">"But you mustn't look at me or at my room."</said> A head in curlpapers stuck out like a turtle's.</p>
+                                </person> was yodling at him from behind her door. <said who="RuthPrynne" aloud="true" direct="true">"But you mustn't look at me or at my room."</said> A head in curlpapers stuck out like a turtle's.</p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Hullo 
                         <person key="RuthPrynne">
@@ -96,14 +96,14 @@
 
 
 
-                    <p><said who="#" aloud="true" direct="true">"You can come in if you promise not to look. . . . I'm a sight and my room's a pigeon. . . . I've just got to do my hair. Then I'll be ready."</said> The little gray room was stuffed with clothes and photographs of stage people. 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"You can come in if you promise not to look. . . . I'm a sight and my room's a pigeon. . . . I've just got to do my hair. Then I'll be ready."</said> The little gray room was stuffed with clothes and photographs of stage people. 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person> stood with his back to the door, some sort of silky stuff that dangled from the hook tickling his ears.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Well how's the cub reporter?"</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Well how's the cub reporter?"</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"I'm on Hell's Kitchen. . . . It's swell. Got a job yet <person key="RuthPrynne">
                         <persName>
@@ -111,12 +111,12 @@
                         </persName>
                     </person>?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Um-um. . . . A couple of things may materialize during the week. But they wont. Oh 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Um-um. . . . A couple of things may materialize during the week. But they wont. Oh 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> I'm getting desperate."</said> She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. <said who="#" aloud="true" direct="true">"This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</said></p>
+                        </person> I'm getting desperate."</said> She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. <said who="RuthPrynne" aloud="true" direct="true">"This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Poor old 
                         <person key="RuthPrynne">
@@ -125,7 +125,7 @@
                             </persName>
                         </person>."</said></p>
 
-                    <p>She threw a powderpuff at him that covered his necktie and the lapels of his blue serge suit with powder. <said who="#" aloud="true" direct="true">"Dont you poor old me you little rat."</said></p>
+                    <p>She threw a powderpuff at him that covered his necktie and the lapels of his blue serge suit with powder. <said who="RuthPrynne" aloud="true" direct="true">"Dont you poor old me you little rat."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"That's a nice thing to do after all the trouble I took to make myself look respectable. . . . Darn your hide 
                         <person key="RuthPrynne">
@@ -138,7 +138,7 @@
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
-                        </person> threw back her head with a shrieking laugh. <said who="#" aloud="true" direct="true">"Oh you're so comical 
+                        </person> threw back her head with a shrieking laugh. <said who="RuthPrynne" aloud="true" direct="true">"Oh you're so comical 
                         <person key="JimmyHerf">
                             <persName>
                                 <forename>Jimmy</forename>
@@ -147,33 +147,33 @@
 
                     <p>Blushing he blew down his chin at his tie. <said who="JimmyHerf" aloud="true" direct="true">"Who's the funnylooking girl opened the halldoor?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Shush you can hear everything through the partition. . . . That's 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Shush you can hear everything through the partition. . . . That's 
                         <person key="CassandraWilkins">
                             <persName>
                                 <addName type="nickname">Cassie</addName>
                             </persName>
-                        </person>,"</said> she whispered giggling. <said who="#" aloud="true" direct="true">"
+                        </person>,"</said> she whispered giggling. <said who="RuthPrynne" aloud="true" direct="true">"
                         <person key="CassandraWilkins">
                             <persName>
                                 <addName type="?">Cassah-ndrah</addName> <!-- ricontrollare -->
                                 <surname>Wilkins</surname>
                             </persName>
-                        </person> . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her."</said> She let out a whoop of laughter. <said who="#" aloud="true" direct="true">"You nut 
+                        </person> . . . used to be with the Morgan Dancers. But we oughtnt to laugh at her, she's very nice. I'm very fond of her."</said> She let out a whoop of laughter. <said who="RuthPrynne" aloud="true" direct="true">"You nut 
                         <person key="JimmyHerf">
                             <persName>
                                 <forename>Jimmy</forename>
                             </persName>
-                        </person>,"</said> She got to her feet and punched him in the muscle of the arm. <said who="" aloud="true" direct="true">"You always make me act like I was crazy."</said></p>
+                        </person>,"</said> She got to her feet and punched him in the muscle of the arm. <said who="RuthPrynne" aloud="true" direct="true">"You always make me act like I was crazy."</said></p>
 
 
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"God did that. . . . No but look, I'm awfully hungry. I walked up."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"What time is it?"</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"What time is it?"</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"It's after one."</said></p>
 
-                    <p><said who="" aloud="true" direct="true">"Oh <person key="JimmyHerf">
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Oh <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
@@ -181,11 +181,11 @@
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Look at that funny woman opposite. She's got a face exactly like a llama."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"It's on account of her I have to keep my shades drawn all the time . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"It's on account of her I have to keep my shades drawn all the time . . ."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Why?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh you're much too young to know. You'd be shocked 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Oh you're much too young to know. You'd be shocked 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
@@ -199,7 +199,7 @@
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"So many things shock me, I dont see that it matters much. . . . But come along let's get out of here. The sun's shining outside and people are coming out of church and going home to overeat and read at their Sunday papers among the rubberplants . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh <person key="JimmyHerf">
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Oh <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
@@ -212,7 +212,7 @@
                         </persName>
                         </person> did not recognize the face he had seen through the crack in the door.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Hello <person key="CassandraWilkins">
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Hello <person key="CassandraWilkins">
                         <persName>
                             <addName type="nickname">Cassie</addName>
                         </persName>
@@ -286,7 +286,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Herf, Herf. . . . Let me see, it's not a Georgiah Herf? In Atlahnta there's an old family of Herfs. . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"No I dont think so."</said></p>
+                    <p><said who="" aloud="true" direct="true">"No I dont think so."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Too bad. Once upon a time Josiah Herf and I were boon companions. Today he is the president of the First National Bank and leading citizen of Scranton Pennsylvahnia and I . . . a mere mountebank, a thing of rags and patches."</said> When he shrugged his shoulders the bathrobe fell away exposing a flat smooth hairless chest.</p>
 
@@ -327,21 +327,21 @@
                             </persName>
                         </person> came up behind them.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"All right 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"All right 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person> I'm ready. . . . I wonder if I've forgotten anything."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I dont care whether you have or not, I'm starving."</said> 
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"I dont care whether you have or not, I'm starving."</said> 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> took hold of her shoulders and pushed her gently towards the door. <said who="#" aloud="true" direct="true">"It's two o'clock."</said></p>
+                        </person> took hold of her shoulders and pushed her gently towards the door. <said who="JimmyHerf" aloud="true" direct="true">"It's two o'clock."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Well goodby 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Well goodby 
                         <person key="CassandraWilkins">
                             <persName>
                                 <addName type="nickname">Cassie</addName>
@@ -361,54 +361,54 @@
                             </persName>
                         </person>'s tittering lisp.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Wow, 
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Wow, 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
                         </person> that place gives me the infernal jimjams."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Now 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Now 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person> dont get peevish because you need food."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"But tell me 
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"But tell me 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
                         </person>, what the hell is Mr. Oglethorpe? He beats anything I ever saw."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh did the Ogle come out of his lair?"</said> 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Oh did the Ogle come out of his lair?"</said> 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
-                        </person> let out a whoop of laughter. They came out into grimy sunlight. <said who="#" aloud="true" direct="true">"Did he tell you he was of the main brawnch, dontcher know, of the Oglethorpes of Georgiah?"</said></p>
+                        </person> let out a whoop of laughter. They came out into grimy sunlight. <said who="RuthPrynne" aloud="true" direct="true">"Did he tell you he was of the main brawnch, dontcher know, of the Oglethorpes of Georgiah?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Is that lovely girl with copper hair his wife?"</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Is that lovely girl with copper hair his wife?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Elaine Oglethorpe has reddish hair. She's not so darn lovely either. . . . She's just a kid and she's upstage as the deuce already. All because she made a kind of a hit in Peach Blossoms. You know one of these tiny exquisite bits everybody makes such a fuss over. She can act all right."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Elaine Oglethorpe has reddish hair. She's not so darn lovely either. . . . She's just a kid and she's upstage as the deuce already. All because she made a kind of a hit in Peach Blossoms. You know one of these tiny exquisite bits everybody makes such a fuss over. She can act all right."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"It's a shame she's got that for a husband."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"It's a shame she's got that for a husband."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Ogile's done everything in the world for her. If it hadnt been for him she'd still be in the chorus . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Ogile's done everything in the world for her. If it hadnt been for him she'd still be in the chorus . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Beauty and the beast."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Beauty and the beast."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"You'd better look out if he sets his lamps on you 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"You'd better look out if he sets his lamps on you 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person>."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Why?"</said>?</p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Why?"</said>?</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Strange fish, 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Strange fish, 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
@@ -422,22 +422,22 @@
                             </persName>
                         </person>'s mouth forming words.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Look,"</said> he shouted above the diminishing clatter. <said who="#" aloud="true" direct="true">"Let's go have brunch at the Campus and then go for a walk on the Palisades."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Look,"</said> he shouted above the diminishing clatter. <said who="JimmyHerf" aloud="true" direct="true">"Let's go have brunch at the Campus and then go for a walk on the Palisades."</said></p>
 
 
 
-                    <p><said who="#" aloud="true" direct="true">"You nut 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"You nut 
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person> what's brunch?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"You'll eat breakfast and I'll eat lunch."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"You'll eat breakfast and I'll eat lunch."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"It'll be a scream."</said> Whooping with laughter she put her arm in his. Her silvernet bag knocked against his elbow as they walked.</p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"It'll be a scream."</said> Whooping with laughter she put her arm in his. Her silvernet bag knocked against his elbow as they walked.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"And what about 
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"And what about 
                         <person key="CassandraWilkins">
                             <persName>
                                 <addName type="nickname">Cassie</addName>
@@ -449,20 +449,20 @@
                             </persName>
                         </person>?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"You mustn't laugh at her, she's a peach. . . . If only she wouldn't keep that horrid little white poodle. She keeps it in her room and it never gets any exercise and it smells something terrible. She has that little room next to mine. . . . Then she's got a steady . . ."</said>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"You mustn't laugh at her, she's a peach. . . . If only she wouldn't keep that horrid little white poodle. She keeps it in her room and it never gets any exercise and it smells something terrible. She has that little room next to mine. . . . Then she's got a steady . . ."</said>
                         <person key="RuthPrynne">
                         <persName>
                             <forename>Ruth</forename> 
                         </persName>
-                    </person> giggled. <said who="#" aloud="true" direct="true">"He's worse than the poodle. They're engaged and he borrows all her money away from her. For Heaven's sake dont tell anybody."</said></p>
+                    </person> giggled. <said who="RuthPrynne" aloud="true" direct="true">"He's worse than the poodle. They're engaged and he borrows all her money away from her. For Heaven's sake dont tell anybody."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I dont know anybody to tell."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"I dont know anybody to tell."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Then there's Mrs. Sunderland . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Then there's Mrs. Sunderland . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh yes I got a glimpse of her going into the bathroom—an old lady in a wadded dressing gown with a pink boudoir cap on."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Oh yes I got a glimpse of her going into the bathroom—an old lady in a wadded dressing gown with a pink boudoir cap on."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="JimmyHerf">
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"<person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
@@ -478,16 +478,16 @@
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
-                        </person> made a pass at him with a breadstick. <said who="#" aloud="true" direct="true">"
+                        </person> made a pass at him with a breadstick. <said who="RuthPrynne" aloud="true" direct="true">"
                         <person key="JimmyHerf">
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
                         </person> do you think it'd be immoral to eat scallops for breakfast? But first I've got to have coffee coffee coffee . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I'm going to eat a small steak and onions."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"I'm going to eat a small steak and onions."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true"><"Not if you're intending to spend the afternoon with me. 
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Not if you're intending to spend the afternoon with me. 
                         <person key="JimmyHerf">
                             <persName>
                                 <roleName type="honorific" full="abb">Mr.</roleName>
@@ -495,18 +495,18 @@
                             </persName>
                         </person>."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh all right. 
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Oh all right. 
                         <person key="RuthPrynne">
                             <persName>
                                 <forename>Ruth</forename> 
                             </persName>
                         </person> I lay my onions at your feet."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"That doesn't mean I'm going to let you kiss me."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"That doesn't mean I'm going to let you kiss me."</said></p>
 
 
 
-                    <p><said who="#" aloud="true" direct="true">"What . . . on the Palisades?"</said>
+                    <p><said who="?" aloud="true" direct="true">"What . . . on the Palisades?"</said>
                         <person key="RuthPrynne">
                         <persName>
                             <forename>Ruth</forename> 
@@ -516,7 +516,7 @@
                         <persName>
                             <forename>Jimmy</forename>
                         </persName>
-                        </person> blushed crimson. <said who="#" aloud="true" direct="true">"I never axed you maam, he say-ed."</said></p>
+                        </person> blushed crimson. <said who="JimmyHerf" aloud="true" direct="true">"I never axed you maam,"</said> he say-ed.</p>
 
                     <p>Sunlight dripped in her face through the little holes in the brim of her straw hat. She was walking with brisk steps too short on account of her narrow skirt; through the thin china silk the sunlight tingled like a hand stroking her back. In the heavy heat streets, stores, people in Sunday clothes, strawhats, sunshades, surfacecars, taxis, broke and crinkled brightly about her grazing her with sharp cutting glints as if she were walking through piles of metalshavings. She was groping continually through a tangle of gritty sawedged brittle noise.</p>
 
