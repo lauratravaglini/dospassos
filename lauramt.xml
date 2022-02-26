@@ -598,29 +598,29 @@
 
                     <p><said who="#" aloud="true" direct="true">"Miss Oglethorpe this is Stanwood Emery, the son of the senior partner in our firm."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh it's so wonderful to meet you Miss Oglethorpe. I saw you last night, but you didn't see me."</said></p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"Oh it's so wonderful to meet you Miss Oglethorpe. I saw you last night, but you didn't see me."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Did you go to the show?"</said></p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"Did you go to the show?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I almost jumped over the foots I thought you were so wonderful."</said></p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"I almost jumped over the foots I thought you were so wonderful."</said></p>
 
                     <p>He had a ruddy brown skin, anxious eyes rather near the bridge of a sharp fragillycut nose, a big mouth never still, wavy brown hair that stood straight up. Ellen looked from one to the other inwardly giggling. They were all three stiffening in their chairs.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"I saw the danderine lady this afternoon,"</said> she said. <said who="#" aloud="true" direct="true">"She impressed me enormously. Just my idea of a great lady on a white horse."</said></p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"I saw the danderine lady this afternoon,"</said> she said. <said who="#" aloud="true" direct="true">"She impressed me enormously. Just my idea of a great lady on a white horse."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"With rings on her finger and bells on her toes, And she shall make mischief wherever she goes."</said> Stan rattled it off quickly under his breath.</p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"With rings on her finger and bells on her toes, And she shall make mischief wherever she goes."</said> Stan rattled it off quickly under his breath.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Music, isnt it?"</said> put in Ellen laughing. <said who="#" aloud="true" direct="true">"I always say mischief."</said></p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"Music, isnt it?"</said> put in Ellen laughing. <said who="EllenThatcher" aloud="true" direct="true">"I always say mischief."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Well how's college?"</said> asked Baldwin in a dry uncordial voice.</p>
+                    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"Well how's college?"</said> asked Baldwin in a dry uncordial voice.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"I guess it's still there,"</said> said Stan blushing. <said who="#" aloud="true" direct="true">"I wish they'd burn it down before I got back."</said> He got to his feet. <said who="#" aloud="true" direct="true">"You must excuse me Mr. Baldwin. . . . My intrusion was infernally rude."</said> As he turned leaning towards Ellen she smelled his grainy whiskey breath. <said who="#" aloud="true" direct="true">"Please forgive it, Miss Oglethorpe."</said></p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"I guess it's still there,"</said> said Stan blushing. <said who="StanwoodEmery" aloud="true" direct="true">"I wish they'd burn it down before I got back."</said> He got to his feet. <said who="StanwoodEmery" aloud="true" direct="true">"You must excuse me Mr. Baldwin. . . . My intrusion was infernally rude."</said> As he turned leaning towards Ellen she smelled his grainy whiskey breath. <said who="StanwoodEmery" aloud="true" direct="true">"Please forgive it, Miss Oglethorpe."</said></p>
 
                     <p>She found herself holding out her hand; a dry skinny hand squeezed it hard. He strode out with swinging steps bumping into a waiter as he went.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"I cant make out that infernal young puppy,"</said> burst out Baldwin. <said who="#" aloud="true" direct="true">"Poor old Emery's heartbroken about it. He's darn clever and has a lot of personality and all that sort of thing, but all he does is drink and raise Cain. . . . I guess all he needs is to go to work and get a sense of values. Too much money's what's the matter with most of those collegeboys. . . . Oh but Elaine thank God we're alone again. I have worked continuously all my life ever since I was fourteen. The time has come when I want to lay aside all that for a while. I want to live and travel and think and be happy. I cant stand the pace of downtown the way I used to. I want to learn to play, to ease off the tension. . . . That's where you come in."</said></p>
+                    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"I cant make out that infernal young puppy,"</said> burst out Baldwin. <said who="GeorgeBaldwin" aloud="true" direct="true">"Poor old Emery's heartbroken about it. He's darn clever and has a lot of personality and all that sort of thing, but all he does is drink and raise Cain. . . . I guess all he needs is to go to work and get a sense of values. Too much money's what's the matter with most of those collegeboys. . . . Oh but Elaine thank God we're alone again. I have worked continuously all my life ever since I was fourteen. The time has come when I want to lay aside all that for a while. I want to live and travel and think and be happy. I cant stand the pace of downtown the way I used to. I want to learn to play, to ease off the tension. . . . That's where you come in."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"But I don't want to be the nigger on anybody's safety-valve."</said> She laughed and let the lashes fall over her eyes.</p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"But I don't want to be the nigger on anybody's safety-valve."</said> She laughed and let the lashes fall over her eyes.</p>
 
                     <p><said who="#" aloud="true" direct="true">"Let's go out to the country somewhere this evening. I've been stifling in the office all day. I hate Sunday anyway."</said></p>
 
@@ -628,7 +628,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"You could be sick. I'll phone for a car."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Golly there's Jojo. . . . Hello Jojo"</said>; she waved her gloves above her head.</p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"Golly there's Jojo. . . . Hello Jojo"</said>; she waved her gloves above her head.</p>
 
                     <p>John Oglethorpe, his face powdered, his mouth arranged in a careful smile above his standup collar, advanced between the crowded tables, holding out his hand tightly squeezed into buff gloves with black stripes. <said who="#" aloud="true" direct="true">"Heow deo you deo, my deah, this is indeed a surprise and a pleajah."</said></p>
 
@@ -640,13 +640,13 @@
 
                     <p><said who="#" aloud="true" direct="true">"Certainly my deah, nothing could give me more pleajah."</said></p>
 
-                    <p>His whole body tense George Baldwin leaned back with his hand clasped behind the back of his chair. <said who="#" aloud="true" direct="true">"Waiter . . ."</said> He broke his words off sharp like metal breaking. <said who="#" aloud="true" direct="true">"Three Scotch highballs at once please."</said></p>
+                    <p>His whole body tense George Baldwin leaned back with his hand clasped behind the back of his chair. <said who="GeorgeBaldwin" aloud="true" direct="true">"Waiter . . ."</said> He broke his words off sharp like metal breaking. <said who="GeorgeBaldwin" aloud="true" direct="true">"Three Scotch highballs at once please."</said></p>
 
                     <p>Oglethorpe rested his chin on the silver ball of his cane. <said who="#" aloud="true" direct="true">"Confidence, Mr. Baldwin,"</said> he began, <said who="#" aloud="true" direct="true">"confidence between husband and wife is a very beautiful thing. Space and time have no effect on it. Were one of us to go to China for a thousand years it would not change our affection one tittle."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"You see George, what's the matter with Jojo is that he read too much Shakespeare in his youth. . . . But I've got to go or Merton will be bawling me out again. . . . Talk about industrial slavery. Jojo tell him about Equity."</said></p>
 
-                    <p>Baldwin got to his feet. There was a slight flush on his cheekbones. <said who="#" aloud="true" direct="true">"Wont you let me take you up to the theater,"</said> he said through clenched teeth.</p>
+                    <p>Baldwin got to his feet. There was a slight flush on his cheekbones. <said who="GeorgeBaldwin" aloud="true" direct="true">"Wont you let me take you up to the theater,"</said> he said through clenched teeth.</p>
 
                     <p><said who="#" aloud="true" direct="true">"I never let anyone take me anywhere . . . And Jojo you must stay sober to see me act."</said></p>
 
@@ -654,7 +654,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"I waited round to see you come out. Cant I take you somewhere? I've got my Ford round the corner. . . . Please."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"But I'm just going up to the theater. I've got a rehearsal.</said>></p>
+                    <p><said who="#" aloud="true" direct="true">"But I'm just going up to the theater. I've got a rehearsal."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"All right do let me take you there."</said></p>
 
@@ -670,7 +670,7 @@
 
                     <p>At Thirtyfourth Street they passed a girl riding slowly through the traffic on a white horse; chestnut hair hung down in even faky waves over the horse's chalky rump and over the giltedged saddlecloth where in green letters pointed with crimson read Danderine.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Rings on her fingers,"</said> chanted Stan pressing his buzzer, <said who="#" aloud="true" direct="true">"And bells on her toes, And she shall cure dandruff wherever it grows."</said></p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"Rings on her fingers,"</said> chanted Stan pressing his buzzer, <said who="StanwoodEmery" aloud="true" direct="true">"And bells on her toes, And she shall cure dandruff wherever it grows."</said></p>
 
                     </div>
  
