@@ -1,0 +1,71 @@
+REGEX FOR ENCODING
+<p>" --> <p><said who="" aloud="true" direct="true">"
+
+(<said(?:.*))(?:") --> $1"</said>
+
+
+
+
+
+
+
+
+
+
+
+                    <person key="GeorgeBaldwin">
+                        <persName>
+                            <roleName type="honorific" full="abb">Mr.</roleName> 
+                            <surname>Baldwin</surname>
+                        </persName>
+                    </person>
+                    
+
+                    <person key="JimmyHerf">Herfy</person>
+
+Jim(my|ps|mee)?(?!iny)(\sHerf)?|(James\s)?(Mr\.\s)?(?<!Mrs\.\s|Lily\s|Josiah\s|Georgiah\s)Herfy?|(Mr\.|Meester|monsieur)?'Erf,JimmyHerf
+(?<!\w)(He|El)+(len|lie|aine|ah|a)+(?!\w)(\sOglethorpe|\sHerf|\sThatcher)?|(Mrs\.|Miss)+(\sOglethorpe|\sHerf),EllenThatcher
+Martin2,MartinHerf
+Martin1,MartinEmery
+Martin3,MartinSchiff
+(Stan(wood)?)+(?!\w)(\sEmery)?|(Mr\.\s)?(?<!&\s)Emery(?!\s&),StanwoodEmery
+Ed(ward\sC.)?(?!\w)(\sThatcher)?|(Mr\.\s)?(?<!Susie\s|Elaine\s|Mrs\.\s)Thatcher,EdThatcher
+Susie(\sThatcher)?|Mrs\.(\sThatcher),SusieThatcher
+George(\sBaldwin)?|(Mr\.)?(\sBaldwin)+,GeorgeBaldwin
+(Gus|August(e|us)?)(\sMcNiel)?|(Mr\.\s)?(?<!Nellie\s)McNiel,GusMcNiel
+Nellie(\sLinihan)?(\sMcNiel)?|(Mrs\.\s)McNiel,NellieMcNeil
+Phil(?!\w)(\sSandbourne)?|(Mr\.\s)?Sandbourne,PhilSandbourne
+(Joe|Joseph)(?!\w)(\sHarland)?(#Harland#)?|(Mr\.\s|Meester\s)?Harland,JoeHarland
+Jeff(erson)?(\sT\.)?(\sMerivale)?,JeffMerivale
+(Aunt\s)?Emily,EmilyMerivale
+Maisie(\sMerivale)?|(Mrs\.)?Merivale,MaisieMerivale
+James(\sMerivale)?(?!\sHerf)|(Mr\.\s)?(?<!Maisie\s|#Emily#\s|Mrs\.\s|T\.\s)Merivale,JamesMerivale
+Jack(?!\w)(\sCunningham)?|(Mr\.\s)?(?!Mrs\.\s)Cunningham,JackCunningham
+Joe(?!\w)(\sO'Keefe|#O'Keefe#)+|(Mr\.\s)?O'Keefe,JoeO'Keefe
+Dutch(?!\w)(\sRobertson)?|(?<!Forbes\s)Robertson,DutchRobertson
+Francie,FrancieNoname
+Anna(\sCohen)?|Ann-ee|Annie|(Mrs\.\s)Cohen,AnnaCohen
+Elmer,ElmerNoname
+Cecily(\sMrs\.,Baldwin),CecilyNoname
+Ruth(\sPrynne)?|(Miss\s)?Prynne,RuthPrynne
+Cass\w(\sWilkins)?,CassandraWilkins
+Phineas(\sP\.)?(\sBlackhead)?|Blackhead,PhineasBlackhead
+(Mrs\.\s)?(?<!Mr\.\s)Densch,DenschMr
+Mrs\.\sDensch,DenschMrs
+Bud(\sKorpenning)?,BudKorpenning
+Gladys,GladysNoname
+Emile,EmileNoname
+Congo(\sJake)?,CongoJake
+Nevada(\sJones)?|Miss\sJones,NevadaJones
+Tony(\sHunter)?|Hunter,TonyHunter
+(Emile\s)?Rigaud,EmileRigaude
+Pearline,PearlineNoname
+John(ny)?(?!\w|\sB\.)(\sOglethorpe)?,JohnOglethorpe
+Harry(\sGoldweiser)?|(Mr\.\s)?Goldweiser,HarryGoldweiser
+Miss\sGoldweiser|Rachel,RachelGoldweiser
+Lily(\sHerf)?,Lilylil1
+Florence,FlorenceNoname
+Frances(\sHildebrand)?,FrancesHildebrand
+(Bob\s)?(?<!Frances\s)Hildebrand),BobHildebrand
+(?<!Congo\s)Jake(\sSilverman)?,JakeSilverman
+Rosie,RosieSilverman
