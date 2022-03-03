@@ -1455,11 +1455,9 @@
 
                     <p><said who="#" aloud="true" direct="true">"Honestly I didnt mean anything, but I'm sorry to hear it all the same. I think it's terrible."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="RuthPrynne">
-                            <persName>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#RuthPrynne">
                                 <forename>Ruth</forename> 
-                            </persName>
-                        </person> doesn't care about anything but her acting. She's so crazy to succeed, she cuts out everything else."</said></p>
+                            </persName> doesn't care about anything but her acting. She's so crazy to succeed, she cuts out everything else."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Why the hell does everybody want to succeed? I'd like to meet somebody who wanted to fail. That's the only sublime thing."</said></p>
 
@@ -1494,11 +1492,9 @@
                     <p><said who="#" aloud="true" direct="true">"Now Herf it's not fair to cast my father's iniquities in my face. You know I hate that stuff as much as you do."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I'm not blaming you 
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                            </persName>
-                        </person>; you're a damn lucky kid, that's all. Of course I'm lucky too, a hell of a lot luckier than most. My mother's leftover money supported me until I was twentytwo and I still have a few hundreds stowed away for that famous rainy day, and my uncle, curse his soul, gets me new jobs when I get fired."</said></p>
+                            <persName ref="#StanwooodEmery">
+                                <addName type="nickname">Stan</addName>
+                            </persName>; you're a damn lucky kid, that's all. Of course I'm lucky too, a hell of a lot luckier than most. My mother's leftover money supported me until I was twentytwo and I still have a few hundreds stowed away for that famous rainy day, and my uncle, curse his soul, gets me new jobs when I get fired."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Baa baa black sheep."</said></p>
 
@@ -1506,23 +1502,19 @@
 
                     <p><said who="#" aloud="true" direct="true">"Ah guess youse one o dem dere foolish virgins."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                            </persName>
-                        </person> you're feeling your liquor, you're beginning to talk niggertalk."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"
+                        <persName ref="#StanwoodEmery">
+                                <addName type="nickname">Stan</persName></addName>
+                            </persName> you're feeling your liquor, you're beginning to talk niggertalk."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Baa baa."</said> <person key="StanwoodEmery">
-                                    <persName>
-                                        <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                                    </persName>
-                                  </person> put down his napkin and leaned back laughing in his throat.</p>
+                    <p><said who="#" aloud="true" direct="true">"Baa baa."</said><persName ref="#StanwoodEmery">
+                                        <addName type="nickname">Stan</addName>
+                                    </persName> put down his napkin and leaned back laughing in his throat.</p>
 
-                    <p>The smell of absinthe sicklytingling grew up like the magician's rosebush out of <person key="JimmyHerf">
-                        <persName>
+                    <p>The smell of absinthe sicklytingling grew up like the magician's rosebush out of 
+                        <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName>
-                        </person>'s glass. He sipped it wrinkling his nose. <said who="#" aloud="true" direct="true">"As a moralist I protest,"</said> he said. <said who="#" aloud="true" direct="true">"Whee it's amazing."</said></p>
+                        </persName>'s glass. He sipped it wrinkling his nose. <said who="#" aloud="true" direct="true">"As a moralist I protest,"</said> he said. <said who="#" aloud="true" direct="true">"Whee it's amazing."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"What I need is a whiskey and soda to settle those cocktails."</said></p>
 
@@ -1545,11 +1537,9 @@
                     <p><said who="#" aloud="true" direct="true">"Then I know where she'll be."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I'm going to light out of it all,"</said> said 
-                        <person key="JimmyHerf">
-                        <persName>
+                        <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName>
-                        </person> somberly, <said who="#" aloud="true" direct="true">"and go to Mexico and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</said></p>
+                        </persName> somberly, <said who="#" aloud="true" direct="true">"and go to Mexico and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"How'll you make your fortune?"</said></p>
 
@@ -1561,42 +1551,34 @@
 
                     <p><said who="#" aloud="true" direct="true">"Let's get the hell out of here and take Dingo to have her muffler fastened."</said></p>
 
-                    <p><person key="JimmyHerf">
-                        <persName>
+                    <p><persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName>
-                        </person> stood waiting in the door of the reeking garage. The dusty afternoon sunlight squirmed in bright worms of heat on his face and hands. Brownstone, redbrick, asphalt flickering with red and green letters of signs, with bits of paper in the gutter rotated in a slow haze about him. Two carwashers talking behind him:</p>
+                        </persName>stood waiting in the door of the reeking garage. The dusty afternoon sunlight squirmed in bright worms of heat on his face and hands. Brownstone, redbrick, asphalt flickering with red and green letters of signs, with bits of paper in the gutter rotated in a slow haze about him. Two carwashers talking behind him:</p>
 
                     <p><said who="#" aloud="true" direct="true">"Yep I was making good money until I went after that lousy broad."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I'll say she's a goodlooker, Charley. I should worry. . . . Dont make no difference after the first week."</said></p>
 
-                    <p><person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                            </persName>
-                        </person> came up behind him and ran him along the street by the shoulders. <said who="#" aloud="true" direct="true">"Car wont be fixed until five o'clock. Let's taxi. . . . Hotel Lafayette,"</said> he shouted at the driver and slapped 
-                        <person key="JimmyHerf">
-                        <persName>
+                    <p><persName ref="#StanwoodEmery">
+                                <addName type="nickname">Stan</addName>
+                            </persName> came up behind him and ran him along the street by the shoulders. <said who="#" aloud="true" direct="true">"Car wont be fixed until five o'clock. Let's taxi. . . . Hotel Lafayette,"</said> he shouted at the driver and slapped 
+                        <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName>
-                        </person> on the knee. <said who="#" aloud="true" direct="true">"Well Herfy old fossil, you know what the Governor of North Carolina said to the Governor of South Carolina."</said></p>
+                        </persName> on the knee. <said who="#" aloud="true" direct="true">"Well Herfy old fossil, you know what the Governor of North Carolina said to the Governor of South Carolina."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"No."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"It's a long time between drinks."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Baa, baa,"</said> <person key="StanwoodEmery">
-                                        <persName>
-                                            <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                                        </persName>
-                                    </person> was bleating under his breath as they stormed into the café. <said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher">Ellie</persName> here are the black sheep,"</said> he shouted laughing. His face froze suddenly stiff. Opposite <persName ref="#EllenThatcher">Ellen</persName> at the table sat her husband, one eyebrow lifted very high and the other almost merging with the eyelashes. A teapot sat impudently between them.</p>
+                    <p><said who="#" aloud="true" direct="true">"Baa, baa,"</said>
+                                        <persName ref="#StanwoodEmery">
+                                            <addName type="nickname">Stan</addName>
+                                        </persName> was bleating under his breath as they stormed into the café. <said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher">Ellie</persName> here are the black sheep,"</said> he shouted laughing. His face froze suddenly stiff. Opposite <persName ref="#EllenThatcher">Ellen</persName> at the table sat her husband, one eyebrow lifted very high and the other almost merging with the eyelashes. A teapot sat impudently between them.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Hello <person key="StanwoodEmery">
-                                    <persName>
-                                        <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
-                                    </persName>
-                               </person>, sit down,"</said> she said quietly. Then she continued smiling into Oglethorpe's face. <said who="#" aloud="true" direct="true">"Isnt that wonderful Jojo?"</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Hello 
+                        <persName ref="#StanwoodEmery">
+                                        <addName type="nickname">Stan</addName>
+                                    </persName>, sit down,"</said> she said quietly. Then she continued smiling into Oglethorpe's face. <said who="#" aloud="true" direct="true">"Isnt that wonderful Jojo?"</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher">Ellie</persName> this is 
                         <person key="JimmyHerf">
