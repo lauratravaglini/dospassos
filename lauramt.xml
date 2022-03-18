@@ -1498,7 +1498,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Baa baa black sheep."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I guess I'm really afraid of my uncles and aunts. . . . You ought to see my cousin <persName ref="#JamesMerivale">James Merivale</persName>. Has done everything he was told all his life and flourished like a green bay tree. . . . The perfect wise virgin."</said>
+                    <p><said who="#" aloud="true" direct="true">"I guess I'm really afraid of my uncles and aunts. . . . You ought to see my cousin <persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName>. Has done everything he was told all his life and flourished like a green bay tree. . . . The perfect wise virgin."</said>
 
                     <p><said who="#" aloud="true" direct="true">"Ah guess youse one o dem dere foolish virgins."</said></p>
 
@@ -4617,7 +4617,7 @@
 
     <p><said who="#" aloud="true" direct="true">"But Mr. Perkins carries a cane with a gold parrothead."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Yes but he's one of the vicepresidents, he can do what he likes. . . . But I've got to run."</said> James Merivale hastily kissed his mother and sister. He put on his gloves going down in the elevator. Ducking his head into the sleety wind he walked quickly east along Seventysecond. At the subway entrance he bought a Tribune and hustled down the steps to the jammed soursmelling platform.</p>
+    <p><said who="#" aloud="true" direct="true">"Yes but he's one of the vicepresidents, he can do what he likes. . . . But I've got to run."</said> <persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName> hastily kissed his mother and sister. He put on his gloves going down in the elevator. Ducking his head into the sleety wind he walked quickly east along Seventysecond. At the subway entrance he bought a Tribune and hustled down the steps to the jammed soursmelling platform.</p>
 
     <p>Chicago! Chicago! came in bursts out of the shut phonograph. <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>, slim in a black closecut suit, was dancing with a girl who kept putting her mass of curly ashblond hair on his shoulder. They were alone in the hotel sitting room.</p>
 
@@ -5004,7 +5004,7 @@
             <forename>Jimmy</forename>
         </persName>,"</said> cooed Alice, <said who="#" aloud="true" direct="true">"you lead the most thrilling life."</said></p>
 
-    <p>James Merivale was going over a freshly decoded cable, tapping the words with a pencil as he read them. Tasmanian Manganese Products instructs us to open credit. . . . The phone on his desk began to buzz.</p>
+    <p><persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName> was going over a freshly decoded cable, tapping the words with a pencil as he read them. Tasmanian Manganese Products instructs us to open credit. . . . The phone on his desk began to buzz.</p>
 
     <p><said who="#" aloud="true" direct="true">"James this is your mother. Come right up; something terrible has happened."</said></p>
 
@@ -5054,7 +5054,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Oh dear. . . . Yes I suppose so."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to Mr. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> please. . . . Hello. Is this Mr. Cunningham's office? Mr. James Merivale speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to Mr. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> please. . . . Hello. Is this Mr. Cunningham's office? <persName ref="#JamesMerivale"><roleName type="honorific" full="abb">Mr.</roleName> <forename>James</forename> <surname>Merivale</surname></persName> speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All the years I've known him,"</said> said the little lady in the round hat, <said who="#" aloud="true" direct="true">"that has always been where he was."</said></p>
 
@@ -5273,7 +5273,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Is that all right for length sir,"</said> asked the fitter busily making marks on the trousers with a piece of chalk.</p>
 
-    <p>James Merivale looked down at the fitter's little greenish wizened bald head and at the brown trousers flowing amply about his feet. <said who="#" aloud="true" direct="true">"A little shorter. . . . I think it looks a little old to have trousers too long."</said></p>
+    <p><persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName> looked down at the fitter's little greenish wizened bald head and at the brown trousers flowing amply about his feet. <said who="#" aloud="true" direct="true">"A little shorter. . . . I think it looks a little old to have trousers too long."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Why hello Merivale I didn't know you bought your clothes at Brooks' too. Gee I'm glad to see you."</said></p>
 
