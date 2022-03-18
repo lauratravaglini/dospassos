@@ -575,7 +575,7 @@
                 <div n="?" type="chapter">
                     <ptr target="#Chapter?"/>
                         
-                    <head>II. Longlegged <persName ref="#JackCunningham">Jack</persName> of the Isthmus</head>
+                    <head>II. Longlegged <persName ref="#JackCunningham"><forename>Jack</forename></persName> of the Isthmus</head>
 
                     <p>Noon on Union Square. Selling out. Must vacate. WE HAVE MADE A TERRIBLE MISTAKE. Kneeling on the dusty asphalt little boys shine shoes lowshoes tans buttonshoes oxfords. The sun shines like a dandelion on the toe of each new-shined shoe. Right this way buddy, mister miss maam at the back of the store our new line of fancy tweeds highest value lowest price . . . Gents, misses, ladies, cutrate . . . WE HAVE MADE A TERRIBLE MISTAKE. Must vacate.</p>
 
@@ -830,14 +830,14 @@
                     <p><said who="#" aloud="true" direct="true">"O you missed it. It was a shriek. . . . Everybody was out in the hall, Mrs. Sunderland with her hair in curlpapers, and 
                             <persName ref="#CassandraWilkins">
                                 <addName type="nickname">Cassie</addName>
-                            </persName>was crying and <persName ref="#TonyHunter">Tony Hunter</persName> was standing in his door in pink pyjamas. . . ."</said></p>
+                            </persName>was crying and <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> was standing in his door in pink pyjamas. . . ."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Who's he?"</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Just a juvenile. . . . But 
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName> I must have told you about <persName ref="#TonyHunter">Tony Hunter</persName>. Peculiar poissons 
+                        </persName> I must have told you about <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>. Peculiar poissons 
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
                         </persName>, peculiar poissons."</said></p>
@@ -868,10 +868,10 @@
 
 
 
-                    <p><said who="#" aloud="true" direct="true">"Well at last the Ogle got tired of his big scene and cried out in ringing tones, Disarm me or I shall kill this woman. And <persName ref="#TonyHunter">Tony Hunter</persName> grabbed the pistol and took it into his room. Then <persName ref="#EllenThatcher">Elaine Oglethorpe</persName> made a little bow as if she were taking a curtaincall, said Well goodnight everybody, and ducked into her room cool as a cucumber. . . . Can you picture it?"</said> 
+                    <p><said who="#" aloud="true" direct="true">"Well at last the Ogle got tired of his big scene and cried out in ringing tones, Disarm me or I shall kill this woman. And <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> grabbed the pistol and took it into his room. Then <persName ref="#EllenThatcher">Elaine Oglethorpe</persName> made a little bow as if she were taking a curtaincall, said Well goodnight everybody, and ducked into her room cool as a cucumber. . . . Can you picture it?"</said> 
                             <persName ref="RuthPrynne">
                                 <forename>Ruth</forename> 
-                            </persName> suddenly lowered her voice, <said who="#" aloud="true" direct="true">"But everybody in the restaurant is listening to us. . . . And really I think its very disgusting. But the worst is yet to come. After the Ogle had banged on the door a couple of times and not gotten any answer he went up to <persName ref="#TonyHunter">Tony</persName> and rolling his eyes like Forbes Robertson in Hamlet put his arm round him and said <persName ref="#TonyHunter">Tony</persName> can a broken man crave asylum in your room for the right. . . . Honestly I was just so shocked."</said></p>
+                            </persName> suddenly lowered her voice, <said who="#" aloud="true" direct="true">"But everybody in the restaurant is listening to us. . . . And really I think its very disgusting. But the worst is yet to come. After the Ogle had banged on the door a couple of times and not gotten any answer he went up to <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> and rolling his eyes like Forbes Robertson in Hamlet put his arm round him and said <persName ref="#TonyHunter"><forename>Tony</forename></persName> can a broken man crave asylum in your room for the right. . . . Honestly I was just so shocked."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Is Oglethorpe that way too?"</said></p>
 
@@ -897,7 +897,7 @@
                             </persName> had been having hysterics all along just to add to the excitement. When I came back from getting her some sweet spirits of ammonia in the bathroom I found the court in session. It was a shriek. Miss Costello wanted the Oglethorpes thrown out at dawn and said she'd leave if they didn't and Mrs. Sunderland kept moaning that in thirty years of theatrical experience she'd never seen a scene like that, and the man in the dress suit who was Benjamin Arden . . . you know he played a character part in Honeysuckle 
                             <persName ref="#JimmyHerf">
                                 <forename>Jim</forename>
-                            </persName>. . . said he thought people like <persName ref="#TonyHunter">Tony Hunter</persName> ought to be in jail. When I went to bed it was still going on. Do you wonder that I slept late after all that and kept you waiting, poor child, an hour in the Times Drug Store?"</said></p>
+                            </persName>. . . said he thought people like <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> ought to be in jail. When I went to bed it was still going on. Do you wonder that I slept late after all that and kept you waiting, poor child, an hour in the Times Drug Store?"</said></p>
 
                     <p><persName ref="#JoeHarland">Joe Harland</persName> stood in his hall bedroom with his hands in his pockets staring at the picture of The Stag at Bay that hung crooked in the middle of the verdegris wall that hemmed in the shaky iron bed. His clawcold fingers moved restlessly in the bottoms of his trousers pockets. He was talking aloud in a low even voice: <said who="#" aloud="true" direct="true">"Oh, it's all luck you know, but that's the last time I try the Merivales. Emily'd have given it to me if it hadn't been for that damned old tightwad. Got a soft spot in her heart Emily has. But none of em seem to realize that these things aren't always a man's own fault. It's luck that's all it is, and Lord knows they used to eat out of my hand in the old days."</said> His rising voice grated on his ears. He pressed his lips together. You're getting batty old man. He stepped back and forth in the narrow space between the bed and the wall. Three steps. Three steps. He went to the washstand and drank out of the pitcher. The water tasted of rank wood and sloppails. He spat the last mouthful back. I need a good tenderloin steak not water. He pounded his clenched fists together. I got to do something. I got to do something.</p>
 
@@ -1718,7 +1718,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Women know everything but they wont let on."</said></p>
 
-                    <p><persName ref="#EllenThatcher">Ellen</persName> sits in a gown of nilegreen silk in a springy armchair at the end of a long room jingling with talk and twinkle of chandeliers and jewelry, dotted with the bright moving black of evening clothes and silveredged colors of women's dresses. The curve of <persName ref="#HarryGoldweiser">Harry Goldweiser</persName>'s nose merges directly into the curve of his bald forehead, his big rump bulges over the edges of a triangular gilt stool, his small brown eyes measure her face like antennae as he talks to her. A woman nearby smells of sandalwood. A woman with orange lips and a chalk face under an orange turban passes talking to a man with a pointed beard. A hawk-beaked woman with crimson hair puts her hand on a man's shoulder from behind. <said who="#" aloud="true" direct="true"></said>"Why how do you do, Miss Cruikshank; it's surprising isn't it how everybody in the world is always at the same place at the same time." <persName ref="#EllenThatcher">Ellen</persName> sits in the armchair drowsily listening, coolness of powder on her face and arms, fatness of rouge on her lips, her body just bathed fresh as a violet under the silk dress, under the silk underclothes; she sits dreamily, drowsily listening. A sudden twinge of men's voices knotting about her. She sits up cold white out of reach like a lighthouse. Men's hands crawl like bugs on the unbreakable glass. Men's looks blunder and flutter against it helpless as moths. But in deep pitblackness inside something clangs like a fire engine.</p>
+                    <p><persName ref="#EllenThatcher">Ellen</persName> sits in a gown of nilegreen silk in a springy armchair at the end of a long room jingling with talk and twinkle of chandeliers and jewelry, dotted with the bright moving black of evening clothes and silveredged colors of women's dresses. The curve of <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName>'s nose merges directly into the curve of his bald forehead, his big rump bulges over the edges of a triangular gilt stool, his small brown eyes measure her face like antennae as he talks to her. A woman nearby smells of sandalwood. A woman with orange lips and a chalk face under an orange turban passes talking to a man with a pointed beard. A hawk-beaked woman with crimson hair puts her hand on a man's shoulder from behind. <said who="#" aloud="true" direct="true"></said>"Why how do you do, Miss Cruikshank; it's surprising isn't it how everybody in the world is always at the same place at the same time." <persName ref="#EllenThatcher">Ellen</persName> sits in the armchair drowsily listening, coolness of powder on her face and arms, fatness of rouge on her lips, her body just bathed fresh as a violet under the silk dress, under the silk underclothes; she sits dreamily, drowsily listening. A sudden twinge of men's voices knotting about her. She sits up cold white out of reach like a lighthouse. Men's hands crawl like bugs on the unbreakable glass. Men's looks blunder and flutter against it helpless as moths. But in deep pitblackness inside something clangs like a fire engine.</p>
 
                     <p><persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> stood beside the breakfast table with a copy of the New York Times folded in his hand.<said who="#" aloud="true" direct="true">"Now <persName ref="#CecilyBaldwin"><forename>Cecily</forname></persName>,"</said> he was saying <said who="#" aloud="true" direct="true">"we must be sensible about these things."</said></p>
 
@@ -1815,7 +1815,7 @@
                                 <addName type="nickname">Cassie</addName>
                             </persName> remained hunched up on the edge of the couch.</p>
 
-                    <p><persName ref="#EllenThatcher">Ellen</persName> came back with a blue teapot in one hand and a pan of steaming water in the other. <said who="#" aloud="true" direct="true">"Do you mind not having lemon or cream? There's some sugar on the mantelpiece. These cups are clean because I just washed them. Dont you think they are pretty? Oh you cant imagine how wonderful and domestic it makes you feel to have a place all to yourself. I hate living in a hotel. Honestly this place makes me just so domestic . . . Of course the ridiculous thing is that I'll probably have to give it up or sublet as soon as I've got it decently fixed up. Show's going on the road in three weeks. I want to get out of it but <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> wont let me."</said>
+                    <p><persName ref="#EllenThatcher">Ellen</persName> came back with a blue teapot in one hand and a pan of steaming water in the other. <said who="#" aloud="true" direct="true">"Do you mind not having lemon or cream? There's some sugar on the mantelpiece. These cups are clean because I just washed them. Dont you think they are pretty? Oh you cant imagine how wonderful and domestic it makes you feel to have a place all to yourself. I hate living in a hotel. Honestly this place makes me just so domestic . . . Of course the ridiculous thing is that I'll probably have to give it up or sublet as soon as I've got it decently fixed up. Show's going on the road in three weeks. I want to get out of it but <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> wont let me."</said>
                             <persName ref="#CassandraWilkins">
                                 <addName type="nickname">Cassie</addName>
                             </persName> was taking little sips of tea out of her spoon. She began to cry softly. <said who="#" aloud="true" direct="true">"Why
@@ -2160,7 +2160,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Why couldnt you come just for a week?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"In the first place I've got to look for a job . . . show's going on the road and I'm not going just at present. <persName ref="#HarryGoldweiser">Harry Goldweiser</persName>'s awfully sore about it."</said> Thatcher sat down in the bay window again and began piling up the Sunday papers on a chair. <said who="#" aloud="true" direct="true">"Why daddy what on earth are you doing with that copy of Town Topics?"</said></p>
+                    <p><said who="#" aloud="true" direct="true">"In the first place I've got to look for a job . . . show's going on the road and I'm not going just at present. <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName>'s awfully sore about it."</said> Thatcher sat down in the bay window again and began piling up the Sunday papers on a chair. <said who="#" aloud="true" direct="true">"Why daddy what on earth are you doing with that copy of Town Topics?"</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Oh nothing. I'd never read it; I just bought it to see what it was like."</said> He flushed and compressed his lips as he shoved it in among the Times.</p>
 
@@ -2233,7 +2233,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Looks like he had a boil on his neck,"</said> says <persName ref="#EllenThatcher">Ellen</persName> in front of the statue of Burns.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Ah,"</said> whispers <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> with a fat-throated sigh, <said who="#" aloud="true" direct="true">"but he was a great poet."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Ah,"</said> whispers <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> with a fat-throated sigh, <said who="#" aloud="true" direct="true">"but he was a great poet."</said></p>
 
                     <p>She is walking in her wide hat in her pale loose dress that the wind now and then presses against her legs and arms, silkily, swishily walking in the middle of great rosy and purple and pistachiogreen bubbles of twilight that swell out of the grass and trees and ponds, bulge against the tall houses sharp gray as dead teeth round the southern end of the park, melt into the indigo zenith. When he talks, forming sentences roundly with his thick lips, continually measuring her face with his brown eyes, she feels his words press against her body, nudge in the hollows where her dress clings; she can hardly breathe for fear of listening to him.</p>
 
@@ -2406,7 +2406,7 @@
                             <persName>
                                 <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
                             </persName>
-                        </person> who followed her staggering, <said who="#" aloud="true" direct="true">"was a funny song somebody'd told me when I was a little girl about: And the only man who survived the flood was longlegged <persName ref="#JackCunningham">Jack</persName> of the Isthmus."</said></p>
+                        </person> who followed her staggering, <said who="#" aloud="true" direct="true">"was a funny song somebody'd told me when I was a little girl about: And the only man who survived the flood was longlegged <persName ref="#JackCunningham"><forename>Jack</forename></persName> of the Isthmus."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"God I dont see why people have children. It's an admission of defeat. Procreation is the admission of an incomplete organism. Procreation is an admission of defeat."</said></p>
 
@@ -2491,7 +2491,7 @@
 
                     <p><persName ref="#EllenThatcher">Ellen</persName> ran down the stairs and round to the wings, stood there, panting with terror as if she had just missed being run over by an automobile grabbed the musicroll she had to go on with from the property man, got her cue and walked on into the glare.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"How do you do it <persName ref="#EllenThatcher">Elaine</persName>?"</said> <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> was saying, shaking his calf's head from the chair behind her. She could see him in the mirror as she took her makeup off. A taller man with gray eyes and eyebrows stood beside him. <said who="#" aloud="true" direct="true">"You remember when they first cast you for the part I said to Mr. Fallik, Sol she cant do it, didnt I Sol?"</said></p>
+                    <p><said who="#" aloud="true" direct="true">"How do you do it <persName ref="#EllenThatcher">Elaine</persName>?"</said> <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> was saying, shaking his calf's head from the chair behind her. She could see him in the mirror as she took her makeup off. A taller man with gray eyes and eyebrows stood beside him. <said who="#" aloud="true" direct="true">"You remember when they first cast you for the part I said to Mr. Fallik, Sol she cant do it, didnt I Sol?"</said></p>
 
 
 
@@ -2507,7 +2507,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Yes it's a shame he's so lazy. . . . He'd be a very valuable actor."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"It's not exactly laziness . . ."</said> <persName ref="#EllenThatcher">Ellen</persName> shook down her hair and twisted it in a coil in her two hands. She saw <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> nudge Mr. Fallik.</p>
+                    <p><said who="#" aloud="true" direct="true">"It's not exactly laziness . . ."</said> <persName ref="#EllenThatcher">Ellen</persName> shook down her hair and twisted it in a coil in her two hands. She saw <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> nudge Mr. Fallik.</p>
 
                     <p><said who="#" aloud="true" direct="true">"Beautiful isn't it?"</said></p>
 
@@ -2531,7 +2531,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"You can tell them Mr. Fallik that I think the woman's place is in the home . . . for the feebleminded."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Ha ha ha,"</said> laughed <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> showing the gold teeth in the sides of his mouth. <said who="#" aloud="true" direct="true">"But I know you could dance and sing with the best of em, <persName ref="#EllenThatcher">Elaine</persName>."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Ha ha ha,"</said> laughed <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> showing the gold teeth in the sides of his mouth. <said who="#" aloud="true" direct="true">"But I know you could dance and sing with the best of em, <persName ref="#EllenThatcher">Elaine</persName>."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Wasnt I in the chorus for two years before I married Oglethorpe?"</said></p>
 
@@ -2774,7 +2774,7 @@
 
 <p><said who="#" aloud="true" direct="true">"Why should I go up to Washington into that greasy backwater when I'm right on the spot where they give the orders? The terrible thing about having New York go stale on you is that there's nowhere else. It's the top of the world. All we can do is go round and round in a squirrel cage."</said></p>
 
-<p><persName ref="#EllenThatcher">Ellen</persName> was watching the people in light summer clothes dancing on the waxed square of floor in the center; she caught sight of <persName ref="#TonyHunter">Tony Hunter</persName>'s oval pink and white face at a table on the far side of the room. Oglethorpe was not with him.</p>
+<p><persName ref="#EllenThatcher">Ellen</persName> was watching the people in light summer clothes dancing on the waxed square of floor in the center; she caught sight of <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>'s oval pink and white face at a table on the far side of the room. Oglethorpe was not with him.</p>
     <person key="StanwoodEmery">
         <persName>
             <addName type="nickname"><persName ref="#StanwoodEmery">Stan</persName></addName>
@@ -2808,7 +2808,7 @@
 <p>At the table where <persName ref="#JimmyHerf">
         <forename>Jimmy</forename>
         <surname>Herf</surname>
-    </persName> sat they were drinking whiskey and soda. A yellowskinned man with light hair and a thin nose standing out crooked between childish blue eyes was talking in a confidential singsong: <said who="#" aloud="true" direct="true">"Honest I had em lashed to the mast. The police department is cookoo, absolutely cookoo treating it as a rape and suicide case. That old man and his lovely innocent daughter were murdered, foully murdered. And do you know who by . . .?"</said> He pointed a chubby cigarettestained finger at <persName ref="#TonyHunter">Tony Hunter</persName>.</p>
+    </persName> sat they were drinking whiskey and soda. A yellowskinned man with light hair and a thin nose standing out crooked between childish blue eyes was talking in a confidential singsong: <said who="#" aloud="true" direct="true">"Honest I had em lashed to the mast. The police department is cookoo, absolutely cookoo treating it as a rape and suicide case. That old man and his lovely innocent daughter were murdered, foully murdered. And do you know who by . . .?"</said> He pointed a chubby cigarettestained finger at <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>.</p>
 
     <p><said who="#" aloud="true" direct="true">"Dont give me the third degree judge I dont know anything about it" he said dropping his long lashes over his eyes.</p>
 
@@ -2834,9 +2834,9 @@
         <forename>Jimmy</forename>
     </persName>."</p>
 
-    <p><said who="#" aloud="true" direct="true">"But it's such a horrible thing,"</said> said <persName ref="#TonyHunter">Tony Hunter</persName>.</p>
+    <p><said who="#" aloud="true" direct="true">"But it's such a horrible thing,"</said> said <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"You think we're a lot of callous brutes, dont you <persName ref="#TonyHunter">Tony</persName>?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"You think we're a lot of callous brutes, dont you <persName ref="#TonyHunter"><forename>Tony</forename></persName>?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"No I just dont see the pleasure people get out of reading about it."</said></p>
 
@@ -3179,11 +3179,11 @@
 
 <p><said who="#" aloud="true" direct="true">"Do you mind if I come along? I dont want to stay here."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Sure come ahead <persName ref="#TonyHunter">Tony</persName> I'm going to walk."</said></p>
+<p><said who="#" aloud="true" direct="true">"Sure come ahead <persName ref="#TonyHunter"><forename>Tony</forename></persName> I'm going to walk."</said></p>
 
 <p>Herf walked with a long stride, looking straight ahead of him. Clouds had darkened the sky where remained the faintest milkiness of moonlight. To the right and left there was outside of the violetgray cones of occasional arclights black pricked by few lights, ahead the glare of streets rose in blurred cliffs yellow and ruddy.</p>
 
-<p><said who="#" aloud="true" direct="true">"You dont like me do you?"</said> said <persName ref="#TonyHunter">Tony Hunter</persName> breathlessly after a few minutes.</p>
+<p><said who="#" aloud="true" direct="true">"You dont like me do you?"</said> said <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> breathlessly after a few minutes.</p>
 
 <p>Herf slowed his pace. <said who="#" aloud="true" direct="true">"Why I dont know you very well. You seem to me a very pleasant person. . . ."</said></p>
 
@@ -3206,7 +3206,7 @@
 
 <p><said who="#" aloud="true" direct="true">"I'm tired of being poor; I want to make a hit."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well you're young yet; you must be younger than I am."</said> <persName ref="#TonyHunter">Tony</persName> didnt answer.</p>
+<p><said who="#" aloud="true" direct="true">"Well you're young yet; you must be younger than I am."</said> <persName ref="#TonyHunter"><forename>Tony</forename></persName> didnt answer.</p>
 
 <p>They were walking down a broad avenue between two rows of blackened frame houses. A streetcar long and yellow hissed rasping past.</p>
 
@@ -3260,7 +3260,7 @@
 
 <p><said who="#" aloud="true" direct="true">"There ought to be a subway station near. . . . Isn't that a blue light down there? Let's hurry or we'll get soaked."</said></p>
 
-<p><said who="#" aloud="true" direct="true"></said>"Oh hell <persName ref="#TonyHunter">Tony</persName> I'd just as soon get soaked as not."</said>
+<p><said who="#" aloud="true" direct="true"></said>"Oh hell <persName ref="#TonyHunter"><forename>Tony</forename></persName> I'd just as soon get soaked as not."</said>
     <persName ref="#JimmyHerf">
         <forename>Jimmy</forename>
     </persName> took off his felt hat and swung it in one hand. The raindrops were cool on his forehead, the smell of the rain, of roofs and mud and asphalt, took the biting taste of whiskey and cigarettes out of his mouth.</p>
@@ -3426,9 +3426,9 @@
 
 <p></p><said who="#" aloud="true" direct="true">"Oh not so serious as all that."</said></p>
 
-<p></p>They saw <persName ref="#HarryGoldweiser">Harry Goldweiser</persName> coming towards them across the big walnut paneled room. She suddenly raised her voice. <said who="#" aloud="true" direct="true">"They say that this battle of the Marne is going to end the war."</said></p>
+<p></p>They saw <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> coming towards them across the big walnut paneled room. She suddenly raised her voice. <said who="#" aloud="true" direct="true">"They say that this battle of the Marne is going to end the war."</said></p>
 
-<p></p><persName ref="#HarryGoldweiser">Harry Goldweiser</persName> took her hand between his two pudgy-palmed hands and bowed over it. <said who="#" aloud="true" direct="true">"It's very charming of you <persName ref="#EllenThatcher">Elaine</persName> to come and keep a lot of old midsummer bachelors from boring each other to death. Hello Snow old man, how's things?"</said></p>
+<p></p><persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> took her hand between his two pudgy-palmed hands and bowed over it. <said who="#" aloud="true" direct="true">"It's very charming of you <persName ref="#EllenThatcher">Elaine</persName> to come and keep a lot of old midsummer bachelors from boring each other to death. Hello Snow old man, how's things?"</said></p>
 
 <p></p><said who="#" aloud="true" direct="true">"Yes how is it we have the pleasure of still finding you here?"</said></p>
 
@@ -3450,7 +3450,7 @@
 
 <p><said who="#" aloud="true" direct="true">"It's not a lead exactly, but from the point of view of your reputation as a versatile and exquisite artist, it's the best thing in the show."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Will you have a little more fish, Miss Oglethorpe?"</said> piped Miss Goldweiser.</p>
+<p><said who="#" aloud="true" direct="true">"Will you have a little more fish, Miss Oglethorpe?"</said> piped <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName>.</p>
 
 <p>Mr. Snow sniffed, <said who="#" aloud="true" direct="true">"There's no great acting any more: Booth, Jefferson, Mansfield ... all gone. Nowadays it's all advertising; actors and actresses are put on the market like patent medicines. Isn't it the truth <persName ref="#EllenThatcher">Elaine</persName>? . . . Advertising, advertising."</said></p>
 
@@ -3458,22 +3458,22 @@
 
 <p><said who="#" aloud="true" direct="true">"Ah the taste of the New York public has sadly degenerated since the old days of Wallack's."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But there have been some beautiful plays,"</said> chirped Miss Goldweiser.</p>
+<p><said who="#" aloud="true" direct="true">"But there have been some beautiful plays,"</said> chirped <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName>.</p>
 
 
 
-<p>The long day love was crisp in the curls . . . the dark curls . . . broken in the dark steel light . . . hurls . . . high O <name type="entity"></name>God high into the bright . . . She was cutting with her fork in the crisp white heart of a lettuce. She was saying words while quite other words spilled confusedly inside her like a broken package of beads. She sat looking at a picture of two women and two men eating at a table in a high paneled room under a shivering crystal chandelier. She looked up from her plate to find Miss Goldweiser's little birdeyes kindly querulous fixed hard on her face.</p>
+<p>The long day love was crisp in the curls . . . the dark curls . . . broken in the dark steel light . . . hurls . . . high O <name type="entity"></name>God high into the bright . . . She was cutting with her fork in the crisp white heart of a lettuce. She was saying words while quite other words spilled confusedly inside her like a broken package of beads. She sat looking at a picture of two women and two men eating at a table in a high paneled room under a shivering crystal chandelier. She looked up from her plate to find <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName>'s little birdeyes kindly querulous fixed hard on her face.</p>
 
 <p><said who="#" aloud="true" direct="true">"Oh yes New York is really pleasanter in midsummer than any other time; there's less hurry and bustle."</said></p>
 
-<p><said who="#" aloud="true" direct="true"></said>"Oh yes that's quite true Miss Goldweiser." <persName ref="#EllenThatcher">Ellen</persName> flashed a sudden smile round the table. . . . All the long day love Was crisp in the curls of his high thin brow, Flashed in his eyes in dark steel light. . . .</p>
+<p><said who="#" aloud="true" direct="true"></said>"Oh yes that's quite true <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName>." <persName ref="#EllenThatcher">Ellen</persName> flashed a sudden smile round the table. . . . All the long day love Was crisp in the curls of his high thin brow, Flashed in his eyes in dark steel light. . . .</p>
 
-<p>In the taxi Goldweiser's broad short knees pressed against hers; his eyes were full of furtive spiderlike industry weaving a warm sweet choking net about her face and neck. Miss Goldweiser had relapsed pudgily into the seat beside her. Dick Snow was holding an unlighted cigar in his mouth, rolling it with his tongue. <persName ref="#EllenThatcher">Ellen</persName> tried to remember exactly how 
+<p>In the taxi Goldweiser's broad short knees pressed against hers; his eyes were full of furtive spiderlike industry weaving a warm sweet choking net about her face and neck. <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName> had relapsed pudgily into the seat beside her. Dick Snow was holding an unlighted cigar in his mouth, rolling it with his tongue. <persName ref="#EllenThatcher">Ellen</persName> tried to remember exactly how 
         <persName ref="#StanwoodEmery">
             <addName type="nickname">Stan</addName>
         </persName> looked, his polevaulter's tight slenderness; she couldn't remember his face entire, she saw his eyes, lips, an ear.</p>
 
-    <p>Times Square was full of juggled colored lights, criss-crossed corrugations of glare. They went up in the elevator at the Astor. <persName ref="#EllenThatcher">Ellen</persName> followed Miss Goldweiser across the roofgarden among the tables. Men and women in evening dress, in summer muslins and light suits turned and looked after her, like sticky tendrils of vines glances caught at her as she passed. The orchestra was playing In My Harem. They arranged themselves at a table.</p>
+    <p>Times Square was full of juggled colored lights, criss-crossed corrugations of glare. They went up in the elevator at the Astor. <persName ref="#EllenThatcher">Ellen</persName> followed <persName ref="#RachelGoldweiser"><roleName type="honorific">Miss</roleName> <surname>Goldweiser</surname></persName> across the roofgarden among the tables. Men and women in evening dress, in summer muslins and light suits turned and looked after her, like sticky tendrils of vines glances caught at her as she passed. The orchestra was playing In My Harem. They arranged themselves at a table.</p>
 
 <p><said who="#" aloud="true" direct="true">"Shall we dance?"</said> asked Goldweiser.</p>
 
@@ -3494,12 +3494,12 @@
 
 <p><said who="#" aloud="true" direct="true">"This is Mr, Emery, Mr. Goldweiser. . . ."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I've been on the most exordinately spectacular trip, honestly you should have come. . . . We went to Montreal and Quebec and came back through Niagara Falls and we never drew a sober breath from the time we left little old New York till they arrested us for speeding on the Boston Post Road, did we Pearline?"</said> <persName ref="#EllenThatcher">Ellen</persName> was staring at a girl who stood groggily behind 
+<p><said who="#" aloud="true" direct="true">"I've been on the most exordinately spectacular trip, honestly you should have come. . . . We went to Montreal and Quebec and came back through Niagara Falls and we never drew a sober breath from the time we left little old New York till they arrested us for speeding on the Boston Post Road, did we <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName>?"</said> <persName ref="#EllenThatcher">Ellen</persName> was staring at a girl who stood groggily behind 
         <persName ref="#StanwoodEmery">
             <addName type="nickname">Stan</addName>
         </persName> with a small flowered straw hat pulled down over a pair of eyes the blue of watered milk.</p>
 
-    <p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher">Ellie</persName> this is Pearline. . . . Isn't it a fine name? I almost split when she told me what it was. . . . But you dont know the joke. . . . We got so tight in Niagara Falls that when we came to we found we were married. . . . And we have pansies on our marriage license. . . ."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher">Ellie</persName> this is <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName>. . . . Isn't it a fine name? I almost split when she told me what it was. . . . But you dont know the joke. . . . We got so tight in Niagara Falls that when we came to we found we were married. . . . And we have pansies on our marriage license. . . ."</said></p>
 
 <p><persName ref="#EllenThatcher">Ellen</persName> couldnt see his face. The orchestra, the jangle of voices, the clatter of plates spouted spiraling louder and louder about her . . .</p>
 
@@ -3520,7 +3520,7 @@
 
 <p><said who="#" aloud="true" direct="true">"Thanks . . . thanks."</said></p>
 
-<p>She started to dance again with <persName ref="#HarryGoldweiser">Harry Goldweiser</persName>. The roofgarden was spinning fast, then less fast. The noise ebbed sickeningly. <said who="#" aloud="true" direct="true">"Excuse me a minute <persName ref="#HarryGoldweiser">Harry</persName>,"</said> she said.</p>
+<p>She started to dance again with <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName>. The roofgarden was spinning fast, then less fast. The noise ebbed sickeningly. <said who="#" aloud="true" direct="true">"Excuse me a minute <persName ref="#HarryGoldweiser">Harry</persName>,"</said> she said.</p>
 
 <p><said who="#" aloud="true" direct="true">"I'll come back to the table."</said> In the ladies' room she let herself down carefully on the plush sofa. She looked at her face in the round mirror of her vanity case. From black pinholes her pupils spread blurring till everything was black.</p>
 
@@ -3529,7 +3529,7 @@
         <surname>Herf</surname>
     </persName>'s legs were tired; he had been walking all afternoon. He sat down on a bench beside the Aquarium and looked out over the water. The fresh September wind gave a glint of steel to the little crisp waves of the harbor and to the slateblue smutted sky. A big white steamer with a yellow funnel was passing in front of the statue of Liberty. The smoke from the tug at the bow came out sharply scalloped like paper. In spite of the encumbering wharfhouses the end of Manhattan seemed to him like the prow of a barge pushing slowly and evenly down the harbor. Gulls wheeled and cried. He got to his feet with a jerk. <said who="#" aloud="true" direct="true">"Oh hell I've got to do something."</said></p>
 
-    <p>He stood a second with tense muscles balanced on the balls of his feet. The ragged man looking at the photogravures of a Sunday paper had a face he had seen before. <said who="#" aloud="true" direct="true">"Hello,"</said> he said vaguely. <said who="#" aloud="true" direct="true">"I knew who you were all along,"</said> said the man without holding out his hand. <said who="#" aloud="true" direct="true">"You're Lily Herf's boy . . . I thought you werent going to speak to me. . . . No reason why you should."</said></p>
+    <p>He stood a second with tense muscles balanced on the balls of his feet. The ragged man looking at the photogravures of a Sunday paper had a face he had seen before. <said who="#" aloud="true" direct="true">"Hello,"</said> he said vaguely. <said who="#" aloud="true" direct="true">"I knew who you were all along,"</said> said the man without holding out his hand. <said who="#" aloud="true" direct="true">"You're <persName ref="#LilyHerf"><forename>Lily</forename> <surname>Herf</surname></persName>'s boy . . . I thought you werent going to speak to me. . . . No reason why you should."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Oh of course you must be Cousin <persName ref="#JoeHarland">Joe Harland</persName>. . . . I'm awfully glad to see you. . . . I've often wondered about you."</said></p>
 
@@ -3663,7 +3663,7 @@
 
 
 
-<p>It was blowing cold in his face and he was sitting on the front of a ferryboat when he came to. His teeth were chattering, he was shivering . . . <said who="#" aloud="true" direct="true">"I'm having DT's. Who am I? Where am I? City of New York, State of New York. . . . <persName ref="#StanwoodEmery">Stanwood Emery</persName> age twentytwo occupation student. . . . Pearline Anderson twentyone occupation actress. To hell with her. Gosh I've got fortynine dollars and eight cents and where the hell have I been? And nobody rolled me. Why I havent got the DT's at all. I feel fine, only a little delicate. All I need's a little drink, dont you? Hello, I thought there was somebody here. I guess I'd better shut up."</said></p>
+<p>It was blowing cold in his face and he was sitting on the front of a ferryboat when he came to. His teeth were chattering, he was shivering . . . <said who="#" aloud="true" direct="true">"I'm having DT's. Who am I? Where am I? City of New York, State of New York. . . . <persName ref="#StanwoodEmery">Stanwood Emery</persName> age twentytwo occupation student. . . . <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName> twentyone occupation actress. To hell with her. Gosh I've got fortynine dollars and eight cents and where the hell have I been? And nobody rolled me. Why I havent got the DT's at all. I feel fine, only a little delicate. All I need's a little drink, dont you? Hello, I thought there was somebody here. I guess I'd better shut up."</said></p>
 
 <p>Fortynine dollars ahanging on the wall</p>
 
@@ -3709,7 +3709,7 @@
 
 <p>And the only man who survived the flood</p>
 
-<p>Was longlegged <persName ref="#JackCunningham">Jack</persName> of the Isthmus. . . .</p>
+<p>Was longlegged <persName ref="#JackCunningham"><forename>Jack</forename></persName> of the Isthmus. . . .</p>
 
 
 
@@ -3718,9 +3718,9 @@
 <p>The lock spun round in a circle to keep out the key. Dexterously 
         <persName ref="#StanwoodEmery">
             <addName type="nickname">Stan</addName>
-        </persName> bided his time and caught it. He shot headlong through the open door and down the long hall shouting Pearline into the livingroom. It smelled funny, Pearline's smell, to hell with it. He picked up a chair; the chair wanted to fly, it swung round his head and crashed into the window, the glass shivered and tinkled. He looked out through the window. The street stood up on end. A hookandladder and a fire engine were climbing it licketysplit trailing a droning sirenshriek. Fire fire, pour on water, Scotland's burning. A thousand dollar fire, a hundredthousand dollar fire, a million dollar fire. Skyscrapers go up like flames, in flames, flames. He spun back into the room. The table turned a somersault. The chinacloset jumped on the table. Oak chairs climbed on top to the gas jet. Pour on water, Scotland's burning. Don't like the smell in this place in the City of New York, County of New York, State of New York. He lay on his back on the floor of the revolving kitchen and laughed and laughed. The only man who survived the flood rode a great lady on a white horse. Up in flames, up, up. Kerosene whispered a greasy faced can in the corner of the kitchen. Pour on water. He stood swaying on the crackling upside down chairs on the upside down table. The kerosene licked him with a white cold tongue. He pitched, grabbed the gas jet, the gas jet gave way, he lay in a puddle on his back striking matches, wet wouldn't light. A match spluttered, lit; he held the flame carefully between his hands.</p>
+        </persName> bided his time and caught it. He shot headlong through the open door and down the long hall shouting <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName> into the livingroom. It smelled funny, <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName>'s smell, to hell with it. He picked up a chair; the chair wanted to fly, it swung round his head and crashed into the window, the glass shivered and tinkled. He looked out through the window. The street stood up on end. A hookandladder and a fire engine were climbing it licketysplit trailing a droning sirenshriek. Fire fire, pour on water, Scotland's burning. A thousand dollar fire, a hundredthousand dollar fire, a million dollar fire. Skyscrapers go up like flames, in flames, flames. He spun back into the room. The table turned a somersault. The chinacloset jumped on the table. Oak chairs climbed on top to the gas jet. Pour on water, Scotland's burning. Don't like the smell in this place in the City of New York, County of New York, State of New York. He lay on his back on the floor of the revolving kitchen and laughed and laughed. The only man who survived the flood rode a great lady on a white horse. Up in flames, up, up. Kerosene whispered a greasy faced can in the corner of the kitchen. Pour on water. He stood swaying on the crackling upside down chairs on the upside down table. The kerosene licked him with a white cold tongue. He pitched, grabbed the gas jet, the gas jet gave way, he lay in a puddle on his back striking matches, wet wouldn't light. A match spluttered, lit; he held the flame carefully between his hands.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh yes but my husband's awfully ambitious."</said> Pearline was telling the blue gingham lady in the grocery-store. <said who="#" aloud="true" direct="true">"Likes to have a good time an all that but he's much more ambitious than anybody I every knew. He's goin to get his old man to send us abroad so he can study architecture. He wants to be an architect."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Oh yes but my husband's awfully ambitious."</said> <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName> was telling the blue gingham lady in the grocery-store. <said who="#" aloud="true" direct="true">"Likes to have a good time an all that but he's much more ambitious than anybody I every knew. He's goin to get his old man to send us abroad so he can study architecture. He wants to be an architect."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"My that'll be nice for you wont it? A trip like that . . . Anything else miss?"</said> <said who="#" aloud="true" direct="true">"No I guess I didn't forget anythin. . . . If it was anybody else I'd be worryin about him. I haven't seen him for two days. Had to go and see his dad I guess."</said></p>
 
@@ -3882,7 +3882,7 @@
 
 <p>The passing car grinds to a stop. The red hawk face of the taxidriver craning into the light of the street lamp. <said who="#" aloud="true" direct="true">"Go to Eugenie's on Fortyeighth Street,"</said> says <persName ref="#EllenThatcher">Ellen</persName> as the others climb in. Greenish lights and darks flicker past the lightheaded windows.</p>
 
-<p>She stood with her arm in the arm of <persName ref="#HarryGoldweiser">Harry Goldweiser</persName>'s dinner jacket looking out over the parapet of the roof garden. Below them the Park lay twinkling with occasional lights, streaked with nebular blur like a fallen sky. From behind them came gusts of a tango, inklings of voices, shuffle of feet on a dancefloor. <persName ref="#EllenThatcher">Ellen</persName> felt a stiff castiron figure in her metalgreen evening dress.</p>
+<p>She stood with her arm in the arm of <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName>'s dinner jacket looking out over the parapet of the roof garden. Below them the Park lay twinkling with occasional lights, streaked with nebular blur like a fallen sky. From behind them came gusts of a tango, inklings of voices, shuffle of feet on a dancefloor. <persName ref="#EllenThatcher">Ellen</persName> felt a stiff castiron figure in her metalgreen evening dress.</p>
 
 <p><said who="#" aloud="true" direct="true">"Ah but Boirnhardt, Rachel, Duse, Mrs. Siddons. . . . No <persName ref="#EllenThatcher">Elaine</persName> I'm tellin you, d'you understand? There's no art like the stage that soars so high moldin the passions of men. . . . If I could only do what I wanted we'd be the greatest people in the world. You'd be the greatest actress. . . . I'd be the great producer, the unseen builder, d'you understand? But the public dont want art, the people of this country wont let you do anythin for em. All they want's a detective melodrama or a rotten French farce with the kick left out or a lot of pretty girls and music. Well a showman's business is to give the public what they want."</said></p>
 
@@ -4579,7 +4579,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Did you get another wire <persName ref="#MaisieMerivale">Maisie</persName>?"</said></p>
 
-    <p><persName ref="#MaisieMerivale">Maisie</persName> nodded. <said who="#" aloud="true" direct="true">"Do you know James, <persName ref="#JackCunningham">Jack</persName> never will write a letter. He always telegraphs,"</said> said Mrs. Merivale through the paper at her son. <said who="#" aloud="true" direct="true">"He certainly keeps the house choked up with flowers,"</said> growled James from behind the paper.</p>
+    <p><persName ref="#MaisieMerivale">Maisie</persName> nodded. <said who="#" aloud="true" direct="true">"Do you know James, <persName ref="#JackCunningham"><forename>Jack</forename></persName> never will write a letter. He always telegraphs,"</said> said Mrs. Merivale through the paper at her son. <said who="#" aloud="true" direct="true">"He certainly keeps the house choked up with flowers,"</said> growled James from behind the paper.</p>
 
     <p><said who="#" aloud="true" direct="true">"All by telegraph,"</said> said Mrs. Merivale triumphantly.</p>
 
@@ -4619,7 +4619,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Yes but he's one of the vicepresidents, he can do what he likes. . . . But I've got to run."</said> James Merivale hastily kissed his mother and sister. He put on his gloves going down in the elevator. Ducking his head into the sleety wind he walked quickly east along Seventysecond. At the subway entrance he bought a Tribune and hustled down the steps to the jammed soursmelling platform.</p>
 
-    <p>Chicago! Chicago! came in bursts out of the shut phonograph. <persName ref="#TonyHunter">Tony Hunter</persName>, slim in a black closecut suit, was dancing with a girl who kept putting her mass of curly ashblond hair on his shoulder. They were alone in the hotel sitting room.</p>
+    <p>Chicago! Chicago! came in bursts out of the shut phonograph. <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>, slim in a black closecut suit, was dancing with a girl who kept putting her mass of curly ashblond hair on his shoulder. They were alone in the hotel sitting room.</p>
 
     <p><said who="#" aloud="true" direct="true">"Sweetness you're a lovely dancer,"</said> she cooed snuggling closer.</p>
 
@@ -4637,11 +4637,11 @@
 
     <p><said who="#" aloud="true" direct="true">"You mean that one of them's green and the other one brown."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh it noticed the tweet lil ting."</said> She tilted her mouth up at him. He kissed it. The record came to an end. They both ran over to stop it. <said who="#" aloud="true" direct="true">"That wasnt much of a kiss, <persName ref="#TonyHunter">Tony</persName>,"</said> said <persName ref="#NevadaJones"><forename>Nevada</forename> <surname>Jones</surname></persName> tossing her curls out of her eyes. They put on Shuffle Along.</p>
+    <p><said who="#" aloud="true" direct="true">"Oh it noticed the tweet lil ting."</said> She tilted her mouth up at him. He kissed it. The record came to an end. They both ran over to stop it. <said who="#" aloud="true" direct="true">"That wasnt much of a kiss, <persName ref="#TonyHunter"><forename>Tony</forename></persName>,"</said> said <persName ref="#NevadaJones"><forename>Nevada</forename> <surname>Jones</surname></persName> tossing her curls out of her eyes. They put on Shuffle Along.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Say <persName ref="#TonyHunter">Tony</persName>,"</said> she said when they had started dancing again. <said who="#" aloud="true" direct="true">"What did the psychoanalyst say when you went to see him yesterday?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Say <persName ref="#TonyHunter"><forename>Tony</forename></persName>,"</said> she said when they had started dancing again. <said who="#" aloud="true" direct="true">"What did the psychoanalyst say when you went to see him yesterday?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh nothing much, we just talked,"</said> said <persName ref="#TonyHunter">Tony</persName> with a sigh. <said who="#" aloud="true" direct="true">"He said it was all imaginary. He suggested I get to know some girls better. He's all right. He doesn't know what he's talking about though. He cant do anything."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Oh nothing much, we just talked,"</said> said <persName ref="#TonyHunter"><forename>Tony</forename></persName> with a sigh. <said who="#" aloud="true" direct="true">"He said it was all imaginary. He suggested I get to know some girls better. He's all right. He doesn't know what he's talking about though. He cant do anything."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"I bet you I could."</said></p>
 
@@ -4655,9 +4655,9 @@
 
     <p><said who="#" aloud="true" direct="true">"I feel horribly about it. He's been so decent. . . . And after all I could never have afforded to go to Dr. Baumgardt at all."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It's his own fault. He's a damn fool. . . . If he thinks he can buy me with a little hotel accommodation and theater tickets he's got another think coming. But honestly <persName ref="#TonyHunter">Tony</persName> you must keep on with that doctor. He did wonders with Glenn Gaston. . . . He thought he was that way until he was thirtyfive years old and the latest thing I hear he's married an had a pair of twins. . . . Now give me a real kiss sweetest. Thataboy. Let's dance some more. Gee you're a beautiful dancer. Kids like you always are. I dont know why it is. . . ."</said></p>
+    <p><said who="#" aloud="true" direct="true">"It's his own fault. He's a damn fool. . . . If he thinks he can buy me with a little hotel accommodation and theater tickets he's got another think coming. But honestly <persName ref="#TonyHunter"><forename>Tony</forename></persName> you must keep on with that doctor. He did wonders with Glenn Gaston. . . . He thought he was that way until he was thirtyfive years old and the latest thing I hear he's married an had a pair of twins. . . . Now give me a real kiss sweetest. Thataboy. Let's dance some more. Gee you're a beautiful dancer. Kids like you always are. I dont know why it is. . . ."</said></p>
 
-    <p>The phone cut into the room suddenly with a glittering sawtooth ring. <said who="#" aloud="true" direct="true">"Hello. . . . Yes this is Miss Jones. . . . Why of course <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I'm waiting for you. . . ."</said> She put up the receiver. <said who="#" aloud="true" direct="true">"Great snakes, <persName ref="#TonyHunter">Tony</persName> beat it. I'll call you later. Dont go down in the elevator you'll meet him coming up."</said> <persName ref="#TonyHunter">Tony Hunter</persName> melted out the door. <persName ref="#NevadaJones"><forename>Nevada</forename></persName> put Baby . . . Babee Deevine on the phonograph and strode nervously about the room, straightening chairs, patting her tight short curls into place.</p>
+    <p>The phone cut into the room suddenly with a glittering sawtooth ring. <said who="#" aloud="true" direct="true">"Hello. . . . Yes this is Miss Jones. . . . Why of course <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I'm waiting for you. . . ."</said> She put up the receiver. <said who="#" aloud="true" direct="true">"Great snakes, <persName ref="#TonyHunter"><forename>Tony</forename></persName> beat it. I'll call you later. Dont go down in the elevator you'll meet him coming up."</said> <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> melted out the door. <persName ref="#NevadaJones"><forename>Nevada</forename></persName> put Baby . . . Babee Deevine on the phonograph and strode nervously about the room, straightening chairs, patting her tight short curls into place.</p>
 
     <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I thought you werent comin. . . . How do you do Mr. McNiel? I dunno why I'm all jumpy today. I thought you were never comin. Let's get some lunch up. I'm that hungry."</said></p>
 
@@ -4677,7 +4677,7 @@
 
     <p><said who="#" aloud="true" direct="true">"<persName ref="#NevadaJones"><forename>Nevada</forename></persName> what do you say we go to a musical show this afternoon? There's a lot of business I want to get off my mind."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I just love matinees. Do you mind if we take <persName ref="#TonyHunter">Tony Hunter</persName>. He called up he was lonesome and wanted to come round this afternoon. He's not workin this week."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I just love matinees. Do you mind if we take <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>. He called up he was lonesome and wanted to come round this afternoon. He's not workin this week."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All right. . . . <persName ref="#NevadaJones"><forename>Nevada</forename></persName> will you excuse us if we talk business for just a second over here by the window. We'll forget it by the time lunch comes.</said>"</p>
 
@@ -5022,7 +5022,7 @@
 
     <p><said who="#" aloud="true" direct="true">"She hasnt met with an accid. . .?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Come in here,"</said> interrupted Mrs. Merivale. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. <said who="#" aloud="true" direct="true">"My dear this girl says she's Mrs. <persName ref="#JackCunningham">Jack Cunningham</persName> and she's got a marriage certificate to prove it."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Come in here,"</said> interrupted Mrs. Merivale. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. <said who="#" aloud="true" direct="true">"My dear this girl says she's Mrs. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> and she's got a marriage certificate to prove it."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Good Heavens, is that true?</said></p>
 
@@ -5040,7 +5040,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Now James, don't be hasty."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I thought it would be better this way than after the ceremony,"</said> put in the girl in her little sugar voice. <said who="#" aloud="true" direct="true">"I wouldnt have <persName ref="#JackCunningham">Jack</persName> commit bigamy for anything in the world."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I thought it would be better this way than after the ceremony,"</said> put in the girl in her little sugar voice. <said who="#" aloud="true" direct="true">"I wouldnt have <persName ref="#JackCunningham"><forename>Jack</forename></persName> commit bigamy for anything in the world."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Where's <persName ref="#MaisieMerivale"><forename>Maisie</forename></persName>?"</said></p>
 
@@ -5050,29 +5050,29 @@
 
     <p><said who="#" aloud="true" direct="true">"Yes <persName ref="#MaisieMerivale"><forename>Maisie</forename></persName>'s reputation must be protected at all costs."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"My dear I think the best thing to do is to get him up here and confront him with this . . . with this . . . lady. . . . Would you agree to that Mrs. Cunningham?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"My dear I think the best thing to do is to get him up here and confront him with this . . . with this . . . lady. . . . Would you agree to that <persName re"#MrsCunningham"><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Cunningham</surname></persName> ?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Oh dear. . . . Yes I suppose so."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to Mr. <persName ref="#JackCunningham">Jack Cunningham</persName> please. . . . Hello. Is this Mr. Cunningham's office? Mr. James Merivale speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to Mr. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> please. . . . Hello. Is this Mr. Cunningham's office? Mr. James Merivale speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All the years I've known him,"</said> said the little lady in the round hat, <said who="#" aloud="true" direct="true">"that has always been where he was."</said></p>
 
-    <p>Outside the broad office windows the night is gray and foggy. Here and there a few lights make up dim horizontals and perpendiculars of asterisks. <persName ref="#PhineasBlackhead"><forename>Phineas</forename> <surname>Blackhead</surname></persName> sits at his desk tipping far back in the small leather armchair. In his hand protecting his fingers by a large silk handkerchief, he holds a glass of hot water and bicarbonate of soda. Densch bald and round as a billiardball sits in the deep armchair playing with his tortoiseshell spectacles. Everything is quiet except for an occasional rattling and snapping of the steampipes.</p>
+    <p>Outside the broad office windows the night is gray and foggy. Here and there a few lights make up dim horizontals and perpendiculars of asterisks. <persName ref="#PhineasBlackhead"><forename>Phineas</forename> <surname>Blackhead</surname></persName> sits at his desk tipping far back in the small leather armchair. In his hand protecting his fingers by a large silk handkerchief, he holds a glass of hot water and bicarbonate of soda. <persName ref="#MrDensch"><surname>Densch</surname></persName> bald and round as a billiardball sits in the deep armchair playing with his tortoiseshell spectacles. Everything is quiet except for an occasional rattling and snapping of the steampipes.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Densch you must forgive me. . . . You know I rarely permit myself an observation concerning other people's business,"</said> Blackhead is saying slowly between sips; then suddenly he sits up in his chair. <said who="#" aloud="true" direct="true">"It's a damn fool proposition, Densch, by God it is . . . by the Living Jingo it's ridiculous."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<persName ref="#MrDensch"><surname>Densch</surname></persName> you must forgive me. . . . You know I rarely permit myself an observation concerning other people's business,"</said> Blackhead is saying slowly between sips; then suddenly he sits up in his chair. <said who="#" aloud="true" direct="true">"It's a damn fool proposition, <persName ref="#MrDensch"><surname>Densch</surname></persName>, by God it is . . . by the Living Jingo it's ridiculous."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"I dont like dirtying my hands any more than you do. . . . Baldwin's a good fellow, I think we're safe in backing him a little."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"What the hell's an import and export firm got to do in politics? If any of those guys wants a handout let him come up here and get it. Our business is the price of beans . . . and its goddam low. If any of you puling lawyers could restore the balance of the exchanges I'd be willing to do anything in the world. . . . They're crooks every last goddam one of em . . . by the Living Jingo they're crooks."</said> His face flushes purple, he sits upright in his chair banging with his fist on the corner of the desk. <said who="#" aloud="true" direct="true">"Now you're getting me all excited. . . . Bad for my stomach, bad for my heart."</said> <persName ref="#PhineasBlackhead"><forename>Phineas</forename> <surname>Blackhead</surname></persName> belches portentously and takes a great gulp out of the glass of bicarbonate of soda. Then he leans back in his chair again letting his heavy lids half cover his eyes.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Well old man,"</said> says Mr. Densch in a tired voice, <said who="#" aloud="true" direct="true">"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Well old man,"</said> says <persName ref="#MrDensch"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Densch</surname></persName> in a tired voice, <said who="#" aloud="true" direct="true">"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Like hell it dont. . . . How about McNiel and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</said></p>
 
-    <p>Densch gets to his feet. <said who="#" aloud="true" direct="true">"My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ."</said> He starts walking to the door, his round belly stuck proudly out in front of him.</p>
+    <p><persName ref="#MrDensch"><surname>Densch</surname></persName> gets to his feet. <said who="#" aloud="true" direct="true">"My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ."</said> He starts walking to the door, his round belly stuck proudly out in front of him.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Well allow me to say Densch that I think its a damn fool proposition,"</said> Blackhead shouts after him. When his partner has gone he lies back a second with his eyes closed. His face takes on the mottled color of ashes, his big fleshy frame is shrinking like a deflating balloon. At length he gets to his feet with a groan. Then he takes his hat and coat and walks out of the office with a slow heavy step. The hall is empty and dimly lit. He has to wait a long while for the elevator. The thought of holdup men sneaking through the empty building suddenly makes him catch his breath. He is afraid to look behind him, like a child in the dark. At last the elevator shoots up.</p>
+    <p><said who="#" aloud="true" direct="true">"Well allow me to say <persName ref="#MrDensch"><surname>Densch</surname></persName> that I think its a damn fool proposition,"</said> Blackhead shouts after him. When his partner has gone he lies back a second with his eyes closed. His face takes on the mottled color of ashes, his big fleshy frame is shrinking like a deflating balloon. At length he gets to his feet with a groan. Then he takes his hat and coat and walks out of the office with a slow heavy step. The hall is empty and dimly lit. He has to wait a long while for the elevator. The thought of holdup men sneaking through the empty building suddenly makes him catch his breath. He is afraid to look behind him, like a child in the dark. At last the elevator shoots up.</p>
 
     <p><said who="#" aloud="true" direct="true">"Wilmer,"</said> he says to the night watchman who runs it, <said who="#" aloud="true" direct="true">"there ought to be more light in these halls at night. . . . During this crime wave I should think you ought to keep the building brightly lit."</said></p>
 
@@ -5173,7 +5173,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Let's stop here an have a drink. . . . You take a glass o buttermilk <persName ref="#AnnaCohen"><forename>Anna</forename></persName>, make ye feel good."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I aint got the taste for it Elmer. I'll take a chocolate soda."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I aint got the taste for it <persName ref="#Elmer"><forename>Elmer</forename></persName>. I'll take a chocolate soda."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"That'll juss make ye feel sick, but go ahead if you wanter."</said> She sat on the slender nickelbound stool. He stood beside her. She let herself lean back a little against him. <said who="#" aloud="true" direct="true">"The trouble with the workers is"</said> . . . He was talking in a low impersonal voice. <said who="#" aloud="true" direct="true">"The trouble with the workers is we dont know nothin, we dont know how to eat, we dont know how to live, we dont know how to protect our rights. . . . Jez <persName ref="#AnnaCohen"><forename>Anna</forename></persName> I want to make you think of things like that. Cant you see we're in the middle of a battle just like in the war?"</said> With the long sticky spoon <persName ref="#AnnaCohen"><forename>Anna</forename></persName> was fishing bits of icecream out of the thick foamy liquid in her glass.</p>
 
@@ -5297,9 +5297,9 @@
 
     <p><said who="#" aloud="true" direct="true">"All right sir,"</said> said the fitter giving Merivale a last tap on the buttocks. He went back into the booth to dress.</p>
 
-    <p><said who="#" aloud="true" direct="true">"All right old thing,"</said> shouted Cunningham, <said who="#" aloud="true" direct="true">"I've got to go pick out another suit . . . I'll expect you at seven. I'll have a <persName ref="#JackCunningham">Jack</persName> Rose waiting for you."</said></p>
+    <p><said who="#" aloud="true" direct="true">"All right old thing,"</said> shouted Cunningham, <said who="#" aloud="true" direct="true">"I've got to go pick out another suit . . . I'll expect you at seven. I'll have a <persName ref="#JackCunningham"><forename>Jack</forename></persName> Rose waiting for you."</said></p>
 
-    <p>Merivale's hands were trembling as he fastened his belt. Perkins, <persName ref="#JackCunningham">Jack Cunningham</persName>, the damn blackguard, hydroplanes. <persName ref="#JackCunningham">Jack Cunningham</persName> Salmagundi Perkins. He went to a phone booth in a corner of the store and called up his mother. <said who="#" aloud="true" direct="true">"Hello Mother, I'm afraid I wont be up to dinner. . . . I'm dining with Randolph Perkins at the Salmagundi Club. . . . Yes it is very pleasant. . . . Oh well he and I have always been fairly good friends. . . . Oh yes it's essential to stand in with the men higher up. And I've seen <persName ref="#JackCunningham">Jack Cunningham</persName>. I put it up to him straight from the shoulder man to man and he was very much embarrassed. He promised a full explanation within twentyfour hours. . . . No I kept my temper very well. I felt I owed it to <persName ref="#MaisieMerivale">Maisie</persName>. I tell you I think the man's a blackguard but until there's proof. . . . Well good night dear, in case I'm late. Oh no please dont wait up. Tell <persName ref="#MaisieMerivale">Maisie</persName> not to worry I'll be able to give her the fullest details. Good night mother."</said></p>
+    <p>Merivale's hands were trembling as he fastened his belt. Perkins, <persName ref="#JackCunningham">Jack Cunningham</persName>, the damn blackguard, hydroplanes. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> Salmagundi Perkins. He went to a phone booth in a corner of the store and called up his mother. <said who="#" aloud="true" direct="true">"Hello Mother, I'm afraid I wont be up to dinner. . . . I'm dining with Randolph Perkins at the Salmagundi Club. . . . Yes it is very pleasant. . . . Oh well he and I have always been fairly good friends. . . . Oh yes it's essential to stand in with the men higher up. And I've seen <persName ref="#JackCunningham">Jack Cunningham</persName>. I put it up to him straight from the shoulder man to man and he was very much embarrassed. He promised a full explanation within twentyfour hours. . . . No I kept my temper very well. I felt I owed it to <persName ref="#MaisieMerivale">Maisie</persName>. I tell you I think the man's a blackguard but until there's proof. . . . Well good night dear, in case I'm late. Oh no please dont wait up. Tell <persName ref="#MaisieMerivale">Maisie</persName> not to worry I'll be able to give her the fullest details. Good night mother."</said></p>
 
     <p>They sat at a small table in the back of a dimly lighted tearoom. The shade on the lamp cut off the upper parts of their faces. <persName ref="#EllenThatcher">Ellen</persName> had on a dress of bright peacock blue and a small blue hat with a piece of green in it. 
         <persName ref="#RuthPrynne">
@@ -5396,7 +5396,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Yes do let's . . . I dont like it here much."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"And my dear, have you heard about <persName ref="#TonyHunter">Tony Hunter</persName>'s being straightened out by a psychoanalyst and now he's all sublimated and has gone on the vaudeville stage with a woman named California Jones."</said></p>
+    <p><said who="#" aloud="true" direct="true">"And my dear, have you heard about <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>'s being straightened out by a psychoanalyst and now he's all sublimated and has gone on the vaudeville stage with a woman named California Jones."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"You'd better watch out Jojo."</said></p>
 
@@ -5620,7 +5620,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Well I've heard your side Mr. Rogers. . . . Here's mine. If you arrest me now I shall be ruined and a great many people who have put their money in this enterprise will be ruined. . . . In a week I can liquidate the whole concern with a profit. . . . Mr. Rogers I am a man who has been deeply wronged through foolishness in misplacing confidence in others."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I cant help that. . . . My duty is to execute the warrant. . . . I'm afraid I'll have to search your room. . . . You see we have several little items . . ."</said> The man flicked the ash off his cigar and began to read in a monotonous voice. <said who="#" aloud="true" direct="true"></said>"Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, <persName ref="#JackCunningham">Jack</persName> Hinkley, J. J. Gold. . . . Oh we've got a pretty little list. . . . We've done some very pretty work on your case, if I do say it what shouldnt."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I cant help that. . . . My duty is to execute the warrant. . . . I'm afraid I'll have to search your room. . . . You see we have several little items . . ."</said> The man flicked the ash off his cigar and began to read in a monotonous voice. <said who="#" aloud="true" direct="true"></said>"Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, <persName ref="#JackCunningham"><forename>Jack</forename></persName> Hinkley, J. J. Gold. . . . Oh we've got a pretty little list. . . . We've done some very pretty work on your case, if I do say it what shouldnt."</said></p>
 
 
 
