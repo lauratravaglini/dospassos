@@ -912,7 +912,7 @@
 
                     <p>He walked west along Fourteenth and without stopping to think and lose his nerve went down into a small basement stationery store, strode through unsteadily to the back, and stood swaying in the doorway of a little office where sat at a rolltop desk a blueeyed baldheaded fat man.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Hello Felsius,"</said> croaked Harland.</p>
+                    <p><said who="#" aloud="true" direct="true">"Hello Felsius,"</said> croaked <persName ref="#JoeHarland"><surname>Harland</surname></persName>.</p>
 
                     <p>The fat man got to his feet bewildered. <said who="#" aloud="true" direct="true">"God it aint <persName ref="#JoeHarland"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Harland</surname></persName> is it?"</said></p>
 
@@ -944,7 +944,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"<persName ref="#JoeHarland"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Harland</surname></persName> I cant do it."</said> Felsius got to his feet. <said who="#" aloud="true" direct="true">"I'm sorry but principles is principles. . . . I've never borrowed or lent a cent in my life. I'm sure you understand that. . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"All right, dont say any more."</said> Harland got meekly to his feet. <said who="#" aloud="true" direct="true">"Let me have a quarter. . . . I'm not so young as I was and I haven't eaten for two days,"</said> he mumbled, looking down at his cracked shoes. He put out his hand to steady himself by the desk.</p>
+                    <p><said who="#" aloud="true" direct="true">"All right, dont say any more."</said> <persName ref="#JoeHarland"><surname>Harland</surname></persName> got meekly to his feet. <said who="#" aloud="true" direct="true">"Let me have a quarter. . . . I'm not so young as I was and I haven't eaten for two days,"</said> he mumbled, looking down at his cracked shoes. He put out his hand to steady himself by the desk.</p>
 
                     <p>Felsius moved back against the wall as if to ward off a blow. He held out a fiftycent piece on thick trembling fingers. Harland took it, turned without a word and stumbled out through the shop. Felsius pulled a violet bordered handkerchief out of his pocket, mopped his brow and turned to his letters again.</p>
 
@@ -3291,7 +3291,7 @@
 
 
 
-<p><said who="#" aloud="true" direct="true">"This is my sister Rachel,"</said> said Goldweiser to <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> without getting up. <said who="#" aloud="true" direct="true">"She keeps house for me."</said></p>
+<p><said who="#" aloud="true" direct="true">"This is my sister <persName ref="#RachelGoldweiser"><forename>Rachel</forename></persName>,"</said> said <persName ref="#HarryGoldweiser"><surname>Goldweiser</surname></persName>to <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> without getting up. <said who="#" aloud="true" direct="true">"She keeps house for me."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"I wish you'd help me, Snow, to induce <persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">Oglethorpe</surname></persName> to take that part in The Zinnia Girl. . . . Honest it was just written for you."</said></p>
 
@@ -3713,13 +3713,13 @@
 
 <p>She stood with her arm in the arm of <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName>'s dinner jacket looking out over the parapet of the roof garden. Below them the Park lay twinkling with occasional lights, streaked with nebular blur like a fallen sky. From behind them came gusts of a tango, inklings of voices, shuffle of feet on a dancefloor. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> felt a stiff castiron figure in her metalgreen evening dress.</p>
 
-<p><said who="#" aloud="true" direct="true">"Ah but Boirnhardt, Rachel, Duse, Mrs. Siddons. . . . No <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> I'm tellin you, d'you understand? There's no art like the stage that soars so high moldin the passions of men. . . . If I could only do what I wanted we'd be the greatest people in the world. You'd be the greatest actress. . . . I'd be the great producer, the unseen builder, d'you understand? But the public dont want art, the people of this country wont let you do anythin for em. All they want's a detective melodrama or a rotten French farce with the kick left out or a lot of pretty girls and music. Well a showman's business is to give the public what they want."</said></p>
+<p><said who="#" aloud="true" direct="true">"Ah but Boirnhardt, <persName ref="#RachelGoldweiser"><forename>Rachel</forename></persName>, Duse, Mrs. Siddons. . . . No <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> I'm tellin you, d'you understand? There's no art like the stage that soars so high moldin the passions of men. . . . If I could only do what I wanted we'd be the greatest people in the world. You'd be the greatest actress. . . . I'd be the great producer, the unseen builder, d'you understand? But the public dont want art, the people of this country wont let you do anythin for em. All they want's a detective melodrama or a rotten French farce with the kick left out or a lot of pretty girls and music. Well a showman's business is to give the public what they want."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"I think that this city is full of people wanting inconceivable things. . . . Look at it."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"It's all right at night when you cant see it. There's no artistic sense, no beautiful buildins, no old-time air, that's what's the matter with it."</said></p>
 
-<p>They stood a while without speaking. The orchestra began playing the waltz from The Lilac Domino. Suddenly <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> turned to Goldweiser and said in a curt tone.</p>
+<p>They stood a while without speaking. The orchestra began playing the waltz from The Lilac Domino. Suddenly <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> turned to <persName ref="#HarryGoldweiser"><surname>Goldweiser</surname></persName>and said in a curt tone.</p>
 
 <p><said who="#" aloud="true" direct="true">"Can you understand a woman who wants to be a harlot, a common tart, sometimes?"</said></p>
 
