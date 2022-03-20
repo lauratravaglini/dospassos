@@ -25,7 +25,7 @@
                     
                     <p><said who="#" aloud="true" direct="true">"But you're not that kind of a girl."</said></p>
                     
-                    <p><said who="#" aloud="true" direct="true"></said>"How do you know what kind of a girl I am?"</said></p>
+                    <p><said who="#" aloud="true" direct="true">"How do you know what kind of a girl I am?"</said></p>
                     
                     <p>The voices trailed out down the stairs.</p>
                     
@@ -217,7 +217,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Too bad. Once upon a time Josiah Herf and I were boon companions. Today he is the president of the First National Bank and leading citizen of Scranton Pennsylvahnia and I . . . a mere mountebank, a thing of rags and patches."</said> When he shrugged his shoulders the bathrobe fell away exposing a flat smooth hairless chest.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"You see <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName> and I are going to do the Song of Songs. He weads it and I interpwet it in dancing. You must come up and see us wehearse sometime."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"You see <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName> and I are going to do the <name type="song">Song of Songs</name>. He weads it and I interpwet it in dancing. You must come up and see us wehearse sometime."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Thy navel is like a round goblet which wanteth not liquor, thy belly is like a heap of wheat set about with lilies . . ."</said></p>
 
@@ -421,7 +421,7 @@
 
                     <p>Eighth Street. She got down from the bus and went into the basement of the Brevoort. <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> sat waiting with his back to the door snapping and unsnapping the lock of his briefcase. <said who="#" aloud="true" direct="true">"Well <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> it's about time you turned up. . . . There aren't many people I'd sit waiting three quarters of an hour for."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> you mustn't scold me; I've been having the time of my life. I haven't had such a good time in years. I've had the whole day all to myself and I walked all the way down from 105th Street to Fiftyninth through the Park. It was full of the most comical people."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> you mustn't scold me; I've been having the time of my life. I haven't had such a good time in years. I've had the whole day all to myself and I walked all the way down from <address><num type="ordinal" value="105">105th</num> Street</address> to Fiftyninth through the Park. It was full of the most comical people."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"You must be tired."</said> His lean face where the bright eyes were caught in a web of fine wrinkles kept pressing forward into hers like the prow of a steamship.</p>
 
@@ -537,7 +537,7 @@
 
                     <p>The motor sputtered, started with a roar. He jumped round and cut off the gas with a long hand. <said who="#" aloud="true" direct="true">"We'll probably get arrested; my muffler's loose and liable to drop off."</said></p>
 
-                    <p>At Thirtyfourth Street they passed a girl riding slowly through the traffic on a white horse; chestnut hair hung down in even faky waves over the horse's chalky rump and over the giltedged saddlecloth where in green letters pointed with crimson read Danderine.</p>
+                    <p>At <address>Thirtyfourth Street</address> they passed a girl riding slowly through the traffic on a white horse; chestnut hair hung down in even faky waves over the horse's chalky rump and over the giltedged saddlecloth where in green letters pointed with crimson read Danderine.</p>
 
                     <p><said who="StanwoodEmery" aloud="true" direct="true">"Rings on her fingers,"</said> chanted <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> pressing his buzzer, <said who="StanwoodEmery" aloud="true" direct="true">"And bells on her toes, And she shall cure dandruff wherever it grows."</said></p>
 
