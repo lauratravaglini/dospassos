@@ -488,7 +488,7 @@
 
                     <p>A young man stood at the table, swaying a little, looking down at them. <said who="#" aloud="true" direct="true">"Hello <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>, where the dickens did you come from?"</said> Baldwin looked up at him without smiling. <said who="#" aloud="true" direct="true">"Look <persName ref="#GeorgeBaldwin"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Baldwin</surname></persName> I know it's awful rude, but may I sit down at your table a second. There's somebody looking for me who i just cant meet. O God that mirror! Still they'd never look for me if they saw you."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">H</surname></persName> this is <persName ref="#StanwoodEmery">Stanwood Emery</persName>, the son of the senior partner in our firm."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">H</surname></persName> this is <persName ref="#StanwoodEmery"><forename>Stanwood</forename> <surname>Emery</surname></persName>, the son of the senior partner in our firm."</said></p>
 
                     <p><said who="StanwoodEmery" aloud="true" direct="true">"Oh it's so wonderful to meet you <persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">Oglethorpe</surname></persName>. I saw you last night, but you didn't see me."</said></p>
 
@@ -574,7 +574,7 @@
 
                     <p>Noon on Union Square. Selling out. Must vacate. WE HAVE MADE A TERRIBLE MISTAKE. Kneeling on the dusty asphalt little boys shine shoes lowshoes tans buttonshoes oxfords. The sun shines like a dandelion on the toe of each new-shined shoe. Right this way buddy, mister miss maam at the back of the store our new line of fancy tweeds highest value lowest price . . . Gents, misses, ladies, cutrate . . . WE HAVE MADE A TERRIBLE MISTAKE. Must vacate.</p>
 
-                    <p>Noon sunlight spirals dimly into the chopsuey joint. Muted music spirals Hindu<persName ref="#StanwoodEmery">stan</persName>. He eats fooyong, she eats chowmein. They dance with their mouths full, slim blue jumper squeezed to black slick suit, peroxide curls against black slick hair.</p>
+                    <p>Noon sunlight spirals dimly into the chopsuey joint. Muted music spirals Hindustan. He eats fooyong, she eats chowmein. They dance with their mouths full, slim blue jumper squeezed to black slick suit, peroxide curls against black slick hair.</p>
 
                     <p>Down Fourteenth Street, Glory Glory comes the Army, striding lasses. Glory Glory four abreast, the rotund shining, navy blue. Salvation Army band.</p>
 
@@ -729,14 +729,14 @@
                     <p><said who="#" aloud="true" direct="true">"I like the way you're so lean and hard <persName ref="#StanwoodEmery">
                                                                         <addName type="nickname">Stan</addName>
                                                                     </persName>
-                                                                 </person>. . . . Jojo's white and flabby almost like a woman."</said></p>
+                                                                . . . . Jojo's white and flabby almost like a woman."</said></p>
 
                     <p><said who="StanwoodEmery" aloud="true" direct="true">"For crissake don't talk about him now."</said></p>
 
                     <p><persName ref="#StanwoodEmery">
                                 <addName type="nickname">Stan</addName>
                             </persName>
-                        </person> stood with his legs apart buttoning his shirt. <said who="StanwoodEmery" aloud="true" direct="true">"Look <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> let's beat it out an have a drink. . . . God I'd hate to run into somebody now an have to talk lies to 'em. . . . I bet I'd crown 'em with a chair."</said></p>
+                         stood with his legs apart buttoning his shirt. <said who="StanwoodEmery" aloud="true" direct="true">"Look <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> let's beat it out an have a drink. . . . God I'd hate to run into somebody now an have to talk lies to 'em. . . . I bet I'd crown 'em with a chair."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"We've got time. Nobody ever comes home here before twelve. . . . I'm just here myself because I've got a sick headache."</said></p>
 
@@ -784,9 +784,7 @@
                     <p><said who="#" aloud="true" direct="true">"But she's made the biggest hit ever been made on Broadway."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> got off the car and walked east along the desolate empty pavements of 105th Street. A fetor of mattresses and sleep seeped out from the blocks of narrow-windowed houses. Along the gutters garbagecans stank sourly. In the shadow of a doorway a man and girl swayed tightly clamped in each other's arms. Saying good night. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> smiled happily. Greatest hit on Broadway. The words were an elevator carrying her up dizzily, up into some stately height where electric light signs crackled scarlet and gold and green, where were bright roofgardens that smelled of orchids, and the slow throb of a tango danced in a goldgreen dress with 
-                            <persName ref="#StanwoodEmery">
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName> while handclapping of millions beat in gusts like a hailstorm about them. Greatest hit on Broadway.</p>
+                            <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> while handclapping of millions beat in gusts like a hailstorm about them. Greatest hit on Broadway.</p>
 
                     <p>She was walking up the scaling white stairs. Before the door marked Sunderland a feeling of sick disgust suddenly choked her. She stood a long time her heart pounding with the key poised before the lock. Then with a jerk she pushed the key in the lock and opened the door.</p>
 
@@ -1154,7 +1152,7 @@
                     <p><said who="#" aloud="true" direct="true">"You just watch me."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> gathered up the bundle of books in one hand and in the other carried the black leather dressingcase. <said who="#" aloud="true" direct="true">"Look 
                             <persName ref="#CassandraWilkins">
                                 <addName type="nickname">Cassie</addName>
-                            </persName> will you be a dear and show him the trunk when he comes up to get it. . . . And one other thing, when <persName ref="#StanwoodEmery">Stan Emery</persName> calls up tell him to call me at the Brevoort or at the Lafayette. Thank goodness I didnt deposit my money last week. . . . And
+                            </persName> will you be a dear and show him the trunk when he comes up to get it. . . . And one other thing, when <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName> <surname>Emery</surname></persName> calls up tell him to call me at the Brevoort or at the Lafayette. Thank goodness I didnt deposit my money last week. . . . And
                             <persName ref="#CassandraWilkins">
                                 <addName type="nickname">Cassie</addName>
                             </persName> if you find any little odds and ends of mine around you just keep em. . . . Goodby."</said> She lifted her veil and kissed 
@@ -1266,16 +1264,14 @@
                     <p>The burglaralarm across the street had rung on steadily. 
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName>'s sleep had been strung on it in hard knobs like beads on a string. Knocking woke him. He sat up in bed with a lurch and found <persName ref="#StanwoodEmery">Stan Emery</persName>, his face gray with dust, his hands in the pockets of a red leather coat, standing at the foot of the bed. He was laughing swaying back and forth on the balls of his feet.</p>
+                        </persName>'s sleep had been strung on it in hard knobs like beads on a string. Knocking woke him. He sat up in bed with a lurch and found <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName> <surname>Emery</surname></persName>, his face gray with dust, his hands in the pockets of a red leather coat, standing at the foot of the bed. He was laughing swaying back and forth on the balls of his feet.</p>
 
                     <p><said who="#" aloud="true" direct="true">"Gosh what time is it?"</said>
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
                         </persName> sat up in bed digging his knuckles into his eyes. He yawned and looked about with bitter dislike, at the wallpaper the dead green of Poland Water bottles, at the split green shade that let in a long trickle of sunlight, at the marble fireplace blocked up by an enameled tin plate painted with scaly roses, at the frayed blue bathrobe on the foot of the bed, at the mashed cigarette-butts in the mauve glass ashtray.</p>
 
-                    <p><persName ref="#StanwoodEmery">
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>'s face was red and brown and laughing under the chalky mask of dust. <said who="#" aloud="true" direct="true">"Eleven thirty,"</said> he was saying.</p>
+                    <p><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s face was red and brown and laughing under the chalky mask of dust. <said who="#" aloud="true" direct="true">"Eleven thirty,"</said> he was saying.</p>
 
 
 
@@ -1497,7 +1493,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"
                         <persName ref="#StanwoodEmery">
-                                <addName type="nickname">Stan</persName></addName>
+                                <addName type="nickname">Stan</addName>
                             </persName> you're feeling your liquor, you're beginning to talk niggertalk."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Baa baa."</said><persName ref="#StanwoodEmery">
@@ -2133,7 +2129,7 @@
 
                     <p><persName ref="#EdThatcher"><forename>Ed</forename> <surname>Thatcher</surname></persName> sat in his bay window among the Sunday papers. His hair was grizzled and there were deep folds in his cheeks. The upper buttons of his pongee trousers were undone to ease his sudden little potbelly. He sat in the open window looking out over the blistering asphalt at the endless stream of automobiles that whirred in either direction past the yellowbrick row of stores and the redbrick station under the eaves of which on a black ground gold letters glinted feebly in the sun: Passaic. Apartments round about emitted a querulous Sunday grinding of phonographs playing It's a Bear. The Sextette from Lucia, selections from The Quaker Girl. On his knees lay the theatrical section of the New York Times. He looked out with bleared eyes into the quivering heat feeling his ribs tighten with a breathless ache. He had just read a paragraph in a marked copy of Town Topics.</p>
 
-                    <p>Malicious tongues are set wagging by the undeniable fact that young <persName ref="#StanwoodEmery">Stanwood Emery</persName>'s car is seen standing every night outside the Knickerbocker Theatre and never does it leave they say, without a certain charming young actress whose career is fast approaching stellar magnitude. This same young gentleman, whose father is the head of one of the city's most respected lawfirms, who recently left Harvard under slightly unfortunate circumstances, has been astonishing the natives for some time with his exploits which we are sure are merely the result of the ebullience of boyish spirits. A word to the wise.</p>
+                    <p>Malicious tongues are set wagging by the undeniable fact that young <persName ref="#StanwoodEmery"><forename>Stanwood</forename> <surname>Emery</surname></persName>'s car is seen standing every night outside the Knickerbocker Theatre and never does it leave they say, without a certain charming young actress whose career is fast approaching stellar magnitude. This same young gentleman, whose father is the head of one of the city's most respected lawfirms, who recently left Harvard under slightly unfortunate circumstances, has been astonishing the natives for some time with his exploits which we are sure are merely the result of the ebullience of boyish spirits. A word to the wise.</p>
 
                     <p>The bell rang three times. <persName ref="#EdThatcher"><forename>Ed</forename> <surname>Thatcher</surname></persName> dropped his papers and hurried quaking to the door. <said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> you're so late. I was afraid you weren't coming."</said></p>
 
@@ -2403,12 +2399,8 @@
 
                     <p><said who="#" aloud="true" direct="true">"God I dont see why people have children. It's an admission of defeat. Procreation is the admission of an incomplete organism. Procreation is an admission of defeat."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"</said>
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> for Heaven's sake dont shout, you'll shock the stagehands. . . . I oughtnt to have let you come. You know the way people gossip round a theater."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"
+                            <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> for Heaven's sake dont shout, you'll shock the stagehands. . . . I oughtnt to have let you come. You know the way people gossip round a theater."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I'll be quiet just like a lil mouse. . . . Just let me wait till Milly comes to dress you. Seeing you dress is my only remaining pleasure . . . I admit that as an organism I'm incomplete."</said></p>
 
@@ -2416,34 +2408,18 @@
 
                     <p><said who="#" aloud="true" direct="true">"I'm going to drink . . . I'm going to drink till when I cut myself whiskey runs out. What's the good of blood when you can have whiskey?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh <person key="StanwoodEmery">
-                                <persName>
-                                    <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                                </persName>
-                            </person>."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"The only thing an incomplete organism can do is drink. . . . You complete beautiful organisms dont need to drink. . . . I'm going to lie down and go byby."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Dont <person key="StanwoodEmery">
-                                <persName>
-                                    <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                                </persName>
-                              </person> for Heaven's sake. If you go and pass out here I'll never forgive you."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Dont <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> for Heaven's sake. If you go and pass out here I'll never forgive you."</said></p>
 
                     <p>There was a soft doubleknock at the door. <said who="#" aloud="true" direct="true">"Come in Milly."</said> Milly was a small wrinklefaced woman with black eyes. A touch of negro blood made her purplegray lips thick, gave a lividness to her verywhite skin.</p>
 
                     <p><said who="#" aloud="true" direct="true">"It's eight fifteen dear,"</said> she said as she bustled in. She gave a quick look at 
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> and turned to <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> with a little wry frown.</p>
+                        <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> and turned to <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> with a little wry frown.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> you've got to go away. . . . I'll meet you at the Beaux Arts or anywhere you like afterwards."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you've got to go away. . . . I'll meet you at the Beaux Arts or anywhere you like afterwards."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I want to go byby."</said></p>
 
@@ -2461,12 +2437,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Dont let him get you worked up deary. Men aint worth it."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I want to go byby."</said> 
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> was swaying and frowning in the center of the room. <said who="#" aloud="true" direct="true">"Miss <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> I'll put him in the bathroom; nobody'll notice him there."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"I want to go byby."</said> <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> was swaying and frowning in the center of the room. <said who="#" aloud="true" direct="true">"Miss <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> I'll put him in the bathroom; nobody'll notice him there."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"That's it, let him go to sleep in the bathtub."</said></p>
 
@@ -2548,19 +2519,11 @@
 
                     <p><said who="#" aloud="true" direct="true">"My God Milly, look at that."</said></p>
 
-                    <p><person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> was lying as they had left him in the bathtub full of water. The tail of his coat and one hand were floating on top of the water. <said who="#" aloud="true" direct="true">"Get up out of there <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you idiot. . . . He might catch his death. You fool, you fool."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> took him by the hair and shook his head from side to side.</p>
+                    <p><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> was lying as they had left him in the bathtub full of water. The tail of his coat and one hand were floating on top of the water. <said who="#" aloud="true" direct="true">"Get up out of there <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you idiot. . . . He might catch his death. You fool, you fool."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> took him by the hair and shook his head from side to side.</p>
 
                     <p><said who="#" aloud="true" direct="true">"Ooch that hurts,"</said> he moaned in a sleepy child's voice.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Get up out of there <person key="StanwoodEmery">
-                                                <persName>
-                                                    <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                                                </persName>
-                                            </person>. . . . You're soaked."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Get up out of there <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>. . . . You're soaked."</said></p>
 
                     <p>He threw back his head and his eyes snapped open. <said who="#" aloud="true" direct="true">"Why so I am."</said> He raised himself with his hands on the sides of the tub and stood swaying, dripping into the water that was yellow from his clothes and shoes, braying his loud laugh. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> leaned against the bathroom door laughing with her eyes full of tears.</p>
 
@@ -2576,18 +2539,9 @@
                         </person> you've got to take off all your clothes and put on a dress of mine. Then you can wear my rain cape and we can whisk into a taxicab and take you home. . . . What do you think Milly?"</said></p>
 
                     <p>Milly was rolling her eyes and shaking her head as she wrung out 
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person>'s coat. In the washbasin she had piled the soppy remains of a pocketbook, a pad, pencils, a jacknife, two rolls of film, a flask.</p>
+                        <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s coat. In the washbasin she had piled the soppy remains of a pocketbook, a pad, pencils, a jacknife, two rolls of film, a flask.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"I wanted a bath anyway,"</said> said 
-                        <person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person>.</p>
+                    <p><said who="#" aloud="true" direct="true">"I wanted a bath anyway,"</said> said <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>.</p>
 
                     <p><said who="#" aloud="true" direct="true">"Oh I could beat you. Well you're sober at least."</said></p>
 
@@ -2616,19 +2570,11 @@
 
                     <p><said who="#" aloud="true" direct="true">"Good night deary, and remember what I said. . . . I'm tellin ye that's all. . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> take little steps and if we meet anybody go right on and jump in a taxi. . . . You can get away with anything if you do it quick enough."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>'s hands were trembling as they came down the steps. She tucked one in under <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s elbow and began talking in a low chatty voice. . . . <said who="#" aloud="true" direct="true">"You see dear, daddy came round to see the show two or three nights ago and he was shocked to death. He said he thought a girl demeaned herself showing her feelings like that before a lot of people. . . . Isn't it killing? . . . Still he was impressed by the writeups the Herald and World gave me Sunday. . . . Goodnight Barney, nasty night. . . . My God. . . . Here's a taxi, get in. Where are you going?"</said> Out of the dark of the taxi, out of his long face muffled in the blue hood, his eyes were so bright black they frightened her like coming suddenly on a deep pit in the dark.</p>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> take little steps and if we meet anybody go right on and jump in a taxi. . . . You can get away with anything if you do it quick enough."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>'s hands were trembling as they came down the steps. She tucked one in under <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s elbow and began talking in a low chatty voice. . . . <said who="#" aloud="true" direct="true">"You see dear, daddy came round to see the show two or three nights ago and he was shocked to death. He said he thought a girl demeaned herself showing her feelings like that before a lot of people. . . . Isn't it killing? . . . Still he was impressed by the writeups the Herald and World gave me Sunday. . . . Goodnight Barney, nasty night. . . . My God. . . . Here's a taxi, get in. Where are you going?"</said> Out of the dark of the taxi, out of his long face muffled in the blue hood, his eyes were so bright black they frightened her like coming suddenly on a deep pit in the dark.</p>
 
                     <p><said who="#" aloud="true" direct="true">"All right we'll go to my house. Might as well be hanged for a sheep. . . . Driver please go to Bank Street. The taxi started. They were jolting through the crisscross planes of red light, green light, yellow light beaded with lettering of Broadway. Suddenly <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> leaned over her and kissed her hard very quickly on the mouth.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"<person key="StanwoodEmery">
-                            <persName>
-                                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                            </persName>
-                        </person> you've got to stop drinking. It's getting beyond a joke."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"<persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you've got to stop drinking. It's getting beyond a joke."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Why shouldn't things get beyond a joke? You're getting beyond a joke and I dont complain."</said></p>
 
@@ -2638,11 +2584,7 @@
 
 
 
-                    <p><said who="#" aloud="true" direct="true">"Oh I dont understand you <person key="StanwoodEmery">
-                                                    <persName>
-                                                        <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                                                    </persName>
-                                                </person>."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh I dont understand you <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I dont understand you <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, but I love you very . . . exordinately much."</said> There was a broken tremor in his very low voice that stunned her with happiness.</p>
 
@@ -2665,11 +2607,7 @@
                             </persName>
                          </person> had taken off the dress. He was dancing round with a chair for a partner, her blue padded dressingown flying out from his thin hairy legs.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh <person key="StanwoodEmery">
-                                <persName>
-                                    <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-                                </persName>
-                            </person> you precious idiot."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you precious idiot."</said></p>
 
                     <p>He put down the chair and came towards her brown and male and lean in the silly dressingown. The phonograph came to the end of the tune and the record went on rasping round and round.</p>
 
@@ -2767,12 +2705,9 @@
 
 <p><said who="#" aloud="true" direct="true">"Why should I go up to Washington into that greasy backwater when I'm right on the spot where they give the orders? The terrible thing about having New York go stale on you is that there's nowhere else. It's the top of the world. All we can do is go round and round in a squirrel cage."</said></p>
 
-<p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> was watching the people in light summer clothes dancing on the waxed square of floor in the center; she caught sight of <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>'s oval pink and white face at a table on the far side of the room. Oglethorpe was not with him.</p>
-    <person key="StanwoodEmery">
-        <persName>
-            <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-        </persName>
-    </person>'s friend Herf sat with his back to her. She watched him laughing, his long rumpled black head poised a little askew on a scraggly neck. The other two men she didn't know.</p>
+<p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> was watching the people in light summer clothes dancing on the waxed square of floor in the center; she caught sight of <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>'s oval pink and white face at a table on the far side of the room. Oglethorpe was not with him.</p> 
+
+    <p><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s friend Herf sat with his back to her. She watched him laughing, his long rumpled black head poised a little askew on a scraggly neck. The other two men she didn't know.</p>
 
     <p><said who="#" aloud="true" direct="true">"Who are you looking at?"</said></p>
 
@@ -3000,10 +2935,8 @@
 
 <p><said who="#" aloud="true" direct="true">"But it's just the neck of the evening."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well you'll have to take the consequences of my crazy man. . . . Look Herf, have you seen 
-    <persName ref="#StanwoodEmery">
-        <addName type="nickname">Stan</persName></addName>
-    </persName> today?"</said></p>
+<p><said who="#" aloud="true" direct="true">"Well you'll have to take the consequences of my crazy man. . . . Look Herf, have you seen <persName ref="#StanwoodEmery">
+        <addName type="nickname">Stan</addName></persName> today?"</said></p>
 
 <p><said who="#" aloud="true" direct="true">"No I haven't."</said></p>
 
@@ -3656,7 +3589,7 @@
 
 
 
-<p>It was blowing cold in his face and he was sitting on the front of a ferryboat when he came to. His teeth were chattering, he was shivering . . . <said who="#" aloud="true" direct="true">"I'm having DT's. Who am I? Where am I? City of New York, State of New York. . . . <persName ref="#StanwoodEmery">Stanwood Emery</persName> age twentytwo occupation student. . . . <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName> twentyone occupation actress. To hell with her. Gosh I've got fortynine dollars and eight cents and where the hell have I been? And nobody rolled me. Why I havent got the DT's at all. I feel fine, only a little delicate. All I need's a little drink, dont you? Hello, I thought there was somebody here. I guess I'd better shut up."</said></p>
+<p>It was blowing cold in his face and he was sitting on the front of a ferryboat when he came to. His teeth were chattering, he was shivering . . . <said who="#" aloud="true" direct="true">"I'm having DT's. Who am I? Where am I? City of New York, State of New York. . . . <persName ref="#StanwoodEmery"><forename>Stanwood</forename> <surname>Emery</surname></persName> age twentytwo occupation student. . . . <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName> twentyone occupation actress. To hell with her. Gosh I've got fortynine dollars and eight cents and where the hell have I been? And nobody rolled me. Why I havent got the DT's at all. I feel fine, only a little delicate. All I need's a little drink, dont you? Hello, I thought there was somebody here. I guess I'd better shut up."</said></p>
 
 <p>Fortynine dollars ahanging on the wall</p>
 
@@ -3681,9 +3614,7 @@
 
 
 <p>In the whitening light tinfoil gulls wheeled above broken boxes, spoiled cabbageheads, orangerinds heaving slowly between the splintered plank walls, the green spumed under the round bow as the ferry skidding on the tide, gulped the broken water, crashed, slid, settled slowly into the slip. Handwinches whirled with jingle of chains, gates folded upward. 
-            <persName ref="#StanwoodEmery">
-                <addName type="nickname"><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName></addName>
-            </persName> stepped across the crack, staggered up the manuresmelling wooden tunnel of the ferryhouse out into the sunny glass and benches of the Battery. He sat down on a bench, clasped his hands round his knees to keep them from shaking so. His mind went on jingling like a mechanical piano.</p>
+            <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> stepped across the crack, staggered up the manuresmelling wooden tunnel of the ferryhouse out into the sunny glass and benches of the Battery. He sat down on a bench, clasped his hands round his knees to keep them from shaking so. His mind went on jingling like a mechanical piano.</p>
 
 <p>With bells on her fingers and rings on her toes</p>
 
@@ -4010,9 +3941,8 @@
             <forename>Jimmy</forename>
         </persName> I might as well tell you. . . ."</said> She went up to him and spoke fast with her face turned away pointing at him with the latchkey that caught the light of the streetlamp. The fog was like a tent round about them. <said who="#" aloud="true" direct="true">"I'm going to have a baby. . . . 
             <persName ref="#StanwoodEmery">
-                <addName type="nickname">Stan</persName></addName>
-            </persName>
-       </person>'s baby. I'm going to give up all this silly life and raise it. I dont care what happens."</said></p>
+                <addName type="nickname">Stan</addName>
+            </persName>'s baby. I'm going to give up all this silly life and raise it. I dont care what happens."</said></p>
 
        <p><said who="#" aloud="true" direct="true">"O <name type="entity"></name>God that's the bravest thing I ever heard of a woman doing. . . . Oh <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> you're so wonderful. God if I could only tell you what I . . ."</said></p>
 
@@ -4201,7 +4131,7 @@
 
     <p><said who="#" aloud="true" direct="true">"I feel kinder fussed about it."</said></p>
 
-    <p>The jazzband in the restaurant was playing Hindu<persName ref="#StanwoodEmery">stan</persName>. It smelled of chop suey and Chinese sauce. They slipped into a booth. Slickhaired young men and little bobhaired girls were dancing hugged close. As they sat down they smiled into each other's eyes.</p>
+    <p>The jazzband in the restaurant was playing Hindustan. It smelled of chop suey and Chinese sauce. They slipped into a booth. Slickhaired young men and little bobhaired girls were dancing hugged close. As they sat down they smiled into each other's eyes.</p>
 
     <p><said who="#" aloud="true" direct="true">"Jez I'm hungry."</said></p>
 
