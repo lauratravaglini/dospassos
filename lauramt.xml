@@ -1929,7 +1929,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Say you're a funny fellow for a walking delegate. . . . You take an old man's advice before I run you off the lot, and quit it. . . . It's no game for a likely young feller who wants to make his way in the world."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Times are changin you know. . . . There's big fellers back o this here strike, see? I was talkin over the sitooation with Assemblyman McNiel jus this afternoon in his office."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Times are changin you know. . . . There's big fellers back o this here strike, see? I was talkin over the sitooation with Assemblyman <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> jus this afternoon in his office."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"But I'm telling you straight if there's one thing that'll queer you in this town it's this labor stuff. . . . You'll remember someday that an old drunken bum told you that and it'll be too late."</said></p>
 
@@ -2636,7 +2636,7 @@
 
 <p><said who="#" aloud="true" direct="true">"I can . . ." She kept her eyes on the menu. "Did you notice those two people I introduced to you?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Yes. Is that the McNiel whose name is in the paper all the time? Some row about a builders' strike and the Interborough bond issue."</p>
+<p><said who="#" aloud="true" direct="true">"Yes. Is that the <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> whose name is in the paper all the time? Some row about a builders' strike and the Interborough bond issue."</p>
 
 <p><said who="#" aloud="true" direct="true">"It's all politics. I bet he's glad of the war, poor old <persName ref="#GusMcNiel"><forename>Gus</forename></persName>. It'll do one thing, it'll keep that row off the front page. . . . I'll tell you about him in a minute. . . . I dont suppose you like steamed clams do you? They are very good here."</said></p>
 
@@ -2959,7 +2959,7 @@
 
 <p><said who="#" aloud="true" direct="true">"Here's a taxi,"</said> said Herf looking from one to another of the taut white faces.</p>
 
-<p><said who="#" aloud="true" direct="true">"All right you take the girl home. . . . No harm done, just a little nervous attack, see? No cause for alarm,"</said> McNiel was shouting in the voice of a man speaking from a soapbox. The headwaiter and the coatgirl were looking at each other uneasily. <said who="#" aloud="true" direct="true">"Didn't nutten happen. . . . Gentleman's a little nervous . . . overwork you understand,"</said> McNiel brought his voice down to a reassuring purr. <said who="#" aloud="true" direct="true">"You just forget it."</said></p>
+<p><said who="#" aloud="true" direct="true">"All right you take the girl home. . . . No harm done, just a little nervous attack, see? No cause for alarm,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> was shouting in the voice of a man speaking from a soapbox. The headwaiter and the coatgirl were looking at each other uneasily. <said who="#" aloud="true" direct="true">"Didn't nutten happen. . . . Gentleman's a little nervous . . . overwork you understand,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> brought his voice down to a reassuring purr. <said who="#" aloud="true" direct="true">"You just forget it."</said></p>
 
 
 
@@ -3453,7 +3453,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Yay dere's de chief."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Good for old man McNiel come at last."</said></p>
+<p><said who="#" aloud="true" direct="true">"Good for old man <persName ref="#GusMcNiel"> <surname>McNiel</surname></persName> come at last."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Howde do <persName ref="#GusMcNiel"><roleName type="honorific" full="abb">Mr.</roleName> <surname>McNiel</surname></persName>?"</said> The bar quiets down.</p>
 
@@ -3504,7 +3504,7 @@
 
 <p>Across the zinc water the tall walls, the birchlike cluster of downtown buildings shimmered up the rosy morning like a sound of horns through a chocolatebrown haze. As the boat drew near the buildings densened to a granite mountain split with knifecut canyons. The ferry passed close to a tubby steamer that rode at anchor listing towards 
             <persName ref="#StanwoodEmery">
-                <addName type="nickname">>Stan</addName>
+                <addName type="nickname">Stan</addName>
             </persName>
         </person> so that he could see all the decks. An Ellis Island tug was alongside. A stale smell came from the decks packed with upturned faces like a load of melons. Three gulls wheeled complaining. A gull soared in a spiral, white wings caught the sun, the gull skimmed motionless in whitegold light. The rim of the sun had risen above the plumcolored band of clouds behind East New York. A million windows flashed with light. A rasp and a humming came from the city.</p>
 
@@ -4592,7 +4592,7 @@
 
     <p><said who="#" aloud="true" direct="true">"That'd be all right, but they're dead sot against anybody who aint got a war record."</said></p>
 
-    <p>McNiel flushed. <said who="#" aloud="true" direct="true">"Come back feeling kinder smart, dont ye, you guys from overseas?"</said> He laughed. <said who="#" aloud="true" direct="true">"That wont last more'n a year or two. . . . I seen em come back from the Spanish American War, remember that <persName ref="#JoeHarland"><forename>Joe</forename></persName>."</said></p>
+    <p><persName ref="#GusMcNiel"><surname>McNiel</surname></persName> flushed. <said who="#" aloud="true" direct="true">"Come back feeling kinder smart, dont ye, you guys from overseas?"</said> He laughed. <said who="#" aloud="true" direct="true">"That wont last more'n a year or two. . . . I seen em come back from the Spanish American War, remember that <persName ref="#JoeHarland"><forename>Joe</forename></persName>."</said></p>
 
     <p>An officeboy came in an laid a card on the desk. <said who="#" aloud="true" direct="true">"A lady to see you <persName ref="#GusMcNiel"><roleName type="honorific" full="abb">Mr.</roleName> <surname>McNiel</surname></persName>."</said></p>
 
@@ -4887,7 +4887,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Well old man,"</said> says <persName ref="#MrDensch"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Densch</surname></persName> in a tired voice, <said who="#" aloud="true" direct="true">"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Like hell it dont. . . . How about McNiel and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Like hell it dont. . . . How about <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</said></p>
 
     <p><persName ref="#MrDensch"><surname>Densch</surname></persName> gets to his feet. <said who="#" aloud="true" direct="true">"My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ."</said> He starts walking to the door, his round belly stuck proudly out in front of him.</p>
 
