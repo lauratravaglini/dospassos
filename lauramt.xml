@@ -2748,9 +2748,9 @@
 
     <p><said who="#" aloud="true" direct="true">"Say <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> do you know this French guy who's barkeep here?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Congo Jake? Sure I know him."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName>? Sure I know him."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Is he a good guy?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Is he a good guy?"</said></p> 
 
 <p><said who="#" aloud="true" direct="true">"He's swell."</said></p>
 
@@ -2769,14 +2769,14 @@
 
 <p>At the bar under a picture of the Lusitania stood a dark man in a white coat distended by a deep gorilla chest. He was vibrating a shaker between his very hairy hands. A waiter stood in front of the bar with a tray of cocktail glasses. The cocktail foamed into them greenishwhite.</p>
 
-<p><said who="#" aloud="true" direct="true">"Hello Congo,"</said> said 
+<p><said who="#" aloud="true" direct="true">"Hello <persName ref="#CongoJake"><forename>Congo</forename></persName>,"</said> said 
     <persName ref="#JimmyHerf">
         <forename>Jimmy</forename>
     </persName>.</p>
 
     <p><said who="#" aloud="true" direct="true">"Ah bonsoir monsieur 'Erf, ça biche?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Pretty good . . . Say Congo I want you to meet a friend of mine. This is Grant Bullock of the American."</said></p>
+<p><said who="#" aloud="true" direct="true">"Pretty good . . . Say <persName ref="#CongoJake"><forename>Congo</forename></persName> I want you to meet a friend of mine. This is Grant Bullock of the American."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Very please. You an Mr. 'Erf ave someting on the 'ouse sir."</said></p>
 
@@ -2784,17 +2784,17 @@
 
 <p>The waiter raised the clinking tray of glasses to shoulder height and carried them out on the flat of his hand.</p>
 
-<p><said who="#" aloud="true" direct="true">"I suppose a gin fizz'll ruin all that whiskey but I'd like one. . . . Drink something with us wont you Congo?"</said> Bullock put a foot up on the brass rail and took a sip. <said who="#" aloud="true" direct="true">"I was wondering,"</said> he said slowly, <said who="#" aloud="true" direct="true">"if there was any dope going round about this murder down the road."</said></p>
+<p><said who="#" aloud="true" direct="true">"I suppose a gin fizz'll ruin all that whiskey but I'd like one. . . . Drink something with us wont you <persName ref="#CongoJake"><forename>Congo</forename></persName>?"</said> Bullock put a foot up on the brass rail and took a sip. <said who="#" aloud="true" direct="true">"I was wondering,"</said> he said slowly, <said who="#" aloud="true" direct="true">"if there was any dope going round about this murder down the road."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Everybody ave his teyorie . . ."</said></p>
 
-<p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught a faint wink from one of Congo's deepset black eyes. <said who="#" aloud="true" direct="true">"Do you live out here?"</said> he asked to keep from giggling.</p>
+<p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught a faint wink from one of <persName ref="#CongoJake"><forename>Congo</forename></persName>'s deepset black eyes. <said who="#" aloud="true" direct="true">"Do you live out here?"</said> he asked to keep from giggling.</p>
 
     <p><said who="#" aloud="true" direct="true">"In the middle of the night I hear an automobile go by very fast wid de cutout open. I tink maybe it run into someting because it stopped very quick and come back much faster, licketysplit."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Did you hear a shot?"</said></p>
 
-    <p>Congo shook his head mysteriously. <said who="#" aloud="true" direct="true">"I ear voices, very angree voices."</said></p>
+    <p><persName ref="#CongoJake"><forename>Congo</forename></persName> shook his head mysteriously. <said who="#" aloud="true" direct="true">"I ear voices, very angree voices."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Gosh I'm going to look into this,"</said> said Bullock tossing off the end of his drink. <said who="#" aloud="true" direct="true">"Let's go back to the girls."</said></p>
 
@@ -2818,7 +2818,7 @@
 
 
 
-<p>hummed Congo Jake as the big shining shaker quivered between his hairy hands. The narrow greenpapered bar was swelled and warped with bubbling voices, spiral exhalations of drinks, sharp clink of ice and glasses, an occasional strain of music from the other room.</p>
+<p>hummed <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName> as the big shining shaker quivered between his hairy hands. The narrow greenpapered bar was swelled and warped with bubbling voices, spiral exhalations of drinks, sharp clink of ice and glasses, an occasional strain of music from the other room.</p>
 <p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> stood alone in the corner sipping a gin fizz. Next him <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> was slapping Bullock on the back and roaring in his ear:</p>
 
     <p><said who="#" aloud="true" direct="true">"Why if they dont close the Stock Exchange . . . godamighty . . . before the blowup comes there'll be an opportunity. . . . Well begorry dont you forget it. A panic's the time for a man with a cool head to make money."</said></p>
@@ -2835,7 +2835,7 @@
 
 <p>The bar emptied gradually. <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName> was still standing at the end against the wall.</p>
 
-    <p><said who="#" aloud="true" direct="true">"You never get drunk, Mr. 'Erf."</said> Congo Jake sat down back of the bar to drink a cup of coffee.</p>
+    <p><said who="#" aloud="true" direct="true">"You never get drunk, Mr. 'Erf."</said> <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName> sat down back of the bar to drink a cup of coffee.</p>
 
 <p><said who="#" aloud="true" direct="true">"I'd rather watch the other fellows."</said></p>
 
@@ -2845,9 +2845,9 @@
 
 <p><said who="#" aloud="true" direct="true">"I say what I tink."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Say I've always wanted to ask you. . . . Do you mind telling me? . . . How did you get the name of Congo Jake?"</said></p>
+<p><said who="#" aloud="true" direct="true">"Say I've always wanted to ask you. . . . Do you mind telling me? . . . How did you get the name of <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName>?"</said></p>
 
-<p>Congo laughed deep in his chest. "I dunno. . . . When I very leetle I first go to sea dey call me Congo because I have curly hair an dark like a nigger. Den when I work in America, on American ship an all zat, guy ask me How you feel Congo? and I say Jake . . . so dey call me Congo Jake."</said></p>
+<p><persName ref="#CongoJake"><forename>Congo</forename></persName> laughed deep in his chest. "I dunno. . . . When I very leetle I first go to sea dey call me <persName ref="#CongoJake"><forename>Congo</forename></persName> because I have curly hair an dark like a nigger. Den when I work in America, on American ship an all zat, guy ask me How you feel <persName ref="#CongoJake"><forename>Congo</forename></persName>? and I say <persName ref="#CongoJake"><surename>Jake</surname></persName>. . . so dey call me <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName>."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"It's some nickname. . . . I thought you'd followed the sea."</said></p>
 
@@ -2869,7 +2869,7 @@
 
     <p><said who="#" aloud="true" direct="true">"I'm with a crazy man you've got to help me get away."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Took this is Congo Jake. . . . You ought to know him <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, he's a fine man. . . . This is une tres grande artiste, Congo."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Took this is <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName>. . . . You ought to know him <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, he's a fine man. . . . This is une tres grande artiste, <persName ref="#CongoJake"><forename>Congo</forename></persName>."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Wont the lady have a leetle anizette?"</said></p>
 
@@ -2898,7 +2898,7 @@
 
 <p><said who="#" aloud="true" direct="true">"But then you cant be an American citizen."</said></p>
 
-<p>Congo shrugged his shoulders.</p>
+<p><persName ref="#CongoJake"><forename>Congo</forename></persName> shrugged his shoulders.</p>
 
 <p><said who="#" aloud="true" direct="true">"Oh I love him, he's wonderful,"</said> whispered <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s ear.</p>
 
@@ -4135,11 +4135,11 @@
 
     <p><said who="#" aloud="true" direct="true">"I can smell absinthe,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. "<said who="#" aloud="true" direct="true">Let's get terribly tight."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Good Lord, there's Congo. . . . Dont you remember Congo Jake at the Seaside Inn?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Good Lord, there's <persName ref="#CongoJake"><forename>Congo</forename></persName>. . . . Dont you remember <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName> at the Seaside Inn?"</said></p>
 
     <p>He stood bulky at the end of the corridor beckoning to them. His face was very tanned and he had a glossy black mustache. <said who="#" aloud="true" direct="true">"Hello Meester 'Erf. . . . Ow are you?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Fine as silk. Congo I want you to meet my wife."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Fine as silk. <persName ref="#CongoJake"><forename>Congo</forename></persName> I want you to meet my wife."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"If you dont mind the keetchen we will 'ave a drink."</said></p>
 
@@ -4151,11 +4151,11 @@
 
     <p><said who="#" aloud="true" direct="true">"Damn fool thing on Mont Tomba. . . . My bruderinlaw e gave me a very beautiful artificial leemb. . . . Sit 'ere. Look madame now can you tell which is which?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"No I cant," said <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> laughing. They were at a little marble table in the corner of the crowded kitchen. A girl was dishing out at a deal table in the center. Two cooks worked over the stove. The air was rich with sizzling fatty foodsmells. Congo hobbled back to them with three glasses on a small tray. He stood over them while they drank.</p>
+    <p><said who="#" aloud="true" direct="true">"No I cant," said <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> laughing. They were at a little marble table in the corner of the crowded kitchen. A girl was dishing out at a deal table in the center. Two cooks worked over the stove. The air was rich with sizzling fatty foodsmells. <persName ref="#CongoJake"><forename>Congo</forename></persName> hobbled back to them with three glasses on a small tray. He stood over them while they drank.</p>
 
     <p><said who="#" aloud="true" direct="true">"Salut,"</said> he said, raising his glass. <said who="#" aloud="true" direct="true">"Absinthe cocktail, like they make it in New Orleans."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It's a knockout."</said> Congo took a card out of his vest pocket:</p>
+    <p><said who="#" aloud="true" direct="true">"It's a knockout."</said> <persName ref="#CongoJake"><forename>Congo</forename></persName> took a card out of his vest pocket:</p>
 
 
 
@@ -4169,7 +4169,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Maybe some day you need some little ting . . . I deal in nutting but prewar imported. I am the best bootleggair in New York."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"If I ever get any money I certainly will spend it on you Congo. . . . How do you find business?</said>"</p>
+    <p><said who="#" aloud="true" direct="true">"If I ever get any money I certainly will spend it on you <persName ref="#CongoJake"><forename>Congo</forename></persName>. . . . How do you find business?</said>"</p>
 
     <p><said who="#" aloud="true" direct="true">"Veree good. . . . I tell you about it. Tonight I'm too busee. . . . Now I find you a table in the restaurant."</said></p>
 
@@ -4181,7 +4181,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Neither did I."</said></p>
 
-    <p>When Congo limped away from their table silence came down between them like an asbestos curtain in a theater.</p>
+    <p>When <persName ref="#CongoJake"><forename>Congo</forename></persName> limped away from their table silence came down between them like an asbestos curtain in a theater.</p>
 
     <p><said who="#" aloud="true" direct="true">"He's a funny duck,"</said> said 
         <persName ref="#JimmyHerf">
@@ -4612,7 +4612,7 @@
 
     <p><persName ref="#DutchRobertson"><forename>Dutch</forename></persName> felt his heart pounding as he read the column. He was cold all over. He got to his feet and began thrashing his arms about.</p>
 
-    <p>Congo stumped through the turnstile at the end of the L line. 
+    <p><persName ref="#CongoJake"><forename>Congo</forename></persName> stumped through the turnstile at the end of the L line. 
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
             <surname>Herf</surname>
@@ -4620,14 +4620,14 @@
 
     <p><said who="#" aloud="true" direct="true">"How you like, Meester 'Erf?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Fine Congo. Is that water?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Fine <persName ref="#CongoJake"><forename>Congo</forename></persName>. Is that water?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"That Sheepshead Bay."</said></p>
 
     <p>They walked along the road, dodging an occasional blue-steel glint of a puddle. The arclights had a look of shrunken grapes swaying in the wind. To the right and left were flickering patches of houses in the distance. They stopped at a long building propped on piles over the water. Pool; 
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
-        </persName> barely made out the letters on an unlighted window. The door opened as they reached it. <said who="#" aloud="true" direct="true">"Hello Mike,"</said> said Congo. <said who="#" aloud="true" direct="true">"This is Meester 'Erf, a frien' o mine."</said> The door closed behind them. Inside it was black as an oven. A calloused hand grabbed 
+        </persName> barely made out the letters on an unlighted window. The door opened as they reached it. <said who="#" aloud="true" direct="true">"Hello Mike,"</said> said <persName ref="#CongoJake"><forename>Congo</forename></persName>. <said who="#" aloud="true" direct="true">"This is Meester 'Erf, a frien' o mine."</said> The door closed behind them. Inside it was black as an oven. A calloused hand grabbed 
             <persName ref="#JimmyHerf">
                 <forename>Jimmy</forename>
                 <surname>Herf</surname>
@@ -4639,12 +4639,12 @@
 
     <p><said who="#" aloud="true" direct="true">"Oh I kin see in the dark."</said> The voice laughed throatily.</p>
 
-    <p>By that time Congo had opened the inner door. Light streamed through picking out billiard tables, a long bar at the end, racks of cues. <said who="#" aloud="true" direct="true">"This is Mike Cardinale,"</said> said Congo. 
+    <p>By that time <persName ref="#CongoJake"><forename>Congo</forename></persName> had opened the inner door. Light streamed through picking out billiard tables, a long bar at the end, racks of cues. <said who="#" aloud="true" direct="true">"This is Mike Cardinale,"</said> said <persName ref="#CongoJake"><forename>Congo</forename></persName>. 
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
-        </persName> found himself standing beside a tall sallow shylooking man with bunchy black hair growing low on his forehead. In the inner room were shelves full of chinaware and a round table covered by a piece of mustardcolored oilcloth. <said who="#" aloud="true" direct="true">"Eh la patronne,"</said> shouted Congo. A fat Frenchwoman with red applecheeks came out through the further door; behind her came a chiff of sizzling butter and garlic. <said who="#" aloud="true" direct="true">"This is frien o mine. . . . Now maybe we eat,"</said> shouted Congo. <said who="#" aloud="true" direct="true">"She my wife,"</said> said Cardinale proudly. <said who="#" aloud="true" direct="true">"Very deaf. . . . Have to talk loud."</said> He turned and closed the door to the large hall carefully and bolted it. <said who="#" aloud="true" direct="true">"No see lights from road,"</said> he said. <said who="#" aloud="true" direct="true">"In summer,"</said> said Mrs. Cardinale, <said who="#" aloud="true" direct="true">"sometime we give a hundred meals a day, or a hundred an fifty maybe."</said></p>
+        </persName> found himself standing beside a tall sallow shylooking man with bunchy black hair growing low on his forehead. In the inner room were shelves full of chinaware and a round table covered by a piece of mustardcolored oilcloth. <said who="#" aloud="true" direct="true">"Eh la patronne,"</said> shouted Congo. A fat Frenchwoman with red applecheeks came out through the further door; behind her came a chiff of sizzling butter and garlic. <said who="#" aloud="true" direct="true">"This is frien o mine. . . . Now maybe we eat,"</said> shouted <persName ref="#CongoJake"><forename>Congo</forename></persName>. <said who="#" aloud="true" direct="true">"She my wife,"</said> said Cardinale proudly. <said who="#" aloud="true" direct="true">"Very deaf. . . . Have to talk loud."</said> He turned and closed the door to the large hall carefully and bolted it. <said who="#" aloud="true" direct="true">"No see lights from road,"</said> he said. <said who="#" aloud="true" direct="true">"In summer,"</said> said Mrs. Cardinale, <said who="#" aloud="true" direct="true">"sometime we give a hundred meals a day, or a hundred an fifty maybe."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Havent you got a little peekmeup?"</said> said Congo. He let himself down with a grunt into a chair.</p>
+    <p><said who="#" aloud="true" direct="true">"Havent you got a little peekmeup?"</said> said <persName ref="#CongoJake"><forename>Congo</forename></persName>. He let himself down with a grunt into a chair.</p>
 
     <p>Cardinale set a fat fiasco of wine on the table and some glasses. They tasted it smacking their lips. <said who="#" aloud="true" direct="true">"Bettern Dago Red, eh Meester 'Erf?"</said></p>
 
@@ -4656,13 +4656,13 @@
 
     <p><said who="#" aloud="true" direct="true">"Thisa Anetta,"</said> said Cardinale as a pinkcheeked blackhaired girl with long lashes curving back from bright black eyes ran into the room followed by a heavily tanned young man in khaki overalls with curly sunbleached hair. They all sat down at once and began to eat the peppery thick vegetable chowder, leaning far over their plates.</p>
 
-    <p>When Congo had finished his soup he looked up. <said who="#" aloud="true" direct="true">"Mike did you see lights?"</said> Cardinale nodded. <said who="#" aloud="true" direct="true">"Sure ting . . . be here any time."</said> While they were eating a dish of fried eggs and garlic, frizzled veal cutlets with fried potatoes and broccoli, <persName ref="#JimmyHerf"><surname>Herf</surname></persName> began to hear in the distance the pop pop pop of a motorboat. Congo got up from the table with a motion to them to be quiet and looked out the window, cautiously lifting a corner of the shade, <said who="#" aloud="true" direct="true">"That him,"</said> he said as he stumped back to the table. <said who="#" aloud="true" direct="true">"We eat good here, eh Meester Erf?"</said></p>
+    <p>When <persName ref="#CongoJake"><forename>Congo</forename></persName> had finished his soup he looked up. <said who="#" aloud="true" direct="true">"Mike did you see lights?"</said> Cardinale nodded. <said who="#" aloud="true" direct="true">"Sure ting . . . be here any time."</said> While they were eating a dish of fried eggs and garlic, frizzled veal cutlets with fried potatoes and broccoli, <persName ref="#JimmyHerf"><surname>Herf</surname></persName> began to hear in the distance the pop pop pop of a motorboat. <persName ref="#CongoJake"><forename>Congo</forename></persName> got up from the table with a motion to them to be quiet and looked out the window, cautiously lifting a corner of the shade, <said who="#" aloud="true" direct="true">"That him,"</said> he said as he stumped back to the table. <said who="#" aloud="true" direct="true">"We eat good here, eh Meester Erf?"</said></p>
 
-    <p>The young-man got to his feet wiping his mouth on his forearm. <said who="#" aloud="true" direct="true">"Got a nickel Congo,"</said> he said doing a double shuffle with his sneakered feet. <said who="#" aloud="true" direct="true">"Here go Johnny."</said> The girl followed him out into the dark outer room. In a moment a mechanical piano started tinkling out a waltz. Through the door 
+    <p>The young-man got to his feet wiping his mouth on his forearm. <said who="#" aloud="true" direct="true">"Got a nickel <persName ref="#CongoJake"><forename>Congo</forename></persName>,"</said> he said doing a double shuffle with his sneakered feet. <said who="#" aloud="true" direct="true">"Here go Johnny."</said> The girl followed him out into the dark outer room. In a moment a mechanical piano started tinkling out a waltz. Through the door 
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
         </persName>
-        </person> could see them dancing in and out of the oblong of light. The chugging of the motorboat drew nearer. Congo went out, then Cardinale and his wife, until 
+        </person> could see them dancing in and out of the oblong of light. The chugging of the motorboat drew nearer. <persName ref="#CongoJake"><forename>Congo</forename></persName> went out, then Cardinale and his wife, until 
             <persName ref="#JimmyHerf">
                 <forename>Jimmy</forename>
             </persName> was left alone sipping a glass of wine among the debris of the dinner. He felt excited and puzzled and a little drunk. Already he began to construct the story in his mind. From the road came the grind of gears of a truck, then of another. The motorboat engine choked, backfired and stopped. There was the creak of a boat against the piles, a swash of waves and silence. The mechanical piano had stopped. 
@@ -4670,7 +4670,7 @@
                     <forename>Jimmy</forename>
                 </persName> sat sipping his wine. He could smell the rankness of salt marshes seeping into the house. Under him there was a little lapping sound of the water against the piles. Another motorboat was beginning to sputter in the far distance.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Got a nickel?"</said> asked Congo breaking into the room suddenly. <said who="#" aloud="true" direct="true">"Make music. . . . Very funny night tonight. Maybe you and Annette keep piano goin. I didnt see McGee about landin. . . . Maybe somebody come. Must be veree quick."</said>
+    <p><said who="#" aloud="true" direct="true">"Got a nickel?"</said> asked <persName ref="#CongoJake"><forename>Congo</forename></persName> breaking into the room suddenly. <said who="#" aloud="true" direct="true">"Make music. . . . Very funny night tonight. Maybe you and Annette keep piano goin. I didnt see McGee about landin. . . . Maybe somebody come. Must be veree quick."</said>
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
         </persName> got to his feet and started fishing in his pockets. By the piano he found Annette. <said who="#" aloud="true" direct="true">"Wont you dance?"</said> She nodded. The piano played Innocent Eyes. They danced distractedly. Outside were voices and footsteps. <said who="#" aloud="true" direct="true">"Please,"</said> she said all at once and they stopped dancing. The second motorboat had come very near; the motor coughed and rattled still. <said who="#" aloud="true" direct="true">"Please stay here,"</said> she said and slipped away from him.</p>
@@ -4683,7 +4683,7 @@
     <p>Outside the tramp of steps broke into a scuffle, voices snarled. There was a splintering of wood and the crash of breaking bottles. 
         <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
-        </persName> looked out through the window of the diningroom. He could see the shadows of men struggling and slugging on the boatlanding. He rushed into the kitchen, where he bumped into Congo sweaty and staggering into the house leaning on a heavy cane.</p>
+        </persName> looked out through the window of the diningroom. He could see the shadows of men struggling and slugging on the boatlanding. He rushed into the kitchen, where he bumped into <persName ref="#CongoJake"><forename>Congo</forename></persName> sweaty and staggering into the house leaning on a heavy cane.</p>
 
     <p><said who="#" aloud="true" direct="true">"Goddam . . . dey break my leg,"</said>he shouted.</p>
 
@@ -4704,7 +4704,7 @@
 
     <p>When <persName ref="#JimmyHerf">
             <forename>Jimmy</forename>
-        </persName> got back to him, Congo was sitting in a chair nursing his stump with his two hands. On the table lay the cork and aluminum limb splintered and dented. <said who="#" aloud="true" direct="true">"Regardez moi ça . . . c'est foutu . . . completement foutu."</said> As he spoke Cardinale came in. He had a deep gash over his eyes from which a trickle of blood ran down his cheek on his coat and shirt. His wife followed him rolling back her eyes; she had a basin and a sponge with which she kept making ineffectual dabs at his forehead. He pushed her away. <said who="#" aloud="true" direct="true">"I crowned one of em good wid a piece o pipe. I think he fell in de water. God I hope he drownded,"</said> Johnny came in holding his head high. Annette had her arm round his waist. He had a black eye and one of the sleeves of his shirt hung in shreds. <said who="#" aloud="true" direct="true">"Gee it was like in the movies,"</said> said Annette, giggling hysterically. <said who="#" aloud="true" direct="true">"Wasnt he grand, mommer, wasn't he grand?"</said></p>
+        </persName> got back to him, <persName ref="#CongoJake"><forename>Congo</forename></persName> was sitting in a chair nursing his stump with his two hands. On the table lay the cork and aluminum limb splintered and dented. <said who="#" aloud="true" direct="true">"Regardez moi ça . . . c'est foutu . . . completement foutu."</said> As he spoke Cardinale came in. He had a deep gash over his eyes from which a trickle of blood ran down his cheek on his coat and shirt. His wife followed him rolling back her eyes; she had a basin and a sponge with which she kept making ineffectual dabs at his forehead. He pushed her away. <said who="#" aloud="true" direct="true">"I crowned one of em good wid a piece o pipe. I think he fell in de water. God I hope he drownded,"</said> Johnny came in holding his head high. Annette had her arm round his waist. He had a black eye and one of the sleeves of his shirt hung in shreds. <said who="#" aloud="true" direct="true">"Gee it was like in the movies,"</said> said Annette, giggling hysterically. <said who="#" aloud="true" direct="true">"Wasnt he grand, mommer, wasn't he grand?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Jez it's lucky they didn't start shootin; one of em had a gun."</said></p>
 
@@ -4716,17 +4716,17 @@
 
     <p><said who="#" aloud="true" direct="true">"Gee didnt he mix it up with em?"</said> screamed Annette.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh shut up,"</said> growled Cardinale. He had dropped into a chair and his wife was sponging off his face. <said who="#" aloud="true" direct="true">"Did you get a good look at the boat?"</said> asked Congo.</p>
+    <p><said who="#" aloud="true" direct="true">"Oh shut up,"</said> growled Cardinale. He had dropped into a chair and his wife was sponging off his face. <said who="#" aloud="true" direct="true">"Did you get a good look at the boat?"</said> asked <persName ref="#CongoJake"><forename>Congo</forename></persName>.</p>
 
     <p><said who="#" aloud="true" direct="true">"Too goddam dark,"</said> said Johnny. <said who="#" aloud="true" direct="true">"Fellers talked like they came from Joisey. . . . First ting I knowed one of em comes up to me and sez I'm a revenue officer an I pokes him one before he has time to pull a gun an overboard he goes. Jez they were yeller. That guy <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> on the boat near brained one of em wid an oar. Then they got back in their old teakettle an beat it."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"But how they know how we make landin?"</said> stuttered Congo his face purple.</p>
+    <p><said who="#" aloud="true" direct="true">"But how they know how we make landin?"</said> stuttered <persName ref="#CongoJake"><forename>Congo</forename></persName> his face purple.</p>
 
     <p><said who="#" aloud="true" direct="true">"Some guy blabbed maybe,"</said> said Cardinale. <said who="#" aloud="true" direct="true"></said>"If I find out who it is, by God I'll . . ." he made a popping noise with his lips.</p>
 
-    <p><said who="#" aloud="true" direct="true">"You see Meester 'Erf,"</said> said Congo in his suave voice again, <said who="#" aloud="true" direct="true"></said>"it was all champagne for the holidays. . . . Very valuable cargo eh?"</said> Annette, her cheeks very red sat still looking at Johnny with parted lips and toobright eyes. <persName ref="#JimmyHerf"><surname>Herf</surname></persName> found himself blushing as he looked at her.</p>
+    <p><said who="#" aloud="true" direct="true">"You see Meester 'Erf,"</said> said Co<persName ref="#CongoJake"><forename>Congo</forename></persName>ngo in his suave voice again, <said who="#" aloud="true" direct="true"></said>"it was all champagne for the holidays. . . . Very valuable cargo eh?"</said> Annette, her cheeks very red sat still looking at Johnny with parted lips and toobright eyes. <persName ref="#JimmyHerf"><surname>Herf</surname></persName> found himself blushing as he looked at her.</p>
 
-    <p>He got to his feet. <said who="#" aloud="true" direct="true">"Well I must be getting back to the big city. Thank's for the feed and the melodrama, Congo."</said></p>
+    <p>He got to his feet. <said who="#" aloud="true" direct="true">"Well I must be getting back to the big city. Thank's for the feed and the melodrama, <persName ref="#CongoJake"><forename>Congo</forename></persName>."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"You find station all right?"</said></p>
 
@@ -4736,7 +4736,7 @@
 
 
 
-    <p><said who="#" aloud="true" direct="true">"Too darn broke Congo."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Too darn broke <persName ref="#CongoJake"><forename>Congo</forename></persName>."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Then maybe you sell to your friends an I give you commission."</said></p>
 
