@@ -215,7 +215,7 @@
                             <persName ref="#JimmyHerf">
                                 <roleName type="honorific" full="abb">Mr.</roleName>
                                 <surname>Herf</surname>
-                            </persName>, Mr. Oglethorpe."</said> The redhaired man raised one eyebrow and lowered the other and put a limp hand in 
+                            </persName>, <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName>."</said> The redhaired man raised one eyebrow and lowered the other and put a limp hand in 
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
                         </persName>'s.</p>
@@ -226,7 +226,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Too bad. Once upon a time Josiah Herf and I were boon companions. Today he is the president of the First National Bank and leading citizen of Scranton Pennsylvahnia and I . . . a mere mountebank, a thing of rags and patches."</said> When he shrugged his shoulders the bathrobe fell away exposing a flat smooth hairless chest.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"You see Mr. Oglethorpe and I are going to do the Song of Songs. He weads it and I interpwet it in dancing. You must come up and see us wehearse sometime."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"You see <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName> and I are going to do the Song of Songs. He weads it and I interpwet it in dancing. You must come up and see us wehearse sometime."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Thy navel is like a round goblet which wanteth not liquor, thy belly is like a heap of wheat set about with lilies . . ."</said></p>
 
@@ -291,7 +291,7 @@
                     <p><said who="JimmyHerf" aloud="true" direct="true">"But tell me 
                             <persName ref="#RuthPrynne">
                                 <forename>Ruth</forename> 
-                            </persName>, what the hell is Mr. Oglethorpe? He beats anything I ever saw."</said></p>
+                            </persName>, what the hell is <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName>? He beats anything I ever saw."</said></p>
 
                     <p><said who="RuthPrynne" aloud="true" direct="true">"Oh did the Ogle come out of his lair?"</said> 
                         <persName ref="#RuthPrynne">
@@ -1689,7 +1689,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Oh you know . . . being a nine days' wonder."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Why I don't know at all Mr. Goldweiser."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Why I don't know at all <persName ref="#HarryGoldweiser"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Goldweiser</surname></persName>."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Women know everything but they wont let on."</said></p>
 
@@ -1783,7 +1783,7 @@
                                 <addName type="nickname">Cassie</addName>
                             </persName> it's the first place of my own I ever had in my life. Daddy wants me to live with him in Passaic, but I just felt I couldn't."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"And what does Mr. Oglethorpe . . .? Oh but that's impertinent of me. . . . Do forgive me <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>. I'm almost cwazy. I don't know what I'm saying."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"And what does <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName> . . .? Oh but that's impertinent of me. . . . Do forgive me <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>. I'm almost cwazy. I don't know what I'm saying."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Oh Jojo's a dear. He's even going to let me divorce him if I want to. . . . Would you if you were me?"</said> Without waiting for an answer she disappeared between the folding doors. 
                             <persName ref="#CassandraWilkins">
@@ -2053,7 +2053,7 @@
                                     <forename>Ruth</forename> 
                                 </persName> your opinion of actors and all that."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Why Mr. Oglethorpe I am sure you are mistaken."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Why <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName> I am sure you are mistaken."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I read and keep silent. I am one of the silent watchers. I know that every sentence, every word, every picayune punctuation that appears in the public press is perused and revised and deleted in the interests of advertisers and bondholders. The fountain of national life is poisoned at the source."</said></p>
 
@@ -2146,7 +2146,7 @@
 
                     <p>The bell rang. <said who="#" aloud="true" direct="true">"I'll go daddy. . . . How do you do Mrs. Culveteer?"</said></said></p>
 
-                    <p>A redfaced broad woman in a black and white chiffon dress came into the room puffing. <said who="#" aloud="true" direct="true">"Oh you must forgive my butting in, I'm just dropping by for a second. . . . How are you Mr. Thatcher? . . . You know my dear your poor father has really been very poorly."</said></p>
+                    <p>A redfaced broad woman in a black and white chiffon dress came into the room puffing. <said who="#" aloud="true" direct="true">"Oh you must forgive my butting in, I'm just dropping by for a second. . . . How are you <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName>? . . . You know my dear your poor father has really been very poorly."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Nonsense; all I had was a little backache."</said></p>
 
@@ -2154,15 +2154,15 @@
 
                     <p><said who="#" aloud="true" direct="true">"Why daddy you ought to have let me know."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"The sermon today was most inspiring, Mr. Thatcher. . . . Mr. Lourton was at his very best."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"The sermon today was most inspiring, <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName>. . . . Mr. Lourton was at his very best."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I guess I ought to rout out and go to church now and then, but you see I like to lay round the house Sundays."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Of course Mr, Thatcher it's the only day you have. My husband was just like that. . . . But I think it's different with Mr. Lourton than with most clergymen. He has such an uptodate commonsense view of things. It's really more like attending an intensely interesting lecture than going to church. . . . You understand what I mean."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Of course <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName> it's the only day you have. My husband was just like that. . . . But I think it's different with Mr. Lourton than with most clergymen. He has such an uptodate commonsense view of things. It's really more like attending an intensely interesting lecture than going to church. . . . You understand what I mean."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"Y'll tell you what I'll do Mrs. Culveteer, next Sunday if it's not too hot I'll go. . . . I guess I'm getting too set in my ways."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh a little change does us all good. . . . <persName ref="#EllenThatcher"><roleName type="honorific" full="abb">Mrs.</roleName> <surname type="married">Oglethorpe</surname></persName> you have no idea how closely we follow your career, in the Sunday papers and all. . . . I think it's simply wonderful. . . . As I was telling Mr. Thatcher only yesterday it must take a lot of strength of character and deep Christian living to withstand the temptations of stage life nowadays. It's inspiring to think of a young girl and wife coming so sweet and unspoiled through all that."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh a little change does us all good. . . . <persName ref="#EllenThatcher"><roleName type="honorific" full="abb">Mrs.</roleName> <surname type="married">Oglethorpe</surname></persName> you have no idea how closely we follow your career, in the Sunday papers and all. . . . I think it's simply wonderful. . . . As I was telling <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName> only yesterday it must take a lot of strength of character and deep Christian living to withstand the temptations of stage life nowadays. It's inspiring to think of a young girl and wife coming so sweet and unspoiled through all that."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> kept looking at the floor so as not to catch her father's eye. He was tapping with two fingers on the arm of his morrischair. Mrs. Culveteer beamed from the middle of the davenport. She got to her feet. <said who="#" aloud="true" direct="true">"Well I just must run along. We have a green girl in the kitchen and I'm sure dinner's all ruined. . . Wont you drop in this afternoon . . .? quite informally. I made some cookies and we'll have some gingerale out just in case somebody turns up."</said></p>
 
@@ -2178,7 +2178,7 @@
 
                     <p><persName ref="#EdThatcher"><forename>Ed</forename> <surname>Thatcher</surname></persName> looked up, shook his head and went in through the swinging screen door. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> followed him. Inside it smelled of varnish and waitresses. They sat down at a table near the door under a droning electric fan.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"How do you do Mr. Thatcher? How you been all the week sir? How do you do miss?"</said> The bonyfaced peroxidehaired waitress hung over them amicably. <said who="#" aloud="true" direct="true">"What'll it be today sir, roast Long Island duckling or roast Philadelphia milkfed capon?"</said></p>
+                    <p><said who="#" aloud="true" direct="true">"How do you do <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName>? How you been all the week sir? How do you do miss?"</said> The bonyfaced peroxidehaired waitress hung over them amicably. <said who="#" aloud="true" direct="true">"What'll it be today sir, roast Long Island duckling or roast Philadelphia milkfed capon?"</said></p>
 
 
                     </div>
@@ -3342,7 +3342,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> I'm so glad to see you. . . ."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"This is <persName ref="#StanwoodEmery"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Emery</surname></persName>, Mr. Goldweiser. . . ."</said></p>
+<p><said who="#" aloud="true" direct="true">"This is <persName ref="#StanwoodEmery"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Emery</surname></persName>, <persName ref="#HarryGoldweiser"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName>. . . ."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"I've been on the most exordinately spectacular trip, honestly you should have come. . . . We went to Montreal and Quebec and came back through Niagara Falls and we never drew a sober breath from the time we left little old New York till they arrested us for speeding on the Boston Post Road, did we <persName ref="#PearlineAnderson"><forename>Pearline</forename></persName>?"</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> was staring at a girl who stood groggily behind 
         <persName ref="#StanwoodEmery">
@@ -4875,7 +4875,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Oh dear. . . . Yes I suppose so."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to Mr. <persName ref="#JackCunningham"><forename>Jack</forename> <surname>Cunningham</surname></persName> please. . . . Hello. Is this Mr. Cunningham's office? <persName ref="#JamesMerivale"><roleName type="honorific" full="abb">Mr.</roleName> <forename>James</forename> <surname>Merivale</surname></persName> speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Wait a minute,"</said> shouted Merivale and strode down the hall to the telephone. <said who="#" aloud="true" direct="true">"Rector 12305. . . . Hello. I want to speak to <persName ref="#JackCunningham"><roleName type="honorific" full="abb">Mr.</roleName> <forename>Jack</forename> <surname>Cunningham</surname></persName> please. . . . Hello. Is this Mr. Cunningham's office? <persName ref="#JamesMerivale"><roleName type="honorific" full="abb">Mr.</roleName> <forename>James</forename> <surname>Merivale</surname></persName> speaking. . . . Out of town. . . . And when will he be back? . . . Hum,"</said> He strode back along the hall. <said who="#" aloud="true" direct="true">"The damn scoundrel's out of town."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All the years I've known him,"</said> said the little lady in the round hat, <said who="#" aloud="true" direct="true">"that has always been where he was."</said></p>
 
@@ -5267,7 +5267,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Oh do come and help me. . . . Jojo's teasing me terribly."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Well I'll twy to sit down just for a second, I'm going to dance next. . . . Mr. Oglethorpe's going to wead his twanslation of the songs of Bilitis for me to dance to."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Well I'll twy to sit down just for a second, I'm going to dance next. . . . <persName ref="#JohnOglethorpe"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Oglethorpe</surname></persName>'s going to wead his twanslation of the songs of Bilitis for me to dance to."</said></p>
 
     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> looked from one to the other; Oglethorpe crooked his eyebrows and nodded.</p>
 
