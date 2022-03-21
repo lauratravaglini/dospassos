@@ -2739,7 +2739,7 @@
         <forename>Jimmy</forename>
     </persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Ah bonsoir monsieur 'Erf, ça biche?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Ah <foreign xml:lang="fr">bonsoir monsieur 'Erf, ça biche</foreign>?"</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Pretty good . . . Say <persName ref="#CongoJake"><forename>Congo</forename></persName> I want you to meet a friend of mine. This is Grant Bullock of the American."</said></p>
 
@@ -2859,7 +2859,7 @@
 
 <p><said who="#" aloud="true" direct="true">"What does our friend here think about all this wartalk?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I wont go. . . . A workingman has no country. I'm going to be <nationality>American</nationality> citizen. . . . I was in the marine once but. . . ."</said> He slapped his jerking bent forearm with one hand, and a deep laugh rattled in his throat. . . . <said who="#" aloud="true" direct="true">"Twentee tree. Moi je suis anarchiste vous comprennez monsieur."</said></p>
+<p><said who="#" aloud="true" direct="true">"I wont go. . . . A workingman has no country. I'm going to be <nationality>American</nationality> citizen. . . . I was in the marine once but. . . ."</said> He slapped his jerking bent forearm with one hand, and a deep laugh rattled in his throat. . . . <said who="#" aloud="true" direct="true">"Twentee tree. <foreign xml:lang="fr">Moi je suis anarchiste vous comprennez monsieur</foreign>."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"But then you cant be an <nationality>American</nationality> citizen."</said></p>
 
@@ -3106,15 +3106,15 @@
         <surname>Herf</surname>
     </persName> rammed his hat down on his head and yanked his coatcollar up. He wanted to run along yelling <distinct type="swearing">sonsobitches</distinct> at the top of his lungs. Lightning flickered along the staring rows of dead windows. The rain seethed along the pavements, against storewindows, on brownstone steps. His knees were wet, a slow trickle started down his back, there were chilly cascades off his sleeves onto his wrists, his whole body itched and tingled. He walked on through Brooklyn. Obsession of all the beds in all the pigeonhole bedrooms, tangled sleepers twisted and strangled like the roots of potbound plants. Obsession of feet creaking on the stairs of lodginghouses, hands fumbling at doorknobs. Obsession of pounding temples and solitary bodies rigid on their beds. J'ai fait trois fois le tour du monde</p>
 
-    <p>Vive le sang, vive le sang. . . .</p>
+    <p><foreign xml:lang="fr">Vive le sang, vive le sang</foreign>. . . .</p>
 
 
 
-<p>Moi monsieur je suis anarchiste. . . . And three times round went our gallant ship, and three times round went . . . <distinct type="swearing">goddam</distinct>it between that and money . . . and she sank to the bottom of the sea . . . we're in a treadmill for fair.</p>
+<p><foreign xml:lang="fr">Moi monsieur je suis anarchiste</foreign>. . . . And three times round went our gallant ship, and three times round went . . . <distinct type="swearing">goddam</distinct>it between that and money . . . and she sank to the bottom of the sea . . . we're in a treadmill for fair.</p>
 
-<p>J'ai fait trois fois le tour du monde</p>
+<p><foreign xml:lang="fr">J'ai fait trois fois le tour du monde</foreign></p>
 
-<p>Dans mes voy . . . ages.</p>
+<p><foreign xml:lang="fr">Dans mes voy . . . ages</foreign>.</p>
 
 
 
