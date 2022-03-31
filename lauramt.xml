@@ -1273,7 +1273,7 @@
 
                     <p>Flow river flow</p>
 
-                    <p>Down to the sea, he hummed off key as he scraped his chin with the safety-razor. Mr. Grover I'm afraid I'm going to have to give up the job after next week. Yes I'm going abroad; I'm going to do foreign correspondent work for the A. P. To Mexico for the U. P. To Jericho more likely, Halifax Correspondent of the Mudturtle Gazette. It was Christmas in the harem and the eunuchs all were there.</p>
+                    <p>Down to the sea, he hummed off key as he scraped his chin with the safety-razor. Mr. Grover I'm afraid I'm going to have to give up the job after next week. Yes I'm going abroad; I'm going to do foreign correspondent work for the A. P. To <place><placeName><country>Mexico</country></placeName></place> for the U. P. To Jericho more likely, Halifax Correspondent of the Mudturtle Gazette. It was Christmas in the harem and the eunuchs all were there.</p>
 
                     . . . from the banks of the Seine</p>
 
@@ -1503,7 +1503,7 @@
                     <p><said who="#" aloud="true" direct="true">"I'm going to light out of it all,"</said> said 
                         <persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
-                        </persName> somberly, <said who="#" aloud="true" direct="true">"and go to Mexico and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</said></p>
+                        </persName> somberly, <said who="#" aloud="true" direct="true">"and go to <place><placeName><country>Mexico</country></placeName></place> and make my fortune. . . . I'm losing all the best part of my life rotting in New York."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"How'll you make your fortune?"</said></p>
 
@@ -1937,7 +1937,7 @@
                     <p><persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
                             <surname>Herf</surname>
-                        </persName> sat reading on a green couch under a bulb that lit up a corner of a wide bare room. He had come to the death of Olivier in Jean Christophe and read with tightening gullet. In his memory lingered the sound of the Rhine swirling, restlessly gnawing the foot of the garden of the house where Jean Christophe was born. Europe was a green park in his mind full of music and red flags and mobs marching. Occasionally the sound of a steamboat whistle from the river settled breathless snowysoft into the room. From the street came a rattle of taxis and the whining sound of streetcars.</p>
+                        </persName> sat reading on a green couch under a bulb that lit up a corner of a wide bare room. He had come to the death of Olivier in Jean Christophe and read with tightening gullet. In his memory lingered the sound of the Rhine swirling, restlessly gnawing the foot of the garden of the house where Jean Christophe was born. <placeName><bloc type="continent">Europe</block></placeName> was a green park in his mind full of music and red flags and mobs marching. Occasionally the sound of a steamboat whistle from the river settled breathless snowysoft into the room. From the street came a rattle of taxis and the whining sound of streetcars.</p>
 
                     <p>There was a knock at the door.<persName ref="#JimmyHerf">
                             <forename>Jimmy</forename>
@@ -2148,7 +2148,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Y'll tell you what I'll do Mrs. Culveteer, next Sunday if it's not too hot I'll go. . . . I guess I'm getting too set in my ways."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh a little change does us all good. . . . <persName ref="#EllenThatcher"><roleName type="honorific" full="abb">Mrs.</roleName> <surname type="married">Oglethorpe</surname></persName> you have no idea how closely we follow your career, in the Sunday papers and all. . . . I think it's simply wonderful. . . . As I was telling <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName> only yesterday it must take a lot of strength of character and deep Christian living to withstand the temptations of stage life nowadays. It's inspiring to think of a young girl and wife coming so sweet and unspoiled through all that."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh a little change does us all good. . . . <persName ref="#EllenThatcher"><roleName type="honorific" full="abb">Mrs.</roleName> <surname type="married">Oglethorpe</surname></persName> you have no idea how closely we follow your career, in the Sunday papers and all. . . . I think it's simply wonderful. . . . As I was telling <persName ref="#EdThatcher"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Thatcher</surname></persName> only yesterday it must take a lot of strength of character and deep <faith>Christian</faith> living to withstand the temptations of stage life nowadays. It's inspiring to think of a young girl and wife coming so sweet and unspoiled through all that."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> kept looking at the floor so as not to catch her father's eye. He was tapping with two fingers on the arm of his morrischair. Mrs. Culveteer beamed from the middle of the davenport. She got to her feet. <said who="#" aloud="true" direct="true">"Well I just must run along. We have a green girl in the kitchen and I'm sure dinner's all ruined. . . Wont you drop in this afternoon . . .? quite informally. I made some cookies and we'll have some gingerale out just in case somebody turns up."</said></p>
 
@@ -2571,7 +2571,7 @@
 
 <p><said who="#" aloud="true" direct="true">"It's terrible to think of, terrible,"</said><persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> was groaning. <said who="#" aloud="true" direct="true">"The Street'll go plumb to hell. . . . They'll close the Stock Exchange, only thing to do."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"And I've never been to Europe either. . . . A war must be an extraordinary thing to see."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in her blue velvet dress with a buff cloak over it leaned back against the cushions of the taxi that whirred smoothly under them. <said who="#" aloud="true" direct="true">"I always think of history as lithographs in a schoolbook, generals making proclamations, little tiny figures running across fields with their arms spread out, facsimiles of signatures."</said> Cones of light cutting into cones of light along the hot humming roadside, headlights splashing trees, houses, billboards, telegraph poles with broad brushes of whitewash. The taxi made a half turn and stopped in front of a roadhouse that oozed pink light and ragtime through every chink.</p>
+<p><said who="#" aloud="true" direct="true">"And I've never been to <placeName><bloc type="continent">Europe</block></placeName> either. . . . A war must be an extraordinary thing to see."</said> <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in her blue velvet dress with a buff cloak over it leaned back against the cushions of the taxi that whirred smoothly under them. <said who="#" aloud="true" direct="true">"I always think of history as lithographs in a schoolbook, generals making proclamations, little tiny figures running across fields with their arms spread out, facsimiles of signatures."</said> Cones of light cutting into cones of light along the hot humming roadside, headlights splashing trees, houses, billboards, telegraph poles with broad brushes of whitewash. The taxi made a half turn and stopped in front of a roadhouse that oozed pink light and ragtime through every chink.</p>
 
 <p><said who="#" aloud="true" direct="true">"Big crowd tonight,"</said> said the taximan to <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>when he paid him.</p>
 
@@ -2701,11 +2701,11 @@
 
     <p><said who="#" aloud="true" direct="true">"No I just dont see the pleasure people get out of reading about it."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh it's all in the day's work,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>. <said who="#" aloud="true" direct="true">"What gives me gooseflesh is the armies mobilizing, Belgrade bombarded, Belgium invaded . . . all that stuff. I just cant imagine it. . . . They've killed Jaures."</said> <said who="#" aloud="true" direct="true">"Who's he?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"Oh it's all in the day's work,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>. <said who="#" aloud="true" direct="true">"What gives me gooseflesh is the <orgname>armies</orgname> mobilizing, <placeName><settlement type="city">Belgrade</settlement></placeName> bombarded, <place><placeName><country>Belgium</country></placeName></place> invaded . . . all that stuff. I just cant imagine it. . . . They've killed Jaures."</said> <said who="#" aloud="true" direct="true">"Who's he?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"A <nationality>French</nationality> Socialist."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Those <distinct type="swearing">goddam</distinct><nationality>French</nationality> are so <distinct type="swearing">goddam</distinct>degenerate all they can do is fight duels and sleep with each other's wives. I bet the Germans are in Paris in two weeks."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Those <distinct type="swearing">goddam</distinct><nationality>French</nationality> are so <distinct type="swearing">goddam</distinct>degenerate all they can do is fight duels and sleep with each other's wives. I bet the Germans are in <placeName><settlement type="city">Paris</settlement></placeName> in two weeks."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"It couldn't last long,"</said> said Framingham, a tall ceremonious man with a whispy blond moustache who sat beside Hunter.</p>
 
@@ -2871,7 +2871,7 @@
 
 <p><said who="#" aloud="true" direct="true">"But how can they make people fight if they dont want to?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"In Europe people are slaves for thousands of years. Not like 'ere. . . . But I've seen war. Very funny. I tended bar in Port Arthur, nutten but a kid den. It was very funny."</said></p>
+<p><said who="#" aloud="true" direct="true">"In <placeName><bloc type="continent">Europe</block></placeName> people are slaves for thousands of years. Not like 'ere. . . . But I've seen war. Very funny. I tended bar in Port Arthur, nutten but a kid den. It was very funny."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Gee I wish I could get a job as warcorrespondent."</said></p>
 
@@ -2947,7 +2947,7 @@
 
 <p><said who="#" aloud="true" direct="true">"No I havent an idea where he could be hiding himself."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"If you see him tell him I want him to call me up at once. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName>  what were those women called who followed the armies in the <nationality>French</nationality> Revolution?"</said></p>
+<p><said who="#" aloud="true" direct="true">"If you see him tell him I want him to call me up at once. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName>  what were those women called who followed the <orgname>armies</orgname> in the <event><nationality>French</nationality> Revolution</event>?"</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Let's think. Was it cantonnières?"</said></p>
 
@@ -2990,7 +2990,7 @@
 
 <p><said who="#" aloud="true" direct="true">"They ought to close all the exchanges till this blows over."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well maybe when the Germans have licked the pants off her England'll give Ireland her freedom."</said></p>
+<p><said who="#" aloud="true" direct="true">"Well maybe when the Germans have licked the pants off her <place><placeName><country>England</country></placeName></place>'ll give <place><placeName><country>Ireland</country></placeName></place>her freedom."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"But they are. . . . Stock market wont be open tomorrow."</said></p>
 
@@ -3158,11 +3158,11 @@
 
 <p><said who="#" aloud="true" direct="true">"I guess they are in for it this time. . . . I've known it was coming ever since the Agadir incident."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Jez I like to see somebody wallop the pants off England after the way they wont give home rule to Ireland."</said></p>
+<p><said who="#" aloud="true" direct="true">"Jez I like to see somebody wallop the pants off <place><placeName><country>England</country></placeName></place> after the way they wont give home rule to Ireland."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"We'd have to help em. . . . Anyway I dont see how this can last long. The men who control international finance wont allow it. After all it's the banker who holds the purse strings."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"We wouldn't come to the help of England, no sir, not after the way they acted in Ireland and in the Revolution and in the Civil War. . . ."</said></p>
+<p><said who="#" aloud="true" direct="true">"We wouldn't come to the help of <place><placeName><country>England</country></placeName></place>, no sir, not after the way they acted in <place><placeName><country>Ireland</country></placeName></place>and in the <event>Revolution</event> and in the <event>Civil War</event>. . . ."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Joey you're getting all choked up with that history you're reading up in the public library every night. . . . You follow the stock quotations and keep on your toes and dont let em fool you with all this newspaper talk about strikes and upheavals and socialism. ... I'd like to see you make good Joey. . . . Well I guess I'd better be going."</said></p>
 
@@ -3493,7 +3493,7 @@
 
 
 
-<p>There was Babylon and Nineveh, they were built of brick. Athens was goldmarble columns. Rome was held up on broad arches of rubble. In Constantinople the minarets flame like great candles round the Golden Horn. . . . O there's one more river to cross. Steel glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the millionwindowed buildings will jut, glittering pyramid on pyramid, white cloudsheads piled above a thunderstorm . . .</p>
+<p>There was <placeName><settlement type="city">Babylon</settlement></placeName> and <placeName><settlement type="city">Nineveh</settlement></placeName>, they were built of brick. <placeName><settlement type="city">Athens</settlement></placeName> was goldmarble columns. <placeName><settlement type="city">Rome</settlement></placeName>was held up on broad arches of rubble. In <placeName><settlement type="city">Constantinople</settlement></placeName> the minarets flame like great candles round the Golden Horn. . . . O there's one more river to cross. Steel glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the millionwindowed buildings will jut, glittering pyramid on pyramid, white cloudsheads piled above a thunderstorm . . .</p>
 
 <p>And it rained forty days and it rained forty nights</p>
 
@@ -3532,7 +3532,7 @@
 
 
 
-    <p>A MAN is shouting from a soapbox at <address>Second Avenue</address> and Houston in front of the Cosmopolitan Cafè: <said who="#" aloud="true" direct="true">". . . these fellers, men . . . wageslaves like I was . . . are sittin on your chest . . . they're takin the food outen your mouths. Where's all the pretty girls I used to see walkin up and down the bullevard? Look for em in the up-town cabarets. . . . They squeeze us dry friends . . . feller workers, slaves I'd oughter say . . . they take our work and our ideers and our women. . . . They build their Plaza Hotels and their millionaire's clubs and their million dollar theayters and their battleships and what do they leave us? . . . They leave us shopsickness an the rickets and a lot of dirty streets full of garbage cans. . . . You look pale you fellers. . . . You need blood. . . . Why dont you get some blood in your veins? . . . Back in Russia the poor people . . . not so much poorer'n we are . . . believe in wampires, things come suck your blood at night. . . . That's what Capitalism is, a wampire that sucks your blood . . . day . . . and . . . night."</said></p>
+    <p>A MAN is shouting from a soapbox at <address>Second Avenue</address> and Houston in front of the Cosmopolitan Cafè: <said who="#" aloud="true" direct="true">". . . these fellers, men . . . wageslaves like I was . . . are sittin on your chest . . . they're takin the food outen your mouths. Where's all the pretty girls I used to see walkin up and down the bullevard? Look for em in the up-town cabarets. . . . They squeeze us dry friends . . . feller workers, slaves I'd oughter say . . . they take our work and our ideers and our women. . . . They build their Plaza Hotels and their millionaire's clubs and their million dollar theayters and their battleships and what do they leave us? . . . They leave us shopsickness an the rickets and a lot of dirty streets full of garbage cans. . . . You look pale you fellers. . . . You need blood. . . . Why dont you get some blood in your veins? . . . Back in <place><placeName><country>Russia</country></placeName></place>the poor people . . . not so much poorer'n we are . . . believe in wampires, things come suck your blood at night. . . . That's what Capitalism is, a wampire that sucks your blood . . . day . . . and . . . night."</said></p>
 
     <p>It is beginning to snow. The flakes are giltedged where they pass the streetlamp. Through the plate glass the Cosmopolitan Cafe full of blue and green opal rifts of smoke looks like a muddy aquarium: faces blob whitely round the tables like illassorted fishes. Umbrellas begin to bob in clusters up the snowmottled street. The orator turns up his collar and walks briskly east along Houston, holding the muddy soapbox away from his trousers.</p>
 
@@ -3596,7 +3596,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Sure nine hours a day draftin. . . . Gosh I wish you'd go into this tile business with me."</said></p>
 
-    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>stopped at a corner and slapped his hand on the briefcase he was carrying. <said who="#" aloud="true" direct="true">"Now <persName ref="#PhilSandbourne"><forename>Phil</forename></persName> you know I'd be very glad to give you a hand in any way I could. . . . But just at the moment my financial situation is terribly involved. I've gotten into some rather rash entanglements and Heaven knows how I'm going to get out of them. . . . That's why I cant have a scandal or a divorce or anything. You dont understand how complicatedly things interact. . . . I couldnt take up anything new, not for a year at least. This war in Europe has made things very unsettled downtown. Anything's liable to happen."</said></p>
+    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>stopped at a corner and slapped his hand on the briefcase he was carrying. <said who="#" aloud="true" direct="true">"Now <persName ref="#PhilSandbourne"><forename>Phil</forename></persName> you know I'd be very glad to give you a hand in any way I could. . . . But just at the moment my financial situation is terribly involved. I've gotten into some rather rash entanglements and Heaven knows how I'm going to get out of them. . . . That's why I cant have a scandal or a divorce or anything. You dont understand how complicatedly things interact. . . . I couldnt take up anything new, not for a year at least. This war in <placeName><bloc type="continent">Europe</block></placeName> has made things very unsettled downtown. Anything's liable to happen."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All right. Good night <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>."</said></p>
 
@@ -3705,7 +3705,7 @@
 
 <p><said who="#" aloud="true" direct="true">"He's right all the same,"</said> he growled back at her. . . .</p>
 
-<p><said who="#" aloud="true" direct="true">"The result has been to put more power in the hands of a few men than there has been in the history of the world since the horrible slave civilizations of Egypt and Mesopotamia. . . ."</said></p>
+<p><said who="#" aloud="true" direct="true">"The result has been to put more power in the hands of a few men than there has been in the history of the world since the horrible slave civilizations of <place><placeName><country>Egypt</country></placeName></place> and <place><placeName><country>Mesopotamia</country></placeName></place>. . . ."</said></p>
 
 <p><said who="#" aloud="true" direct="true">"Hear hear."</said></p>
 
@@ -4092,7 +4092,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Ah . . . <foreign xml:lang="fr">bon soir monsieur 'dame</foreign>."</said> She ushered them into a foodsmelling gaslit hall hung with overcoats and hats and mufflers. Through a curtained door the restaurant blew in their faces a hot breath of bread and cocktails and frying butter and perfumes and lipsticks and clatter and jingling talk.</p>
 
-    <p><said who="#" aloud="true" direct="true">"I can smell absinthe,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. "<said who="#" aloud="true" direct="true">Let's get terribly tight."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I can smell absinthe,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. <said who="#" aloud="true" direct="true">"Let's get terribly tight."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Good Lord, there's <persName ref="#CongoJake"><forename>Congo</forename></persName>. . . . Dont you remember <persName ref="#CongoJake"><forename>Congo</forename> <surname>Jake</surname></persName> at the Seaside Inn?"</said></p>
 
@@ -4104,7 +4104,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Of course we dont. . . . It's the best place in the house. Why you're limping. . . . <said who="#" aloud="true" direct="true">"What did you do to your leg?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<distinct type="swearing"><foreign xml:lang="fr">Foutu</foreign></distinct> . . . I left it <foreign xml:lang="fr">en Italie</foreign>. . . . I couldnt breeng it along once they'd cut it off."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<distinct type="swearing"><foreign xml:lang="fr">Foutu</foreign></distinct> . . . I left it <foreign xml:lang="fr">en <place><placeName><country>Italie</country></placeName></place></foreign>. . . . I couldnt breeng it along once they'd cut it off."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"How was that?"</said></p>
 
@@ -4189,7 +4189,7 @@
 
 
 
-    <p>When they sit up in the great bed they can see across the harbor, can see the yards of a windjammer and a white sloop and a red and green toy tug and plainfaced houses opposite beyond a peacock stripe of water; when they lie down they can see gulls in the sky. At dusk dressing rockily, shakily stumbling through the mildewed corridors of the hotel out into streets noisy as a brass band, full of tambourine rattle, brassy shine, crystal glitter, honk and whir of motors. . . . Alone together in the dusk drinking sherry under a broad-leaved plane, alone together in the juggled particolored crowds like people invisible. And the spring night comes up over the sea terrible out of Africa and settles about them.</p>
+    <p>When they sit up in the great bed they can see across the harbor, can see the yards of a windjammer and a white sloop and a red and green toy tug and plainfaced houses opposite beyond a peacock stripe of water; when they lie down they can see gulls in the sky. At dusk dressing rockily, shakily stumbling through the mildewed corridors of the hotel out into streets noisy as a brass band, full of tambourine rattle, brassy shine, crystal glitter, honk and whir of motors. . . . Alone together in the dusk drinking sherry under a broad-leaved plane, alone together in the juggled particolored crowds like people invisible. And the spring night comes up over the sea terrible out of <placeName><bloc type="continent">Africa</block></placeName> and settles about them.</p>
 
     <p>They had finished their coffee. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> had drunk his very slowly as if some agony waited for him when he finished it.</p>
 
@@ -4298,7 +4298,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Put on everythin you've got Rosie. I want yez all dressed up like a Christmas tree. We're goin to the El Fey an stare Nichols down tonight. Then tomorrer I'll go round and put the proposition up to him. . . . Lets have a little snifter anyways . . ." He went to the phone. <said who="#" aloud="true" direct="true">"Send up some cracked ice and a couple of bottles of White Rock to four o four. <persName ref="#JakeSilverman"><surname>Silverman</surname></persName> 's the name. Make it snappy."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<persName ref="#JakeSilverman"><forename>Jake</forename></persName> let's make a getaway,"</said> Rosie cried suddenly. She stood in the closet door with a dress over her arm. <said who="#" aloud="true" direct="true">"I cant stand all this worry. . . . It's killin me. Let's you an me beat it to Paris or Havana or somewheres and start out fresh."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<persName ref="#JakeSilverman"><forename>Jake</forename></persName> let's make a getaway,"</said> Rosie cried suddenly. She stood in the closet door with a dress over her arm. <said who="#" aloud="true" direct="true">"I cant stand all this worry. . . . It's killin me. Let's you an me beat it to <placeName><settlement type="city">Paris</settlement></placeName> or <placeName><settlement type="city">Havana</settlement></placeName> or somewheres and start out fresh."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Then we would be up the creek. You can be extradited for grand larceny. Jez you wouldnt have me goin round with dark glasses and false whiskers all my life."</said></p>
 
@@ -4322,7 +4322,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Do you like it?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"You look like Brazil . . . I dunno . . . kinder tropical."</said></p>
+    <p><said who="#" aloud="true" direct="true">"You look like <place><placeName><country>Brazil</country></placeName></place> . . . I dunno . . . kinder tropical."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"That's the secret of my dangerous charm."</said></p>
 
@@ -4512,7 +4512,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Still I think the boys have got it comin to em."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"We've all of us got a whole lot comin to us we dont never get. . . . For crissake dont quote me on this. . . . Joey fetch yourself a cigar from that box over there. Frien o mine sent em up from Havana by a naval officer."</said></p>
+    <p><said who="#" aloud="true" direct="true">"We've all of us got a whole lot comin to us we dont never get. . . . For crissake dont quote me on this. . . . Joey fetch yourself a cigar from that box over there. Frien o mine sent em up from <placeName><settlement type="city">Havana</settlement></placeName> by a naval officer."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Thankye sir."</said></p>
 
@@ -4540,7 +4540,7 @@
 
     <p><said who="#" aloud="true" direct="true">"That'd be all right, but they're dead sot against anybody who aint got a war record."</said></p>
 
-    <p><persName ref="#GusMcNiel"><surname>McNiel</surname></persName> flushed. <said who="#" aloud="true" direct="true">"Come back feeling kinder smart, dont ye, you guys from overseas?"</said> He laughed. <said who="#" aloud="true" direct="true">"That wont last more'n a year or two. . . . I seen em come back from the <nationality>Spanish</nationality> <nationality>American</nationality> War, remember that <persName ref="#JoeHarland"><forename>Joe</forename></persName>."</said></p>
+    <p><persName ref="#GusMcNiel"><surname>McNiel</surname></persName> flushed. <said who="#" aloud="true" direct="true">"Come back feeling kinder smart, dont ye, you guys from overseas?"</said> He laughed. <said who="#" aloud="true" direct="true">"That wont last more'n a year or two. . . . I seen em come back from the <event><nationality>Spanish</nationality> <nationality>American</nationality> War</event>, remember that <persName ref="#JoeHarland"><forename>Joe</forename></persName>."</said></p>
 
     <p>An officeboy came in an laid a card on the desk. <said who="#" aloud="true" direct="true">"A lady to see you <persName ref="#GusMcNiel"><roleName type="honorific" full="abb">Mr.</roleName> <surname>McNiel</surname></persName>."</said></p>
 
@@ -4548,7 +4548,7 @@
 
     <p>Dougan was waiting in the outer office. He sidled up mysteriously. <said who="#" aloud="true" direct="true">"Well <persName ref="#JoeHarland"><forename>Joe</forename></persName>, how's things?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Pretty good,"</said> said <persName ref="#JoeHarland"><forename>Joe</forename></persName> puffing out his chest. <said who="#" aloud="true" direct="true">"<persName ref="#GusMcNiel"><forename>Gus</forename></persName> tells me Tammany'll be right behind us in our drive for the bonus . . . planning a nation wide campaign. He gave me some cigars a friend o his brought up by airplane from Havana. . . . Have one?"</said> With their cigars tilting up out of the corners of their mouths they walked briskly cockily across City Hall square. Opposite the old City Hall there was a scaffolding. <persName ref="#JoeHarland"><forename>Joe</forename></persName> pointed at it with his cigar. <said who="#" aloud="true" direct="true">"That there's the new statue of Civic Virtue the mayor's havin set up."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Pretty good,"</said> said <persName ref="#JoeHarland"><forename>Joe</forename></persName> puffing out his chest. <said who="#" aloud="true" direct="true">"<persName ref="#GusMcNiel"><forename>Gus</forename></persName> tells me Tammany'll be right behind us in our drive for the bonus . . . planning a nation wide campaign. He gave me some cigars a friend o his brought up by airplane from <placeName><settlement type="city">Havana</settlement></placeName>. . . . Have one?"</said> With their cigars tilting up out of the corners of their mouths they walked briskly cockily across City Hall square. Opposite the old City Hall there was a scaffolding. <persName ref="#JoeHarland"><forename>Joe</forename></persName> pointed at it with his cigar. <said who="#" aloud="true" direct="true">"That there's the new statue of Civic Virtue the mayor's havin set up."</said></p>
 
     <p>The steam of cooking wrenched at his knotted stomach as he passed Child's. Dawn was sifting fine gray dust over the black ironcast city. <persName ref="#DutchRobertson"><forename>Dutch</forename> <surname>Robertson</surname></persName> despondently crossed <address>Union Square</address>, remembering Francie's warm bed, the spicy smell of her hair. He pushed his hands deep in his empty pockets. Not a red, and Francie couldn't give him anything. He walked east past the hotel on Fifteenth. A colored man was sweeping off the steps. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> looked at him enviously; he's got a job. Milk wagons jingled by. On <address>Stuyvesant Square</address> a <occupation>milkman</occupation>brushed past him with a bottle in each hand. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> stuck out his jaw and talked tough. <said who="#" aloud="true" direct="true">"Give us a swig o milk will yez?"</said> The <occupation>milkman</occupation>was a frail pinkfaced youngster. His blue eyes wilted. <said who="#" aloud="true" direct="true">"Sure go round behind the wagon, there's an open bottle under the seat. Dont let nobody see you drink it."</said> He drank it in deep gulps, sweet and soothing to his parched throat. Jez I ddin't need to talk rough like that. He waited until the boy came back. <said who="#" aloud="true" direct="true">"Thankye buddy, that was mighty white."</said></p>
 
