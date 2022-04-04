@@ -1074,7 +1074,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"How's that?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Dean told me he thought it advisable I shouldnt come back next year . . . felt that there were other fields of activity where my activities could be more actively active. You know the crap."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Dean told me he thought it advisable I  <orig>shouldnt</orig>  come back next year . . . felt that there were other fields of activity where my activities could be more actively active. You know the crap."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"That's a <distinct type="informal">darn</distinct> shame."</said></p>
 
@@ -3975,7 +3975,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Then we would be up the creek. You can be extradited for grand larceny. Jez you <orig> wouldnt</orig>  have me goin round with dark glasses and false whiskers all my life."</said></p>
 
-    <p>Rosie laughed. <said who="#" aloud="true" direct="true">"No I guess you <orig> wouldnt</orig>  look so good in a fake zit. . . . Oh I wish we were really married at least."</said></p>
+    <p>Rosie laughed. <said who="#" aloud="true" direct="true">"No I guess you <orig>wouldnt</orig>  look so good in a fake zit. . . . Oh I wish we were really married at least."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> make no difference between us Rosie. Then they'd be after me for bigamy too. That'd be pretty."</said></p>
 
@@ -4231,11 +4231,7 @@
 
     <p><persName ref="#DutchRobertson"><forename>Dutch</forename></persName> felt his heart pounding as he read the column. He was cold all over. He got to his feet and began thrashing his arms about.</p>
 
-    <p><persName ref="#CongoJake"><forename>Congo</forename></persName> stumped through the turnstile at the end of the L line. 
-        <persName ref="#JimmyHerf">
-            <forename>Jimmy</forename>
-            <surname>Herf</surname>
-        </persName> followed him looking from<num type="cardinal" value="1">one</num>side to the other. Outside it was dark, a blizzard wind whistled about their ears. A single Ford sedan was waiting outside the station.</p>
+    <p><persName ref="#CongoJake"><forename>Congo</forename></persName> stumped through the turnstile at the end of the L line. <persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> followed him looking from<num type="cardinal" value="1">one</num>side to the other. Outside it was dark, a blizzard wind whistled about their ears. A single Ford sedan was waiting outside the station.</p>
 
     <p><said who="#" aloud="true" direct="true">"How you like, <persName ref="#JimmyHerf">Meester 'Erf</persName>?"</said></p>
 
@@ -4243,14 +4239,7 @@
 
     <p><said who="#" aloud="true" direct="true">"That Sheepshead Bay."</said></p>
 
-    <p>They walked along the road, dodging an occasional blue-steel glint of a puddle. The arclights had a look of shrunken grapes swaying in the wind. To the right and left were flickering patches of houses in the distance. They stopped at a long building propped on piles over the water. Pool; 
-        <persName ref="#JimmyHerf">
-            <forename>Jimmy</forename>
-        </persName> barely made out the letters on an unlighted window. The door opened as they reached it. <said who="#" aloud="true" direct="true">"Hello Mike,"</said> said <persName ref="#CongoJake"><forename>Congo</forename></persName>. <said who="#" aloud="true" direct="true">"This is <persName ref="#JimmyHerf">Meester 'Erf</persName>, a frien' o mine."</said> The door closed behind them. Inside it was black as an oven. A calloused hand grabbed 
-            <persName ref="#JimmyHerf">
-                <forename>Jimmy</forename>
-                <surname>Herf</surname>
-            </persName>'s hand in the dark.</p>
+    <p>They walked along the road, dodging an occasional blue-steel glint of a puddle. The arclights had a look of shrunken grapes swaying in the wind. To the right and left were flickering patches of houses in the distance. They stopped at a long building propped on piles over the water. Pool; <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> barely made out the letters on an unlighted window. The door opened as they reached it. <said who="#" aloud="true" direct="true">"Hello Mike,"</said> said <persName ref="#CongoJake"><forename>Congo</forename></persName>. <said who="#" aloud="true" direct="true">"This is <persName ref="#JimmyHerf">Meester 'Erf</persName>, a frien' o mine."</said> The door closed behind them. Inside it was black as an oven. A calloused hand grabbed <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName>'s hand in the dark.</p>
 
     <p><said who="#" aloud="true" direct="true">"Glad to meet you,"</said> said a voice.</p>
 
@@ -4993,7 +4982,7 @@
     <p><said who="#" aloud="true" direct="true">"I make more than you do, 
             <persName ref="#JimmyHerf">
                 <addName type="nickname">Jimps</addName>
-            </persName>. . . . You shouldnt do that yet."</said></p>
+            </persName>. . . . You  <orig>shouldnt</orig>  do that yet."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"I know. I know. <orig>Dont</orig> I know it?"</said></p>
 
@@ -5043,7 +5032,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Well I've heard your side Mr. Rogers. . . . Here's mine. If you arrest me now I shall be ruined and a great many people who have put their money in this enterprise will be ruined. . . . In a week I can liquidate the whole concern with a profit. . . . Mr. Rogers I am a man who has been deeply wronged through foolishness in misplacing confidence in others."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I <orig>cant</orig> help that. . . . My duty is to execute the warrant. . . . I'm afraid I'll have to search your room. . . . You see we have several little items . . ."</said> The man flicked the ash off his cigar and began to read in a monotonous voice. <said who="#" aloud="true" direct="true"></said>"Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, <persName ref="#JackCunningham"><forename>Jack</forename></persName> Hinkley, J. J. Gold. . . . Oh we've got a pretty little list. . . . We've done some very pretty work on your case, if I do say it what shouldnt."</said></p>
+    <p><said who="#" aloud="true" direct="true">"I <orig>cant</orig> help that. . . . My duty is to execute the warrant. . . . I'm afraid I'll have to search your room. . . . You see we have several little items . . ."</said> The man flicked the ash off his cigar and began to read in a monotonous voice. <said who="#" aloud="true" direct="true"></said>"Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, <persName ref="#JackCunningham"><forename>Jack</forename></persName> Hinkley, J. J. Gold. . . . Oh we've got a pretty little list. . . . We've done some very pretty work on your case, if I do say it what  <orig>shouldnt</orig> ."</said></p>
 
 
 
