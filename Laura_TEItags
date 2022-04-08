@@ -1,25 +1,26 @@
 Luoghi:
 - New York stato o città? perchè tra i tags abbiamo: <placeName><settlement type="city">New York</settlement></placeName>; <region type="state"></placeName>
 - Wall Street intesa come via o in senso economico?
-- Madison Square Garden, la statua della libertà, etc. sono <address> o <placeName> o niente?
-- Luoghi religiosi?
+- ristoranti o luoghi di interesse (Madison Square Garden, la statua della libertà, Peach Blossoms, etc.) possiamo usare <placeName>? sulle guideline TEI c'è l'esempio con il cimitero monumentale di Roma
+- Luoghi religiosi/della bibbia?
+- 2230 Cameron Avenue: <addrLine>2230</addrLine> 
 
 Persone:
-- cognomi di famiglie? esempi: gli Herfs
+- cognomi di famiglie? esempi: gli Herfs -> surname
 - Jonah o altri personaggi religiosi famosi? 
-- Helenah, Helena Herf tu come le hai encodate?
-- Elliedoll sta per Ellie?
-- Cassah-ndrah?
+- Helenah, Helena Herf tu come le hai encodate? / Elliedoll sta per Ellie? type="nickname"
 - siamo sicure che Congo e Jake siano rispettivamente nome e cognome? perchè quando lui si presenta lo spiega in un modo strano...
-- Nellie McNiel ha un secondo nome, Linihan, -> type="secondname" / secondName?
+- Nellie McNiel ha un secondo nome, Linihan, -> type="secondname" / secondName? <forename sort="2">
 - Jimmy Herf: Jim? Herfy? Jiminy? Mr. 'Erf? Meester Erf/ 'Erf? Herf in alcuni punti non sono sicura potrebbe essere riferito al figlio? 
-- Josiah Herf
+- Josiah Herf -> nome e cognome no ref
+- Jiminy è un'esclamazione
 - Mr./ Monsier : Mr. Fallik, Mr. Grover, Mr. Lourton, Mr. McNeil (e Mrs.), Mr. Snow, Mr. Perkins, Mr. Aspinwall, Mr. Winthrop, Mr. Rogers, Mr. Pollock, Mr. Elbert Monsieur Beaucaire
 - Miss/Mrs. : Miss Costello, Miss Cruikshank, Miss Levitsky, Miss Jones, Miss Ranke, Mrs. Castle, Mrs. Robinson, Mrs. Sunderland/s (parecchio frequente),
    Mrs. Siddons, Mrs. Staunton Wells, Mrs. Cardinale, Mrs. Voorhees, Mrs. Fitzsimmons Green, Mrs. Budkowitz (parecchio frequente), Mrs. Maginnis, 
    Mrs. Culveteer (parecchio frequente),  Mrs. Robinson
 - Mrs.? : Mrs. Jack Cunningham? Mrs. Silverman? 
 - nomi di personaggi frequenti: Milly* (17), Francie (11), Rosie (14), Charley (8), Alice (5), Margie (1), Boirnhardt, Duse, Felsius (10), Dingo (5, "The Ford's name is Dingo"), Bullock (11), Framingham (3), Forbes Robertson (Dutch Robertson?), Joey (12), Jojo (14), Wilmer (2), potrebbe essere il nome di Mr.Densch?), Belasco (1), Dougan (1), Dawn (1), Mead (1), Erlanger (1), Martin (3), Mackintosh (1), Jonas (1), Myrtle (1), Cynthia (3)
+--> ecodare senza ref
 - <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName>
 - Roy Sheffield ?
 - Billy Waldron ? (Billy come nome appare spesso)
@@ -36,6 +37,8 @@ Persone:
 - Wuthy??
 - Olge, Ogile per JohnOglethorpe?
 - Felsius
+- danderine lady
+- Nicky Schatz
 * Milly è un personaggio secondario che appare solo in una storia, dovrebbe essere una donna di colore
 
 
@@ -46,6 +49,7 @@ Lingua:
 - oughtn't "old-fashioned"
 - anche "dated"
 - chi è il who quando le voci sono indistinte?
+- hullo è normale
 
 Misure:
 - misure di tempo generiche: few minutes? hours?
@@ -58,5 +62,7 @@ Altro:
 - prostitute ? è <occupation>
 - "nationality" si può riferire anche ad oggetti o eventi? tipo: <event><nationality>French</nationality> Revolution</event> ha senso?
 - <title> <!-- or name type="song" -->When It's Appleblossom Time in Normandee</title>
+- la marca di una roba (tipo un alcolico) è un <orgName>? sì
+- February thirtyfirst???
 
 
