@@ -1,41 +1,62 @@
-Dubbi:
-<name type="entity">God</name>
-1) ci sono delle varianti: goddamm, goddamnest, etc.
-2) tecnicamente nella maggior parte dei casi non è un'entità ma una semplice imprecazione
+Luoghi:
+- New York stato o città? perchè tra i tags abbiamo: <placeName><settlement type="city">New York</settlement></placeName>; <region type="state"></placeName>
+- Wall Street intesa come via o in senso economico?
+- Madison Square Garden, la statua della libertà, etc. sono <address> o <placeName> o niente?
+- Luoghi religiosi?
 
-
-yes hai ragione, come possiamo encodare le imprecazioni?
-
-
-DUBBI SUI PERSONAGGI/NOMI:
-1) cognomi famiglie?
-2) Helenah, Helena Herf tu come le hai encodate?
-3) Cassah-ndrah?
-4) il secondo nome di Nellie McNiel? Linihan
-5) siamo sicure che Congo e Jake siano rispettivamente nome e cognome? perchè quando lui si presenta lo spiega in un modo strano...
-6) HERF: Jim? Herfy? Jiminy? Mr. 'Erf? Meester Erf/ 'Erf? Herf in alcuni punti non sono sicura potrebbe essere riferito al figlio? tipo a rigo 2710
-7) Mr./ Monsier : Mr. Fallik, Mr. Grover, Mr. Lourton, Mr. McNeil (e Mrs.), Mr. Snow, Mr. Perkins, Mr. Aspinwall, Mr. Winthrop, Mr. Rogers, Mr. Pollock, Mr. Elbert, Monsieur Beaucaire
-8) Miss/Mrs. : Miss Costello, Miss Cruikshank, Miss Levitsky, Miss Jones, Miss Ranke, Mrs. Castle, Mrs. Robinson, Mrs. Sunderland/s (parecchio frequente),
+Persone:
+- cognomi di famiglie? esempi: gli Herfs
+- Jonah o altri personaggi religiosi famosi? 
+- Helenah, Helena Herf tu come le hai encodate?
+- Elliedoll sta per Ellie?
+- Cassah-ndrah?
+- siamo sicure che Congo e Jake siano rispettivamente nome e cognome? perchè quando lui si presenta lo spiega in un modo strano...
+- Nellie McNiel ha un secondo nome, Linihan, -> type="secondname" / secondName?
+- Jimmy Herf: Jim? Herfy? Jiminy? Mr. 'Erf? Meester Erf/ 'Erf? Herf in alcuni punti non sono sicura potrebbe essere riferito al figlio? 
+- Josiah Herf
+- Mr./ Monsier : Mr. Fallik, Mr. Grover, Mr. Lourton, Mr. McNeil (e Mrs.), Mr. Snow, Mr. Perkins, Mr. Aspinwall, Mr. Winthrop, Mr. Rogers, Mr. Pollock, Mr. Elbert Monsieur Beaucaire
+- Miss/Mrs. : Miss Costello, Miss Cruikshank, Miss Levitsky, Miss Jones, Miss Ranke, Mrs. Castle, Mrs. Robinson, Mrs. Sunderland/s (parecchio frequente),
    Mrs. Siddons, Mrs. Staunton Wells, Mrs. Cardinale, Mrs. Voorhees, Mrs. Fitzsimmons Green, Mrs. Budkowitz (parecchio frequente), Mrs. Maginnis, 
-   Mrs. Culveteer (parecchio frequente),  Mrs. Robinson, 
-9) Mrs.? : Mrs. Jack Cunningham? Mrs. Silverman? 
-10) nomi di personaggi frequenti: Milly (17), Francie (11), Rosie (14), Charley (8), Alice (5), Margie (1), Boirnhardt, Duse, Felsius (10), Dingo (5, "The Ford's name is Dingo"), 
-    Bullock (11), Framingham (3), Forbes Robertson (Dutch Robertson?), Joey (12), Jojo (14), Wilmer (2), potrebbe essere il nome di Mr.Densch?), Belasco (1), Dougan (1), Dawn (1), 
-    Mead (1), Erlanger (1), Martin (3), Mackintosh (1), Jonas (1), Myrtle (1)
-11) <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName>
-12) Roy Sheffield ?
-13) Billy Waldron ? (Billy come nome appare spesso)
-14) Elliedoll sta per Ellie?
-15) Harree (HarryGoldweiser) ma quale type?
-16) ??????? Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, Jack Hinkley, J. J. Gold.
-17) Mr. Cardinale, Mike Cardinale, Mike ??? ti riporta che sia la stessa persona?
-18) Dr. : Dr. Abrahms, Dr. Warner, Dr. Fernald, Dr. Baumgardt  
-19) Captain Tromp, Captain Kettlewell, 
-20) Judge Connor
-21) General Sherman, General Slocum
-22) Mother McCree, Mother
-23) Jonah o altri personaggi religiosi famosi? 
+   Mrs. Culveteer (parecchio frequente),  Mrs. Robinson
+- Mrs.? : Mrs. Jack Cunningham? Mrs. Silverman? 
+- nomi di personaggi frequenti: Milly* (17), Francie (11), Rosie (14), Charley (8), Alice (5), Margie (1), Boirnhardt, Duse, Felsius (10), Dingo (5, "The Ford's name is Dingo"), Bullock (11), Framingham (3), Forbes Robertson (Dutch Robertson?), Joey (12), Jojo (14), Wilmer (2), potrebbe essere il nome di Mr.Densch?), Belasco (1), Dougan (1), Dawn (1), Mead (1), Erlanger (1), Martin (3), Mackintosh (1), Jonas (1), Myrtle (1), Cynthia (3)
+- <persName ref="#PearlineAnderson"><forename>Pearline</forename> <surname>Anderson</surname></persName>
+- Roy Sheffield ?
+- Billy Waldron ? (Billy come nome appare spesso)
+- Harree (HarryGoldweiser) ma quale type?
+- ??????? Jacob Silverman, alias Edward Faversham, Simeon J. Arbuthnot, Jack Hinkley, J. J. Gold.
+- Mr. Cardinale, Mike Cardinale, Mike ??? ti riporta che sia la stessa persona?
+- Dr. : Dr. Abrahms, Dr. Warner, Dr. Fernald, Dr. Baumgardt  
+- Captain Tromp, Captain Kettlewell, 
+- Judge Connor
+- General Sherman, General Slocum
+- Mother McCree, Mother
+- Jonah o altri personaggi religiosi famosi? 
+- Al Harrison
+- Wuthy??
+- Olge, Ogile per JohnOglethorpe?
+- Felsius
+* Milly è un personaggio secondario che appare solo in una storia, dovrebbe essere una donna di colore
 
-DUBBI SU ALTRI TAG:
-1) Wall Street intesa come via o in senso economico?
-2) Madison Square Garden
+
+Lingua:
+- dunno nel dizionario Cambdrige e nell'Oxford è non-standard, nel Merriam-Webster e in Wiktonary è informal (intanto ho messo non-standard)
+- "lil" è un abbreviazione o slang? nei dizionari online ho trovato entrambi
+- type="archaic"
+- oughtn't "old-fashioned"
+- anche "dated"
+- chi è il who quando le voci sono indistinte?
+
+Misure:
+- misure di tempo generiche: few minutes? hours?
+- quantità di denaro generiche: a couple of millions/ millions/ thousands
+- giorni della settimana li ignoriamo o mettiamo un generico <time>?
+
+
+Altro:
+- leading citizen ? è <occupation>
+- prostitute ? è <occupation>
+- "nationality" si può riferire anche ad oggetti o eventi? tipo: <event><nationality>French</nationality> Revolution</event> ha senso?
+- <title> <!-- or name type="song" -->When It's Appleblossom Time in Normandee</title>
+
+
