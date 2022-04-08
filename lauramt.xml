@@ -552,7 +552,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Strange fish, <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>, strange fish."</said> <persName ref="#JimmyHerf"><surname>Herf</surname></persName> and <persName ref="#RuthPrynne"><forename>Ruth</forename> <surname>Prynne</surname></persName> sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. <said who="#" aloud="true" direct="true">"All the ham <occupation>actors</occupation>in the world seem to eat here."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"All the ham <occupation>actors</occupation>in the world live up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName>'s."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"All the ham <occupation>actors</occupation> in the world live up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName>'s."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"What's the latest news from the <geogName>Balkans</geogName>?"</said></p>
 
@@ -1203,19 +1203,9 @@
 
                     <p><persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> got stiffly to his feet and walked out.</p>
 
-                    <p>The <num type="cardinal" value="3">three</num> of them sat without speaking. 
-                        <persName ref="#JimmyHerf">
-                            <forename>Jimmy</forename>
-                        </persName> tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
+                    <p>The <num type="cardinal" value="3">three</num> of them sat without speaking. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Has 
-                            <persName ref="#RuthPrynne"> 
-                                <forename>Ruth</forename> 
-                            </persName>got a job yet, 
-                            <persName ref="#JimmyHerf">
-                                <roleName type="honorific" full="abb">Mr.</roleName>
-                                <surname>Herf</surname>
-                            </persName>?"</said> she asked.</p>
+                    <p><said who="#" aloud="true" direct="true">"Has <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName>got a job yet, <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>?"</said> she asked.</p>
 
                     <p><said who="#" aloud="true" direct="true">"No she <orig>hasnt</orig>."</said></p>
 
