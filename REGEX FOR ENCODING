@@ -7,12 +7,6 @@ REGEX FOR ENCODING
 
 
 
-
-
-
-
-
-
                     <person key="GeorgeBaldwin">
                         <persName>
                             <roleName type="honorific" full="abb">Mr.</roleName> 
@@ -41,7 +35,7 @@ Jeff(erson)?(\sT\.)?(\sMerivale)?,JeffMerivale
 Maisie(\sMerivale)?|(Mrs\.)?Merivale,MaisieMerivale
 James(\sMerivale)?(?!\sHerf)|(Mr\.\s)?(?<!Maisie\s|#Emily#\s|Mrs\.\s|T\.\s)Merivale,JamesMerivale
 Jack(?!\w)(\sCunningham)?|(Mr\.\s)?(?!Mrs\.\s)Cunningham,JackCunningham
-Joe(?!\w)(\sO'Keefe|#O'Keefe#)+|(Mr\.\s)?O'Keefe,JoeO'Keefe
+Joe(?!\w)(\sO'Keefe|#O'K eefe#)+|(Mr\.\s)?O'Keefe,JoeO'Keefe
 Dutch(?!\w)(\sRobertson)?|(?<!Forbes\s)Robertson,DutchRobertson
 Francie,FrancieNoname
 Anna(\sCohen)?|Ann-ee|Annie|(Mrs\.\s)Cohen,AnnaCohen
