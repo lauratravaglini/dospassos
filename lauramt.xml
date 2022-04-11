@@ -2945,29 +2945,29 @@
 
     <p>They walked along in silence.</p>
 
-    <p><persName ref="#PhilSandbourne"><surname>Sandbourne</surname></persName> walked with his hat in his hand. His hair was almost white but his eyebrows were still dark and bushy. Every few steps he changed the length of his stride as if it hurt him to walk. He cleared his throat. <said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> you were asking me if I'd cooked up any schemes when I was in hospital. . . . Do you remember years ago old man <persName ref="#Specker"><addName type="nickname">Specker</addName></persName> used to talk about vitreous and superenameled tile? Well I've been workin on his formula out at Hollis. . . . A friend of mine there has a <num type="cardinal" value="2000">two thousand</num> degree oven he bakes pottery in. I think it can be put on a commercial basis. . . . Man it would revolutionize the whole industry. Combined with concrete it would enormously increase the flexibility of the materials at the <occupation>architects</occupation>' disposal. We could make tile any color, size or finish. . . . Imagine this city when all the buildins instead of bein dirty gray were ornamented with vivid colors. Imagine bands of scarlet round the entablatures of skyscrapers. Colored tile would revolutionize the whole life of the city. . . . Instead of fallin back on the orders or on gothic or romanesque decorations we could evolve new designs, new colors, new forms. If there was a little color in the town all this hards<distinct type="taboo">hell</distinct>inhibited life'd break down. . . . There'd be more love an less divorce. . . ."</said></p>
+    <p><persName ref="#PhilSandbourne"><surname>Sandbourne</surname></persName> walked with his hat in his hand. His hair was almost white but his eyebrows were still dark and bushy. Every few steps he changed the length of his stride as if it hurt him to walk. He cleared his throat. <said who="PhilSandbourne" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> you were asking me if I'd cooked up any schemes when I was in hospital. . . . Do you remember years ago old man <persName ref="#Specker"><addName type="nickname">Specker</addName></persName> used to talk about vitreous and superenameled tile? Well I've been workin on his formula out at Hollis. . . . A friend of mine there has a <num type="cardinal" value="2000">two thousand</num> degree oven he bakes pottery in. I think it can be put on a commercial basis. . . . Man it would revolutionize the whole industry. Combined with concrete it would enormously increase the flexibility of the materials at the <occupation>architects</occupation>' disposal. We could make tile any color, size or finish. . . . Imagine this city when all the buildins instead of bein dirty gray were ornamented with vivid colors. Imagine bands of scarlet round the entablatures of skyscrapers. Colored tile would revolutionize the whole life of the city. . . . Instead of fallin back on the orders or on gothic or romanesque decorations we could evolve new designs, new colors, new forms. If there was a little color in the town all this hards<distinct type="taboo">hell</distinct>inhibited life'd break down. . . . There'd be more love an less divorce. . . ."</said></p>
 
-    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> burst out laughing. <said who="#" aloud="true" direct="true">"You tell em <persName ref="#PhilSandbourne"><forename>Phil</forename></persName>. . . . I'll talk to you about that sometime. You must come up to dinner when <persName ref="#CecilyBaldwin"><forename>Cecily</forname></persName>'s there and tell us about it. . . . Why <orig>wont</orig> Parkhurst do anything?"</said></p>
+    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> burst out laughing. <said who="GeorgeBaldwin" aloud="true" direct="true">"You tell em <persName ref="#PhilSandbourne"><forename>Phil</forename></persName>. . . . I'll talk to you about that sometime. You must come up to dinner when <persName ref="#CecilyBaldwin"><forename>Cecily</forname></persName>'s there and tell us about it. . . . Why <orig>wont</orig> Parkhurst do anything?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I <orig> wouldnt</orig> let him in on it. He'd cotton on to the proposition and leave me out in the cold once he had the formula. I wouldn't trust him with a rubber nickel."</said></p>
+    <p><said who="PhilSandbourne" aloud="true" direct="true">"I <orig> wouldnt</orig> let him in on it. He'd cotton on to the proposition and leave me out in the cold once he had the formula. I wouldn't trust him with a rubber nickel."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Why doesnt he take you into partnership <persName ref="#PhilSandbourne"><forename>Phil</forename></persName>?"</said></p>
+    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"Why doesnt he take you into partnership <persName ref="#PhilSandbourne"><forename>Phil</forename></persName>?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"He's got me where he wants me anyway. . . . He knows I do all the work in his <distinct type="taboo">goddamned</distinct> office. He knows too that I'm too cranky to make out with most people. He's a slick article."</said></p>
+    <p><said who="PhilSandbourne" aloud="true" direct="true">"He's got me where he wants me anyway. . . . He knows I do all the work in his <distinct type="taboo">goddamned</distinct> office. He knows too that I'm too cranky to make out with most people. He's a slick article."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Still I should think you could put it up to him."</said></p>
+    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"Still I should think you could put it up to him."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"He's got me where he wants me and he knows it, so I continue doin the work while he amasses the coin. . . . I guess it's logical. If I had more money I'd just spend it. I'm just shiftless."</said></p>
+    <p><said who="PhilSandbourne" aloud="true" direct="true">"He's got me where he wants me and he knows it, so I continue doin the work while he amasses the coin. . . . I guess it's logical. If I had more money I'd just spend it. I'm just shiftless."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"But look here man you're not so much older than I am. . . . You've still got a career ahead of you."</said></p>
+    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"But look here man you're not so much older than I am. . . . You've still got a career ahead of you."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Sure <time dur-iso="PT9H"><num type="cardinal" value="9">nine</num> hours</time> a day draftin. . . . Gosh I wish you'd go into this tile business with me."</said></p>
+    <p><said who="PhilSandbourne" aloud="true" direct="true">"Sure <time dur-iso="PT9H"><num type="cardinal" value="9">nine</num> hours</time> a day draftin. . . . Gosh I wish you'd go into this tile business with me."</said></p>
 
-    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>stopped at a corner and slapped his hand on the briefcase he was carrying. <said who="#" aloud="true" direct="true">"Now <persName ref="#PhilSandbourne"><forename>Phil</forename></persName> you know I'd be very glad to give you a hand in any way I could. . . . But just at the moment my financial situation is terribly involved. I've gotten into some rather rash entanglements and Heaven knows how I'm going to get out of them. . . . That's why I <orig>cant</orig> have a scandal or a divorce or anything. You <orig>dont</orig> understand how complicatedly things interact. . . . I <orig>couldnt</orig>  take up anything new, not for a year at least. This war in <placeName><bloc type="continent">Europe</block></placeName> has made things very unsettled downtown. Anything's liable to happen."</said></p>
+    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>stopped at a corner and slapped his hand on the briefcase he was carrying. <said who="GeorgeBaldwin" aloud="true" direct="true">"Now <persName ref="#PhilSandbourne"><forename>Phil</forename></persName> you know I'd be very glad to give you a hand in any way I could. . . . But just at the moment my financial situation is terribly involved. I've gotten into some rather rash entanglements and Heaven knows how I'm going to get out of them. . . . That's why I <orig>cant</orig> have a scandal or a divorce or anything. You <orig>dont</orig> understand how complicatedly things interact. . . . I <orig>couldnt</orig>  take up anything new, not for a year at least. This war in <placeName><bloc type="continent">Europe</block></placeName> has made things very unsettled downtown. Anything's liable to happen."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"All right. Good night <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>."</said></p>
+    <p><said who="PhilSandbourne" aloud="true" direct="true">"All right. Good night <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>."</said></p>
 
-    <p><persName ref="#PhilSandbourne"><surname>Sandbourne</surname></persName>turned abruptly on his heel and walked down the avenue again. He was tired and his legs ached. It was almost dark. On the way back to the station the grimy brick and brownstone blocks dragged past monotonously like the days of his life.</p>
+    <p><persName ref="#PhilSandbourne"><surname>Sandbourne</surname></persName> turned abruptly on his heel and walked down the avenue again. He was tired and his legs ached. It was almost dark. On the way back to the station the grimy brick and brownstone blocks dragged past monotonously like the days of his life.</p>
 
 
 
@@ -3085,7 +3085,7 @@
 
     <p>They walked on without speaking. Wheels rumbled through the muffling fog underlaid with the groping distant lowing of sirens and steamboatwhistles on the river.</p>
 
-    <p><said who="#" aloud="true" direct="true">"But at least you have a career. . . . You like your work, you're enormously successful,"</said> said <persName ref="#JimmyHerf"><surname>Herf</surname></persName> at the corner of <address><num type="ordinal" value="14">Fourteenth</num> Street</address>, and caught her arm as they crossed.</p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"But at least you have a career. . . . You like your work, you're enormously successful,"</said> said <persName ref="#JimmyHerf"><surname>Herf</surname></persName> at the corner of <address><num type="ordinal" value="14">Fourteenth</num> Street</address>, and caught her arm as they crossed.</p>
 
     <p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> say that. . . . You really <orig>dont</orig> believe it. I <orig>dont</orig> kid myself as much as you think I do."</said></p>
 
@@ -3287,7 +3287,7 @@
 
     <p>When they got up to dance they were trembling so they could barely keep time to the music.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Mister . . . no dance without ploper dless . . ."</said> said a dapper Chinaman putting his hand on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>'s arm.</p>
+    <p><said aloud="true" direct="true">"Mister . . . no dance without ploper dless . . ."</said> said a dapper Chinaman putting his hand on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>'s arm.</p>
 
     <p><said who="DutchRobertson" aloud="true" direct="true">"Waz he want?"</said> he growled dancing on.</p>
 
@@ -3375,7 +3375,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Ah . . . <foreign xml:lang="fr">bon soir monsieur 'dame</foreign>."</said> She ushered them into a foodsmelling gaslit hall hung with overcoats and hats and mufflers. Through a curtained door the restaurant blew in their faces a hot breath of bread and cocktails and frying butter and perfumes and lipsticks and clatter and jingling talk.</p>
 
-    <p><said who="#" aloud="true" direct="true">"I can smell absinthe,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. <said who="#" aloud="true" direct="true">"Let's get terribly tight."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"I can smell absinthe,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. <said who="#" aloud="true" direct="true">"Let's get terribly tight."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Good Lord, there's <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>. . . . <orig>Dont</orig> you remember <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName> at the Seaside Inn?"</said></p>
 
