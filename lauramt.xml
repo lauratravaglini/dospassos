@@ -3424,23 +3424,23 @@
 
     <p>When <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> limped away from their table silence came down between them like an asbestos curtain in a theater.</p>
 
-    <p><said who="#" aloud="true" direct="true">"He's a funny duck,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> forcing a laugh.</p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"He's a funny duck,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> forcing a laugh.</p>
 
-    <p><said who="#" aloud="true" direct="true">"He certainly is."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"He certainly is."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Look <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> let's have another cocktail."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Look <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> let's have another cocktail."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Allright."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"Allright."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I must get hold of him and get some stories about bootleggers out of him."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"I must get hold of him and get some stories about bootleggers out of him."</said></p>
 
     <p>When he stretched his legs out under the table he touched her feet. She drew them away. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> could feel his jaws chewing, they clanked so loud under his cheeks he thought <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> must hear them. She sat opposite him in a gray tailoredsuit, her neck curving up heartbreakingly from the ivory V left by the crisp frilled collar of her blouse, her head tilted under her tight gray hat, her lips made up; cutting up little pieces of meat and not eating them, not saying a word.</p>
 
     <p><said who="#" aloud="true" direct="true">"Gosh . . . let's have another cocktail."</said> He felt paralyzed like in a nightmare; she was a porcelaine figure under a bellglass. A current of fresh snowrinsed air from somewhere eddied all of a sudden through the blurred packed jangling glare of the restaurant, cut the reek of food and drink and tobacco. For an instant he caught the smell of her hair. The cocktails burned in him. <name type="entity"></name>God I <orig>dont</orig> want to pass out.</p>
 
-    <p>Sitting in the restaurant of the Gare de Lyon, side by side on the black leather bench. His cheek brushes hers when he reaches to put herring, butter, sardines, anchovies, sausage on her plate. They eat in a hurry, gobbling, giggling, gulp wine, start at every screech of an engine. . . .</p>
+    <p>Sitting in the restaurant of the <placeName>Gare de Lyon</placeName>, side by side on the black leather bench. His cheek brushes hers when he reaches to put herring, butter, sardines, anchovies, sausage on her plate. They eat in a hurry, gobbling, giggling, gulp wine, start at every screech of an engine. . . .</p>
 
-    <p>The train pulls out of Avignon, they<num type="cardinal" value="2">two</num>awake, looking in each other's eyes in the compartment full of sleep-sodden snoring people. He lurches clambering over tangled legs, to smoke a cigarette at the end of the dim oscillating corridor. Diddledeump, going south, Diddledeump, going south, sing the wheels over the rails down the valley of the Rhone. Leaning in the window, smoking a broken cigarette, trying to smoke a crumbling cigarette, holding a finger over the torn place. Glubglub glubglub from the bushes, from the silverdripping poplars along the track.</p>
+    <p>The train pulls out of <placeName><settlement type="city">Avignon</settlement></placeName>, they <num type="cardinal" value="2">two</num> awake, looking in each other's eyes in the compartment full of sleep-sodden snoring people. He lurches clambering over tangled legs, to smoke a cigarette at the end of the dim oscillating corridor. Diddledeump, going south, Diddledeump, going south, sing the wheels over the rails down the valley of the Rhone. Leaning in the window, smoking a broken cigarette, trying to smoke a crumbling cigarette, holding a finger over the torn place. Glubglub glubglub from the bushes, from the silverdripping poplars along the track.</p>
 
     <p><said who="#" aloud="true" direct="true">"EUie, <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> there are nightingales singing along the track."</said></p>
 
@@ -3448,21 +3448,21 @@
 
     <p>Deedledeump, going south. Gasp of nightingales along the track among the silverdripping poplars. The insane cloudy night of moonlight smells of gardens garlic rivers freshdunged field roses. Gasp of nightingales.</p>
 
-    <p>Opposite him the <persName ref="#EllenThatcher"><addName type="nickname">Elliedoll</addName></persName> was speaking. <said who="#" aloud="true" direct="true">"He says the lobstersalad's all out. . . . <orig>Isnt</orig> that discouraging?"</said></p>
+    <p>Opposite him the <persName ref="#EllenThatcher"><addName type="nickname">Elliedoll</addName></persName> was speaking. <said who="EllenThatcher" aloud="true" direct="true">"He says the lobstersalad's all out. . . . <orig>Isnt</orig> that discouraging?"</said></p>
 
-    <p>Suddenly he had his tongue. <said who="#" aloud="true" direct="true">"Gosh if that were the only thing."</said></p>
+    <p>Suddenly he had his tongue. <said who="JimmyHerf" aloud="true" direct="true">"Gosh if that were the only thing."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"What do you mean?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Why did we come back to this rotten town anyway?"</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Why did we come back to this rotten town anyway?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"You've been burbling about how wonderful it was ever since we came back."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"You've been burbling about how wonderful it was ever since we came back."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I know. I guess it's sour grapes. . . . I'm going to have another cocktail. . . . <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> for heaven's sake what's the matter with us?"</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"I know. I guess it's sour grapes. . . . I'm going to have another cocktail. . . . <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> for heaven's sake what's the matter with us?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"We're going to be sick if we keep this up I tell you."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"We're going to be sick if we keep this up I tell you."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Well let's be sick. . . . Let's be good and sick."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Well let's be sick. . . . Let's be good and sick."</said></p>
 
 
 
@@ -3470,38 +3470,38 @@
 
     <p>They had finished their coffee. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> had drunk his very slowly as if some agony waited for him when he finished it.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Well I was afraid we'd find the Barneys here,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>.</p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"Well I was afraid we'd find the Barneys here,"</said> said <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Do they know about this place?"</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Do they know about this place?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"You brought them here yourself <persName ref="#JimmyHerf"><addName type="nickname">Jimps</addName></persName>. . . . And that dreadful woman insisted on talking babies with me all the evening. I hate talking babies."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"You brought them here yourself <persName ref="#JimmyHerf"><addName type="nickname">Jimps</addName></persName>. . . . And that dreadful woman insisted on talking babies with me all the evening. I hate talking babies."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Gosh I wish we could go to a show."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Gosh I wish we could go to a show."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It would be too late anyway."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"It would be too late anyway."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"And just spending money I <orig>havent</orig> got. . . . Lets have a cognac to top off with. I don't care if it ruins us."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"And just spending money I <orig>havent</orig> got. . . . Lets have a cognac to top off with. I don't care if it ruins us."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It probably will in more ways than one."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"It probably will in more ways than one."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Well <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, here's to the breadwinner who's taken up the white man's burden."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Well <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, here's to the breadwinner who's taken up the white man's burden."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Why <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> I think it'll be rather fun to have an editorial job for a while."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"Why <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> I think it'll be rather fun to have an editorial job for a while."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I'd find it fun to have any kind of job. . . . Well I can always stay home and mind the baby."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"I'd find it fun to have any kind of job. . . . Well I can always stay home and mind the baby."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> be so bitter <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>, it's just temporary."</said></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">"<orig>Dont</orig> be so bitter <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>, it's just temporary."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Life's just temporary for that matter."</said></p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Life's just temporary for that matter."</said></p>
 
     <p>The taxi drew up. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> paid him with his last <measure type="currency">dollar</measure>. <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> had her key in the outside door. The street was a confusion of driving absintheblurred snow. The door of their apartment closed behind them. Chairs, tables, books, windowcurtains crowded about them bitter with the dust of yesterday, the day before, the day before that. Smells of diapers and coffeepots and typewriter oil and <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> Cleanser oppressed them. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> put out the empty milkbottle and went to bed. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> kept walking nervously about the front room. His drunkenness ebbed away leaving him icily sober. In the empty chamber of his brain a doublefaced word clinked like a coin: Success Failure, Success Failure.</p>
 
-    <p>I'm just wild about <persName ref="#HarryGoldweiser"><forename><orig>Harree</orig></forename></persName></p>
+    <p><said who="EllenThatcher" aloud="true" direct="true">I'm just wild about <persName ref="#HarryGoldweiser"><forename><orig>Harree</orig></forename></persName></p>
 
-    <p>And <persName ref="#HarryGoldweiser"><forename>Harry</forename></persName>'s just wild about me</p>
+    <p>And <persName ref="#HarryGoldweiser"><forename>Harry</forename></persName>'s just wild about me</said></p>
 
 
-    <p>she hums under her breath as she dances. It's a long hall with a band at<num type="cardinal" value="1">one</num> end, lit greenishly by<num type="cardinal" value="2">two</num>clusters of electric lights hanging among paper festoons in the center. At the end where the door is, a varnished rail holds back the line of men. This<num type="cardinal" value="1">one</num><persName ref="#AnnaCohen"><forename>Anna</forname></persName>'s dancing with is a tall square built Swede, his big feet trail clumsily after her tiny lightly tripping feet. The music stops. Now it's a little blackhaired slender <nationality>Jew</nationality>. He tries to snuggle close.</p>
+    <p>she hums under her breath as she dances. It's a long hall with a band at <num type="cardinal" value="1">one</num> end, lit greenishly by <num type="cardinal" value="2">two</num> clusters of electric lights hanging among paper festoons in the center. At the end where the door is, a varnished rail holds back the line of men. This <num type="cardinal" value="1">one</num> <persName ref="#AnnaCohen"><forename>Anna</forname></persName>'s dancing with is a tall square built Swede, his big feet trail clumsily after her tiny lightly tripping feet. The music stops. Now it's a little blackhaired slender <nationality>Jew</nationality>. He tries to snuggle close.</p>
 
     <p><said who="#" aloud="true" direct="true">"Quit that."</said> She holds him away from her.</p>
 
@@ -3535,7 +3535,7 @@
 
 
 
-    <p><said who="#" aloud="true" direct="true">"What time's it?"</said> she asks a broadchested wise guy. <said who="#" aloud="true" direct="true">"Time you an me was akwainted, sister. . . ."</said> She shakes her head. Suddenly the music bursts into Auld Lang Syne. She breaks away from him and runs to the desk in a crowd of girls elbowing to turn in their dancechecks. <said who="#" aloud="true" direct="true">"Say <persName ref="#AnnaCohen"><forename>Anna</forname></persName>,"</said> says a broadhipped blond girl . . . <said who="#" aloud="true" direct="true">"did<orig>ye</orig>see that sap was dancin wid me? . . . He says to me the sap he says See you later an I says to him the sap I says see yez in <distinct type="taboo">hell</distinct>foist . . . an then he says, Goily he says . . ."</said></p>
+    <p><said who="#" aloud="true" direct="true">"What time's it?"</said> she asks a broadchested wise guy. <said who="#" aloud="true" direct="true">"Time you an me was akwainted, sister. . . ."</said> She shakes her head. Suddenly the music bursts into Auld Lang Syne. She breaks away from him and runs to the desk in a crowd of girls elbowing to turn in their dancechecks. <said who="#" aloud="true" direct="true">"Say <persName ref="#AnnaCohen"><forename>Anna</forname></persName>,"</said> says a broadhipped blond girl . . . <said who="#" aloud="true" direct="true">"did <orig>ye</orig> see that sap was dancin wid me? . . . He says to me the sap he says See you later an I says to him the sap I says see yez in <distinct type="taboo">hell</distinct> foist . . . an then he says, Goily he says . . ."</said></p>
 </div>
 
 
