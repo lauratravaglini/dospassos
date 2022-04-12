@@ -1,14 +1,5 @@
-Luoghi:
-- New York stato o città? perchè tra i tags abbiamo: <placeName><settlement type="city">New York</settlement></placeName>; <region type="state"></placeName>
-- Wall Street intesa come via o in senso economico?
-- ristoranti o luoghi di interesse (Madison Square Garden, la statua della libertà, Peach Blossoms, etc.) possiamo usare <placeName>? sulle guideline TEI c'è l'esempio con il cimitero monumentale di Roma
-- Luoghi religiosi/della bibbia?
-- 2230 Cameron Avenue: <addrLine>2230</addrLine> 
-
 Persone:
-- cognomi di famiglie? esempi: gli Herfs -> surname
 - Jonah o altri personaggi religiosi famosi? 
-- Helenah, Helena Herf tu come le hai encodate? / Elliedoll sta per Ellie? type="nickname"
 - siamo sicure che Congo e Jake siano rispettivamente nome e cognome? perchè quando lui si presenta lo spiega in un modo strano...
 - Nellie McNiel ha un secondo nome, Linihan, -> type="secondname" / secondName? <forename sort="2">
 - Jimmy Herf: Jim? Herfy? Jiminy? Mr. 'Erf? Meester Erf/ 'Erf? Herf in alcuni punti non sono sicura potrebbe essere riferito al figlio? 
@@ -48,21 +39,11 @@ Lingua:
 - type="archaic"
 - oughtn't "old-fashioned"
 - anche "dated"
-- chi è il who quando le voci sono indistinte?
-- hullo è normale
-
-Misure:
-- misure di tempo generiche: few minutes? hours?
-- quantità di denaro generiche: a couple of millions/ millions/ thousands
-- giorni della settimana li ignoriamo o mettiamo un generico <time>?
 
 
-Altro:
-- leading citizen ? è <occupation>
-- prostitute ? è <occupation>
-- "nationality" si può riferire anche ad oggetti o eventi? tipo: <event><nationality>French</nationality> Revolution</event> ha senso?
-- <title> <!-- or name type="song" -->When It's Appleblossom Time in Normandee</title>
-- la marca di una roba (tipo un alcolico) è un <orgName>? sì
-- February thirtyfirst???
 
 
+Nuovi tag persone: 
+Mrs. Sunderland/s (parecchio frequente) 
+Mrs. Budkowitz (parecchio frequente) 
+Mrs. Culveteer (parecchio frequente)
