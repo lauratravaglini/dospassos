@@ -1072,7 +1072,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Baa baa black sheep."</said></p>
 
-                    <p><said who="JimmyHerf" aloud="true" direct="true">"I guess I'm really afraid of my uncles and aunts. . . . You ought to see my cousin <persName ref="#JimmyHerf"><addName type="birth">James</addName></persName></forename> <surname>Merivale</surname></persName>. Has done everything he was told all his life and flourished like a green bay tree. . . . The perfect wise virgin."</said>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"I guess I'm really afraid of my uncles and aunts. . . . You ought to see my cousin <persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName>. Has done everything he was told all his life and flourished like a green bay tree. . . . The perfect wise virgin."</said>
 
                     <p><said who="#" aloud="true" direct="true">"Ah guess youse <num type="cardinal" value="1">one</num> o dem dere foolish virgins."</said></p>
 
@@ -3937,14 +3937,7 @@
 
     <p><said who="#" aloud="true" direct="true">"That's a fine idea. Good night."</said></p>
 
-    <p>Joggling home in the empty train through empty <placeName><district>Brooklyn</district></placeName> suburbs 
-        <persName ref="#JimmyHerf">
-            <forename>Jimmy</forename>
-        </persName> tried to think of the bootlegging story he'd write for the <title>Sunday Magazine Section</title>. The girl's pink cheeks and toobright eyes kept intervening, blurring the orderly arrangement of his thoughts. He sank gradually into dreamier and dreamier reverie. Before the kid was born <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> sometimes had toobright eyes like that. The time on the hill when she had suddenly wilted in his arms and been sick and he had left her among the munching, calmly staring cows on the grassy slope and gone to a shepherd's hut and brought back milk in a wooden ladle, and slowly as the mountains hunched up with evening the color had come back into her cheeks and she had looked at him that way and said with a dry little laugh: It's the little Herf inside me. God why <orig>cant</orig> I stop mooning over things that are past And when the baby was coming and <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> was in the <nationality>American</nationality>Hospital at Neuilly, himself wandering distractedly through the fair, going into the Flea Circus, riding on merrygorounds and the steam swing, buying toys, candy, taking chances on dolls in a crazy blur, stumbling back to the hospital with a big plaster pig under his arm. Funny these fits of refuge in the past. Suppose she had died; I thought she would. The past would have been complete all round, framed, worn round your neck like a cameo, set up in type, molded on plates for the Magazine Section, like the <num type="ordinal" value="1">first</num> of 
-            <persName ref="#JimmyHerf">
-                <addName type="birth"><persName ref="#JimmyHerf"><addName type="birth">James</addName></persName></addName>
-                <surname>Herf</surname>
-            </persName>'s articles on The Bootlegging Ring. Burning slugs of thought kept dropping into place spelled out by a clanking linotype.</p>
+    <p>Joggling home in the empty train through empty <placeName><district>Brooklyn</district></placeName> suburbs <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> tried to think of the bootlegging story he'd write for the <title>Sunday Magazine Section</title>. The girl's pink cheeks and toobright eyes kept intervening, blurring the orderly arrangement of his thoughts. He sank gradually into dreamier and dreamier reverie. Before the kid was born <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> sometimes had toobright eyes like that. The time on the hill when she had suddenly wilted in his arms and been sick and he had left her among the munching, calmly staring cows on the grassy slope and gone to a shepherd's hut and brought back milk in a wooden ladle, and slowly as the mountains hunched up with evening the color had come back into her cheeks and she had looked at him that way and said with a dry little laugh: It's the little Herf inside me. God why <orig>cant</orig> I stop mooning over things that are past And when the baby was coming and <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> was in the <nationality>American</nationality>Hospital at Neuilly, himself wandering distractedly through the fair, going into the Flea Circus, riding on merrygorounds and the steam swing, buying toys, candy, taking chances on dolls in a crazy blur, stumbling back to the hospital with a big plaster pig under his arm. Funny these fits of refuge in the past. Suppose she had died; I thought she would. The past would have been complete all round, framed, worn round your neck like a cameo, set up in type, molded on plates for the Magazine Section, like the <num type="ordinal" value="1">first</num> of <persName ref="#JimmyHerf"><addName type="birth"><persName ref="#JimmyHerf"><addName type="birth">James</addName></persName></addName><surname>Herf</surname></persName>'s articles on The Bootlegging Ring. Burning slugs of thought kept dropping into place spelled out by a clanking linotype.</p>
 
     <p>At <time when="00:00:00">midnight</time> he was walking across <address><num type="ordinal" value="14">Fourteenth</num></address>. He <orig>didnt</orig> want to go home to bed although the rasping cold wind tore at his neck and chin with sharp ice claws. He walked west across <address><num type="ordinal" value="7">Seventh</num></address> and <address><num type="ordinal" value="8">Eighth</num> Avenues</address>, found the name Roy Sheffield beside a bell in a dimly lit hall. As soon as he pressed the bell the catch on the door began to click. He ran up the stairs. Roy had his big curly head with its glass gray gollywog eyes stuck out the door.</p>
 
@@ -3956,43 +3949,43 @@
 
     <p><said who="#" aloud="true" direct="true">"Down at Sheepshead Bay."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Here's <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName>, he's just been fighting prohibition agents,"</said> shouted Roy to his wife. Alice had dark chestnut dollhair and an uptilted peaches and cream dollface. She ran up to <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> and kissed him on the chin. <said who="#" aloud="true" direct="true">"Oh <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> do tell us all about it. . . . We're so horribly bored."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Here's <persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName>, he's just been fighting prohibition agents,"</said> shouted <persName><forename>Roy</forename></persName> to his wife. <persName><forename>Alice</forename></persName> had dark chestnut dollhair and an uptilted peaches and cream dollface. She ran up to <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> and kissed him on the chin. <said who="#" aloud="true" direct="true">"Oh <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> do tell us all about it. . . . We're so horribly bored."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Hello,"</said> cried <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>; he had just made out Frances and <persName ref="#BobHildebrand"><forename>Bob</forname> <surname>Hildebrand</surname></persName> on the couch at the dim end of the room. They lifted their glasses to him. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> was pushed into an armchair, had a glass of gin and ginger ale put in his hand. <said who="#" aloud="true" direct="true">"Now what's all this about a fight? You'd better tell us because were certainly not going to buy the Sunday Tribune to find out,"</said> <persName ref="#BobHildebrand"><forename>Bob</forname> <surname>Hildebrand</surname></persName> said in a deep rum' bling voice.</p>
+    <p><said who="JimmyHerf" aloud="true" direct="true">"Hello,"</said> cried <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>; he had just made out Frances and <persName ref="#BobHildebrand"><forename>Bob</forname> <surname>Hildebrand</surname></persName> on the couch at the dim end of the room. They lifted their glasses to him. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> was pushed into an armchair, had a glass of gin and ginger ale put in his hand. <said who="BobHildebrand" aloud="true" direct="true">"Now what's all this about a fight? You'd better tell us because were certainly not going to buy the Sunday Tribune to find out,"</said> <persName ref="#BobHildebrand"><forename>Bob</forname> <surname>Hildebrand</surname></persName> said in a deep rum' bling voice.</p>
 
     <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> took a long drink. <said who="#" aloud="true" direct="true">"I went out with a man I know who's shiek of all the <nationality>French</nationality> and <nationality>Italian</nationality> bootleggers. He's a fine man. He's got a cork leg. He set me up to a swell feed and real <nationality>Italian</nationality> wine out in a deserted poolroom on the shores of Sheepshead Bay. . . ."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"By the way,"</said> asked Roy, <said who="#" aloud="true" direct="true">"where's <persName ref="#EllenThatcher"><addName type="nickname">Helena</addName></persName>."</said></p>
+    <p><said who="#" aloud="true" direct="true">"By the way,"</said> asked <persName><forename>Roy</forename></persName>, <said who="#" aloud="true" direct="true">"where's <persName ref="#EllenThatcher"><addName type="nickname">Helena</addName></persName>."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<orig>Dent</orig> interrupt Roy,"</said> said Alice. <said who="#" aloud="true" direct="true">"This is good . . . and besides you should never ask a man where his wife is."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<orig>Dent</orig> interrupt <persName><forename>Roy</forename></persName>,"</said> said <persName><forename>Alice</forename></persName>. <said who="#" aloud="true" direct="true">"This is good . . . and besides you should never ask a man where his wife is."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Then there was a lot of flashing of signal lights and stuff and a motorboat loaded down with Mumm's extra dry champagne for <address>Park Avenue</address> <date when="--12-25">Christmas</date>es came in and the hijackers arrived on a speedboat. . . . It probably was a hydroplane it came so fast . . ."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"My this is exciting,"</said> cooed Alice. <said who="#" aloud="true" direct="true">". . . Roy why <orig>dont</orig> you take up bootlegging?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"My this is exciting,"</said> cooed <persName><forename>Alice</forename></persName>. <said who="#" aloud="true" direct="true">". . . Roy why <orig>dont</orig> you take up bootlegging?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Worst fight I ever saw outside of the movies, <num type="cardinal" value="6">six</num> or <num type="cardinal" value="7">seven</num> on a side all slugging each other on a little narrow landing the size of this room, people crowning each other with oars and joints of lead pipe."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Was anybody hurt?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Everybody was. . . . I think<num type="cardinal" value="2">two</num>of the hijackers were drowned. At any rate they beat a retreat leaving us lapping up the spilled champagne."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Everybody was. . . . I think <num type="cardinal" value="2">two</num> of the hijackers were drowned. At any rate they beat a retreat leaving us lapping up the spilled champagne."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"But it must have been terrible,"</said> cried the Hildebrands.</p>
+    <p><said who="#" aloud="true" direct="true">"But it must have been terrible,"</said> cried the <persName><surname>Hildebrands</surname></persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"What did you do <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>?"</said> asked Alice breathless.</p>
+    <p><said who="#" aloud="true" direct="true">"What did you do <persName ref="#JamesMerivale"><forename>Jimmy</forename></persName>?"</said> asked <persName><forename>Alice</forename></persName> breathless.</p>
 
     <p><said who="#" aloud="true" direct="true">"Oh I hopped around keeping out of harm's way. I <orig>didnt</orig> know who was on which side and it was dark and wet and confusing everywhere. . . . I finally did drag my bootlegger friend out of the fray when he got his leg broken . . . his wooden leg."</said></p>
 
-    <p>Everybody let out a shout. Roy filled <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s glass up with gin again.</p>
+    <p>Everybody let out a shout. <persName><forename>Roy</forename></persName> filled <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s glass up with gin again.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>,"</said> cooed Alice, <said who="#" aloud="true" direct="true">"you lead the most thrilling life."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Oh <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>,"</said> cooed <persName><forename>Alice</forename></persName>, <said who="#" aloud="true" direct="true">"you lead the most thrilling life."</said></p>
 
-    <p><persName ref="#<persName ref="#JimmyHerf"><addName type="birth">James</addName></persName>Merivale"><forename><persName ref="#JimmyHerf"><addName type="birth">James</addName></persName></forename> <surname>Merivale</surname></persName> was going over a freshly decoded cable, tapping the words with a pencil as he read them. Tasmanian Manganese Products instructs us to open credit. . . . The phone on his desk began to buzz.</p>
+    <p><persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName> was going over a freshly decoded cable, tapping the words with a pencil as he read them. Tasmanian Manganese Products instructs us to open credit. . . . The phone on his desk began to buzz.</p>
 
-    <p><said who="#" aloud="true" direct="true">"<persName ref="#JimmyHerf"><addName type="birth">James</addName></persName> this is your mother. Come right up; something terrible has happened."</said></p>
+    <p><said who="#" aloud="true" direct="true">"<persName ref="#JamesMerivale"><forename>James</forename></persName> this is your mother. Come right up; something terrible has happened."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"But I <orig>dont</orig> know if I can get away. . . ."</said></p>
 
-    <p>She had already cut off. <persName ref="#<persName ref="#JimmyHerf"><addName type="birth">James</addName></persName>Merivale"><surname>Merivale</surname></persName>felt himself turning pale. <said who="#" aloud="true" direct="true">"Let me speak to <roleName type="honorific" full="abb">Mr.</roleName>Aspinwall please. . . . <roleName type="honorific" full="abb">Mr.</roleName>Aspinwall this is Merivale. . . . My mother's been taken suddenly ill. I'm afraid it may be a stroke. I'd like to run up there for <time dur-iso="PT1H">an hour</time>. I'll be back in time to get a cable off on that Tasmanian matter."</said></p>
+    <p>She had already cut off. <persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName>felt himself turning pale. <said who="#" aloud="true" direct="true">"Let me speak to <persName><roleName type="honorific" full="abb">Mr.</roleName> <surname>Aspinwall</surname></persName> please. . . . <roleName type="honorific" full="abb">Mr.</roleName>Aspinwall this is Merivale. . . . My mother's been taken suddenly ill. I'm afraid it may be a stroke. I'd like to run up there for <time dur-iso="PT1H">an hour</time>. I'll be back in time to get a cable off on that Tasmanian matter."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"All right. . . . I'm very sorry Merivale."</said></p>
 
@@ -4004,7 +3997,7 @@
 
     <p><said who="#" aloud="true" direct="true">"She <orig>hasnt</orig> met with an accid. . .?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Come in here,"</said> interrupted <persName ref="#MaisieMerivale"><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Merivale</surname></persName>. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. <said who="#" aloud="true" direct="true">"My dear this girl says she's <persName ref="#MrsCunningham"><roleName type="honorific" full="abb">Mrs.</roleName> <forename type="partner">Jack</forename> </surname type="married">Cunningham</surname></persName> and she's got a marriage certificate to prove it."</said></p>
+    <p><said who="MaisieMerivale" aloud="true" direct="true">"Come in here,"</said> interrupted <persName ref="#MaisieMerivale"><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Merivale</surname></persName>. In the parlor sat a little roundfaced woman in a round mink hat and a long mink coat. <said who="#" aloud="true" direct="true">"My dear this girl says she's <persName ref="#MrsCunningham"><roleName type="honorific" full="abb">Mrs.</roleName> <forename type="partner">Jack</forename> </surname type="married">Cunningham</surname></persName> and she's got a marriage certificate to prove it."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Good <distinct type="taboo">Heavens</distinct>, is that true?</said></p>
 
@@ -4048,9 +4041,9 @@
 
     <p><said who="#" aloud="true" direct="true">"What the hell's an import and export firm got to do in politics? If any of those guys wants a handout let him come up here and get it. Our business is the price of beans . . . and its <distinct type="taboo">goddam</distinct> low. If any of you puling <occupation>lawyers</occupation> could restore the balance of the exchanges I'd be willing to do anything in the world. . . . They're crooks every last <distinct type="taboo">goddam</distinct>one of em . . . by the Living Jingo they're crooks."</said> His face flushes purple, he sits upright in his chair banging with his fist on the corner of the desk. <said who="#" aloud="true" direct="true">"Now you're getting me all excited. . . . Bad for my stomach, bad for my heart."</said> <persName ref="#PhineasBlackhead"><forename>Phineas</forename> <surname>Blackhead</surname></persName> belches portentously and takes a great gulp out of the glass of bicarbonate of soda. Then he leans back in his chair again letting his heavy lids half cover his eyes.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Well old man,"</said> says <persName ref="#MrDensch"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Densch</surname></persName> in a tired voice, <said who="#" aloud="true" direct="true">"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</said></p>
+    <p><said who="MrDensch" aloud="true" direct="true">"Well old man,"</said> says <persName ref="#MrDensch"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Densch</surname></persName> in a tired voice, <said who="MrDensch" aloud="true" direct="true">"it may have been a bad thing to do, but I've promised to support the reform candidate. That's a purely private matter in no way involving the firm."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Like <distinct type="taboo">hell</distinct>it <orig>dont</orig>. . . . How about <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Like <distinct type="taboo">hell</distinct> it <orig>dont</orig>. . . . How about <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> and his gang? . . . They've always treated us all right and all we've ever done for em's a couple of cases of Scotch and a few cigars now and then. . . . Now we have these reformers throw the whole city government into a turmoil. . . . By the Living Jingo . . ."</said></p>
 
     <p><persName ref="#MrDensch"><surname>Densch</surname></persName> gets to his feet. <said who="#" aloud="true" direct="true">"My dear Blackhead I consider it my duty as a citizen to help in cleaning up the filthy conditions of bribery, corruption and intrigue that exist in the city government . . . I consider it my duty as a citizen . . ."</said> He starts walking to the door, his round belly stuck proudly out in front of him.</p>
 
@@ -4078,7 +4071,7 @@
 
     <p><said who="#" aloud="true" direct="true">"But it's jammed full already dad."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"That box at the Astor Trust is in your name <orig>isnt</orig> it?"</said></p>
+    <p><said who="#" aloud="true" direct="true">"That box at the <orgName>Astor Trust</orgName> is in your name <orig>isnt</orig> it?"</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Jointly in mine and <persName ref="#JoeHarland"><forename>Joe</forename></persName>'s."</said></p>
 
