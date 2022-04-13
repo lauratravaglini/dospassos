@@ -17,7 +17,7 @@
                     <p>The old man with the hempen beard who sleeps where nobody knows sits in the midst of it like <persName>Jonah</persName> under his gourd.</p>
                     </epigraph>
 
-                    <p><persName ref="#JimmyHerf"><forename>JIMMY</forename> <surname>HERF</surname></persName> walked up <num type="cardinal" value="4">four</num> creaky flights and knocked at a white door fingermarked above the knob where the name Sunderland appeared in old <nationality>English</nationality> characters on a card neatly held in place by brass thumbtacks. He waited a long while beside a milkbottle, <num type="cardinal" value="2">two</num> creambottles, and a copy of the <title>Sunday Times</title>. There was a rustle behind the door and the creak of a step, then no more sound. He pushed a white button in the doorjamb.</p>
+                    <p><persName ref="#JimmyHerf"><forename>JIMMY</forename> <surname>HERF</surname></persName> walked up <num type="cardinal" value="4">four</num> creaky flights and knocked at a white door fingermarked above the knob where the name <forename>Sunderland</forename> appeared in old <nationality>English</nationality> characters on a card neatly held in place by brass thumbtacks. He waited a long while beside a milkbottle, <num type="cardinal" value="2">two</num> creambottles, and a copy of the <title>Sunday Times</title>. There was a rustle behind the door and the creak of a step, then no more sound. He pushed a white button in the doorjamb.</p>
                     
                     <p><said who="#" aloud="true" direct="true">"<orig>An</orig> he said, Margie I've got a crush on you so bad, an she said. Come in <distinct type="informal">outa</distinct> the rain, you're all wet. . . .</said> Voices coming down the stairs, a man's feet in button shoes, a girl's feet in sandals, pink silk legs; the girl in a fluffy dress and a Spring Maid hat; the young man had white edging on his vest and a green, blue, and purple striped necktie.</p>
                     
@@ -37,7 +37,7 @@
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"She said she would be."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Look will you please wait <time dur-iso="PT1S">a second</time> to let me make my get-away,"</said> she tittered behind the door. <said who="#" aloud="true" direct="true">"And then come in. Excuse us but <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName> thought you were the rent collector. They sometimes come on Sunday just to fool you."</said> A smile coyly bridged the crack in the door.</p>
+                    <p><said who="#" aloud="true" direct="true">"Look will you please wait <time dur-iso="PT1S">a second</time> to let me make my get-away,"</said> she tittered behind the door. <said who="#" aloud="true" direct="true">"And then come in. Excuse us but <persName><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Sunderland</surname></persName> thought you were the rent collector. They sometimes come on Sunday just to fool you."</said> A smile coyly bridged the crack in the door.</p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Shall I bring in the milk?"</said></p>
 
@@ -149,7 +149,7 @@
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"It's a shame she's got that for a husband."</said></p>
 
-                    <p><said who="RuthPrynne" aloud="true" direct="true">"<persName ref="#JohnOglethorpe">Ogile</persName>'s done everything in the world for her. If it <orig>hadnt</orig> been for him she'd still be in the chorus . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"<persName ref="#JohnOglethorpe"><addName type="nickname">Ogile</addName></persName>'s done everything in the world for her. If it <orig>hadnt</orig> been for him she'd still be in the chorus . . ."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Beauty and the beast."</said></p>
 
@@ -175,20 +175,19 @@
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"I <orig>dont</orig> know anybody to tell."</said></p>
 
-                    <p><said who="RuthPrynne" aloud="true" direct="true">"Then there's <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName> . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Then there's <persName><roleName type="honorific" full="abb">Mrs.</roleName> <surname>Sunderland</surname></persName> . . ."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Oh yes I got a glimpse of her going into the bathroom—an old lady in a wadded dressing gown with a pink boudoir cap on."</said></p>
 
                     <p><said who="RuthPrynne" aloud="true" direct="true">"<persName ref="JimmyHerf"><forename>Jimmy</forename></persName> you shock me. . . . She keeps losing her false teeth,"</said> began <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>; an L train drowned out the rest. The restaurant door closing behind them choked off the roar of wheels on rails.</p>
 
-                    <p>An orchestra was playing <title>When It's Appleblossom Time in Normandee</title>. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious <nationality>French</nationality> Style Steamed Mussles (Recommended by the Department of Agriculture). They sat down under a redlettered placard Beefsteak Parties Upstairs and <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName> made a pass at him with a breadstick. <said who="RuthPrynne" aloud="true" direct="true">"<persName ref="JimmyHerf"><forename>Jimmy</forename>
-                        </persName> do you think it'd be immoral to eat scallops for breakfast? But first I've got to have coffee coffee coffee . . ."</said></p>
+                    <p>An orchestra was playing <title>When It's Appleblossom Time in Normandee</title>. The place was full of smokewrithing slants of sunlight, paper festoons, signs announcing <floatingtext>Lobsters Arrive Daily, Eat Clams Now, Try Our Delicious <nationality>French</nationality> Style Steamed Mussles (Recommended by the Department of Agriculture)</floatingtext>. They sat down under a redlettered placard Beefsteak Parties Upstairs and <persName ref="#RuthPrynne"><forename>Ruth</forename></persName> made a pass at him with a breadstick. <said who="RuthPrynne" aloud="true" direct="true">"<persName ref="JimmyHerf"><forename>Jimmy</forename></persName> do you think it'd be immoral to eat scallops for breakfast? But first I've got to have coffee coffee coffee . . ."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"I'm going to eat a small steak and onions."</said></p>
 
                     <p><said who="RuthPrynne" aloud="true" direct="true">"Not if you're intending to spend the afternoon with me. <persName ref="JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>."</said></p>
 
-                    <p><said who="JimmyHerf" aloud="true" direct="true">"Oh all right. <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName> I lay my onions at your feet."</said></p>
+                    <p><said who="JimmyHerf" aloud="true" direct="true">"Oh all right. <persName ref="#RuthPrynne"><forename>Ruth</forename></persName> I lay my onions at your feet."</said></p>
 
                     <p><said who="RuthPrynne" aloud="true" direct="true">"That doesn't mean I'm going to let you kiss me."</said></p>
 
@@ -529,19 +528,19 @@
 
                     <p>Once out on <address>Broadway</address> again she felt very merry. She stood in the middle of the street waiting for the uptown car. An occasional taxi whizzed by her. From the <geogfeat>river</geogfeat> on the warm wind came the long moan of a steamboat whistle. In the pit inside her <num type="cardinal" value="1000">thousands</num> of gnomes were building tall brittle glittering towers. The car swooped ringing along the rails, stopped. As she climbed in she remembered swooningly the smell of <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s body sweating in her arms. She let herself drop into a seat, biting her lips to keep from crying out. God it's terrible to be in love. Opposite <num type="cardinal" value="2">two</num> men with chinless bluefish faces were talking hilariously, slapping fat knees.</p>
 
-                    <p><said who="StanwoodEmery" aloud="true" direct="true">"I'll tell yer <persName ref="#JimmyHerf"><addName type="nickname">Jim</addName></persName> it's <persName><forename>Irene</forename> <surname>Castle</surname></persName> that makes the hit wid me. . . . To see her dance the onestep juss makes me hear angels hummin."</said></p>
+                    <p><said who="" aloud="true" direct="true">"I'll tell yer <persName ref="#JimmyHerf"><addName type="nickname">Jim</addName></persName> it's <persName><forename>Irene</forename> <surname>Castle</surname></persName> that makes the hit <orig>wid</orig> me. . . . To see her dance the onestep juss makes me hear angels hummin."</said></p>
 
-                    <p><said who="EllenThatcher" aloud="true" direct="true">"Naw she's too skinny."</said></p>
+                    <p><said who="" aloud="true" direct="true">"Naw she's too skinny."</said></p>
 
-                    <p><said who="StanwoodEmery" aloud="true" direct="true">"But she's made the biggest hit ever been made on <address>Broadway</address>."</said></p>
+                    <p><said who="" aloud="true" direct="true">"But she's made the biggest hit ever been made on <address>Broadway</address>."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> got off the car and walked east along the desolate empty pavements of <address><num type="ordinal" value="105">105th</num> Street</address>. A fetor of mattresses and sleep seeped out from the blocks of narrow-windowed houses. Along the gutters garbagecans stank sourly. In the shadow of a doorway a man and girl swayed tightly clamped in each other's arms. Saying good night. <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> smiled happily. Greatest hit on <address>Broadway</address>. The words were an elevator carrying her up dizzily, up into some stately height where electric light signs crackled scarlet and gold and green, where were bright roofgardens that smelled of orchids, and the slow throb of a tango danced in a goldgreen dress with <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> while handclapping of millions beat in gusts like a hailstorm about them. Greatest hit on <address>Broadway</address>.</p>
 
-                    <p>She was walking up the scaling white stairs. Before the door marked Sunderland a feeling of sick disgust suddenly choked her. She stood a long time her heart pounding with the key poised before the lock. Then with a jerk she pushed the key in the lock and opened the door.</p>
+                    <p>She was walking up the scaling white stairs. Before the door marked <persName><forename>Sunderland</forename></persName> a feeling of sick disgust suddenly choked her. She stood a long time her heart pounding with the key poised before the lock. Then with a jerk she pushed the key in the lock and opened the door.</p>
 
-                    <p><said who="RuthPrynne" aloud="true" direct="true">"Strange fish, <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>, strange fish."</said> <persName ref="#JimmyHerf"><surname>Herf</surname></persName> and <persName ref="#RuthPrynne"><forename>Ruth</forename> <surname>Prynne</surname></persName> sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. <said who="RuthPrynne" aloud="true" direct="true">"All the ham <occupation>actors</occupation>in the world seem to eat here."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"Strange fish, <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>, strange fish."</said> <persName ref="#JimmyHerf"><surname>Herf</surname></persName> and <persName ref="#RuthPrynne"><forename>Ruth</forename> <surname>Prynne</surname></persName> sat giggling over plates of pate in the innermost corner of a clattery lowceilinged restaurant. <said who="RuthPrynne" aloud="true" direct="true">"All the ham <occupation>actors</occupation> in the world seem to eat here."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"All the ham <occupation>actors</occupation> in the world live up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName>'s."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"All the ham <occupation>actors</occupation> in the world live up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> <forename>Sunderland</forename></persName>'s."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"What's the latest news from the <geogName>Balkans</geogName>?"</said></p>
 
@@ -553,7 +552,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Well what were these shocking goingson at <address><num type="ordinal" value="105">105th</num> Street</address>?"</said></p>
 
-                    <p><said who="RuthPrynne" aloud="true" direct="true">"O you missed it. It was a shriek. . . . Everybody was out in the hall, <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName> with her hair in curlpapers, and <persName ref="#CassandraWilkins"><addName type="nickname">Cassie</addName></persName> was crying and <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> was standing in his door in pink pyjamas. . . ."</said></p>
+                    <p><said who="RuthPrynne" aloud="true" direct="true">"O you missed it. It was a shriek. . . . Everybody was out in the hall, <persName><roleName type="honorific" full="abb">Mrs.</roleName> <forename>Sunderland</forename></persName> with her hair in curlpapers, and <persName ref="#CassandraWilkins"><addName type="nickname">Cassie</addName></persName> was crying and <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> was standing in his door in pink pyjamas. . . ."</said></p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"Who's he?"</said></p>
 
@@ -1131,11 +1130,11 @@
 
                     <p><said who="EllenThatcher" aloud="true" direct="true">"Hello <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>, sit down,"</said> she said quietly. Then she continued smiling into Oglethorpe's face. <said who="EllenThatcher" aloud="true" direct="true">"<orig>Isnt</orig> that wonderful <persName ref="#JohnOglethorpe"><addName type="nickname">Jojo</addName></persName>?"</said></p>
 
-                    <p><said who="StanwoodEmery" aloud="true" direct="true">"<persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> this is <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>,"</said> said <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> gruffly.</p>
+                    <p><said who="StanwoodEmery" aloud="true" direct="true">"<persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> this is <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Herf</surname></persName>,"</said> said <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> gruffly.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Oh I'm so glad to meet you. I used to hear about you up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName>'s."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Oh I'm so glad to meet you. I used to hear about you up at <persName><roleName type="honorific" full="abb">Mrs.</roleName> <forename>Sunderland</forename></persName>'s."</said></p>
 
-                    <p>They were silent. <persName ref="#JohnOglethorpe"><surname>Oglethorpe </surname></persName> was tapping on the table with his spoon. <said who="#" aloud="true" direct="true">"Why heow deo you deo <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>,"</said> he said with sudden unction. <said who="#" aloud="true" direct="true">"<orig>Dont</orig> you remember how we met?"</said></p>
+                    <p>They were silent. <persName ref="#JohnOglethorpe"><surname>Oglethorpe</surname></persName> was tapping on the table with his spoon. <said who="#" aloud="true" direct="true">"Why heow deo you deo <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>,"</said> he said with sudden unction. <said who="#" aloud="true" direct="true">"<orig>Dont</orig> you remember how we met?"</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"By the way how's everything up there <persName ref="#JohnOglethorpe"><addName type="nickname">Jojo</addName></persName>?"</said></p>
 
@@ -1145,7 +1144,7 @@
 
                     <p>The <num type="cardinal" value="3">three</num> of them sat without speaking. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> tried to keep from fidgeting in his chair. He was about to get up, when something velvetsoft in her eyes stopped him.</p>
 
-                    <p><said who="EllenThatcher" aloud="true" direct="true">"Has <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName>got a job yet, <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName>?"</said> she asked.</p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"Has <persName ref="#RuthPrynne"><forename>Ruth</forename></persName> got a job yet, <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Herf</surname></persName>?"</said> she asked.</p>
 
                     <p><said who="JimmyHerf" aloud="true" direct="true">"No she <orig>hasnt</orig>."</said></p>
 
@@ -1159,13 +1158,13 @@
 
                     <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> couldn't keep his eyes off her; her small squarely shaped hands, her neck molded with a gold sheen between the great coil of coppery hair and the bright blue dress.</p>
 
-                    <p><said who="JohnOglethorpe" aloud="true" direct="true">"Well my <orig>deah</orig> . . ."</said> <persName ref="#JohnOglethorpe"><surname>Oglethorpe </surname></persName> got to his feet.</p>
+                    <p><said who="JohnOglethorpe" aloud="true" direct="true">"Well my <orig>deah</orig> . . ."</said> <persName ref="#JohnOglethorpe"><surname>Oglethorpe</surname></persName> got to his feet.</p>
 
                     <p><said who="EllenThatcher" aloud="true" direct="true">"<persName ref="#JohnOglethorpe"><addName type="nickname">Jojo</addName></persName> I'm going to sit here a little longer."</said></p>
 
                     <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> was staring at the thin triangles of patent leather that stuck out from Oglethorpe's pink buff spats. <orig>Cant</orig> be feet in them. He stood up suddenly.</p>
 
-                    <p><said who="EllenThatcher" aloud="true" direct="true">"Now <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName><surname>Herf</surname></persName> <orig>couldnt</orig> you keep me company for <time dur-iso="PT15M"><num type="cardinal" value="15">fifteen</num> minutes</time>? I've got to leave here at <num type="cardinal" value="6">six</num> and I forgot to bring a book and I <orig>cant</orig> walk in these shoes."</said></p>
+                    <p><said who="EllenThatcher" aloud="true" direct="true">"Now <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Herf</surname></persName> <orig>couldnt</orig> you keep me company for <time dur-iso="PT15M"><num type="cardinal" value="15">fifteen</num> minutes</time>? I've got to leave here at <num type="cardinal" value="6">six</num> and I forgot to bring a book and I <orig>cant</orig> walk in these shoes."</said></p>
 
                     <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> blushed and sat down again stammering: <said who="JimmyHerf" aloud="true" direct="true">"Why of course I'd be delighted. . . . Suppose we drink something."</said></p>
 
@@ -2983,7 +2982,7 @@
 
 
 
-    <p>Gosh it's <time when="18:00:00"><num type="cardinal" value="6">six</num> o'clock</time> already. She starts walking up and down the room again. I am borne darkly fearfully afar. . . . The phone rings. <said who="#" aloud="true" direct="true">"Hello. . . . Yes this is <persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">Oglethorpe</surname></persName>. . . . Why hello <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName>, why I haven't seen you for ages, since <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderland</persName>'s. . . . Oh, do I'd love to see you. Come by and we'll have a bite to eat on the way to the theater. . . . It's the <num type="ordinal" value="3">third</num> floor."</said></p>
+    <p>Gosh it's <time when="18:00:00"><num type="cardinal" value="6">six</num> o'clock</time> already. She starts walking up and down the room again. I am borne darkly fearfully afar. . . . The phone rings. <said who="#" aloud="true" direct="true">"Hello. . . . Yes this is <persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">Oglethorpe</surname></persName>. . . . Why hello <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>, why I haven't seen you for ages, since <persName><roleName type="honorific" full="abb">Mrs.</roleName> <forename>Sunderland</forename></persName>'s. . . . Oh, do I'd love to see you. Come by and we'll have a bite to eat on the way to the theater. . . . It's the <num type="ordinal" value="3">third</num> floor."</said></p>
 
 <p>She rings off and gets a raincape out of a closet. The smell of furs and mothballs and dresses clings in her nostrils. She throws up the window again and breathes deep of the wet air full of the cold rot of autumn. She hears the burring boom of a big steamer from the river. Darkly, fearfully afar from this nonsensical life, from this fuzzy idiocy and strife; a man can take a ship for his wife, but a girl. The telephone is shiveringly beadily ringing, ringing.</p>
 
@@ -3174,7 +3173,7 @@
     <p>A nickel before<time when="00:00:00">midnight</time> buys tomorrow . . . holdup headlines, a cup of coffee in the automat, a ride to Woodlawn, Fort Lee, Flatbush. . . . A nickel in the slot buys chewing gum. Somebody Loves Me, Baby Divine, You're in Kentucky Juss Shu' As You're Born . . . bruised notes of foxtrots go limping out of doors, blues, waltzes (We'd Danced the Whole Night Through) trail gyrating tinsel memories. . . . On <address><num type="ordinal" value="6">Sixth</num> Avenue</address> on Fourteenth there are still flyspecked stereopticons where for a nickel you can peep at yellowed yesterdays. Beside the peppering shooting gallery you stoop into the flicker A Hot Time, The Bachelor's Surprise, The Stolen Garter . . . waste basket of tornup daydreams. . . . A nickel before<time when="00:00:00">midnight</time> buys our yesterdays.</p>
     </epigraph>
 
-    <p><persName ref="#RuthPrynne"><forename>RUTH</forename> <surname>PRYNNE</surname></persName> came out of the <occupation>doctor</occupation>'s office pullthe fur tight round her throat. She felt faint. Taxi. As she stepped in she remembered the smell of cosmetics and toast and the littered hallway at <persName><roleName type="honorific" full="abb">Mrs.</roleName> Sunderlands</persName>. Oh I <orig>cant</orig> go home just yet. <said who="#" aloud="true" direct="true">"Driver go to the <placeName>Old <nationality>English</nationality> Tea Room</placeName> on <address><num type="ordinal" value="40">Fortieth</num> Street</address> please."</said> She opened her long green leather purse and looked in. My God, only <measure type="currency">a dollar</measure> <measure type="currency">a quarter</measure> <measure type="currency">a nickel</measure> and <measure type="currency"><num type="cardinal" value="2">two</num> pennies</measure>. She kept her eyes on the figures flickering on the taximeter. She wanted to break down and cry. . . . The way money goes. The gritty cold wind rasped at her throat when she got out. <said who="#" aloud="true" direct="true">"<measure type="currency"><num type="cardinal" value="80">Eighty</num> cents</measure> miss. . . . I haven't any change miss."</said> <said who="#" aloud="true" direct="true">"All right keep the change."</said> <distinct type="taboo">Heavens</distinct> only  <measure type="currency"><num type="cardinal" value="32">thirtytwo</num> cents</measure>. . . . Inside it was warm and smelled cozily of tea and cookies.</p>
+    <p><persName ref="#RuthPrynne"><forename>RUTH</forename> <surname>PRYNNE</surname></persName> came out of the <occupation>doctor</occupation>'s office pullthe fur tight round her throat. She felt faint. Taxi. As she stepped in she remembered the smell of cosmetics and toast and the littered hallway at <persName><roleName type="honorific" full="abb">Mrs.</roleName> <forename>Sunderlands</forename></persName>. Oh I <orig>cant</orig> go home just yet. <said who="#" aloud="true" direct="true">"Driver go to the <placeName>Old <nationality>English</nationality> Tea Room</placeName> on <address><num type="ordinal" value="40">Fortieth</num> Street</address> please."</said> She opened her long green leather purse and looked in. My God, only <measure type="currency">a dollar</measure> <measure type="currency">a quarter</measure> <measure type="currency">a nickel</measure> and <measure type="currency"><num type="cardinal" value="2">two</num> pennies</measure>. She kept her eyes on the figures flickering on the taximeter. She wanted to break down and cry. . . . The way money goes. The gritty cold wind rasped at her throat when she got out. <said who="#" aloud="true" direct="true">"<measure type="currency"><num type="cardinal" value="80">Eighty</num> cents</measure> miss. . . . I haven't any change miss."</said> <said who="#" aloud="true" direct="true">"All right keep the change."</said> <distinct type="taboo">Heavens</distinct> only  <measure type="currency"><num type="cardinal" value="32">thirtytwo</num> cents</measure>. . . . Inside it was warm and smelled cozily of tea and cookies.</p>
 
     <p><said who="#" aloud="true" direct="true">"Why <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName>, if it isn't <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName>. . . . Dearest come to my arms after all these years."</said> It was Billy Waldron. He was fatter and whiter than he used to be. He gave her a stagy hug and kissed her on the forehead. <said who="#" aloud="true" direct="true">"How are you? Do tell me. . . . How distinguée you look in that hat."</said></p>
 
@@ -3747,9 +3746,9 @@
 
     <p><said who="GusMcNiel" aloud="true" direct="true">"We're through,"</said> growled <persName ref="#GusMcNiel"><forename>Gus</forename></persName>. <said who="GusMcNiel" aloud="true" direct="true">". . . Say <persName ref="#NevadaJones"><roleName type="honorific">Miss</roleName> <forename>Nevada</forename></persName>, how did you get that name?"</said></p>
 
-    <p><said who="NevadaJones" aloud="true" direct="true">"I was born in Reno. . . . My mother'd gone there to get a divorce. . . . Gosh she was sore. . . . Certainly put my foot in it that time."</said></p>
+    <p><said who="NevadaJones" aloud="true" direct="true">"I was born in <placeName><settlement type="city">Reno</settlement></placeName>. . . . My mother'd gone there to get a divorce. . . . Gosh she was sore. . . . Certainly put my foot in it that time."</said></p>
 
-    <p><persName ref="#AnnaCohen"><forename>Anna</forname> <surname>Cohen</surname></persName> stands behind the counter under the sign The Best Sandwich in <placeName><settlement type="city">New York</settlement></placeName>. Her feet ache in her pointed shoes with runover heels.</p>
+    <p><persName ref="#AnnaCohen"><forename>Anna</forname> <surname>Cohen</surname></persName> stands behind the counter under the sign <floatingtext>The Best Sandwich in <placeName><settlement type="city">New York</settlement></placeName></floatingtext>. Her feet ache in her pointed shoes with runover heels.</p>
 
     <p><said aloud="true" direct="true">"Well I guess they'll begin soon or else we're in for a slack day,"</said> says the sodashaker beside her. He's a raw-faced man with a sharp adamsapple. <said aloud="true" direct="true">"It allus comes all of a rush like."</said></p>
 
@@ -3763,7 +3762,7 @@
 
     <p><said who="GusMcNiel" aloud="true" direct="true">"Well Joey tell me all about it,"</said> said <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> puffing a great cloud of smoke out of his cigar and leaning back in his swivel chair. <said who="#" aloud="true" direct="true">"What are you guys up to over there in Flatbush?"</said></p>
 
-    <p><persName ref="#JoeOKeefee"><surname>O'Keefe </surname></persName> cleared his throat and shuffled his feet. <said who="#" aloud="true" direct="true">"Well sir we got an agitation committee."</said></p>
+    <p><persName ref="#JoeOKeefee"><surname>O'Keefe</surname></persName> cleared his throat and shuffled his feet. <said who="#" aloud="true" direct="true">"Well sir we got an agitation committee."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"I should say you had. . . . That <distinct type="informal"><orig>aint</orig></distinct> no reason for raidin the Garment Workers' ball is it?"</said></p>
 
@@ -3785,7 +3784,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Thankye sir."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Go ahead take <num type="cardinal" value="4">four</num> or five."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Go ahead take <num type="cardinal" value="4">four</num> or <num type="cardinal" value="5">five</num>."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Jez thank you."</said></p>
 
