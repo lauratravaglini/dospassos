@@ -3545,7 +3545,7 @@
 
     <p>Like sap at the <num type="ordinal" value="1">first</num> frost at <time when="17:00:00"><num type="cardinal" value="5">five</num> o'clock</time> men and women begin to drain gradually out of the tall buildings downtown, grayfaced throngs flood subways and tubes, vanish underground.</p>
 
-    <p>All night the great buildings stand quiet and empty, their <num type="cardinal" value="1000000">million</num> windows dark. Drooling light the ferries chew tracks across the lacquered harbor. At<time when="00:00:00">midnight</time> the fourfunneled express steamers slide into the dark out of their glary berths. Bankers blearyeyed from secret conferences hear the hooting of the tugs as they are let out of side doors by lightningbug <occupation>watchmen</occupation>; they settle grunting into the back seats of limousines, and are whisked uptown into the Forties, clinking streets of ginwhite whiskey-yellow ciderfizzling lights.</p>
+    <p>All night the great buildings stand quiet and empty, their <num type="cardinal" value="1000000">million</num> windows dark. Drooling light the ferries chew tracks across the lacquered harbor. At <time when="00:00:00">midnight</time> the fourfunneled express steamers slide into the dark out of their glary berths. <occupation>Bankers</occupation> blearyeyed from secret conferences hear the hooting of the tugs as they are let out of side doors by lightningbug <occupation>watchmen</occupation>; they settle grunting into the back seats of limousines, and are whisked uptown into the Forties, clinking streets of ginwhite whiskey-yellow ciderfizzling lights.</p>
     
     </epigraph>
 
@@ -4148,21 +4148,21 @@
 
 
 
-    <p><said who="#" aloud="true" direct="true">"Tell him that I've always been and always shall be a good friend of his. . . . He knows that perfectly well. In this particular campaign I have pledged myself to oppose certain elements with which <persName ref="#GusMcNiel"><forename>Gus</forename></persName> has let himself get involved."</said></p>
+    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"Tell him that I've always been and always shall be a good friend of his. . . . He knows that perfectly well. In this particular campaign I have pledged myself to oppose certain elements with which <persName ref="#GusMcNiel"><forename>Gus</forename></persName> has let himself get involved."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"You're a fine talker <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> and you always were."</said></p>
+    <p><said who="NellieMcNiel" aloud="true" direct="true">"You're a fine talker <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> and you always were."</said></p>
 
     <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> flushed. They stood stiff side by side at the office door. His hand lay still on the doorknob as if paralyzed. From the outer offices came the sound of typewriters and voices. From outside came the long continuous tapping of riveters at work on a new building.</p>
 
-    <p><said who="#" aloud="true" direct="true">"I hope your family's all well,"</said> he said at length with an effort.</p>
+    <p><said who="GeorgeBaldwin" aloud="true" direct="true">"I hope your family's all well,"</said> he said at length with an effort.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh yes they are all well thanks . . . <distinct type="old-fashioned">Goodby</distinct>."</said> She had gone.</p>
+    <p><said who="NellieMcNiel" aloud="true" direct="true">"Oh yes they are all well thanks . . . <distinct type="old-fashioned">Goodby</distinct>."</said> She had gone.</p>
 
     <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> stood for a moment looking out of the window at the gray blackwindowed building opposite. Silly to let things agitate him so. Need of relaxation. He got his hat and coat from their hook behind the washroom door and went out.</p>
 
     <p><said who="GeorgeBaldwin" aloud="true" direct="true">"<persName><surname>Jonas</surname></persName>,"</said> he said to a man with a round bald head shaped like a cantaloupe who sat poring over papers in the highceilinged library that was the central hall of the lawoffice, <said who="GeorgeBaldwin" aloud="true" direct="true">"bring everything up that's on my desk. . . . I'll go over it uptown tonight."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"All right sir."</said></p>
+    <p><said aloud="true" direct="true">"All right sir."</said></p>
 
     <p>When he got out on <address>Broadway</address> he felt like a small boy playing hooky. It was a sparkling winter afternoon with hurrying rifts of sun and cloud. He jumped into a taxi. Going uptown he lay back in the seat dozing. At <address><num type="ordinal" value="42">Forty-second</num> Street</address> he woke up. Everything was a confusion of bright intersecting planes of color, faces, legs, shop windows, trolleycars, automobiles. He sat up with his gloved hands on his knees, fizzling with excitement. Outside of <persName ref="#NevadaJones"><forename>Nevada</forename></persName>'s apartmenthouse he paid the taxi. The <occupation>driver</occupation> was a negro and showed an ivory mouthful of teeth when he got a <measure type="currency"><num type="cardinal" value="50">fifty</num>-cent</measure> tip. Neither elevator was there so <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> ran lightly up the stairs, half wondering at himself. He knocked on <persName ref="#NevadaJones"><forename>Nevada</forename></persName>'s door. No answer. He knocked again. She opened it cautiously. He could see her curly towhead. He brushed into the room before she could stop him. All she had on was a kimono over a pink chemise.</p>
 
