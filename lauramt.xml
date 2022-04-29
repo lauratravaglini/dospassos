@@ -285,7 +285,7 @@
 
                     <p><said who="#EllenThatcher" aloud="true" direct="true">"Music, <orig>isnt</orig> it?"</said> put in <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> laughing. <said who="#EllenThatcher" aloud="true" direct="true">"I always say mischief."</said></p>
 
-                    <p><said who="GeoorgeBaldwin" aloud="true" direct="true">"Well how's college?"</said> asked <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>in a dry uncordial voice.</p>
+                    <p><said who="#GeorgeBaldwin" aloud="true" direct="true">"Well how's college?"</said> asked <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>in a dry uncordial voice.</p>
 
                     <p><said who="#StanwoodEmery" aloud="true" direct="true">"I guess it's still there,"</said> said <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> blushing. <said who="#StanwoodEmery" aloud="true" direct="true">"I wish they'd burn it down before I got back."</said> He got to his feet. <said who="#StanwoodEmery" aloud="true" direct="true">"You must excuse me <persName ref="#GeorgeBaldwin"><roleName type="honorific" full="abb">Mr.</roleName> <surname>Baldwin</surname></persName>. . . . My intrusion was infernally rude."</said> As he turned leaning towards <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> she smelled his grainy whiskey breath. <said who="#StanwoodEmery" aloud="true" direct="true">"Please forgive it, <persName ref="#EllenThatcher"><roleName type="honorific">Miss</roleName> <surname type="married">Oglethorpe</surname></persName>."</said></p>
 
