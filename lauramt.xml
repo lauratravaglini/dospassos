@@ -526,7 +526,7 @@
 
                     <p>He nodded and poured himself another highball. She stood behind his chair <time dur-iso="PT1S">a second</time> looking down at his long head of close ruffled hair. He was spouting verses softly to himself. <said who="#StanwoodEmery" aloud="true" direct="true">"Saw the white implacable Aphrodite, damn fine, Saw the hair unbound and the feet unsandaled, Jiminy. . . . Shine as fire of sunset on western waters. Saw the reluctant . . . <distinct type="taboo">goddam</distinct> fine sapphics,"</said></p>
 
-                    <p>Once out on <address>Broadway</address> again she felt very merry. She stood in the middle of the street waiting for the uptown car. An occasional taxi whizzed by her. From the <geogfeat>river</geogfeat> on the warm wind came the long moan of a steamboat whistle. In the pit inside her <num type="cardinal" value="1000">thousands</num> of gnomes were building tall brittle glittering towers. The car swooped ringing along the rails, stopped. As she climbed in she remembered swooningly the smell of <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s body sweating in her arms. She let herself drop into a seat, biting her lips to keep from crying out. God it's terrible to be in love. Opposite <num type="cardinal" value="2">two</num> men with chinless bluefish faces were talking hilariously, slapping fat knees.</p>
+                    <p>Once out on <address>Broadway</address> again she felt very merry. She stood in the middle of the street waiting for the uptown car. An occasional taxi whizzed by her. From the <geogFeat>river</geogFeat> on the warm wind came the long moan of a steamboat whistle. In the pit inside her <num type="cardinal" value="1000">thousands</num> of gnomes were building tall brittle glittering towers. The car swooped ringing along the rails, stopped. As she climbed in she remembered swooningly the smell of <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>'s body sweating in her arms. She let herself drop into a seat, biting her lips to keep from crying out. God it's terrible to be in love. Opposite <num type="cardinal" value="2">two</num> men with chinless bluefish faces were talking hilariously, slapping fat knees.</p>
 
                     <p><said who="" aloud="true" direct="true">"I'll tell yer <persName ref="#JimmyHerf"><addName type="nickname">Jim</addName></persName> it's <persName><forename>Irene</forename> <surname>Castle</surname></persName> that makes the hit <orig>wid</orig> me. . . . To see her dance the onestep juss makes me hear angels hummin."</said></p>
 
@@ -925,7 +925,7 @@
 
                     <p>The bathroom smelled of other people's toothpaste and of chloride disinfectant. The bathmat was wet and <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> folded it into a small square before he stepped gingerly out of his slippers. The cold water set the blood jolting through him. He ducked his head under and jumped out and stood shaking himself like a dog, the water streaming into his eyes and ears. Then he put on his bathrobe and lathered his face.</p>
 
-                    <p><said who="#JimmyHerf" aloud="true" direct="true">Flow <geogfeat>river</geogfeat> flow</p>
+                    <p><said who="#JimmyHerf" aloud="true" direct="true">Flow <geogFeat>river</geogFeat> flow</p>
 
                     <p>Down to the sea,</said> he hummed off key as he scraped his chin with the safety-razor. <persName><roleName type="honorific" full="abb">Mr.</roleName> <surname>Grover</surname></persName> I'm afraid I'm going to have to give up the job after next week. Yes I'm going abroad; I'm going to do foreign correspondent work for the A. P. To <placeName><country>Mexico</country></placeName> for the U. P. To Jericho more likely, Halifax Correspondent of the Mudturtle Gazette. It was <date when="--12-25">Christmas</date> in the harem and the eunuchs all were there.</p>
 
@@ -1168,7 +1168,7 @@
 
                     <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> blushed and sat down again stammering: <said who="#JimmyHerf" aloud="true" direct="true">"Why of course I'd be delighted. . . . Suppose we drink something."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"I'll finish my tea, but why <orig>dont</orig> you have a gin fizz? I love to see people drink gin fizzes. It makes me feel that I'm in the tropics sitting in a jujube grove waiting for the riverboat to take us up some ridiculous melodramatic <geogfeat>river</geogfeat> all set about with fevertrees."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"I'll finish my tea, but why <orig>dont</orig> you have a gin fizz? I love to see people drink gin fizzes. It makes me feel that I'm in the tropics sitting in a jujube grove waiting for the riverboat to take us up some ridiculous melodramatic <geogFeat>river</geogFeat> all set about with fevertrees."</said></p>
 
                     <p><said who="#JimmyHerf" aloud="true" direct="true">"<occupation>Waiter</occupation> I want a gin fizz please."</said></p>
 
@@ -1440,7 +1440,7 @@
 
                     <p>The light from the street yellowed faintly a big sign on which was a picture of a skyscraper, white with black windows against blue sky and white clouds. Segal and Haynes will erect on this site a modern uptodate <num type="cardinal" value="24">Twentyfour</num> Story Office Building open for occupancy <date when="1915-01--">January 1915</date> renting space still available inquire. . . .</p>
 
-                    <p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> sat reading on a green couch under a bulb that lit up a corner of a wide bare room. He had come to the death of Olivier in Jean Christophe and read with tightening gullet. In his memory lingered the sound of the Rhine swirling, restlessly gnawing the foot of the garden of the house where Jean Christophe was born. <placeName><bloc type="continent">Europe</block></placeName> was a green park in his mind full of music and red flags and mobs marching. Occasionally the sound of a steamboat whistle from the <geogfeat>river</geogfeat> settled breathless snowysoft into the room. From the street came a rattle of taxis and the whining sound of streetcars.</p>
+                    <p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> sat reading on a green couch under a bulb that lit up a corner of a wide bare room. He had come to the death of Olivier in Jean Christophe and read with tightening gullet. In his memory lingered the sound of the Rhine swirling, restlessly gnawing the foot of the garden of the house where Jean Christophe was born. <placeName><bloc type="continent">Europe</block></placeName> was a green park in his mind full of music and red flags and mobs marching. Occasionally the sound of a steamboat whistle from the <geogFeat>river</geogFeat> settled breathless snowysoft into the room. From the street came a rattle of taxis and the whining sound of streetcars.</p>
 
                     <p>There was a knock at the door.<persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> got up, his eyes blurred and hot from reading.</p>
 
@@ -1488,7 +1488,7 @@
 
                     <p><said who="#" aloud="true" direct="true">"Well I'm off so long."</said></p>
 
-                    <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> gathered up his book and went into his bedroom and undressed. His watch said <num type="cardinal" value="15">fifteen</num> past twelve. The night was sultry. When he had turned out the light he sat a long while on the edge of the bed. The faraway sounds of sirens from the <geogfeat>river</geogfeat> gave him gooseflesh. From the street he heard footsteps, the sound of men and women's voices, low youthful laughs of people going home <num type="cardinal" value="2">two</num> by two. A phonograph was playing Secondhand Rose. He lay on his back on top of the sheet. There came on the air through the window a sourness of garbage, a smell of burnt gasoline and traffic and dusty pavements, a huddled stuffiness of pigeonhole rooms where men and women's bodies writhed alone tortured by the night and the young summer. He lay with seared eyeballs staring at the ceiling, his body glowed in a brittle shivering agony like redhot metal.</p>
+                    <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> gathered up his book and went into his bedroom and undressed. His watch said <num type="cardinal" value="15">fifteen</num> past twelve. The night was sultry. When he had turned out the light he sat a long while on the edge of the bed. The faraway sounds of sirens from the <geogFeat>river</geogFeat> gave him gooseflesh. From the street he heard footsteps, the sound of men and women's voices, low youthful laughs of people going home <num type="cardinal" value="2">two</num> by two. A phonograph was playing Secondhand Rose. He lay on his back on top of the sheet. There came on the air through the window a sourness of garbage, a smell of burnt gasoline and traffic and dusty pavements, a huddled stuffiness of pigeonhole rooms where men and women's bodies writhed alone tortured by the night and the young summer. He lay with seared eyeballs staring at the ceiling, his body glowed in a brittle shivering agony like redhot metal.</p>
 
                     <p>A woman's voice whispering eagerly woke him; someone was pushing open the door. <said who="#" aloud="true" direct="true">"I <orig>wont</orig> see him. I <orig>wont</orig> see him. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> for Heaven's sake you go talk to him. I <orig>wont</orig> see him."</said> <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName> <surname type="married">Oglethorpe</surname></persName> draped in a sheet walked into the room.</p>
 
@@ -2826,11 +2826,11 @@
 
 <p>For I am a bachelor and I live all alone</p>
 
-<p>And there's <num type="cardinal" value="1">one</num>more <geogfeat>river</geogfeat> to cross</p>
+<p>And there's <num type="cardinal" value="1">one</num>more <geogFeat>river</geogFeat> to cross</p>
 
-<p>One more <geogfeat>river</geogfeat> to <geogName>Jordan</geogName></p>
+<p>One more <geogFeat>river</geogFeat> to <geogName>Jordan</geogName></p>
 
-<p>One more <geogfeat>river</geogfeat> to cross . . .</p>
+<p>One more <geogFeat>river</geogFeat> to cross . . .</p>
 
 
 
@@ -2848,9 +2848,9 @@
 
 <p>The elephant and the kangaroo</p>
 
-<p>There's <num type="cardinal" value="1">one</num> more <geogfeat>river</geogfeat> to <geogName>Jordan</geogName></p>
+<p>There's <num type="cardinal" value="1">one</num> more <geogFeat>river</geogFeat> to <geogName>Jordan</geogName></p>
 
-<p>One more <geogfeat>river</geogfeat> to cross</p>
+<p>One more <geogFeat>river</geogFeat> to cross</p>
 
 
 <p>In the whitening light tinfoil gulls wheeled above broken boxes, spoiled cabbageheads, orangerinds heaving slowly between the splintered plank walls, the green spumed under the round bow as the ferry skidding on the tide, gulped the broken water, crashed, slid, settled slowly into the slip. Handwinches whirled with jingle of chains, gates folded upward. <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> stepped across the crack, staggered up the manuresmelling wooden tunnel of the ferryhouse out into the sunny glass and benches of the Battery. He sat down on a bench, clasped his hands round his knees to keep them from shaking so. His mind went on jingling like a mechanical piano.</p>
@@ -2863,7 +2863,7 @@
 
 
 
-<p>There was <placeName><settlement type="city">Babylon</settlement></placeName> and <placeName><settlement type="city">Nineveh</settlement></placeName>, they were built of brick. <placeName><settlement type="city">Athens</settlement></placeName> was goldmarble columns. <placeName><settlement type="city">Rome</settlement></placeName>was held up on broad arches of rubble. In <placeName><settlement type="city">Constantinople</settlement></placeName> the minarets flame like great candles round the Golden Horn. . . . O there's <num type="cardinal" value="1">one</num> more <geogfeat>river</geogfeat> to cross. Steel glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the <num type="cardinal" value="1000000">million</num> windowed buildings will jut, glittering pyramid on pyramid, white cloudsheads piled above a thunderstorm . . .</p>
+<p>There was <placeName><settlement type="city">Babylon</settlement></placeName> and <placeName><settlement type="city">Nineveh</settlement></placeName>, they were built of brick. <placeName><settlement type="city">Athens</settlement></placeName> was goldmarble columns. <placeName><settlement type="city">Rome</settlement></placeName>was held up on broad arches of rubble. In <placeName><settlement type="city">Constantinople</settlement></placeName> the minarets flame like great candles round the Golden Horn. . . . O there's <num type="cardinal" value="1">one</num> more <geogFeat>river</geogFeat> to cross. Steel glass, tile, concrete will be the materials of the skyscrapers. Crammed on the narrow island the <num type="cardinal" value="1000000">million</num> windowed buildings will jut, glittering pyramid on pyramid, white cloudsheads piled above a thunderstorm . . .</p>
 
 <p>And it rained forty days and it rained forty nights</p>
 
@@ -3231,45 +3231,45 @@
 
     <p><persName ref="#DutchRobertson"><forename>Dutch</forename> <surname>Robertson</surname></persName> sat on a bench on <address>Brooklyn Bridge</address> with the collar of his army overcoat turned up, running his eye down <title>Business Opportunities</title>. It was a muggy fog-choked afternoon; the bridge was dripping and aloof like an arbor in a dense garden of steamboatwhistles. <num type="cardinal" value="2">Two</num> <occupation>sailors</occupation> passed. <said aloud="true" direct="true">"<orig>Ze</orig> best joint I've been in since B. A."</said></p>
 
-    <p>Partner movie theater, busy neighborhood . . . stand investigation . . . <measure type="currency"><num type="cardinal" value="3000">$3,000</num></measure>. . . . Jez I haven't got <num type="cardinal" value="3000">three thousand</num> mills. . . . Cigar stand, busy building, compelled sacrifice. . . . Attractive and completely outfitted radio and music shop . . . busy. . . . Modern mediumsized printingplant consisting of cylinders, Kelleys, Miller feeders, job presses, linotype machines and a complete bindery. . . . Kosher restaurant and delicatessen. . . . Bowling alley . . . busy. . . . Live spot large dancehall and other concessions. We Buy False Teeth, old gold, platinum, old jewelry. The <distinct type="taboo">hell</distinct> they do. Help Wanted Male. That's more your speed you rummy. Addressers, <num type="ordinal" value="1">first</num> class penmen. . . . Lets me out. . . . <occupation>Artist</occupation>, <occupation>Attendant</occupation>, Auto, Bicycle and Motorcycle repair shop. . . . He took out the back of an envelope and marked down the address. Bootblacks. . . . Not yet. Boy; no I guess I <distinct type="informal"><orig>aint</orig></distinct> a boy any more, Candy-store, Canvassers, Carwashers, Dishwasher. Earn While You Learn. Mechanical dentistry is your shortest way to success. . . . No dull seasons. . . .</p>
+    <p><floatingText>Partner movie theater, busy neighborhood . . . stand investigation . . . <measure type="currency"><num type="cardinal" value="3000">$3,000</num></measure></floatingText>. . . . <said who="#DutchRobertson" aloud="false" direct="true">Jez I haven't got <num type="cardinal" value="3000">three thousand</num> mills.</said> . . . <floatingText>Cigar stand, busy building, compelled sacrifice. . . . Attractive and completely outfitted radio and music shop . . . busy. . . . Modern mediumsized printingplant consisting of cylinders, Kelleys, Miller feeders, job presses, linotype machines and a complete bindery. . . . Kosher restaurant and delicatessen. . . . Bowling alley . . . busy. . . . Live spot large dancehall and other concessions. We Buy False Teeth, old gold, platinum, old jewelry.</floatingText> <said who="#DutchRobertson" aloud="false" direct="true">The <distinct type="taboo">hell</distinct> they do</said>. <floatingText>Help Wanted Male</floatingText>. That's more your speed you rummy. <floatingText>Addressers, <num type="ordinal" value="1">first</num> class penmen. . . .</floatingText> <said who="#DutchRobertson" aloud="false" direct="true">Lets me out. . . .</said> <floatingText><occupation>Artist</occupation>, <occupation>Attendant</occupation>, Auto, Bicycle and Motorcycle repair shop. . . .</floatingText> He took out the back of an envelope and marked down the address. <said who="#DutchRobertson" aloud="false" direct="true">Bootblacks. . . . Not yet. Boy; no I guess I <distinct type="informal"><orig>aint</orig></distinct> a boy any more, Candy-store, Canvassers, Carwashers, Dishwasher. Earn While You Learn. Mechanical dentistry is your shortest way to success. . . . No dull seasons. . . .</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Hello <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>. . . . I thought I'd never get here."</said> A grayfaced girl in a red hat and gray rabbit coat sat down beside him.</p>
+    <p><said who="#Francie" aloud="true" direct="true">"Hello <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>. . . . I thought I'd never get here."</said> A grayfaced girl in a red hat and gray rabbit coat sat down beside him.</p>
 
-    <p><said who="#DutchRobertson" aloud="true" direct="true">"Jez I'm sick o readin want ads."</said> He stretched out his arms and yawned letting the paper slip down his legs.</p>
+    <p><said who="#DutchRobertson" aloud="true" direct="true">"Jez I'm sick <orig>o</orig> <orig>readin</orig> want ads."</said> He stretched out his arms and yawned letting the paper slip down his legs.</p>
 
-    <p><said who="#" aloud="true" direct="true">"<distinct type="informal"><orig>Aint</orig></distinct> you chilly, sittin out here on the bridge?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"<distinct type="informal"><orig>Aint</orig></distinct> you chilly, sittin out here on the bridge?"</said></p>
 
-    <p><said who="#DutchRobertson" aloud="true" direct="true">"Maybe I am. . . . Let's go and eat."</said> He jumped to his feet and put his red face with its thin broken nose close to hers and looked in her black eyes with his pale gray eyes. He tapped her arm sharply. <said who="#" aloud="true" direct="true">"Hello <persName>Francie</persName>. . . . How's my lil girl?"</said></p>
+    <p><said who="#DutchRobertson" aloud="true" direct="true">"Maybe I am. . . . Let's go and eat."</said> He jumped to his feet and put his red face with its thin broken nose close to hers and looked in her black eyes with his pale gray eyes. He tapped her arm sharply. <said who="#DutchRobertson" aloud="true" direct="true">"Hello <persName ref="#Francie">Francie</persName>. . . . How's my lil girl?"</said></p>
 
-    <p>They walked back towards <placeName><district>Manhattan</district></placeName>, the way she had come. Under them the <geogfeat>river</geogfeat> glinted through the mist. A big steamer drifted by slowly, lights already lit; over the edge of the walk they looked down the black smokestacks.</p>
+    <p>They walked back towards <placeName><district>Manhattan</district></placeName>, the way she had come. Under them the <geogFeat>river</geogFeat> glinted through the mist. A big steamer drifted by slowly, lights already lit; over the edge of the walk they looked down the black smokestacks.</p>
 
-    <p><said who="" aloud="true" direct="true">"Was it a boat as big as that you went overseas on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Was it a boat as big as that you went overseas on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Bigger 'n that."</said></p>
+    <p><said who="#DutchRobertson" aloud="true" direct="true">"Bigger 'n that."</said></p>
 
-    <p><said who="" aloud="true" direct="true">"<distinct type="slang">Gee</distinct> I'd like to go."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"<distinct type="slang">Gee</distinct> I'd like to go."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I'll take you over some time and show you all them places over there . . . I went to a lot of places that time I went A.W.O.L."</said></p>
+    <p><said who="#DutchRobertsonDutchRobertson" aloud="true" direct="true">"I'll take you over some time and show you all them places over there . . . I went to a lot of places that time I went A.W.O.L."</said></p>
 
-    <p>In the L station they hesitated. <said who="#DutchRobertson" aloud="true" direct="true">"<persName>Francie</persName> got any jack on you?"</said></p>
+    <p>In the L station they hesitated. <said who="#DutchRobertson" aloud="true" direct="true">"<persName ref="#Francie">Francie</persName> got any jack on you?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Sure I got <measure type="currency">a dollar</measure>. . . . I ought to keep that for tomorrer though."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Sure I got <measure type="currency">a dollar</measure>. . . . I ought to keep that for tomorrer though."</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"All I got's my last quarter. Let's go eat <measure type="currency"><num type="cardinal" value="2">two</num> <num type="cardinal" value="55">fiftyfive</num> cent</measure> dinners at that chink place . . . That'll be <measure type="currency">a dollar</measure> ten."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I got to have <measure type="currency">a nickel</measure> to get down to the office in the mornin."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"I got to have <measure type="currency">a nickel</measure> to get down to the office in the mornin."</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"Oh Hell! <distinct type="swearing">Goddam</distinct> it I wish we could have some money."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Got anything lined up yet?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Got anything lined up yet?"</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"Wouldn't I have told <orig>ye</orig> if I had?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Come ahead I've got a half a dollar saved up in my room. I can take carfare outa that."</said> She changed the dollar and put<num type="cardinal" value="2">two</num> nickels into the turnstile. They sat down in a <address><num type="ordinal" value="3">Third</num> Avenue</address> train.</p>
+    <p><said who="#Francie" aloud="true" direct="true">"Come ahead I've got a half a dollar saved up in my room. I can take carfare outa that."</said> She changed the dollar and put <num type="cardinal" value="2">two</num> nickels into the turnstile. They sat down in a <address><num type="ordinal" value="3">Third</num> Avenue</address> train.</p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"Say <persName><forename>Francie</forename></persName> will they let us dance in a khaki shirt?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Why not <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> it looks all right."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Why not <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> it looks all right."</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"I feel kinder fussed about it."</said></p>
 
@@ -3277,39 +3277,39 @@
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"Jez I'm hungry."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Are you <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Are you <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>?"</said></p>
 
-    <p>He pushed forward his knees until they locked with hers. <said who="#" aloud="true" direct="true">"<distinct type="slang">Gee</distinct>you're a good kid,"</said> he said when he had finished his soup. <said who="#" aloud="true" direct="true">"Honest I'll get a job this week. And then we'll get a nice room an get married an everything."</said></p>
+    <p>He pushed forward his knees until they locked with hers. <said who="#DutchRobertson" aloud="true" direct="true">"<distinct type="slang">Gee</distinct>you're a good kid,"</said> he said when he had finished his soup. <said who="#DutchRobertson" aloud="true" direct="true">"Honest I'll get a job this week. And then we'll get a nice room an get married an everything."</said></p>
 
     <p>When they got up to dance they were trembling so they could barely keep time to the music.</p>
 
-    <p><said aloud="true" direct="true">"Mister . . . no dance without ploper dless . . ."</said> said a dapper Chinaman putting his hand on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>'s arm.</p>
+    <p><said aloud="true" direct="true">"<roleName type="honorific">Mister</roleName> . . . no dance without ploper dless . . ."</said> said a dapper Chinaman putting his hand on <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>'s arm.</p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"Waz he want?"</said> he growled dancing on.</p>
 
-    <p><said who="#" aloud="true" direct="true">"I guess it's the shirt, <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"I guess it's the shirt, <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>."</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"The <distinct type="taboo">hell</distinct> it is."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I'm tired. I'd rather talk than dance anyway . . ."</said> They went back to their booth and their sliced pineapple for dessert.</p>
+    <p><said who="#Francie" aloud="true" direct="true">"I'm tired. I'd rather talk than dance anyway . . ."</said> They went back to their booth and their sliced pineapple for dessert.</p>
 
     <p>Afterwards they walked east along <address><num type="ordinal" value="14">Fourteenth</num></address>. <said who="#" aloud="true" direct="true">"<persName ref="#DutchRobertson"><forename>Dutch</forename></persName> <orig>cant</orig> we go to your room?"</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"I <distinct type="informal">ain't</distinct> got no room. The old stiff <orig>wont</orig> let me stay and she's got all my stuff. Honest if I <orig>dont</orig> get a job this week I'm goin to a recruiting <occupation>sergeant</occupation> an re-enlist."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Oh <orig>dont</orig> do that; we wouldn't ever get married then <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>. . . . <distinct type="slang">Gee</distinct> though why didn't you tell me?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"Oh <orig>dont</orig> do that; we wouldn't ever get married then <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>. . . . <distinct type="slang">Gee</distinct> though why didn't you tell me?"</said></p>
 
-    <p><said who="#DutchRobertson" aloud="true" direct="true">"I didn't want to worry you <persName>Francie</persName>. . . . <num type="cardinal" value="6">Six</num> months out of work . . . Jez it's enough to drive a guy cookoo."</said></p>
+    <p><said who="#DutchRobertson" aloud="true" direct="true">"I didn't want to worry you <persName ref="#Francie">Francie</persName>. . . . <num type="cardinal" value="6">Six</num> months out of work . . . Jez it's enough to drive a guy cookoo."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"But <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> where can we go?"</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"But <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> where can we go?"</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"We might go out that wharf. . . . I know a wharf."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It's so cold."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"It's so cold."</said></p>
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"I couldn't get cold when you were with me kid."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> talk like that. . . I <orig>dont</orig> like it."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"<orig>Dont</orig> talk like that. . . I <orig>dont</orig> like it."</said></p>
 
     <p>They walked leaning together in the darkness up the muddy rutted riverside streets, between huge swelling gas-tanks, brokendown fences, long manywindowed warehouses. At a corner under a streetlamp a boy catcalled as they passed.</p>
 
@@ -3317,9 +3317,9 @@
 
     <p><said who="#DutchRobertson" aloud="true" direct="true">"I'll poke your face in you little <distinct type="swearing">bastard</distinct>," <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> let fly out of the corner of his mouth.</p>
 
-    <p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> answer him,"</said> <persName>Francie</persName> whispered, <said who="#" aloud="true" direct="true">"or we'll have the whole gang down on us."</said></p>
+    <p><said who="#Francie" aloud="true" direct="true">"<orig>Dont</orig> answer him,"</said> <persName ref="#Francie">Francie</persName> whispered, <said who="#Francie" aloud="true" direct="true">"or we'll have the whole gang down on us."</said></p>
 
-    <p>They slipped through a little door in a tall fence above which crazy lumberpiles towered. They could smell the <geogfeat>river</geogfeat> and cedarwood and sawdust. They could hear the <geogfeat>river</geogfeat> lapping at the piles under their feet. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> drew her to him and pressed his mouth down on hers.</p>
+    <p>They slipped through a little door in a tall fence above which crazy lumberpiles towered. They could smell the <geogFeat>river</geogFeat> and cedarwood and sawdust. They could hear the <geogFeat>river</geogFeat> lapping at the piles under their feet. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> drew her to him and pressed his mouth down on hers.</p>
 
     <p><said who="#" aloud="true" direct="true">"Hay dere <orig>dont</orig> you know you <orig>cant</orig> come out here at night disaway?"</said> a voice yapped at them. The <occupation>watchman</occupation> flashed a lantern in their eyes.</p>
 
@@ -3329,7 +3329,7 @@
 
     <p>They were dragging themselves down the street again with the black riverwind in their teeth.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Look out."</said> A <occupation>policeman</occupation> passed whistling softly to himself. They drew apart. <said who="#" aloud="true" direct="true">"Oh <persName>Francie</persName> they'll be takin us to the nuthouse if we keep this up. Let's go to your room."</said></p>
+    <p><said who="#" aloud="true" direct="true">"Look out."</said> A <occupation>policeman</occupation> passed whistling softly to himself. They drew apart. <said who="#" aloud="true" direct="true">"Oh <persName ref="#Francie">Francie</persName> they'll be takin us to the nuthouse if we keep this up. Let's go to your room."</said></p>
 
     <p><said who="#" aloud="true" direct="true">"Landlady'll throw me out, that's all."</said></p>
 
@@ -3345,7 +3345,7 @@
 
     <p><said who="#" aloud="true" direct="true">"That <orig>dont</orig> matter, silly. I'll see if it's all right. My room's way back past the kitchen so if they're all in bed they <orig>cant</orig> hear us."</said></p>
 
-    <p>When she left him he could hear his heart beating. In <time dur-iso="PT1S">a second</time> she came back. He tiptoed after her down a creaky hall. A sound of snoring came through a door. There was a smell of cabbage and sleep in the hall. Once in her room she locked the door and put a chair against it under the knob. A triangle of ashen light came in from the street. <said who="#" aloud="true" direct="true">"Now for crissake keep still <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>."</said> One shoe still in each hand he reached for her and hugged her. He lay beside her whispering on and on with his lips against her ear. <said who="#" aloud="true" direct="true">"And <persName>Francie</persName> I'll make good, honest I will; I got to be a <occupation>sergeant</occupation> overseas till they busted me for goin A.W.O.L. That shows I got it in me. Onct I get a chance I'll make a whole lot of <persName ref="#JackCunningham">jack</persName> and you an me'll go back an see Chateau Teery an Paree an all that stuff; honest you'd like it <persName>Francie</persName> . . . Jez the towns are old and funny and quiet and cozylike an they have the swellest ginmills where you sit outside at little tables in the sun an watch the people pass an the food's swell too once you get to like it an they have hotels all over where we could have gone like tonight an they <orig>dont</orig> care if your married or nutten. <orig>An</orig> they have big beds all cozy made of wood and they bring<orig>ye</orig>up breakfast in bed. Jez <persName>Francie</persName> you'd like it."</said></p>
+    <p>When she left him he could hear his heart beating. In <time dur-iso="PT1S">a second</time> she came back. He tiptoed after her down a creaky hall. A sound of snoring came through a door. There was a smell of cabbage and sleep in the hall. Once in her room she locked the door and put a chair against it under the knob. A triangle of ashen light came in from the street. <said who="#" aloud="true" direct="true">"Now for crissake keep still <persName ref="#DutchRobertson"><forename>Dutch</forename></persName>."</said> One shoe still in each hand he reached for her and hugged her. He lay beside her whispering on and on with his lips against her ear. <said who="#" aloud="true" direct="true">"And <persName ref="#Francie">Francie</persName> I'll make good, honest I will; I got to be a <occupation>sergeant</occupation> overseas till they busted me for goin A.W.O.L. That shows I got it in me. Onct I get a chance I'll make a whole lot of <persName ref="#JackCunningham">jack</persName> and you an me'll go back an see Chateau Teery an Paree an all that stuff; honest you'd like it <persName ref="#Francie">Francie</persName> . . . Jez the towns are old and funny and quiet and cozylike an they have the swellest ginmills where you sit outside at little tables in the sun an watch the people pass an the food's swell too once you get to like it an they have hotels all over where we could have gone like tonight an they <orig>dont</orig> care if your married or nutten. <orig>An</orig> they have big beds all cozy made of wood and they bring<orig>ye</orig>up breakfast in bed. Jez <persName ref="#Francie">Francie</persName> you'd like it."</said></p>
 
     <p>They were walking to dinner through the snow. Big snowfeathers spun and spiraled about them mottling the glare of the streets with blue and pink and yellow, blotting perspectives.</p>
 
@@ -3818,7 +3818,7 @@
 
     <p><said who="#" aloud="true" direct="true">"Pretty good,"</said> said <persName ref="#JoeHarland"><forename>Joe</forename></persName> puffing out his chest. <said who="#" aloud="true" direct="true">"<persName ref="#GusMcNiel"><forename>Gus</forename></persName> tells me Tammany'll be right behind us in our drive for the bonus . . . planning a nation wide campaign. He gave me some cigars a friend o his brought up by airplane from <placeName><settlement type="city">Havana</settlement></placeName>. . . . Have one?"</said> With their cigars tilting up out of the corners of their mouths they walked briskly cockily across City Hall square. Opposite the old City Hall there was a scaffolding. <persName ref="#JoeHarland"><forename>Joe</forename></persName> pointed at it with his cigar. <said who="#" aloud="true" direct="true">"That there's the new statue of Civic Virtue the mayor's havin set up."</said></p>
 
-    <p>The steam of cooking wrenched at his knotted stomach as he passed Child's. Dawn was sifting fine gray dust over the black ironcast city. <persName ref="#DutchRobertson"><forename>Dutch</forename> <surname>Robertson</surname></persName> despondently crossed <address>Union Square</address>, remembering <persName>Francie</persName>'s warm bed, the spicy smell of her hair. He pushed his hands deep in his empty pockets. Not a red, and <persName>Francie</persName> couldn't give him anything. He walked east past the hotel on Fifteenth. A colored man was sweeping off the steps. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> looked at him enviously; he's got a job. Milk wagons jingled by. On <address>Stuyvesant Square</address> a <occupation>milkman</occupation>brushed past him with a bottle in each hand. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> stuck out his jaw and talked tough. <said who="#" aloud="true" direct="true">"Give us a swig o milk will yez?"</said> The <occupation>milkman</occupation>was a frail pinkfaced youngster. His blue eyes wilted. <said who="#" aloud="true" direct="true">"Sure go round behind the wagon, there's an open bottle under the seat. <orig>Dont</orig> let nobody see you drink it."</said> He drank it in deep gulps, sweet and soothing to his parched throat. Jez I ddin't need to talk rough like that. He waited until the boy came back. <said who="#" aloud="true" direct="true">"Thankye buddy, that was mighty white."</said></p>
+    <p>The steam of cooking wrenched at his knotted stomach as he passed Child's. Dawn was sifting fine gray dust over the black ironcast city. <persName ref="#DutchRobertson"><forename>Dutch</forename> <surname>Robertson</surname></persName> despondently crossed <address>Union Square</address>, remembering <persName ref="#Francie">Francie</persName>'s warm bed, the spicy smell of her hair. He pushed his hands deep in his empty pockets. Not a red, and <persName ref="#Francie">Francie</persName> couldn't give him anything. He walked east past the hotel on Fifteenth. A colored man was sweeping off the steps. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> looked at him enviously; he's got a job. Milk wagons jingled by. On <address>Stuyvesant Square</address> a <occupation>milkman</occupation>brushed past him with a bottle in each hand. <persName ref="#DutchRobertson"><forename>Dutch</forename></persName> stuck out his jaw and talked tough. <said who="#" aloud="true" direct="true">"Give us a swig o milk will yez?"</said> The <occupation>milkman</occupation>was a frail pinkfaced youngster. His blue eyes wilted. <said who="#" aloud="true" direct="true">"Sure go round behind the wagon, there's an open bottle under the seat. <orig>Dont</orig> let nobody see you drink it."</said> He drank it in deep gulps, sweet and soothing to his parched throat. Jez I ddin't need to talk rough like that. He waited until the boy came back. <said who="#" aloud="true" direct="true">"Thankye buddy, that was mighty white."</said></p>
 
     <p>He walked into the chilly park and sat down on a bench. There was hoarfrost on the asphalt. He picked up a torn piece of pink evening newspaper. <floatingtext><measure type="currency"><num type="cardinal" value="500000">$500,000</num></measure> Holdup. <occupation>Bank Messenger</occupation> Robbed in <orgName>Wall Street</orgName> Rush Hour</floatingtext>.</p>
 
