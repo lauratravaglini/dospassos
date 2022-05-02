@@ -1621,61 +1621,61 @@
                         <head>IV. Fire Engine</head>
 
                     <epigraph>
-                    <p>Such afternoons the buses are crowded into line like elephants in a circusparade. Morningside Heights to <address>Washington Square</address>, Penn Station to Grant's Tomb. Parlorsnakes and flappers joggle hugging downtown uptown, hug joggling gray square after gray square, until they see the new moon giggling over Weehawken and feel the gusty wind of a dead Sunday blowing dust in their faces, dust of a typsy twilight.</p>
+                    <p>Such afternoons the buses are crowded into line like elephants in a circusparade. Morningside Heights to <address>Washington Square</address>, <placeName>Penn Station</placeName> to <placeName>Grant's Tomb</placeName>. Parlorsnakes and flappers joggle hugging downtown uptown, hug joggling gray square after gray square, until they see the new moon giggling over Weehawken and feel the gusty wind of a dead Sunday blowing dust in their faces, dust of a typsy twilight.</p>
                     </epigraph>
 
 
                     <p>THEY are walking up the Mall in <placeName>Central Park</placeName>.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Looks like he had a boil on his neck,"</said> says <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in front of the statue of Burns.</p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"Looks like he had a boil on his neck,"</said> says <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in front of the <placeName>statue of Burns</placeName>.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Ah,"</said> whispers <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> with a fat-throated sigh, <said who="#" aloud="true" direct="true">"but he was a great poet."</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"Ah,"</said> whispers <persName ref="#HarryGoldweiser"><forename>Harry</forename> <surname>Goldweiser</surname></persName> with a fat-throated sigh, <said who="#HarryGoldweiser" aloud="true" direct="true">"but he was a great poet."</said></p>
 
                     <p>She is walking in her wide hat in her pale loose dress that the wind now and then presses against her legs and arms, silkily, swishily walking in the middle of great rosy and purple and pistachiogreen bubbles of twilight that swell out of the grass and trees and ponds, bulge against the tall houses sharp gray as dead teeth round the southern end of the park, melt into the indigo zenith. When he talks, forming sentences roundly with his thick lips, continually measuring her face with his brown eyes, she feels his words press against her body, nudge in the hollows where her dress clings; she can hardly breathe for fear of listening to him.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"<title>The Zinnia Girl</title>'s going to be an absolute knockout, <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>, I'm telling you and that part's just written for you, I'd enjoy working with you again, honest. . . . You're so different, that's what it is about you. All these girls round <placeName><settlement type="city">New York</settlement></placeName> here are just the same, they're monotonous. Of course you could sing swell if you wanted to. . . . I've been crazy as a loon since I met you, and that's a good <num type="cardinal" value="6">six</num> months now. I sit down to eat and the food <orig>dont</orig> have any taste. . . . You <orig>cant</orig> understand how lonely a man gets when year after year he's had to crush his feelings down into himself. When I was a young fellow I was different, but what are you to do? I had to make money and make my way in the world. And so I've gone on year after year. For the <num type="ordinal" value="1">first</num> time I'm glad I did it, that I shoved ahead and made big money, because now I can offer it all to you. Understand what I mean? . . . All those ideels and beautiful things pushed down into myself when I was making my way in a man's world were like planting seed and you're their flower."</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"<title>The Zinnia Girl</title>'s going to be an absolute knockout, <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>, I'm telling you and that part's just written for you, I'd enjoy working with you again, honest. . . . You're so different, that's what it is about you. All these girls round <placeName><settlement type="city">New York</settlement></placeName> here are just the same, they're monotonous. Of course you could sing swell if you wanted to. . . . I've been crazy as a loon since I met you, and that's a good <num type="cardinal" value="6">six</num> months now. I sit down to eat and the food <orig>dont</orig> have any taste. . . . You <orig>cant</orig> understand how lonely a man gets when year after year he's had to crush his feelings down into himself. When I was a young fellow I was different, but what are you to do? I had to make money and make my way in the world. And so I've gone on year after year. For the <num type="ordinal" value="1">first</num> time I'm glad I did it, that I shoved ahead and made big money, because now I can offer it all to you. Understand what I mean? . . . All those ideels and beautiful things pushed down into myself when I was making my way in a man's world were like planting seed and you're their flower."</said></p>
 
                     <p>Now and then as they walk the back of his hand brushes against hers; she clenches her fist sullenly drawing it away from the hot determined pudginess of his hand.</p>
 
-                    <p>The Mall is full of couples, families waiting for the music to begin. It smells of children and dress-shields and talcum powder. A <occupation>balloonman</occupation> passes them trailing red and yellow and pink balloons like a great inverted bunch of grapes behind him. <said who="#" aloud="true" direct="true">"Oh buy me a balloon."</said> The words are out of her mouth before she can stop them.</p>
+                    <p>The Mall is full of couples, families waiting for the music to begin. It smells of children and dress-shields and talcum powder. A <occupation>balloonman</occupation> passes them trailing red and yellow and pink balloons like a great inverted bunch of grapes behind him. <said who="#EllenThatcher" aloud="true" direct="true">"Oh buy me a balloon."</said> The words are out of her mouth before she can stop them.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Hay you gimme <num type="cardinal" value="1">one</num> of each color. . . . And how about <num type="cardinal" value="1">one</num>of those gold ones? No keep the change."</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"Hay you gimme <num type="cardinal" value="1">one</num> of each color. . . . And how about <num type="cardinal" value="1">one</num>of those gold ones? No keep the change."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> put the strings of the balloons into the dirtsticky hands of <num type="cardinal" value="3">three</num> little monkeyfaced girls in red tams. Each balloon caught a crescent of violet glare from the arclight.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Aw you like children, <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>, <orig>dont</orig> you? I like a woman to like children."</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"Aw you like children, <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>, <orig>dont</orig> you? I like a woman to like children."</said></p>
 
-                    <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> sits numb at a table on the terrace of the Casino. A hot gust of foodsmell and the rhythm of a band playing He's a Ragpicker swirls chokingly about her; now and then she butters a scrap of roll and puts it in her mouth. She feels very helpless, caught like a fly in his sticky trickling sentences.</p>
+                    <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> sits numb at a table on the terrace of the Casino. A hot gust of foodsmell and the rhythm of a band playing <title>He's a Ragpicker</title> swirls chokingly about her; now and then she butters a scrap of roll and puts it in her mouth. She feels very helpless, caught like a fly in his sticky trickling sentences.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"There's nobody else in <placeName><settlement type="city">New York</settlement></placeName> could have got me to walk that far, I'll tell you that. . . . I walked too much in the old days, do you understand, used to sell papers when I was a kid and run errands for Schwartz's Toystore . . . on my feet all day except when I was in nightschool. I thought I was going to be a lawyer, all us East Side fellers thought we were goin to be <occupation>lawyers</occupation>. Then I worked as an usher<num type="cardinal" value="1">one</num>summer at the Irving Place and got the theater bug. . . . Not such a bad hunch it turned out to be, but it's too uncertain. Now I <orig>dont</orig> care any more, only want to cover my losses. That's the trouble with me. I'm <age value="35">thirtyfive</age> an I <orig>dont</orig> care any more. <num type="cardinal" value="10">Ten</num> years ago I was still only a kind of clerk in old man Erlanger's office, and now there's lots of em whose shoes I used to shine in the old days'd be real glad of the opportunity to sweep my floors on West Forty-eighth. . . . Tonight I can take you anywhere in <placeName><settlement type="city">New York</settlement></placeName>, I <orig>dont</orig> care how expensive or how chic it is . . . an in the old days us kids used to think it was paradise if we had <num type="cardinal" value="5">five</num> plunks to take a couple of girls down to the Island. . . . I bet all that was different with you <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>. . . . But what I want to do is get that old feelin back, understand? . . . Where shall we go?"</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"There's nobody else in <placeName><settlement type="city">New York</settlement></placeName> could have got me to walk that far, I'll tell you that. . . . I walked too much in the old days, do you understand, used to sell papers when I was a kid and run errands for <placeName><orgName>Schwartz's</placeName> Toystore</placeName> . . . on my feet all day except when I was in nightschool. I thought I was going to be a lawyer, all us East Side fellers thought we were goin to be <occupation>lawyers</occupation>. Then I worked as an usher<num type="cardinal" value="1">one</num>summer at the Irving Place and got the theater bug. . . . Not such a bad hunch it turned out to be, but it's too uncertain. Now I <orig>dont</orig> care any more, only want to cover my losses. That's the trouble with me. I'm <age value="35">thirtyfive</age> an I <orig>dont</orig> care any more. <num type="cardinal" value="10">Ten</num> years ago I was still only a kind of clerk in old man Erlanger's office, and now there's lots of em whose shoes I used to shine in the old days'd be real glad of the opportunity to sweep my floors on West Forty-eighth. . . . Tonight I can take you anywhere in <placeName><settlement type="city">New York</settlement></placeName>, I <orig>dont</orig> care how expensive or how chic it is . . . an in the old days us kids used to think it was paradise if we had <num type="cardinal" value="5">five</num> plunks to take a couple of girls down to the Island. . . . I bet all that was different with you <persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName>. . . . But what I want to do is get that old feelin back, understand? . . . Where shall we go?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Why <orig>dont</orig> we go down to Coney Island then? I've never been?"</said></p>
+                    <p><said who="#EllenThatcher" aloud="true" direct="true">"Why <orig>dont</orig> we go down to <geogName>Coney Island</geogName> then? I've never been?"</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"It's a pretty rough crowd . . . still we can just ride round. Let's do it. I'll go phone for the car."</said></p>
+                    <p><said who="#HarryGoldweiser" aloud="true" direct="true">"It's a pretty rough crowd . . . still we can just ride round. Let's do it. I'll go phone for the car."</said></p>
 
                     <p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> sits alone looking down into her coffeecup. She puts a lump of sugar on her spoon, dips it in the coffee and pops it into her mouth where she crunches it slowly, rubbing the grains of sugar against the roof of her mouth with her tongue. The orchestra is playing a tango.</p>
 
                     <p>The sun streaming into the office under the drawn shades cut a bright slanting layer like watered silk through the cigarsmoke.</p>
 
-                    <p><said who="#" aloud="true" direct="true">"Mighty easy,"</said> <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> was saying dragging out the words. <said who="#" aloud="true" direct="true">"<persName ref="#GusMcNiel"><forename>Gus</forename></persName> we got to go mighty easy on this."</said> <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> bullnecked redfaced with a heavy watchchain in his vest sat in the armchair nodding silently, pulling on his cigar. <said who="#" aloud="true" direct="true">"As things are now no court would sustain such an injunction . . . an injunction that seems to me a pure piece of party politics on <occupation>Judge</occupation> Connor's part, but there are certain elements. . . ."</said></p>
+                    <p><said who="#GeorgeBaldwin" aloud="true" direct="true">"Mighty easy,"</said> <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> was saying dragging out the words. <said who="#GeorgeBaldwin" aloud="true" direct="true">"<persName ref="#GusMcNiel"><forename>Gus</forename></persName> we got to go mighty easy on this."</said> <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> bullnecked redfaced with a heavy watchchain in his vest sat in the armchair nodding silently, pulling on his cigar. <said who="#" aloud="true" direct="true">"As things are now no court would sustain such an injunction . . . an injunction that seems to me a pure piece of party politics on <persName><occupation>Judge</occupation> Connor</persName>'s part, but there are certain elements. . . ."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"You said it. . . . Look here <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I'm goin to leave this whole blame thing to you. You pulled me through the East <placeName><settlement type="city">New York</settlement></placeName> dockin space mess and I guess you can pull me through this."</said></p>
+                    <p><said who="#GusMcNiel" aloud="true" direct="true">"You said it. . . . Look here <persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I'm goin to leave this whole blame thing to you. You pulled me through the East <placeName><settlement type="city">New York</settlement></placeName> dockin space mess and I guess you can pull me through this."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"But <persName ref="#GusMcNiel"><forename>Gus</forename></persName> your position in this whole affair has been entirely within the bounds of legality. If it <orig>werent</orig> I certainly should not be able to take the case, not even for an old friend like you."</said></p>
+                    <p><said who="#GeorgeBaldwin" aloud="true" direct="true">"But <persName ref="#GusMcNiel"><forename>Gus</forename></persName> your position in this whole affair has been entirely within the bounds of legality. If it <orig>werent</orig> I certainly should not be able to take the case, not even for an old friend like you."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"You know me <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>. . . . I never went back on a guy yet and I <orig>dont</orig> expect to have anybody go back on me."</said> <persName ref="#GusMcNiel"><forename>Gus</forename></persName> got heavily to his feet and began to limp about the office leaning on a goldknobbed cane. <said who="#" aloud="true" direct="true">"Connor's a <distinct type="swearing">son of a bitch</distinct> . . . an honest, you wouldn't believe it but he was a decent guy before he went up to Albany."</said></p>
+                    <p><said who="#GusMcNiel" aloud="true" direct="true">"You know me <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>. . . . I never went back on a guy yet and I <orig>dont</orig> expect to have anybody go back on me."</said> <persName ref="#GusMcNiel"><forename>Gus</forename></persName> got heavily to his feet and began to limp about the office leaning on a goldknobbed cane. <said who="#GusMcNiel" aloud="true" direct="true">"<persName><forename>Connor</forename></persName>'s a <distinct type="swearing">son of a bitch</distinct> . . . an honest, you wouldn't believe it but he was a decent guy before he went up to <placeName><country>Albany</country></placeName>."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"My position will be that your attitude in this whole matter has been willfully misconstrued. Connor has been using his position on the bench to further a political end."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"My position will be that your attitude in this whole matter has been willfully misconstrued. <persName><forename>Connor</forename></persName> has been using his position on the bench to further a political end."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"God I wish we could get him. Jez I thought he was <num type="cardinal" value="1">one</num> of the boys; he was until he went up an got mixed up with all those lousy upstate Republicans. Albany's been the ruination of many a good man."</said></p>
 
-                    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>got up from the flat mahogany table where he sat between tall sheaves of foolscap and put his hand on <persName ref="#GusMcNiel"><forename>Gus</forename></persName>'s shoulder. <said who="#" aloud="true" direct="true">"<orig>Dont</orig> you lose any sleep over it. . . ."</said></p>
+                    <p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> got up from the flat mahogany table where he sat between tall sheaves of foolscap and put his hand on <persName ref="#GusMcNiel"><forename>Gus</forename></persName>'s shoulder. <said who="#" aloud="true" direct="true">"<orig>Dont</orig> you lose any sleep over it. . . ."</said></p>
 
                     <p><said who="#" aloud="true" direct="true">"I'd feel all right if it wasn't for those Interborough bonds."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"What bonds? Who's seen any bonds? . . . Let's get this young fellow in here . . . <persName ref="#JoeHarland"><forename>Joe</forename></persName> . . . And<num type="cardinal" value="1">one</num>more thing <persName ref="#GusMcNiel"><forename>Gus</forename></persName>, for heaven's sakes keep your mouth shut. . . . If any reporters or anybody comes round to see you tell 'em about your trip to Bermuda. . . . We can get publicity enough when we need it. Just at present we want to keep the papers out of it or you'll have all the reformers on your heels."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"What bonds? Who's seen any bonds? . . . Let's get this young fellow in here . . . <persName ref="#JoeHarland"><forename>Joe</forename></persName> . . . And <num type="cardinal" value="1">one</num> more thing <persName ref="#GusMcNiel"><forename>Gus</forename></persName>, for heaven's sakes keep your mouth shut. . . . If any reporters or anybody comes round to see you tell 'em about your trip to Bermuda. . . . We can get publicity enough when we need it. Just at present we want to keep the papers out of it or you'll have all the reformers on your heels."</said></p>
 
-                    <p><said who="#" aloud="true" direct="true">"Well<distinct type="informal"><orig>aint</orig></distinct>they friends of yours? You can fix it up with em."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Well <distinct type="informal"><orig>aint</orig></distinct> they friends of yours? You can fix it up with em."</said></p>
 
 
 
@@ -2137,37 +2137,37 @@
 
     <p><said who="#TonyHunter" aloud="true" direct="true">"But it's such a horrible thing,"</said> said <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"You think we're a lot of callous brutes, <orig>dont</orig> you <persName ref="#TonyHunter"><forename>Tony</forename></persName>?"</said></p>
+    <p><said who="#GrantBullock" aloud="true" direct="true">"You think we're a lot of callous brutes, <orig>dont</orig> you <persName ref="#TonyHunter"><forename>Tony</forename></persName>?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"No I just <orig>dont</orig> see the pleasure people get out of reading about it."</said></p>
+    <p><said who="#TonyHunter" aloud="true" direct="true">"No I just <orig>dont</orig> see the pleasure people get out of reading about it."</said></p>
 
-    <p><said who="#JimmyHerf" aloud="true" direct="true">"Oh it's all in the day's work,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>. <said who="#" aloud="true" direct="true">"What gives me gooseflesh is the <orgname>armies</orgname> mobilizing, <placeName><settlement type="city">Belgrade</settlement></placeName> bombarded, <placeName><country>Belgium</country></placeName> invaded . . . all that stuff. I just <orig>cant</orig> imagine it. . . . They've killed Jaures."</said> <said who="#" aloud="true" direct="true">"Who's he?"</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"Oh it's all in the day's work,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>. <said who="#JimmyHerf" aloud="true" direct="true">"What gives me gooseflesh is the <orgname>armies</orgname> mobilizing, <placeName><settlement type="city">Belgrade</settlement></placeName> bombarded, <placeName><country>Belgium</country></placeName> invaded . . . all that stuff. I just <orig>cant</orig> imagine it. . . . They've killed Jaures."</said> <said who="#TonyHunter" aloud="true" direct="true">"Who's he?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"A <nationality>French</nationality> Socialist."</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"A <nationality>French</nationality> Socialist."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Those <distinct type="taboo">goddam</distinct><nationality>French</nationality> are so <distinct type="taboo">goddam</distinct> degenerate all they can do is fight duels and sleep with each other's wives. I bet the Germans are in <placeName><settlement type="city">Paris</settlement></placeName> in<num type="cardinal" value="2">two</num>weeks."</said></p>
+    <p><said who="#GrantBullock" aloud="true" direct="true">"Those <distinct type="taboo">goddam</distinct><nationality>French</nationality> are so <distinct type="taboo">goddam</distinct> degenerate all they can do is fight duels and sleep with each other's wives. I bet the Germans are in <placeName><settlement type="city">Paris</settlement></placeName> in <num type="cardinal" value="2">two</num> weeks."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"It couldn't last long,"</said> said <persName><surname>Framingham</surname></persName>, a tall ceremonious man with a whispy blond moustache who sat beside Hunter.</p>
+    <p><said aloud="true" direct="true">"It couldn't last long,"</said> said <persName><surname>Framingham</surname></persName>, a tall ceremonious man with a whispy blond moustache who sat beside <persName ref="#TonyHunter"><surname>Hunter</surname></persName>.</p>
 
-    <p><said who="#" aloud="true" direct="true">"Well I'd like to get an assignment as warcorrespondent."</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"Well I'd like to get an assignment as <occupation>warcorrespondent</occupation>."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Say <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> do you know this <nationality>French</nationality> guy who's barkeep here?"</said></p>
+    <p><said who="#GrantBullock" aloud="true" direct="true">"Say <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> do you know this <nationality>French</nationality> guy who's barkeep here?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"<persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>? Sure I know him."</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"<persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>? Sure I know him."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Is he a good guy?"</said></p> 
+    <p><said who="#GrantBullock" aloud="true" direct="true">"Is he a good guy?"</said></p> 
 
-<p><said who="#" aloud="true" direct="true">"He's swell."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"He's swell."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Let's go out and talk to him. He might give us some dope about this here murder. God I'd like it if I could hitch it on to the World Conflict."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"Let's go out and talk to him. He might give us some dope about this here murder. God I'd like it if I could hitch it on to the World Conflict."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I have the greatest confidence,"</said> had begun <persName><surname>Framingham</surname></persName>, <said who="#" aloud="true" direct="true">"that the <nationality>British</nationality> will patch it up somehow."</said> <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> followed <persName ref="#GrantBullock"><surname>Bullock</surname></persName> towards the bar.</p>
+<p><said aloud="true" direct="true">"I have the greatest confidence,"</said> had begun <persName><surname>Framingham</surname></persName>, <said aloud="true" direct="true">"that the <nationality>British</nationality> will patch it up somehow."</said> <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> followed <persName ref="#GrantBullock"><surname>Bullock</surname></persName> towards the bar.</p>
 
     <p>Crossing the room he caught sight of <persName ref="#EllenThatcher"><forename>Ellie<forename></persName>. Her hair was very red in the glow from the lamp beside her. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>was leaning towards her across the table with moist lips and bright eyes. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> felt something glittering go off in his chest like a released spring. He turned his head away suddenly for fear she should see him.</p>
 
-<p><persName ref="#GrantBullock"><surname>Bullock</surname></persName> turned and nudged him in the ribs. <said who="#" aloud="true" direct="true">"Say <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> who the <distinct type="taboo">hell</distinct> are those <num type="cardinal" value="2">two</num> guys came out with us?"</said></p>
+<p><persName ref="#GrantBullock"><surname>Bullock</surname></persName> turned and nudged him in the ribs. <said who="#GrantBullock" aloud="true" direct="true">"Say <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> who the <distinct type="taboo">hell</distinct> are those <num type="cardinal" value="2">two</num> guys came out with us?"</said></p>
 
-<p><said who="#JimmyHerf" aloud="true" direct="true">"They are friends of <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>'s. I <orig>dont</orig> know them particularly well. <persName><surname>Framingham</surname></persName>'s an interior decorator I think."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"They are friends of <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>'s. I <orig>dont</orig> know them particularly well. <persName><surname>Framingham</surname></persName>'s an <occupation>interior decorator</occupation> I think."</said></p>
 
 <p>At the bar under a picture of the Lusitania stood a dark man in a white coat distended by a deep gorilla chest. He was vibrating a shaker between his very hairy hands. A <occupation>waiter</occupation> stood in front of the bar with a tray of cocktail glasses. The cocktail foamed into them greenishwhite.</p>
 
@@ -2175,45 +2175,45 @@
 
 <p><said who="#CongoJake" aloud="true" direct="true">"Ah <foreign xml:lang="fr">bonsoir monsieur <persName ref="#JimmyHerf"><surname><orig>'Erf</orig></surname></persName>, ça biche</foreign>?"</said></p>
 
-<p><said who="#JimmyHerf" aloud="true" direct="true">"Pretty good . . . Say <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> I want you to meet a friend of mine. This is <persName ref="#GrantBullock"><forename>Grant</forename> <surname>Bullock</surname></persName> of the American."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Pretty good . . . Say <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> I want you to meet a friend of mine. This is <persName ref="#GrantBullock"><forename>Grant</forename> <surname>Bullock</surname></persName> of the <nationality>American</nationality>."</said></p>
 
-<p><said who="#CongoJake" aloud="true" direct="true">"Very please. You an <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName> <surname><orig>'Erf</orig></surname></persName> <orig>ave</orig> someting on the 'ouse sir."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"Very please. You an <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName> <surname><orig>'Erf</orig></surname></persName> <orig>ave</orig> someting on the <orig>'ouse</orig> sir."</said></p>
 
 
 
-<p>The <occupation>waiter</occupation>raised the clinking tray of glasses to shoulder height and carried them out on the flat of his hand.</p>
+<p>The <occupation>waiter</occupation> raised the clinking tray of glasses to shoulder height and carried them out on the flat of his hand.</p>
 
-<p><said who="#" aloud="true" direct="true">"I suppose a gin fizz'll ruin all that whiskey but I'd like one. . . . Drink something with us <orig>wont</orig> you <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>?"</said> <persName ref="#GrantBullock"><surname>Bullock</surname></persName> put a foot up on the brass rail and took a sip. <said who="#" aloud="true" direct="true">"I was wondering,"</said> he said slowly, <said who="#" aloud="true" direct="true">"if there was any dope going round about this murder down the road."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"I suppose a gin fizz'll ruin all that whiskey but I'd like one. . . . Drink something with us <orig>wont</orig> you <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>?"</said> <persName ref="#GrantBullock"><surname>Bullock</surname></persName> put a foot up on the brass rail and took a sip. <said who="#GrantBullock" aloud="true" direct="true">"I was wondering,"</said> he said slowly, <said who="#GrantBullock" aloud="true" direct="true">"if there was any dope going round about this murder down the road."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Everybody <orig>ave</orig> his teyorie . . ."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"Everybody <orig>ave</orig> his teyorie . . ."</said></p>
 
-<p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught a faint wink from <num type="cardinal" value="1">one</num>of <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>'s deepset black eyes. <said who="#" aloud="true" direct="true">"Do you live out here?"</said> he asked to keep from giggling.</p>
+<p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught a faint wink from <num type="cardinal" value="1">one</num> of <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>'s deepset black eyes. <said who="#JimmyHerf" aloud="true" direct="true">"Do you live out here?"</said> he asked to keep from giggling.</p>
 
-    <p><said who="#" aloud="true" direct="true">"In the middle of the night I hear an automobile go by very fast wid de cutout open. I tink maybe it run into someting because it stopped very quick and come back much faster, licketysplit."</said></p>
+    <p><said who="#CongoJake" aloud="true" direct="true">"In the middle of the night I hear an automobile go by very fast wid de cutout open. I tink maybe it run into someting because it stopped very quick and come back much faster, licketysplit."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Did you hear a shot?"</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"Did you hear a shot?"</said></p>
 
-    <p><persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> shook his head mysteriously. <said who="#" aloud="true" direct="true">"I ear voices, very angree voices."</said></p>
+    <p><persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> shook his head mysteriously. <said who="#CongoJake" aloud="true" direct="true">"I ear voices, very angree voices."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Gosh I'm going to look into this,"</said> said <persName ref="#GrantBullock"><surname>Bullock</surname></persName> tossing off the end of his drink. <said who="#" aloud="true" direct="true">"Let's go back to the girls."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"Gosh I'm going to look into this,"</said> said <persName ref="#GrantBullock"><surname>Bullock</surname></persName> tossing off the end of his drink. <said who="#GrantBullock" aloud="true" direct="true">"Let's go back to the girls."</said></p>
 
-<p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> was looking at the face wrinkled like a walnut and the dead codfish eyes of the <occupation>waiter</occupation>pouring coffee. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>was leaning back in his chair staring at her through his eyelashes. He was talking in a low monotone:</p>
+<p><persName ref="#EllenThatcher"><forename>Ellie<forename></persName> was looking at the face wrinkled like a walnut and the dead codfish eyes of the <occupation>waiter</occupation> pouring coffee. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> was leaning back in his chair staring at her through his eyelashes. He was talking in a low monotone:</p>
 
-<p><said who="#" aloud="true" direct="true">"<orig>Cant</orig> you see that I'll go mad if I <orig>cant</orig> have you. You are the only thing in the world I ever wanted."</said></p>
+<p><said who="#GeorgeBaldwin" aloud="true" direct="true">"<orig>Cant</orig> you see that I'll go mad if I <orig>cant</orig> have you. You are the only thing in the world I ever wanted."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I <orig>dont</orig> want to be had by anybody. . . . <orig>Cant</orig> you understand that a woman wants some freedom? Do be a sport about it. I'll have to go home if you talk like that."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I <orig>dont</orig> want to be had by anybody. . . . <orig>Cant</orig> you understand that a woman wants some freedom? Do be a sport about it. I'll have to go home if you talk like that."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Why have you kept me dangling then? I'm not the sort of man you can play like a trout. You know that perfectly well."</said></p>
+<p><said who="#GeorgeBaldwin" aloud="true" direct="true">"Why have you kept me dangling then? I'm not the sort of man you can play like a trout. You know that perfectly well."</said></p>
 
 <p>She looked straight at him with wide gray eyes; the light gave a sheen of gold to the little brown specks in the iris.</p>
 
-<p><said who="#" aloud="true" direct="true">"It's not so easy never to be able to have friends."</said> She looked down at her fingers on the edge of the table. His eyes were on the glint of copper along her eyelashes. Suddenly he snapped the silence that was tightening between them.</p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"It's not so easy never to be able to have friends."</said> She looked down at her fingers on the edge of the table. His eyes were on the glint of copper along her eyelashes. Suddenly he snapped the silence that was tightening between them.</p>
 
-<p><said who="#" aloud="true" direct="true">"Anyway let's dance."</said></p>
+<p><said who="#GeorgeBaldwin" aloud="true" direct="true">"Anyway let's dance."</said></p>
 
-<p>J'ai fait trois fois le tour du monde</p>
+<p><said who="#CongoJake" aloud="true" direct="true"><foreign xml:lang="fr">J'ai fait trois fois le tour du monde</p>
 
-<p>Dans mes voyages,</p>
+<p>Dans mes voyages,</foreign></said></p>
 
 
 
@@ -2221,41 +2221,41 @@
 
 <p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> stood alone in the corner sipping a gin fizz. Next him <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> was slapping <persName ref="#GrantBullock"><surname>Bullock</surname></persName> on the back and roaring in his ear:</p>
 
-<p><said who="#" aloud="true" direct="true">"Why if they <orig>dont</orig> close the Stock Exchange . . . godamighty . . . before the blowup comes there'll be an opportunity. . . . Well begorry <orig>dont</orig> you forget it. A panic's the time for a man with a cool head to make money."</said></p>
+<p><said who="#GusMcNiel" aloud="true" direct="true">"Why if they <orig>dont</orig> close the <orgName>Stock Exchange</orgName> . . . godamighty . . . before the blowup comes there'll be an opportunity. . . . Well begorry <orig>dont</orig> you forget it. A panic's the time for a man with a cool head to make money."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"There have been some big failures already and this is just the <num type="ordinal" value="1">first</num> whiff. . . ."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"There have been some big failures already and this is just the <num type="ordinal" value="1">first</num> whiff. . . ."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Opportunity knocks but once at a young man's door. . . . You listen to me when there's a big failure of<num type="cardinal" value="1">one</num>o them brokerage firms honest men can bless themselves. . . . But you're not putting everythin I'm tellin<orig>ye</orig>in the paper, are you? There's a good guy. . . . Most of you fellers go around puttin words in a man's mouth. <orig>Cant</orig> trust<num type="cardinal" value="1">one</num>of you. I'll tell you <num type="cardinal" value="1">one</num> thing though the lockout is a wonderful thing for the contractors. <orig>Wont</orig> be no housebuildin with a war on anyway."</said> <said who="#" aloud="true" direct="true">"It <orig>wont</orig> last more'n<num type="cardinal" value="2">two</num>weeks and I <orig>dont</orig> see what it has to do with us anyway."</said></p>
+<p><said who="#GusMcNiel" aloud="true" direct="true">"Opportunity knocks but once at a young man's door. . . . You listen to me when there's a big failure of <num type="cardinal" value="1">one</num> <orig>o</orig> them brokerage firms honest men can bless themselves. . . . But you're not putting everythin I'm <orig>tellin</orig> <orig>ye</orig> in the paper, are you? There's a good guy. . . . Most of you fellers go around puttin words in a man's mouth. <orig>Cant</orig> trust <num type="cardinal" value="1">one</num> of you. I'll tell you <num type="cardinal" value="1">one</num> thing though the lockout is a wonderful thing for the contractors. <orig>Wont</orig> be no housebuildin with a war on anyway."</said> <said who="#GrantBullock" aloud="true" direct="true">"It <orig>wont</orig> last more'n <num type="cardinal" value="2">two</num> weeks and I <orig>dont</orig> see what it has to do with us anyway."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But conditions'll be affected all over the world. . . . Conditions. . . . Hello <persName ref="#JoeOKeefee"><addName type="nickname">Joey</addName></persName> what the <distinct type="taboo">hell</distinct>do you want?"</said></p>
+<p><said who="#GusMcNiel" aloud="true" direct="true">"But conditions'll be affected all over the world. . . . Conditions. . . . Hello <persName ref="#JoeOKeefee"><addName type="nickname">Joey</addName></persName> what the <distinct type="taboo">hell</distinct> do you want?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"T'd like to talk to you private for <time dur-iso="PT1M">a minute</time> sir. There's some big news. . . ."</said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"T'd like to talk to you private for <time dur-iso="PT1M">a minute</time> sir. There's some big news. . . ."</said></p>
 
 
 
 <p>The bar emptied gradually. <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName> was still standing at the end against the wall.</p>
 
-    <p><said who="#" aloud="true" direct="true">"You never get drunk, <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>."</said> <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName> sat down back of the bar to drink a cup of coffee.</p>
+    <p><said who="#CongoJake" aloud="true" direct="true">"You never get drunk, <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>."</said> <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName> sat down back of the bar to drink a cup of coffee.</p>
 
-<p><said who="#" aloud="true" direct="true">"I'd rather watch the other fellows."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"I'd rather watch the other fellows."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Very good. No use spend a lot o money <orig>ave</orig> a eadache next day."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"Very good. No use spend a lot <orig>o</orig> money <orig>ave</orig> a eadache next day."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"That's no way for a barkeep to talk."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"That's no way for a barkeep to talk."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I say what I tink."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"I say what I tink."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Say I've always wanted to ask you. . . . Do you mind telling me? . . . How did you get the name of <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Say I've always wanted to ask you. . . . Do you mind telling me? . . . How did you get the name of <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>?"</said></p>
 
-<p><persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> laughed deep in his chest. <said who="#CongoJake" aloud="true" direct="true">"I <distinct type="non-standard">dunno</distinct>. . . . When I very leetle I first go to sea dey call me <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> because I have curly hair an dark like a nigger. Den when I work in America, on <nationality>American</nationality> ship an all zat, guy ask me How you feel <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>? and I say <persName ref="#CongoJake"><surename>Jake</surname></persName>. . . so dey call me <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>."</said></p>
+<p><persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> laughed deep in his chest. <said who="#CongoJake" aloud="true" direct="true">"I <distinct type="non-standard">dunno</distinct>. . . . When I very leetle I first go to sea dey call me <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> because I have curly hair an dark like a nigger. Den when I work in <placeName><country>America</country></placeName>, on <nationality>American</nationality> ship an all zat, guy ask me How you feel <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>? and I say <persName ref="#CongoJake"><surename>Jake</surname></persName>. . . so <orig>dey</orig> call me <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>."</said></p>
 
 <p><said who="#JimmyHerf" aloud="true" direct="true">"It's some nickname. . . . I thought you'd followed the sea."</said></p>
 
-<p><said who="#CongoJake" aloud="true" direct="true">"It's a 'ard life. . . . I tell you <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>, there's someting about me unlucky. When I first remember on a peniche, you know what I mean . . . in canal, a big man not my fader beat me up every day. Then I run away and work on sailboats in and out of Bordeaux, you know?"</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"It's a <orig>'ard</orig> life. . . . I tell you <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>, there's someting about me unlucky. When I first remember on a peniche, you know what I mean . . . in canal, a big man not my fader beat me up every day. Then I run away and work on sailboats in and out of Bordeaux, you know?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I was there when I was a kid I think. . . ."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"I was there when I was a kid I think. . . ."</said></p>
 
-<p><said who="#CongoJake" aloud="true" direct="true">"Sure. . . . You understand them things <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>. But a feller like you, good education, all 'at, you <orig>dont</orig> know what life is. When I was <age value="17">seventeen</age> I come to <placeName><settlement type="city">New York</settlement></placeName> . . . no good. I tink of notten but raising Cain. <orig>Den</orig> I shipped out again and went everywhere to <distinct type="taboo">hell</distinct> an gone. In <placeName><settlement type="city">Shanghai</settlement></placeName> I learned spik <nationality>American</nationality> an tend bar. I come back te Frisco an got married. Now I want to be <nationality>American</nationality>. But unlucky again see? Before I marry zat girl her and me lived togedder a year sweet as pie, but when we get married no good. She make fun of me and call me <nationality>French</nationality> because I no spik <nationality>American</nationality> good and den she kick no out of the house an I tell her go to hell. Funny ting a man's life."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"Sure. . . . You understand them things <persName ref="#JimmyHerf"><roleName type="honorific" full="abb">Mr.</roleName>'Erf</persName>. But a feller like you, good education, all 'at, you <orig>dont</orig> know what life is. When I was <age value="17">seventeen</age> I come to <placeName><settlement type="city">New York</settlement></placeName> . . . no good. I tink of notten but raising Cain. <orig>Den</orig> I shipped out again and went everywhere to <distinct type="taboo">hell</distinct> an gone. In <placeName><settlement type="city">Shanghai</settlement></placeName> I learned <orig>spik</orig> <nationality>American</nationality> an tend bar. I come back <orig>te</orig> Frisco an got married. Now I want to be <nationality>American</nationality>. But unlucky again see? Before I marry <orig>zat</orig> girl her and me lived togedder a year sweet as pie, but when we get married no good. She make fun of me and call me <nationality>French</nationality> because I no <orig>spik</orig> <nationality>American</nationality> good and den she kick no out of the house an I tell her go to hell. Funny ting a man's life."</said></p>
 
 
 
@@ -2265,69 +2265,69 @@
 
 <p>he started in his growling baritone.</p>
 
-<p>There was a hand on <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s arm. He turned. <said who="#" aloud="true" direct="true">"Why <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> what's the matter?"</said></p>
+<p>There was a hand on <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s arm. He turned. <said who="#JimmyHerf" aloud="true" direct="true">"Why <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName> what's the matter?"</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"I'm with a crazy man you've got to help me get away."</said></p>
+    <p><said who="#EllenThatcher" aloud="true" direct="true">"I'm with a crazy man you've got to help me get away."</said></p>
 
-    <p><said who="#" aloud="true" direct="true">"Took this is <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>. . . . You ought to know him <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, he's a fine man. . . . This is <foreign xml:lang="fr">une tres grande <occupation>artiste</occupation></foreign>, <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>."</said></p>
+    <p><said who="#JimmyHerf" aloud="true" direct="true">"Took this is <persName ref="#CongoJake"><addName type="nickname">Congo</addName> <forename>Jake</forename></persName>. . . . You ought to know him <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>, he's a fine man. . . . This is <foreign xml:lang="fr">une tres grande <occupation>artiste</occupation></foreign>, <persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName>."</said></p>
 
-    <p><said who="#CongoJake" aloud="true" direct="true">"<orig>Wont</orig> the lady have a leetle anizette?"</said></p>
+    <p><said who="#CongoJake" aloud="true" direct="true">"<orig>Wont</orig> the lady have a <orig>leetle</orig> anizette?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Have a little drink with us. . . . It's awfully cozy in here now that everybody's gone."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Have a little drink with us. . . . It's awfully cozy in here now that everybody's gone."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"No thanks I'm going home."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"No thanks I'm going home."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But it's just the neck of the evening."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But it's just the neck of the evening."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well you'll have to take the consequences of my crazy man. . . . Look <persName ref="#JimmyHerf"><surname>Herf</surname></persName> , have you seen <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> today?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Well you'll have to take the consequences of my crazy man. . . . Look <persName ref="#JimmyHerf"><surname>Herf</surname></persName> , have you seen <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> today?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"No I haven't."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"No I haven't."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"He didn't turn up when I expected him."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"He didn't turn up when I expected him."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I wish you'd keep him from drinking so much, <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>. I'm getting worried about him."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"I wish you'd keep him from drinking so much, <persName ref="#EllenThatcher"><addName type="nickname">Ellie</addName></persName>. I'm getting worried about him."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I'm not his keeper."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"I'm not his keeper."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I know, but you know what I mean."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"I know, but you know what I mean."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"What does our friend here think about all this wartalk?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"What does our friend here think about all this wartalk?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I <orig>wont</orig> go. . . . A workingman has no country. I'm going to be <nationality>American</nationality> citizen. . . . I was in the marine once but. . . ."</said> He slapped his jerking bent forearm with <num type="cardinal" value="1">one</num> hand, and a deep laugh rattled in his throat. . . . <said who="#" aloud="true" direct="true">"<num type="cardinal" value="23">Twentee tree</num>. <foreign xml:lang="fr">Moi je suis anarchiste vous comprennez monsieur</foreign>."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"I <orig>wont</orig> go. . . . A workingman has no country. I'm going to be <nationality>American</nationality> citizen. . . . I was in the marine once but. . . ."</said> He slapped his jerking bent forearm with <num type="cardinal" value="1">one</num> hand, and a deep laugh rattled in his throat. . . . <said who="#CongoJake" aloud="true" direct="true">"<age value="23">Twentee tree</num>. <foreign xml:lang="fr">Moi je suis anarchiste vous comprennez monsieur</foreign>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But then you <orig>cant</orig> be an <nationality>American</nationality> citizen."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"But then you <orig>cant</orig> be an <nationality>American</nationality> citizen."</said></p>
 
 <p><persName ref="#CongoJake"><addName type="nickname">Congo</addName></persName> shrugged his shoulders.</p>
 
-<p><said who="#" aloud="true" direct="true">"Oh I love him, he's wonderful,"</said> whispered <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s ear.</p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Oh I love him, he's wonderful,"</said> whispered <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> in <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>'s ear.</p>
 
-<p><said who="#" aloud="true" direct="true">"You know why they have this here war. . . . So that workingmen all over <orig>wont</orig> make big revolution. . . . Too busy fighting. So Guillaume and Viviani and l'Empereur d'Autriche and Krupp and Rothschild and Morgan they say let's have a war. . . . You know the first thing they do? They shoot Jaures, because he socialiste. The socialists are traitors to the International but all de samee. . . ."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"You know why they have this here war. . . . So that workingmen all over <orig>wont</orig> make big revolution. . . . Too busy fighting. So Guillaume and Viviani and l'<foreign xml:lang="fr">Empereur d'Autriche</foreign> and Krupp and Rothschild and Morgan they say let's have a war. . . . You know the first thing they do? They shoot Jaures, because he socialiste. The socialists are traitors to the International but all <orig>de</orig> samee. . . ."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But how can they make people fight if they <orig>dont</orig> want to?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But how can they make people fight if they <orig>dont</orig> want to?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"In <placeName><bloc type="continent">Europe</block></placeName> people are slaves for thousands of years. Not like 'ere. . . . But I've seen war. Very funny. I tended bar in Port Arthur, nutten but a kid den. It was very funny."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"In <placeName><bloc type="continent">Europe</block></placeName> people are slaves for thousands of years. Not like 'ere. . . . But I've seen war. Very funny. I tended bar in Port Arthur, nutten but a kid den. It was very funny."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<distinct type="slang">Gee</distinct>I wish I could get a job as warcorrespondent."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"<distinct type="slang">Gee</distinct>I wish I could get a job as <occupation>warcorrespondent</occupation>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I might go as a <orgName>Red Cross</orgName> <occupation>nurse</occupation>."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"I might go as a <orgName>Red Cross</orgName> <occupation>nurse</occupation>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Correspondent very good ting. . . . Always drunk in <nationality>American</nationality>bar very far from battlefield."</said></p>
+<p><said who="#CongoJake" aloud="true" direct="true">"<occupation>Correspondent</occupation> very good <orig>ting</orig>. . . . Always drunk in <nationality>American</nationality> bar very far from battlefield."</said></p>
 
 <p>They laughed.</p>
 
-<p><said who="#" aloud="true" direct="true">"But <orig>arent</orig> we rather far from the battlefield, <persName ref="#JimmyHerf"><surname>Herf</surname></persName>?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"But <orig>arent</orig> we rather far from the battlefield, <persName ref="#JimmyHerf"><surname>Herf</surname></persName>?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"All right let's dance. You must forgive me if I dance very badly."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"All right let's dance. You must forgive me if I dance very badly."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I'll kick you if you do anything wrong."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"I'll kick you if you do anything wrong."</said></p>
 
 <p>His arm was like plaster when he put it round her to dance with her. High ashy walls broke and crackled within him. He was soaring like a fireballoon on the smell of her hair.</p>
 
-<p><said who="#" aloud="true" direct="true">"Get up on your toes and walk in time to the music. . . . Move in straight lines that's the whole trick."</said> Her voice cut the quick coldly like a tiny flexible sharp metalsaw. Elbows joggling, faces set, gollywog eyes, fat men and thin women, thin women and fat men rotated densely about them. He was crumbling plaster with something that rattled achingly in his chest, she was an intricate machine of sawtooth steel whitebright bluebright copperbright in his arms. When they stopped her breast and the side of her body and her thigh came against him. He was suddenly full of blood steaming with sweat like a runaway horse. A breeze through an open door hustled the tobaccosmoke and the clotted pink air of the restaurant.</p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Get up on your toes and walk in time to the music. . . . Move in straight lines that's the whole trick."</said> Her voice cut the quick coldly like a tiny flexible sharp metalsaw. Elbows joggling, faces set, gollywog eyes, fat men and thin women, thin women and fat men rotated densely about them. He was crumbling plaster with something that rattled achingly in his chest, she was an intricate machine of sawtooth steel whitebright bluebright copperbright in his arms. When they stopped her breast and the side of her body and her thigh came against him. He was suddenly full of blood steaming with sweat like a runaway horse. A breeze through an open door hustled the tobaccosmoke and the clotted pink air of the restaurant.</p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName>  I want to go down to see the murder cottage; please take me."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName> I want to go down to see the murder cottage; please take me."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"As if I hadn't seen enough of X's marking the spot where the crime was committed."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"As if I hadn't seen enough of X's marking the spot where the crime was committed."</said></p>
 
 
 <p>In the hall <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName> stepped in front of them. He was pale as chalk, his black tie was crooked, the nostrils of his thin nose were dilated and marked with little veins of red.</p>
@@ -2338,33 +2338,33 @@
 
 <p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName> excuse me <time dur-iso="PT1M">a minute</time>. . . . Now what is the matter <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>? Come back to the table."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I was not joking either. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName> do you mind ordering me a taxi?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I was not joking either. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName> do you mind ordering me a taxi?"</said></p>
 
-<p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> grabbed hold of her wrist. <said who="#" aloud="true" direct="true">"You've been playing with me long enough, do you hear me? Some day some man's going to take a gun and shoot you. You think you can play me like all the other little sniveling fools. . . . You're no better than a common <occupation>prostitute</occupation>."</said></p>
+<p><persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> grabbed hold of her wrist. <said who="#GeorgeBaldwin" aloud="true" direct="true">"You've been playing with me long enough, do you hear me? Some day some man's going to take a gun and shoot you. You think you can play me like all the other little sniveling fools. . . . You're no better than a common <occupation>prostitute</occupation>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName> I told you to go get me a taxi."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName> I told you to go get me a taxi."</said></p>
 
 <p><persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> bit his lip and went out the front door.</p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> what are you going to do?"</said></p>
+<p><said who="#GeorgeBaldwin" aloud="true" direct="true">"<persName ref="#EllenThatcher"><addName type="nickname">Elaine</addName></persName> what are you going to do?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I will not be bullied."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"<persName ref="#GeorgeBaldwin"><forename>George</forename></persName> I will not be bullied."</said></p>
 
 <p>Something nickel flashed in <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>'s hand. <persName ref="#GusMcNiel"><forename>Gus</forename> <surname>McNiel</surname></persName> stepped forward and gripped his wrist with a big red hand.</p>
 
-<p><said who="#" aloud="true" direct="true">"Gimme that <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>. . . . For God's sake man pull yourself together."</said> He shoved the revolver into his pocket. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName>tottered to the wall in front of him. The trigger finger of his right hand was bleeding.</p>
+<p><said who="#GusMcNiel" aloud="true" direct="true">"Gimme that <persName ref="#GeorgeBaldwin"><forename>George</forename></persName>. . . . For God's sake man pull yourself together."</said> He shoved the revolver into his pocket. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> tottered to the wall in front of him. The trigger finger of his right hand was bleeding.</p>
 
-<p><said who="#JimmyHerf" aloud="true" direct="true">"Here's a taxi,"</said> said <persName ref="#JimmyHerf"><surname>Herf</surname></persName> looking from<num type="cardinal" value="1">one</num>to another of the taut white faces.</p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Here's a taxi,"</said> said <persName ref="#JimmyHerf"><surname>Herf</surname></persName> looking from <num type="cardinal" value="1">one</num> to another of the taut white faces.</p>
 
-<p><said who="#" aloud="true" direct="true">"All right you take the girl home. . . . No harm done, just a little nervous attack, see? No cause for alarm,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> was shouting in the voice of a man speaking from a soapbox. The <occupation>headwaiter</occupation> and the <occupation>coatgirl</occupation> were looking at each other uneasily. <said who="#GusMcNiel" aloud="true" direct="true">"Didn't nutten happen. . . . Gentleman's a little nervous . . . overwork you understand,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> brought his voice down to a reassuring purr. <said who="#GusMcNiel" aloud="true" direct="true">"You just forget it."</said></p>
+<p><said who="#GusMcNiel" aloud="true" direct="true">"All right you take the girl home. . . . No harm done, just a little nervous attack, see? No cause for alarm,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> was shouting in the voice of a man speaking from a soapbox. The <occupation>headwaiter</occupation> and the <occupation>coatgirl</occupation> were looking at each other uneasily. <said who="#GusMcNiel" aloud="true" direct="true">"Didn't nutten happen. . . . Gentleman's a little nervous . . . overwork you understand,"</said> <persName ref="#GusMcNiel"><surname>McNiel</surname></persName> brought his voice down to a reassuring purr. <said who="#GusMcNiel" aloud="true" direct="true">"You just forget it."</said></p>
 
 
 
-<p>As they were getting into the taxi <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> suddenly said in a little child's voice: <said who="#" aloud="true" direct="true">"I forgot we were going down to see the murder cottage. . . . Let's make him wait. I'd like to walk up and down in the air for <time dur-iso="PT1M">a minute</time>."</said> There was a smell of saltmarshes. The night was marbled with clouds and moonlight. The toads in the ditches sounded like sleighbells.</p>
+<p>As they were getting into the taxi <persName ref="#EllenThatcher"><forename>Ellie<forename></persName> suddenly said in a little child's voice: <said who="#EllenThatcher" aloud="true" direct="true">"I forgot we were going down to see the murder cottage. . . . Let's make him wait. I'd like to walk up and down in the air for <time dur-iso="PT1M">a minute</time>."</said> There was a smell of saltmarshes. The night was marbled with clouds and moonlight. The toads in the ditches sounded like sleighbells.</p>
 
-<p><said who="#" aloud="true" direct="true">"Is it far?"</said> she asked.</p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Is it far?"</said> she asked.</p>
 
-<p><said who="#" aloud="true" direct="true">"No it's right down at the corner."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"No it's right down at the corner."</said></p>
 
 <p>Their feet crackled on gravel then ground softly on macadam. A headlight blinded them, they stopped to let the car whir by; the exhaust filled their nostrils, faded into the smell of saltmarshes again.</p>
 
@@ -2372,55 +2372,55 @@
 
 <p>Neither of them said anything. They walked back towards the roadhouse.</p>
 
-<p><said who="#" aloud="true" direct="true">"Honestly <persName ref="#JimmyHerf"><surname>Herf</surname></persName> <orig>havent</orig> you seen <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Honestly <persName ref="#JimmyHerf"><surname>Herf</surname></persName> <orig>havent</orig> you seen <persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName>?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"No I <orig>havent</orig> an idea where he could be hiding himself."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"No I <orig>havent</orig> an idea where he could be hiding himself."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"If you see him tell him I want him to call me up at once. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName>  what were those women called who followed the <orgname>armies</orgname> in the <event><nationality>French</nationality> Revolution</event>?"</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"If you see him tell him I want him to call me up at once. . . . <persName ref="#JimmyHerf"><surname>Herf</surname></persName>  what were those women called who followed the <orgname>armies</orgname> in the <event><nationality>French</nationality> Revolution</event>?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Let's think. Was it <foreign xml:lang="fr">cantonnières?</foreign>"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Let's think. Was it <foreign xml:lang="fr">cantonnières?</foreign>"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Something like that . . . I'd like to do that."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Something like that . . . I'd like to do that."</said></p>
 
 <p>An electric train whistled far to the right of them, rattled nearer and faded into whining distance.</p>
 
 <p>Dripping with a tango the roadhouse melted pink like a block of icecream. <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> was following her into the taxicab.</p>
 
-<p><said who="#" aloud="true" direct="true">"No I want to be alone, <persName ref="#JimmyHerf"><surname>Herf</surname></persName>."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"No I want to be alone, <persName ref="#JimmyHerf"><surname>Herf</surname></persName>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But I'd like very much to take you home. . . . I <orig>dont</orig> like the idea of letting you go all alone."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But I'd like very much to take you home. . . . I <orig>dont</orig> like the idea of letting you go all alone."</said></p>
 
 
 
-<p><said who="#" aloud="true" direct="true">"Please as a friend I ask you."</said></p>
+<p><said who="#EllenThatcher" aloud="true" direct="true">"Please as a friend I ask you."</said></p>
 
 <p>They <orig>didnt</orig> shake hands. The taxi kicked dust and a rasp of burnt gasoline in his face. He stood on the steps reluctant to go back into the noise and fume.</p>
 
-<p><persName ref="#NellieMcNiel"><forename>Nellie</forename> <surname>McNiel</surname></persName> was alone at the table. In front of her was the chair pushed back with his napkin on the back of it where her husband had sat. She was staring straight ahead of her; the <occupation>dancers</occupation> passed like shadows across her eyes. At the other end of the room she saw <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName>, pale and lean, walk slowly like a sick man to his table. He stood beside the table examining his check carefully, paid it and stood looking distractedly round the room. He was going to look at her. The <occupation>waiter</occupation> brought the change on a plate and bowed low. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> swept the faces of the <occupation>dancers</occupation> with a black glance, turned his back square and walked out. Remembering the insupportable sweetness of <nationality>Chinese</nationality> lilies, she felt her eyes filling with tears. She took her engagement book out of her silver mesh bag and went through it hurriedly, marking carets with a silver pencil. She looked up after a little while, the tired skin of her face in a pucker of spite, and beckoned to a <occupation>waiter</occupation>. <said who="#" aloud="true" direct="true">"Will you please tell <persName ref="#GusMcNiel"><roleName type="honorific" full="abb">Mr.</roleName> <surname>McNiel</surname></persName> that <persName ref="#NellieMcNiel"><roleName type="honorific" full="abb">Mrs.</roleName> <surname>McNiel</surname></persName> wants to speak to him? He's in the bar."</said></p>
+<p><persName ref="#NellieMcNiel"><forename>Nellie</forename> <surname>McNiel</surname></persName> was alone at the table. In front of her was the chair pushed back with his napkin on the back of it where her husband had sat. She was staring straight ahead of her; the <occupation>dancers</occupation> passed like shadows across her eyes. At the other end of the room she saw <persName ref="#GeorgeBaldwin"><forename>George</forename> <surname>Baldwin</surname></persName>, pale and lean, walk slowly like a sick man to his table. He stood beside the table examining his check carefully, paid it and stood looking distractedly round the room. He was going to look at her. The <occupation>waiter</occupation> brought the change on a plate and bowed low. <persName ref="#GeorgeBaldwin"><surname>Baldwin</surname></persName> swept the faces of the <occupation>dancers</occupation> with a black glance, turned his back square and walked out. Remembering the insupportable sweetness of <nationality>Chinese</nationality> lilies, she felt her eyes filling with tears. She took her engagement book out of her silver mesh bag and went through it hurriedly, marking carets with a silver pencil. She looked up after a little while, the tired skin of her face in a pucker of spite, and beckoned to a <occupation>waiter</occupation>. <said who="#NellieMcNiel" aloud="true" direct="true">"Will you please tell <persName ref="#GusMcNiel"><roleName type="honorific" full="abb">Mr.</roleName> <surname>McNiel</surname></persName> that <persName ref="#NellieMcNiel"><roleName type="honorific" full="abb">Mrs.</roleName> <surname>McNiel</surname></persName> wants to speak to him? He's in the bar."</said></p>
 
 <p><said who="#GrantBullock" aloud="true" direct="true">"<placeName><settlement type="city">Sarajevo</settlement></placeName>, <placeName><settlement type="city">Sarajevo</settlement></placeName>; that's the place that set the wires on fire,"</said> <persName ref="#GrantBullock"><surname>Bullock</surname></persName> was shouting at the frieze of faces and glasses along the bar.</p>
 
-<p><said who="#JoeOKeefee" aloud="true" direct="true">"Say bo,"</said> said <persName ref="#JoeOKeefee"><forename>Joe</forename> <surname>O'Keefe </surname></persName> confidentially to no one in particular, <said who="#" aloud="true" direct="true">"a guy works in a telegraph office told me there'd been a big seabattle off St. John's, Newfoundland and the <nationality>Britishers</nationality> had sunk the <nationality>German</nationality> fleet of <num type="cardinal" value="40">forty</num> battleships."</said></said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"Say bo,"</said> said <persName ref="#JoeOKeefee"><forename>Joe</forename> <surname>O'Keefe </surname></persName> confidentially to no one in particular, <said who="#JoeOKeefee" aloud="true" direct="true">"a guy works in a telegraph office told me there'd been a big seabattle off St. John's, Newfoundland and the <nationality>Britishers</nationality> had sunk the <nationality>German</nationality> fleet of <num type="cardinal" value="40">forty</num> battleships."</said></said></p>
 
-<p><said who="#" aloud="true" direct="true">"Jiminy that'd stop the war right there."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"Jiminy that'd stop the war right there."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But they <distinct type="informal"><orig>aint</orig></distinct> declared war yet."</said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"But they <distinct type="informal"><orig>aint</orig></distinct> declared war yet."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"How do you know? The cables are so choked up you <orig>cant</orig> get any news through."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"How do you know? The cables are so choked up you <orig>cant</orig> get any news through."</said></p>
 
 
 
-<p><said who="#" aloud="true" direct="true">"Did you see there were <num type="cardinal" value="4">four</num> more failures on <orgName>Wall Street</orgName>?"</said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"Did you see there were <num type="cardinal" value="4">four</num> more failures on <orgName>Wall Street</orgName>?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Tell me <placeName><settlement type="city">Chicago</settlement></placeName> wheat pit's gone crazy."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"Tell me <placeName><settlement type="city">Chicago</settlement></placeName> wheat pit's gone crazy."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"They ought to close all the exchanges till this blows over."</said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"They ought to close all the exchanges till this blows over."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well maybe when the <nationality>Germans</nationality> have licked the pants off her <placeName><country>England</country></placeName>'ll give <placeName><country>Ireland</country></placeName> her freedom."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"Well maybe when the <nationality>Germans</nationality> have licked the pants off her <placeName><country>England</country></placeName>'ll give <placeName><country>Ireland</country></placeName> her freedom."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But they are. . . . Stock market <orig>wont</orig> be open tomorrow."</said></p>
+<p><said who="#JoeOKeefee" aloud="true" direct="true">"But they are. . . . Stock market <orig>wont</orig> be open tomorrow."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"If a man's got the capital to cover and could keep his head this here would be the time to clean up."</said></p>
+<p><said who="#GrantBullock" aloud="true" direct="true">"If a man's got the capital to cover and could keep his head this here would be the time to clean up."</said></p>
 
 <p><said who="#JimmyHerf" aloud="true" direct="true">"Well <persName ref="#GrantBullock"><surname>Bullock</surname></persName> old man I'm going home,"</said> said <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName>. <said who="#JimmyHerf" aloud="true" direct="true">"This is my night of rest and I ought to be getting after it."</said></p>
 
@@ -2428,113 +2428,113 @@
 
 <p>As he was walking down the gravel drive to the road an arm hooked in his.</p>
 
-<p><said who="#" aloud="true" direct="true">"Do you mind if I come along? I <orig>dont</orig> want to stay here."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Do you mind if I come along? I <orig>dont</orig> want to stay here."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Sure come ahead <persName ref="#TonyHunter"><forename>Tony</forename></persName> I'm going to walk."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Sure come ahead <persName ref="#TonyHunter"><forename>Tony</forename></persName> I'm going to walk."</said></p>
 
 <p><persName ref="#JimmyHerf"><surname>Herf</surname></persName>  walked with a long stride, looking straight ahead of him. Clouds had darkened the sky where remained the faintest milkiness of moonlight. To the right and left there was outside of the violetgray cones of occasional arclights black pricked by few lights, ahead the glare of streets rose in blurred cliffs yellow and ruddy.</p>
 
 <p><said who="#TonyHunter" aloud="true" direct="true">"You <orig>dont</orig> like me do you?"</said> said <persName ref="#TonyHunter"><forename>Tony</forename> <surname>Hunter</surname></persName> breathlessly after a few minutes.</p>
 
-<p><persName ref="#JimmyHerf"><surname>Herf</surname></persName> slowed his pace. <said who="#" aloud="true" direct="true">"Why I <orig>dont</orig> know you very well. You seem to me a very pleasant person. . . ."</said></p>
+<p><persName ref="#JimmyHerf"><surname>Herf</surname></persName> slowed his pace. <said who="#JimmyHerf" aloud="true" direct="true">"Why I <orig>dont</orig> know you very well. You seem to me a very pleasant person. . . ."</said></p>
 
 
 
-<p><said who="#" aloud="true" direct="true">"<orig>Dont</orig> lie; there's no reason why you should. . . . I think I'm going to kill myself tonight."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"<orig>Dont</orig> lie; there's no reason why you should. . . . I think I'm going to kill myself tonight."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<distinct type="taboo">Heavens</distinct>! <orig>dont</orig> do that. . . . What's the matter?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"<distinct type="taboo">Heavens</distinct>! <orig>dont</orig> do that. . . . What's the matter?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"You have no right to tell me not to kill myself. You <orig>dont</orig> know anything about me. If I was a woman you <orig> wouldnt</orig>  be so indifferent."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"You have no right to tell me not to kill myself. You <orig>dont</orig> know anything about me. If I was a woman you <orig> wouldnt</orig>  be so indifferent."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"What's eating you anyway?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"What's eating you anyway?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I'm going crazy that's all, everything's so horrible. When I first met you with <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName><num type="cardinal" value="1">one</num> evening I thought we were going to be friends, <persName ref="#JimmyHerf"><surname>Herf</surname></persName> . You seemed so sympathetic and understanding. . . . I thought you were like me, but now you're getting so callous."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I'm going crazy that's all, everything's so horrible. When I first met you with <persName ref="#RuthPrynne"><forename>Ruth</forename> </persName><num type="cardinal" value="1">one</num> evening I thought we were going to be friends, <persName ref="#JimmyHerf"><surname>Herf</surname></persName>. You seemed so sympathetic and understanding. . . . I thought you were like me, but now you're getting so callous."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I guess it's the Times. . . . I'll get fired soon, don't worry."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"I guess it's the <title>Times</title>. . . . I'll get fired soon, don't worry."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I'm tired of being poor; I want to make a hit."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I'm tired of being poor; I want to make a hit."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well you're young yet; you must be younger than I am."</said> <persName ref="#TonyHunter"><forename>Tony</forename></persName> <orig>didnt</orig> answer.</p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Well you're young yet; you must be younger than I am."</said> <persName ref="#TonyHunter"><forename>Tony</forename></persName> <orig>didnt</orig> answer.</p>
 
-<p>They were walking down a broad avenue between<num type="cardinal" value="2">two</num>rows of blackened frame houses. A streetcar long and yellow hissed rasping past.</p>
+<p>They were walking down a broad avenue between<num type="cardinal" value="2">two</num> rows of blackened frame houses. A streetcar long and yellow hissed rasping past.</p>
 
-<p><said who="#" aloud="true" direct="true">"Why we must be in Flatbush."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Why we must be in Flatbush."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName>  I used to think you were like me, but now I never see you except with some woman."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"<persName ref="#JimmyHerf"><surname>Herf</surname></persName> I used to think you were like me, but now I never see you except with some woman."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"What do you mean?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"What do you mean?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I've never told anybody in the world. . . . By God if you tell anybody. . . . When I was a child I was horribly oversexed, when I was about <age value="10">ten</age> or <age value="11">eleven</age> or <age value="13">thirteen</age>."</said> He was sobbing. As they passed under an arclight, <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught the glisten of the tears on his cheeks. <said who="#" aloud="true" direct="true">"I wouldn't tell you this if I <orig>wasnt</orig> drunk."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I've never told anybody in the world. . . . By God if you tell anybody. . . . When I was a child I was horribly oversexed, when I was about <age value="10">ten</age> or <age value="11">eleven</age> or <age value="13">thirteen</age>."</said> He was sobbing. As they passed under an arclight, <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> caught the glisten of the tears on his cheeks. <said who="#TonyHunter" aloud="true" direct="true">"I wouldn't tell you this if I <orig>wasnt</orig> drunk."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But things like that happened to almost everybody when they were kids. . . . You oughtnt to worry about that."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But things like that happened to almost everybody when they were kids. . . . You <orig>oughtnt</orig> to worry about that."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But I'm that way now, that's what's so horrible. I <orig>cant</orig> like women. I've tried and tried. . . . You see I was caught. I was so ashamed I wouldn't go to school for weeks. My mother cried and cried. I'm so ashamed. I'm so afraid people will find out about it. I'm always fighting to keep it hidden, to hide my feelings."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"But I'm that way now, that's what's so horrible. I <orig>cant</orig> like women. I've tried and tried. . . . You see I was caught. I was so ashamed I wouldn't go to school for weeks. My mother cried and cried. I'm so ashamed. I'm so afraid people will find out about it. I'm always fighting to keep it hidden, to hide my feelings."</said></p>
 
 
 
-<p><said who="#" aloud="true" direct="true">"But it all may be an idea. You may be able to get over it. Go to a psychoanalyist."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But it all may be an idea. You may be able to get over it. Go to a <occupation>psychoanalyist</occupation>."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I <orig>cant</orig> talk to anybody. It's just that tonight I'm drunk. I've tried to look it up in the encyclopedia. . . . It's not even in the dictionary."</said> He stopped and leaned against a lamppost with his face in his hands. <said who="#" aloud="true" direct="true">"It's not even in the dictionary."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I <orig>cant</orig> talk to anybody. It's just that tonight I'm drunk. I've tried to look it up in the encyclopedia. . . . It's not even in the dictionary."</said> He stopped and leaned against a lamppost with his face in his hands. <said who="#TonyHunter" aloud="true" direct="true">"It's not even in the dictionary."</said></p>
 
-<p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> patted him on the back. <said who="#" aloud="true" direct="true">"Buck up for Heaven's sake. They're lots of people in the same boat. The stage is full of them."</said></p>
+<p><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> patted him on the back. <said who="#JimmyHerf" aloud="true" direct="true">"Buck up for Heaven's sake. They're lots of people in the same boat. The stage is full of them."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I hate them all. . . . It's not people like that I fall in love with. I hate myself. I suppose you'll hate me after tonight."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I hate them all. . . . It's not people like that I fall in love with. I hate myself. I suppose you'll hate me after tonight."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"What nonsense. It's no business of mine."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"What nonsense. It's no business of mine."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Now you know why I want to kill myself. . . . Oh it's not fair <persName ref="#JimmyHerf"><surname>Herf</surname></persName>, it's not fair. . . . I've had no luck in my life. I started earning my living as soon as I got out of highschool. I used to be bellhop in summer hotels. My mother lived in Lakewood and I used to send her everything I earned. I've worked so hard to get where I am. If it were known, if there were a scandal and it all came out I'd be ruined."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Now you know why I want to kill myself. . . . Oh it's not fair <persName ref="#JimmyHerf"><surname>Herf</surname></persName>, it's not fair. . . . I've had no luck in my life. I started earning my living as soon as I got out of highschool. I used to be bellhop in summer hotels. My mother lived in <placeName><settlement type="city">Lakewood</settlement> and I used to send her everything I earned. I've worked so hard to get where I am. If it were known, if there were a scandal and it all came out I'd be ruined."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But everybody says that of all juveniles and nobody lets it worry them."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But everybody says that of all juveniles and nobody lets it worry them."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Whenever I fail to get a part I think it's on account of that. I hate and despise all that kind of men. . . . I <orig>dont</orig> want to be a juvenile. I want to act. Oh it's hell. . . . It's hell."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Whenever I fail to get a part I think it's on account of that. I hate and despise all that kind of men. . . . I <orig>dont</orig> want to be a juvenile. I want to act. Oh it's hell. . . . It's hell."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"But you're rehearsing now aren't you?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"But you're rehearsing now aren't you?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"A fool show that'll never get beyond Stamford. Now when you hear that I've done it you <orig>wont</orig> be surprised."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"A fool show that'll never get beyond Stamford. Now when you hear that I've done it you <orig>wont</orig> be surprised."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Done what?"</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Done what?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Killed myself."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Killed myself."</said></p>
 
 <p>They walked without speaking. It had started to rain. Down the street behind the low greenblack shoebox houses there was an occasional mothpink flutter of lightning. A wet dusty smell came up from the asphalt beaten by the big plunking drops.</p>
 
 
 
-<p><said who="#" aloud="true" direct="true">"There ought to be a subway station near. . . . Isn't that a blue light down there? Let's hurry or we'll get soaked."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"There ought to be a subway station near. . . . Isn't that a blue light down there? Let's hurry or we'll get soaked."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Oh <distinct type="taboo">hell</distinct><persName ref="#TonyHunter"><forename>Tony</forename></persName> I'd just as soon get soaked as not."</said> <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> took off his felt hat and swung it in <num type="cardinal" value="1">one</num> hand. The raindrops were cool on his forehead, the smell of the rain, of roofs and mud and asphalt, took the biting taste of whiskey and cigarettes out of his mouth.</p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Oh <distinct type="taboo">hell</distinct><persName ref="#TonyHunter"><forename>Tony</forename></persName> I'd just as soon get soaked as not."</said> <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> took off his felt hat and swung it in <num type="cardinal" value="1">one</num> hand. The raindrops were cool on his forehead, the smell of the rain, of roofs and mud and asphalt, took the biting taste of whiskey and cigarettes out of his mouth.</p>
 
-<p><said who="#" aloud="true" direct="true">"Gosh it's horrible,"</said> he shouted suddenly.</p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Gosh it's horrible,"</said> he shouted suddenly.</p>
 
-<p><said who="#" aloud="true" direct="true">"What?"</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"What?"</said></p>
 
-<p><said who="#" aloud="true" direct="true">"All the hushdope about sex. I'd never realized it before tonight, the full extent of the agony. God you must have a rotten time. . . . We all of us have a rotten time. In your case it's just luck, hellish bad luck. Martin used to say: Everything would be so much better if suddenly a bell rang and everybody told everybody else honestly what they did about it, how they lived, how they loved. It's hiding things makes them putrefy. By God it's horrible. As if life wasn't difficult enough without that."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"All the hushdope about sex. I'd never realized it before tonight, the full extent of the agony. God you must have a rotten time. . . . We all of us have a rotten time. In your case it's just luck, hellish bad luck. Martin used to say: Everything would be so much better if suddenly a bell rang and everybody told everybody else honestly what they did about it, how they lived, how they loved. It's hiding things makes them putrefy. By God it's horrible. As if life wasn't difficult enough without that."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well I'm going down into this subway station."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Well I'm going down into this subway station."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"You'll have to wait hours for a train."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"You'll have to wait hours for a train."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"I <orig>cant</orig> help it I'm tired and I <orig>dont</orig> want to get wet."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"I <orig>cant</orig> help it I'm tired and I <orig>dont</orig> want to get wet."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Well good night."</said></p>
+<p><said who="#JimmyHerf" aloud="true" direct="true">"Well good night."</said></p>
 
-<p><said who="#" aloud="true" direct="true">"Good night <persName ref="#JimmyHerf"><surname>Herf</surname></persName>."</said></p>
+<p><said who="#TonyHunter" aloud="true" direct="true">"Good night <persName ref="#JimmyHerf"><surname>Herf</surname></persName>."</said></p>
 
-<p>There was a long rolling thunderclap. It began to rain hard. <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName> rammed his hat down on his head and yanked his coatcollar up. He wanted to run along yelling <distinct type="swearing">sonsobitches</distinct> at the top of his lungs. Lightning flickered along the staring rows of dead windows. The rain seethed along the pavements, against storewindows, on brownstone steps. His knees were wet, a slow trickle started down his back, there were chilly cascades off his sleeves onto his wrists, his whole body itched and tingled. He walked on through <placeName><district>Brooklyn</district></placeName>. Obsession of all the beds in all the pigeonhole bedrooms, tangled sleepers twisted and strangled like the roots of potbound plants. Obsession of feet creaking on the stairs of lodginghouses, hands fumbling at doorknobs. Obsession of pounding temples and solitary bodies rigid on their beds. J'ai fait trois fois le tour du monde</p>
+<p>There was a long rolling thunderclap. It began to rain hard. <persName ref="#JimmyHerf"><forename>Jimmy</forename><surname>Herf</surname></persName> rammed his hat down on his head and yanked his coatcollar up. He wanted to run along yelling <distinct type="swearing">sonsobitches</distinct> at the top of his lungs. Lightning flickered along the staring rows of dead windows. The rain seethed along the pavements, against storewindows, on brownstone steps. His knees were wet, a slow trickle started down his back, there were chilly cascades off his sleeves onto his wrists, his whole body itched and tingled. He walked on through <placeName><district>Brooklyn</district></placeName>. Obsession of all the beds in all the pigeonhole bedrooms, tangled sleepers twisted and strangled like the roots of potbound plants. Obsession of feet creaking on the stairs of lodginghouses, hands fumbling at doorknobs. Obsession of pounding temples and solitary bodies rigid on their beds. <foreign xml:lang="fr">J'ai fait trois fois le tour du monde</foreign></p>
 
-<p><foreign xml:lang="fr">Vive le sang, vive le sang</foreign>. . . .</p>
+<p><foreign xml:lang="fr">Vive le sang, vive le sang. . . .</foreign></p>
 
 
 
-<p><foreign xml:lang="fr">Moi monsieur je suis anarchiste</foreign>. . . . And <num type="cardinal" value="3">three</num> times round went our gallant ship, and <num type="cardinal" value="3">three</num> times round went . . . <distinct type="taboo">goddam</distinct>it between that and money . . . and she sank to the bottom of the sea . . . we're in a treadmill for fair.</p>
+<p><foreign xml:lang="fr">Moi monsieur je suis anarchiste . . .</foreign>. And <num type="cardinal" value="3">three</num> times round went our gallant ship, and <num type="cardinal" value="3">three</num> times round went . . . <distinct type="taboo">goddam</distinct>it between that and money . . . and she sank to the bottom of the sea . . . we're in a treadmill for fair.</p>
 
 <p><foreign xml:lang="fr">J'ai fait trois fois le tour du monde</foreign></p>
 
-<p><foreign xml:lang="fr">Dans mes voy . . . ages</foreign>.</p>
+<p><foreign xml:lang="fr">Dans mes voy . . . ages.</foreign></p>
 
 
 
-<p>Declaration of war . . . rumble of drums . . . beefeaters march in red after the flashing baton of a drummajor in a hat like a longhaired muff, silver knob spins flashing grump, grump, grump . . . in the face of revolution mondiale. Commencement of hostilities in a long parade through the empty rainlashed streets. Extra, extra, extra. Santa Claus shoots daughter he has tried to attack. Slays Self With Shotgun . . . put the gun under his chin and pulled the trigger with his big toe. The stars look down on Fredericktown. Workers of the world, unite. Vive le sang, vive le sang.</p>
+<p>Declaration of war . . . rumble of drums . . . beefeaters march in red after the flashing baton of a drummajor in a hat like a longhaired muff, silver knob spins flashing grump, grump, grump . . . in the face of revolution mondiale. Commencement of hostilities in a long parade through the empty rainlashed streets. Extra, extra, extra. Santa Claus shoots daughter he has tried to attack. Slays Self With Shotgun . . . put the gun under his chin and pulled the trigger with his big toe. The stars look down on Fredericktown. Workers of the world, unite. <foreign xml:lang="fr">Vive le sang, vive le sang.</foreign></p>
 
 <p><said who="#JimmyHerf" aloud="true" direct="true">"<distinct type="old-fashioned">Golly</distinct> I'm wet,"</said><persName ref="#JimmyHerf"><forename>Jimmy</forename> <surname>Herf</surname></persName> said aloud. As far as he could see the street stretched empty in the rain between ranks of dead windows studded here and there with violet knobs of arclights. Desperately he walked on.</p>
 
