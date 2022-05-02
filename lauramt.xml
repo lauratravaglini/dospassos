@@ -1074,7 +1074,7 @@
 
                     <p><said who="#JimmyHerf" aloud="true" direct="true">"I guess I'm really afraid of my uncles and aunts. . . . You ought to see my cousin <persName ref="#JamesMerivale"><forename>James</forename> <surname>Merivale</surname></persName>. Has done everything he was told all his life and flourished like a green bay tree. . . . The perfect wise virgin."</said>
 
-                    <p><said who="#" aloud="true" direct="true">"Ah guess youse <num type="cardinal" value="1">one</num> <orig>o</orig> dem dere foolish virgins."</said></p>
+                    <p><said who="#" aloud="true" direct="true">"Ah guess <orig>youse</orig> <num type="cardinal" value="1">one</num> <orig>o</orig> <orig>dem</orig> <orig>dere</orig> foolish virgins."</said></p>
 
                     <p><said who="#JimmyHerf" aloud="true" direct="true">"<persName ref="#StanwoodEmery"><addName type="nickname">Stan</addName></persName> you're feeling your liquor, you're beginning to talk niggertalk."</said></p>
 
