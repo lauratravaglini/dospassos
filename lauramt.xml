@@ -53,7 +53,7 @@
 
                     <p><said who="#RuthPrynne" aloud="true" direct="true">"Well how's the cub reporter?"</said></p>
 
-                    <p><said who="#JimmyHerf" aloud="true" direct="true">"I'm on <placeName><district>Hell's Kitchen</district></placeName>. . . . It's swell. Got a job yet <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>?"</said></p>
+                    <p><said who="#JimmyHerf" aloud="true" direct="true">"I'm on <placeName><district type=“neighborhood”>Hell's Kitchen</district></placeName>. . . . It's swell. Got a job yet <persName ref="#RuthPrynne"><forename>Ruth</forename></persName>?"</said></p>
 
                     <p><said who="#RuthPrynne" aloud="true" direct="true">"Um-um. . . . A couple of things may materialize during the week. But they <orig>wont</orig>. Oh <persName ref="#JimmyHerf"><forename>Jimmy</forename></persName> I'm getting desperate."</said> She shook her hair loose of the crimpers and combed out the new mousybrown waves. She had a pale startled face with a big mouth and blue underlids. <said who="#RuthPrynne" aloud="true" direct="true">"This morning I knew I ought to be up and ready, but I just couldn't. It's so discouraging to get up when you haven't got a job. . . . Sometimes I think I'll go to bed and just stay there till the end of the world."</said></p>
 
@@ -2031,7 +2031,7 @@
 
 <p><said who="#EllenThatcher" aloud="true" direct="true">"You saw the murder?"</said></p>
 
-<p><said aloud="true" direct="true">"I didn't see him do it. I seen de bodies laid out stiff before dey took <orig>em</orig> to de morgue. Us kids used to call de guy Santa Claus cause he had white whiskers. . . . Knowed him since I was a little feller."</said> The cars behind were honking and rasping their klaxons. <said aloud="true" direct="true">"I better git a move on. . . . Good night lady."</said></p>
+<p><said aloud="true" direct="true">"I didn't see him do it. I seen de bodies laid out stiff before <orig>dey</orig> took <orig>em</orig> to de morgue. Us kids used to call de guy Santa Claus cause he had white whiskers. . . . Knowed him since I was a little feller."</said> The cars behind were honking and rasping their klaxons. <said aloud="true" direct="true">"I better git a move on. . . . Good night lady."</said></p>
 
 <p>The red hallway smelt of lobster and steamed clams and cocktails.</p>
 
